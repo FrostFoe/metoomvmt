@@ -1,14 +1,28 @@
 import { type NextRequest, NextResponse } from 'next/server';
 import { z } from 'zod';
 import { API_KEY } from '@/lib/constants';
+import fs from 'fs/promises';
+import path from 'path';
 
-// Mock data store - in a real app, this would be a database.
-let dataStore = [
-  { id: 1, name: 'Laptop', category: 'Electronics' },
-  { id: 2, name: 'T-Shirt', category: 'Apparel' },
-  { id: 3, name: 'Coffee Mug', category: 'Kitchen' },
-  { id: 4, name: 'Gaming Mouse', category: 'Electronics' },
-];
+// Path to the data file
+const dataFilePath = path.join(process.cwd(), 'src', 'lib', 'data', 'products.json');
+
+// Function to read data from the JSON file
+async function readData() {
+  try {
+    const fileContent = await fs.readFile(dataFilePath, 'utf-8');
+    return JSON.parse(fileContent);
+  } catch (error) {
+    // If the file doesn't exist or is empty, return an empty array
+    return [];
+  }
+}
+
+// Function to write data to the JSON file
+async function writeData(data: any) {
+  await fs.writeFile(dataFilePath, JSON.stringify(data, null, 2), 'utf-8');
+}
+
 
 // Zod schema for POST request validation
 const postDataSchema = z.object({
@@ -42,14 +56,14 @@ export async function GET(request: NextRequest) {
   const category = searchParams.get('category');
   const search = searchParams.get('search');
 
-  let filteredData = [...dataStore];
+  let filteredData = await readData();
 
   if (category) {
-    filteredData = filteredData.filter(item => item.category.toLowerCase() === category.toLowerCase());
+    filteredData = filteredData.filter((item:any) => item.category.toLowerCase() === category.toLowerCase());
   }
 
   if (search) {
-    filteredData = filteredData.filter(item => item.name.toLowerCase().includes(search.toLowerCase()));
+    filteredData = filteredData.filter((item:any) => item.name.toLowerCase().includes(search.toLowerCase()));
   }
 
   return NextResponse.json({ data: filteredData }, { status: 200 });
@@ -78,12 +92,14 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: 'Bad Request: Missing or invalid fields', details: validation.error.flatten().fieldErrors }, { status: 400 });
   }
   
+  const dataStore = await readData();
   const newData = {
-    id: dataStore.reduce((maxId, item) => Math.max(item.id, maxId), 0) + 1,
+    id: dataStore.reduce((maxId: number, item: {id:number}) => Math.max(item.id, maxId), 0) + 1,
     ...validation.data,
   };
   
   dataStore.push(newData);
+  await writeData(dataStore);
 
   return NextResponse.json({ message: 'Data added successfully', data: newData }, { status: 201 });
 }
