@@ -52,7 +52,7 @@ export function QuoteApiClient() {
       }
     } catch (error) {
       console.error("Failed to fetch random quote:", error);
-      toast({ variant: "destructive", title: "Error", description: "Failed to fetch a new quote."});
+      toast({ variant: "destructive", title: "ত্রুটি", description: "একটি নতুন উক্তি আনতে ব্যর্থ হয়েছে।"});
     } finally {
         setTimeout(() => setQuoteLoading(false), 500);
     }
@@ -66,7 +66,7 @@ export function QuoteApiClient() {
       const data = await res.json();
       setResponse(data);
     } catch (error) {
-      setResponse({ error: "Failed to fetch from the endpoint." });
+      setResponse({ error: "এন্ডপয়েন্ট থেকে আনতে ব্যর্থ হয়েছে।" });
     } finally {
       setLoading(false);
     }
@@ -91,7 +91,7 @@ export function QuoteApiClient() {
   const copyResponse = () => {
     if (response) {
       navigator.clipboard.writeText(JSON.stringify(response, null, 2));
-      toast({ title: "Copied!", description: "Response copied to clipboard." });
+      toast({ title: "অনুলিপি!", description: "প্রতিক্রিয়া ক্লিপবোর্ডে অনুলিপি করা হয়েছে।" });
     }
   };
 
@@ -103,30 +103,30 @@ export function QuoteApiClient() {
      <section className="gradient-bg text-primary-foreground py-20">
       <div className="container mx-auto px-6">
         <div className="text-center mb-12 animate-fade-in-down">
-            <h2 className="text-5xl font-bold mb-4">Free Quran Quotes API</h2>
+            <h2 className="text-5xl font-bold mb-4">বিনামূল্যে কুরআন উক্তি API</h2>
             <p className="text-xl mb-8 opacity-90 max-w-3xl mx-auto">
-            A simple, frontend-only Quran quotes API for your projects. No keys, no limits, just quotes.
+            আপনার প্রকল্পের জন্য একটি সহজ, ফ্রন্টএন্ড-অনলি কুরআন উক্তি API. কোনো চাবি নেই, কোনো সীমা নেই, শুধু উক্তি।
             </p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 md:grid-cols-1">
-                <StatCard icon={<FileJson className="w-8 h-8 text-primary mb-2"/>} title="Quotes" value="30+" animationDelay="100ms" />
-                <StatCard icon={<Server className="w-8 h-8 text-primary mb-2"/>} title="Category" value="1" animationDelay="200ms" />
-                <StatCard icon={<CheckCircle className="w-8 h-8 text-primary mb-2"/>} title="Free" value="100%" animationDelay="300ms" />
+                <StatCard icon={<FileJson className="w-8 h-8 text-primary mb-2"/>} title="উক্তি" value="৩০+" animationDelay="100ms" />
+                <StatCard icon={<Server className="w-8 h-8 text-primary mb-2"/>} title="বিভাগ" value="১" animationDelay="200ms" />
+                <StatCard icon={<CheckCircle className="w-8 h-8 text-primary mb-2"/>} title="বিনামূল্যে" value="১০০%" animationDelay="300ms" />
             </div>
 
             <Card className="animate-fade-in-up animation-delay-400">
                 <CardHeader className="items-center">
                     <QuoteIcon className="text-4xl text-primary" />
-                    <CardTitle>Inspirational Quote</CardTitle>
+                    <CardTitle>অনুপ্রেরণামূলক উক্তি</CardTitle>
                 </CardHeader>
                 <CardContent className="text-center min-h-[200px] flex flex-col justify-center">
                     <p className="text-xl font-medium mb-4 italic text-foreground">
-                        {quoteLoading ? "..." : (memoizedRandomQuote ? memoizedRandomQuote.text : "Loading quote...")}
+                        {quoteLoading ? "..." : (memoizedRandomQuote ? memoizedRandomQuote.text : "উক্তি লোড হচ্ছে...")}
                     </p>
                     <p className="text-base text-muted-foreground">
-                        — {quoteLoading ? "..." : (memoizedRandomQuote ? memoizedRandomQuote.author : "Author")}
+                        — {quoteLoading ? "..." : (memoizedRandomQuote ? memoizedRandomQuote.author : "লেখক")}
                     </p>
                 </CardContent>
                 <div className="p-6 pt-0 text-center">
@@ -136,7 +136,7 @@ export function QuoteApiClient() {
                         disabled={quoteLoading}
                     >
                         <RefreshCw className={`w-4 h-4 mr-2 ${quoteLoading ? 'animate-spin' : ''}`} />
-                        {quoteLoading ? "Loading..." : "Get Another Quote"}
+                        {quoteLoading ? "লোড হচ্ছে..." : "আরেকটি উক্তি পান"}
                     </Button>
                 </div>
             </Card>
@@ -149,9 +149,9 @@ export function QuoteApiClient() {
           <div className="text-center mb-12">
             <FlaskConical className="w-10 h-10 mr-3 inline-block gradient-text" />
             <h2 className="text-4xl font-bold text-center text-gray-800 dark:text-white">
-                Try It Out
+                চেষ্টা করে দেখুন
             </h2>
-            <p className="text-muted-foreground mt-2">Test the API endpoints directly from your browser.</p>
+            <p className="text-muted-foreground mt-2">সরাসরি আপনার ব্রাউজার থেকে API এন্ডপয়েন্ট পরীক্ষা করুন।</p>
           </div>
 
           <Card className="max-w-4xl mx-auto shadow-2xl">
@@ -160,7 +160,7 @@ export function QuoteApiClient() {
                 <label
                     htmlFor="endpoint-input"
                     className="block text-sm font-medium mb-2"
-                >Enter Endpoint</label>
+                >এন্ডপয়েন্ট লিখুন</label>
                 <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-3">
                     <Input
                     type="text"
@@ -175,30 +175,30 @@ export function QuoteApiClient() {
                     disabled={loading}
                     className="w-full sm:w-auto"
                     >
-                    Test Endpoint
+                    এন্ডপয়েন্ট পরীক্ষা করুন
                     </Button>
                 </div>
                 <p className="mt-2 text-sm text-muted-foreground flex items-center">
                     <Info className="w-4 h-4 mr-1"/>
-                    Enter the endpoint path without the base URL
+                    বেস URL ছাড়া এন্ডপয়েন্ট পাথ লিখুন
                 </p>
                 </div>
 
                 <div>
                 <div className="flex justify-between items-center mb-3">
-                    <label className="block text-sm font-medium">Response</label>
+                    <label className="block text-sm font-medium">প্রतिक্রিয়া</label>
                     <Button
                         onClick={copyResponse}
                         variant="ghost"
                         size="sm"
                     >
                     <Copy className="w-4 h-4 mr-2" />
-                    Copy
+                    অনুলিপি
                     </Button>
                 </div>
 
                 <div className="min-h-[200px] w-full">
-                    <CodeBlock className="max-h-[500px] overflow-y-auto" code={loading ? {status: "Loading..."} : (response || {message: "// Response will appear here..."})} />
+                    <CodeBlock className="max-h-[500px] overflow-y-auto" code={loading ? {status: "লোড হচ্ছে..."} : (response || {message: "// প্রতিক্রিয়া এখানে প্রদর্শিত হবে..."})} />
                 </div>
                 </div>
             </CardContent>
@@ -206,7 +206,7 @@ export function QuoteApiClient() {
 
           <div className="max-w-4xl mx-auto mt-8">
             <h3 className="text-xl font-bold mb-4 text-gray-800 dark:text-white">
-                Quick Examples
+                দ্রুত উদাহরণ
             </h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                 <Card
@@ -217,7 +217,7 @@ export function QuoteApiClient() {
                         api/quotes/random
                     </div>
                     <div className="text-sm text-muted-foreground">
-                        Get a random quote
+                        একটি এলোমেলো উক্তি পান
                     </div>
                 </Card>
                  <Card
@@ -228,7 +228,7 @@ export function QuoteApiClient() {
                         api/quotes?limit=3
                     </div>
                     <div className="text-sm text-muted-foreground">
-                        Get 3 quotes
+                        ৩টি উক্তি পান
                     </div>
                 </Card>
                  <Card
@@ -239,7 +239,7 @@ export function QuoteApiClient() {
                         api/quotes
                     </div>
                     <div className="text-sm text-muted-foreground">
-                        Get all quotes
+                        সব উক্তি পান
                     </div>
                 </Card>
             </div>

@@ -16,12 +16,12 @@ const responseFormat = `{
 }`;
 
 const endpoints = [
-    { method: 'GET', path: '/api/quotes', description: 'Returns all quotes.' },
-    { method: 'GET', path: '/api/quotes/random', description: 'Returns a random quote.' },
-    { method: 'GET', path: '/api/quotes?limit=5', description: 'Returns a limited number of quotes.' },
-    { method: 'GET', path: '/api/quotes?search=happiness', description: 'Search quotes by keyword.' },
-    { method: 'GET', path: '/api/quotes?author=সূরা%20আন-নিসা', description: 'Filter by author.' },
-    { method: 'GET', path: '/api/categories', description: 'Returns available categories.' },
+    { method: 'GET', path: '/api/quotes', description: 'সমস্ত উক্তি প্রদান করে।' },
+    { method: 'GET', path: '/api/quotes/random', description: 'একটি এলোমেলো উক্তি প্রদান করে।' },
+    { method: 'GET', path: '/api/quotes?limit=5', description: 'সীমিত সংখ্যক উক্তি প্রদান করে।' },
+    { method: 'GET', path: '/api/quotes?search=happiness', description: 'কীওয়ার্ড দ্বারা উক্তি অনুসন্ধান করুন।' },
+    { method: 'GET', path: '/api/quotes?author=সূরা%20আন-নিসা', description: 'লেখক দ্বারা ফিল্টার করুন।' },
+    { method: 'GET', path: '/api/categories', description: 'उपलब्ध বিভাগগুলি প্রদান করে।' },
 ]
 
 export function Documentation() {
@@ -31,15 +31,15 @@ export function Documentation() {
           <div className="text-center mb-12">
             <BookOpenCheck className="w-12 h-12 mx-auto mb-4 gradient-text" />
             <h2 className="text-4xl font-bold text-gray-800 dark:text-white">
-                API Documentation
+                API ডকুমেন্টেশন
             </h2>
-            <p className="text-muted-foreground mt-2">Explore the available endpoints and learn how to use the API.</p>
+            <p className="text-muted-foreground mt-2">উপলব্ধ এন্ডপয়ентগুলি अन्वेषण করুন এবং API কীভাবে ব্যবহার করতে হয় তা শিখুন।</p>
           </div>
 
           <div className="max-w-5xl mx-auto grid gap-12">
             <div className="p-6 rounded-xl shadow-lg border bg-card text-card-foreground animate-fade-in-up">
               <h3 className="text-2xl font-bold mb-4">
-                Base URL
+                বেস URL
               </h3>
               <div className="bg-muted rounded-lg p-4 font-mono text-sm">
                 <code className="text-primary-foreground bg-primary rounded px-2 py-1">
@@ -51,15 +51,15 @@ export function Documentation() {
             <div className="rounded-xl shadow-lg border bg-card text-card-foreground animate-fade-in-up animation-delay-200">
                 <div className="p-6">
                     <h3 className="text-2xl font-bold mb-4">
-                        Available Endpoints
+                        উপলব্ধ এন্ডপয়েন্ট
                     </h3>
                 </div>
               <Table>
                 <TableHeader>
                   <TableRow>
-                    <TableHead className="w-[120px]">Method</TableHead>
-                    <TableHead>Path</TableHead>
-                    <TableHead>Description</TableHead>
+                    <TableHead className="w-[120px]">পদ্ধতি</TableHead>
+                    <TableHead>পথ</TableHead>
+                    <TableHead>বর্ণনা</TableHead>
                   </TableRow>
                 </TableHeader>
                 <TableBody>
@@ -80,10 +80,10 @@ export function Documentation() {
             
             <div className="p-6 rounded-xl shadow-lg border bg-card text-card-foreground animate-fade-in-up animation-delay-400">
               <h3 className="text-2xl font-bold mb-4">
-                Response Format
+                 প্রতিক্রিয়া ফর্ম্যাট
               </h3>
               <p className="text-muted-foreground mb-4">
-                All API responses follow a consistent JSON structure.
+                সমস্ত API প্রতিক্রিয়া একটি সামঞ্জস্যপূর্ণ JSON কাঠামো অনুসরণ করে।
               </p>
               <CodeBlock code={responseFormat} />
             </div>
