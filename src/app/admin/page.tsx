@@ -50,14 +50,14 @@ export default function AdminPage() {
     try {
       const res = await fetch(`/api/admin/data?file=${file}`);
       if (!res.ok) {
-        throw new Error('Failed to fetch data');
+        throw new Error('ডেটা আনতে ব্যর্থ হয়েছে');
       }
       const jsonData = await res.json();
       setData(jsonData);
     } catch (error) {
       toast({
         variant: 'destructive',
-        title: 'Error fetching data',
+        title: 'ডেটা আনতে ত্রুটি',
         description: (error as Error).message,
       });
     } finally {
@@ -69,8 +69,8 @@ export default function AdminPage() {
     if (process.env.NODE_ENV !== 'development') {
         toast({
             variant: 'destructive',
-            title: 'Error',
-            description: 'This feature is only available in development mode.',
+            title: 'ত্রুটি',
+            description: 'এই বৈশিষ্ট্যটি শুধুমাত্র ডেভেলপমেন্ট মোডে উপলব্ধ।',
         });
         return;
     }
@@ -83,16 +83,16 @@ export default function AdminPage() {
       });
       if (!res.ok) {
         const errorData = await res.json();
-        throw new Error(errorData.error || 'Failed to save data');
+        throw new Error(errorData.error || 'ডেটা সংরক্ষণ করতে ব্যর্থ হয়েছে');
       }
       toast({
-        title: 'Success',
-        description: `${selectedFile} has been saved successfully.`,
+        title: 'সফল',
+        description: `${selectedFile} সফলভাবে সংরক্ষণ করা হয়েছে।`,
       });
     } catch (error) {
       toast({
         variant: 'destructive',
-        title: 'Error saving data',
+        title: 'ডেটা সংরক্ষণ করতে ত্রুটি',
         description: (error as Error).message,
       });
     } finally {
@@ -126,9 +126,9 @@ export default function AdminPage() {
     return (
       <div className="container mx-auto px-6 py-12 text-center">
         <Alert variant="destructive" className="max-w-lg mx-auto">
-          <AlertTitle>Access Denied</AlertTitle>
+          <AlertTitle>অ্যাক্সেস অস্বীকৃত</AlertTitle>
           <AlertDescription>
-            This admin panel is only available in the development environment.
+            এই অ্যাডমিন প্যানেলটি শুধুমাত্র ডেভেলপমেন্ট পরিবেশে উপলব্ধ।
           </AlertDescription>
         </Alert>
       </div>
@@ -140,10 +140,10 @@ export default function AdminPage() {
       <Card className="max-w-6xl mx-auto">
         <CardHeader>
           <CardTitle className="flex justify-between items-center">
-            <span>Content Editor</span>
+            <span>বিষয়বস্তু সম্পাদক</span>
             <Button onClick={handleSave} disabled={saving}>
               <Save className="mr-2 h-4 w-4" />
-              {saving ? 'Saving...' : 'Save Changes'}
+              {saving ? 'সংরক্ষণ করা হচ্ছে...' : 'পরিবর্তন সংরক্ষণ করুন'}
             </Button>
           </CardTitle>
         </CardHeader>
@@ -154,7 +154,7 @@ export default function AdminPage() {
               onValueChange={(value: DataFile) => setSelectedFile(value)}
             >
               <SelectTrigger className="w-[280px]">
-                <SelectValue placeholder="Select a file to edit" />
+                <SelectValue placeholder="সম্পাদনা করার জন্য একটি ফাইল নির্বাচন করুন" />
               </SelectTrigger>
               <SelectContent>
                 <SelectItem value="quran.json">quran.json</SelectItem>
@@ -165,21 +165,21 @@ export default function AdminPage() {
             </Select>
             <Button onClick={addNewQuote} variant="outline">
                 <Plus className="mr-2 h-4 w-4" />
-                Add New Quote
+                নতুন উক্তি যোগ করুন
             </Button>
           </div>
           
           {loading ? (
-             <p>Loading data...</p>
+             <p>ডেটা লোড হচ্ছে...</p>
           ) : (
             <div className="border rounded-lg">
                 <Table>
                     <TableHeader>
                         <TableRow>
-                            <TableHead className="w-[80px]">ID</TableHead>
-                            <TableHead>Text</TableHead>
-                            <TableHead className="w-[200px]">Author</TableHead>
-                            <TableHead className="w-[100px]">Actions</TableHead>
+                            <TableHead className="w-[80px]">আইডি</TableHead>
+                            <TableHead>উক্তি</TableHead>
+                            <TableHead className="w-[200px]">লেখক</TableHead>
+                            <TableHead className="w-[100px]">কার্যকলাপ</TableHead>
                         </TableRow>
                     </TableHeader>
                     <TableBody>
