@@ -136,24 +136,24 @@ export default function AdminPage() {
   }
 
   return (
-    <div className="container mx-auto px-6 py-12">
+    <div className="container mx-auto px-4 sm:px-6 py-12">
       <Card className="max-w-6xl mx-auto">
         <CardHeader>
-          <CardTitle className="flex justify-between items-center">
+          <CardTitle className="flex flex-col sm:flex-row justify-between sm:items-center gap-4">
             <span>বিষয়বস্তু সম্পাদক</span>
-            <Button onClick={handleSave} disabled={saving}>
+            <Button onClick={handleSave} disabled={saving} className="w-full sm:w-auto">
               <Save className="mr-2 h-4 w-4" />
               {saving ? 'সংরক্ষণ করা হচ্ছে...' : 'পরিবর্তন সংরক্ষণ করুন'}
             </Button>
           </CardTitle>
         </CardHeader>
         <CardContent>
-          <div className="mb-6 flex justify-between items-center">
+          <div className="mb-6 flex flex-col sm:flex-row justify-between items-center gap-4">
             <Select
               value={selectedFile}
               onValueChange={(value: DataFile) => setSelectedFile(value)}
             >
-              <SelectTrigger className="w-[280px]">
+              <SelectTrigger className="w-full sm:w-[280px]">
                 <SelectValue placeholder="সম্পাদনা করার জন্য একটি ফাইল নির্বাচন করুন" />
               </SelectTrigger>
               <SelectContent>
@@ -163,7 +163,7 @@ export default function AdminPage() {
                 <SelectItem value="motivation.json">motivation.json</SelectItem>
               </SelectContent>
             </Select>
-            <Button onClick={addNewQuote} variant="outline">
+            <Button onClick={addNewQuote} variant="outline" className="w-full sm:w-auto">
                 <Plus className="mr-2 h-4 w-4" />
                 নতুন উক্তি যোগ করুন
             </Button>
@@ -172,20 +172,20 @@ export default function AdminPage() {
           {loading ? (
              <p>ডেটা লোড হচ্ছে...</p>
           ) : (
-            <div className="border rounded-lg">
+            <div className="border rounded-lg overflow-x-auto">
                 <Table>
                     <TableHeader>
                         <TableRow>
                             <TableHead className="w-[80px]">আইডি</TableHead>
                             <TableHead>উক্তি</TableHead>
                             <TableHead className="w-[200px]">লেখক</TableHead>
-                            <TableHead className="w-[100px]">কার্যকলাপ</TableHead>
+                            <TableHead className="w-[100px] text-right">কার্যকলাপ</TableHead>
                         </TableRow>
                     </TableHeader>
                     <TableBody>
                         {data.map((quote, index) => (
                             <TableRow key={quote.id}>
-                                <TableCell>{quote.id}</TableCell>
+                                <TableCell className="font-medium">{quote.id}</TableCell>
                                 <TableCell>
                                     <Textarea
                                         value={quote.text}
@@ -199,7 +199,7 @@ export default function AdminPage() {
                                         onChange={(e) => handleFieldChange(index, 'author', e.target.value)}
                                     />
                                 </TableCell>
-                                <TableCell>
+                                <TableCell className="text-right">
                                     <Button variant="destructive" size="icon" onClick={() => deleteQuote(index)}>
                                         <Trash2 className="h-4 w-4" />
                                     </Button>

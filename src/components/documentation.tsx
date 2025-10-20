@@ -28,11 +28,11 @@ const endpoints = [
 
 export function Documentation() {
     return (
-        <section id="documentation" className="py-20 bg-white dark:bg-gray-950">
+        <section id="documentation" className="py-16 md:py-20 bg-white dark:bg-gray-950">
         <div className="container mx-auto px-6">
           <div className="text-center mb-12">
             <BookOpenCheck className="w-12 h-12 mx-auto mb-4 gradient-text" />
-            <h2 className="text-4xl font-bold text-gray-800 dark:text-white">
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-800 dark:text-white">
                 API ডকুমেন্টেশন
             </h2>
             <p className="text-muted-foreground mt-2">উপলব্ধ এন্ডপয়েন্টগুলি अन्वेषण করুন এবং API কীভাবে ব্যবহার করতে হয় তা শিখুন।</p>
@@ -43,7 +43,7 @@ export function Documentation() {
               <h3 className="text-2xl font-bold mb-4">
                 বেস URL
               </h3>
-              <div className="bg-muted rounded-lg p-4 font-mono text-sm">
+              <div className="bg-muted rounded-lg p-4 font-mono text-sm overflow-x-auto">
                 <code className="text-primary-foreground bg-primary rounded px-2 py-1">
                   /api
                 </code>
@@ -56,28 +56,30 @@ export function Documentation() {
                         উপলব্ধ এন্ডপয়েন্ট
                     </h3>
                 </div>
-              <Table>
-                <TableHeader>
-                  <TableRow>
-                    <TableHead className="w-[120px]">পদ্ধতি</TableHead>
-                    <TableHead>পথ</TableHead>
-                    <TableHead>বর্ণনা</TableHead>
-                  </TableRow>
-                </TableHeader>
-                <TableBody>
-                  {endpoints.map((endpoint, index) => (
-                    <TableRow key={index}>
-                      <TableCell>
-                        <Badge variant="default" className="text-sm">{endpoint.method}</Badge>
-                      </TableCell>
-                      <TableCell>
-                          <code className="font-mono text-base bg-muted px-2 py-1 rounded-md">{endpoint.path}</code>
-                      </TableCell>
-                      <TableCell className="text-muted-foreground">{endpoint.description}</TableCell>
+              <div className="overflow-x-auto">
+                <Table>
+                  <TableHeader>
+                    <TableRow>
+                      <TableHead className="w-[100px]">পদ্ধতি</TableHead>
+                      <TableHead>পথ</TableHead>
+                      <TableHead>বর্ণনা</TableHead>
                     </TableRow>
-                  ))}
-                </TableBody>
-              </Table>
+                  </TableHeader>
+                  <TableBody>
+                    {endpoints.map((endpoint, index) => (
+                      <TableRow key={index}>
+                        <TableCell>
+                          <Badge variant="default" className="text-sm">{endpoint.method}</Badge>
+                        </TableCell>
+                        <TableCell>
+                            <code className="font-mono text-sm md:text-base bg-muted px-2 py-1 rounded-md break-words">{endpoint.path}</code>
+                        </TableCell>
+                        <TableCell className="text-muted-foreground">{endpoint.description}</TableCell>
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </div>
             </div>
             
             <div className="p-6 rounded-xl shadow-lg border bg-card text-card-foreground animate-fade-in-up animation-delay-400">

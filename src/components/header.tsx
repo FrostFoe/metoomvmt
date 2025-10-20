@@ -54,45 +54,45 @@ export function Header() {
 
 
   return (
-    <header className="fixed top-4 left-1/2 -translate-x-1/2 z-50 w-full max-w-fit px-4">
+    <header className="fixed top-4 left-1/2 -translate-x-1/2 z-50 w-full max-w-fit px-2 sm:px-4">
       <div className="flex items-center justify-center p-2 bg-card/80 backdrop-blur-sm rounded-full border shadow-lg">
-        <div className="flex items-center space-x-2">
+        <div className="flex items-center space-x-1 sm:space-x-2">
           <a href="/" className="flex items-center space-x-2 mr-2">
             <Logo />
           </a>
 
           <nav className="flex items-center">
-            <Button variant="secondary" className="rounded-full" asChild>
+            <Button variant="secondary" className="rounded-full px-3 md:px-4" asChild>
               <a href="/">
-                <Home className="mr-2 h-4 w-4" />
-                হোম
+                <Home className="h-4 w-4 md:mr-2" />
+                <span className="hidden md:inline">হোম</span>
               </a>
             </Button>
-            <Button variant="ghost" className="rounded-full" asChild>
+            <Button variant="ghost" className="rounded-full px-3 md:px-4" asChild>
               <a href="#documentation">
-                <BookOpenCheck className="mr-2 h-4 w-4" />
-                ডকুমেন্টেশন
+                <BookOpenCheck className="h-4 w-4 md:mr-2" />
+                <span className="hidden md:inline">ডকুমেন্টেশন</span>
               </a>
             </Button>
-            <Button variant="ghost" className="rounded-full" asChild>
+            <Button variant="ghost" className="rounded-full px-3 md:px-4" asChild>
               <a href="#try-it">
-                <FlaskConical className="mr-2 h-4 w-4" />
-                চেষ্টা করুন
+                <FlaskConical className="h-4 w-4 md:mr-2" />
+                <span className="hidden md:inline">চেষ্টা করুন</span>
               </a>
             </Button>
             {isDev && (
-               <Button variant="ghost" className="rounded-full" asChild>
+               <Button variant="ghost" className="rounded-full px-3 md:px-4" asChild>
                 <a href="/admin">
-                  <Shield className="mr-2 h-4 w-4" />
-                  অ্যাডমিন
+                  <Shield className="h-4 w-4 md:mr-2" />
+                  <span className="hidden md:inline">অ্যাডমিন</span>
                 </a>
               </Button>
             )}
           </nav>
 
-          <div className="flex items-center pl-2 ml-2 border-l">
+          <div className="flex items-center pl-1 sm:pl-2 ml-1 sm:ml-2 border-l">
             <ThemeToggle />
-            <Button variant="ghost" size="icon" className="rounded-full" asChild>
+            <Button variant="ghost" size="icon" className="rounded-full h-9 w-9" asChild>
               <a href="#">
                 <LogOut className="h-4 w-4" />
               </a>

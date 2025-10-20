@@ -110,11 +110,11 @@ export function QuoteApiClient() {
 
   return (
     <>
-     <section className="py-20 text-center">
+     <section className="py-16 md:py-20 text-center">
       <div className="container mx-auto px-6">
         <div className="mb-12 animate-fade-in-down">
-            <h2 className="text-5xl font-bold mb-4 text-gray-800 dark:text-white">বিনামূল্যে কুরআন উক্তি API</h2>
-            <p className="text-xl mb-8 text-muted-foreground max-w-3xl mx-auto">
+            <h2 className="text-4xl md:text-5xl font-bold mb-4 text-gray-800 dark:text-white">বিনামূল্যে কুরআন উক্তি API</h2>
+            <p className="text-lg md:text-xl mb-8 text-muted-foreground max-w-3xl mx-auto">
             আপনার প্রকল্পের জন্য একটি সহজ, ফ্রন্টএন্ড-অনলি কুরআন উক্তি API. কোনো চাবি নেই, কোনো সীমা নেই, শুধু উক্তি।
             </p>
         </div>
@@ -163,18 +163,18 @@ export function QuoteApiClient() {
       </div>
     </section>
 
-      <section id="try-it" className="py-20 bg-gray-50 dark:bg-gray-900">
+      <section id="try-it" className="py-16 md:py-20 bg-gray-50 dark:bg-gray-900">
         <div className="container mx-auto px-6">
           <div className="text-center mb-12">
             <FlaskConical className="w-10 h-10 mr-3 inline-block gradient-text" />
-            <h2 className="text-4xl font-bold text-center text-gray-800 dark:text-white">
+            <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-800 dark:text-white">
                 চেষ্টা করে দেখুন
             </h2>
             <p className="text-muted-foreground mt-2">সরাসরি আপনার ব্রাউজার থেকে API এন্ডপয়েন্ট পরীক্ষা করুন।</p>
           </div>
 
           <Card className="max-w-4xl mx-auto shadow-2xl">
-            <CardContent className="p-8">
+            <CardContent className="p-6 md:p-8">
                 <div className="mb-6">
                 <label
                     htmlFor="endpoint-input"
@@ -194,7 +194,7 @@ export function QuoteApiClient() {
                     disabled={loading}
                     className="w-full sm:w-auto"
                     >
-                    এন্ডপয়েন্ট পরীক্ষা করুন
+                    {loading ? 'লোড হচ্ছে...' : 'এন্ডপয়েন্ট পরীক্ষা করুন'}
                     </Button>
                 </div>
                 <p className="mt-2 text-sm text-muted-foreground flex items-center">
@@ -232,7 +232,7 @@ export function QuoteApiClient() {
                 onClick={() => quickTest('api/quran?random=true')}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
                 >
-                    <div className="font-mono text-sm text-primary mb-1">
+                    <div className="font-mono text-sm text-primary mb-1 break-words">
                         api/quran?random=true
                     </div>
                     <div className="text-sm text-muted-foreground">
@@ -243,7 +243,7 @@ export function QuoteApiClient() {
                 onClick={() => quickTest('api/hadith?random=true')}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
                 >
-                    <div className="font-mono text-sm text-primary mb-1">
+                    <div className="font-mono text-sm text-primary mb-1 break-words">
                         api/hadith?random=true
                     </div>
                     <div className="text-sm text-muted-foreground">
@@ -254,7 +254,7 @@ export function QuoteApiClient() {
                 onClick={() => quickTest('api/quote?limit=1')}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
                 >
-                    <div className="font-mono text-sm text-primary mb-1">
+                    <div className="font-mono text-sm text-primary mb-1 break-words">
                         api/quote?limit=1
                     </div>
                     <div className="text-sm text-muted-foreground">
@@ -265,7 +265,7 @@ export function QuoteApiClient() {
                 onClick={() => quickTest('api/motivation')}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
                 >
-                    <div className="font-mono text-sm text-primary mb-1">
+                    <div className="font-mono text-sm text-primary mb-1 break-words">
                         api/motivation
                     </div>
                     <div className="text-sm text-muted-foreground">
