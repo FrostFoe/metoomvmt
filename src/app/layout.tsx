@@ -5,6 +5,7 @@ import { Toaster } from "@/components/ui/toaster";
 import { ThemeProvider } from '@/components/theme-provider';
 import { Header } from '@/components/header';
 import { Footer } from '@/components/footer';
+import { Analytics } from '@vercel/analytics/react';
 
 const hindSiliguri = Hind_Siliguri({
   subsets: ['bengali', 'latin'],
@@ -38,6 +39,7 @@ export default function RootLayout({
             <Footer />
             <Toaster />
         </ThemeProvider>
+        <Analytics />
       </body>
     </html>
   );
