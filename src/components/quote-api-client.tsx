@@ -100,11 +100,11 @@ export function QuoteApiClient() {
 
   return (
     <>
-     <section className="gradient-bg text-primary-foreground py-20">
+     <section className="py-20 text-center">
       <div className="container mx-auto px-6">
-        <div className="text-center mb-12 animate-fade-in-down">
-            <h2 className="text-5xl font-bold mb-4">বিনামূল্যে কুরআন উক্তি API</h2>
-            <p className="text-xl mb-8 opacity-90 max-w-3xl mx-auto">
+        <div className="mb-12 animate-fade-in-down">
+            <h2 className="text-5xl font-bold mb-4 text-gray-800 dark:text-white">বিনামূল্যে কুরআন উক্তি API</h2>
+            <p className="text-xl mb-8 text-muted-foreground max-w-3xl mx-auto">
             আপনার প্রকল্পের জন্য একটি সহজ, ফ্রন্টএন্ড-অনলি কুরআন উক্তি API. কোনো চাবি নেই, কোনো সীমা নেই, শুধু উক্তি।
             </p>
         </div>
@@ -186,7 +186,7 @@ export function QuoteApiClient() {
 
                 <div>
                 <div className="flex justify-between items-center mb-3">
-                    <label className="block text-sm font-medium">প্রतिक্রিয়া</label>
+                    <label className="block text-sm font-medium">প্রতিক্রিয়া</label>
                     <Button
                         onClick={copyResponse}
                         variant="ghost"
