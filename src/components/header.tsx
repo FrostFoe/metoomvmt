@@ -1,53 +1,45 @@
-import {
-  Home,
-  Calendar,
-  Library,
-  Info,
-  GraduationCap,
-  LogOut,
-  ChevronDown,
-} from "lucide-react";
+import { Home, BookOpenCheck, FlaskConical, LogOut } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "./ui/button";
 
 const Logo = () => (
-    <svg
-      width="24"
-      height="24"
-      viewBox="0 0 24 24"
-      fill="none"
-      xmlns="http://www.w3.org/2000/svg"
-    >
-      <path
-        d="M14 10L20 4"
-        stroke="#F42525"
-        strokeWidth="2"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-      <path
-        d="M10 14L4 20"
-        stroke="#34A853"
-        strokeWidth="2"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-      <path
-        d="M20 4V10H14"
-        stroke="#F42525"
-        strokeWidth="2"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-      <path
-        d="M4 20V14H10"
-        stroke="#34A853"
-        strokeWidth="2"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-    </svg>
-  );
+  <svg
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      d="M14 10L20 4"
+      stroke="hsl(var(--primary))"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+    <path
+      d="M10 14L4 20"
+      stroke="hsl(var(--secondary))"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+    <path
+      d="M20 4V10H14"
+      stroke="hsl(var(--primary))"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+    <path
+      d="M4 20V14H10"
+      stroke="hsl(var(--secondary))"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+    />
+  </svg>
+);
 
 export function Header() {
   return (
@@ -66,32 +58,19 @@ export function Header() {
               </a>
             </Button>
             <Button variant="ghost" className="rounded-full" asChild>
-              <a href="#">
-                <Calendar className="mr-2 h-4 w-4" />
-                ক্যালেন্ডার
+              <a href="#documentation">
+                <BookOpenCheck className="mr-2 h-4 w-4" />
+                ডকুমেন্টেশন
               </a>
             </Button>
             <Button variant="ghost" className="rounded-full" asChild>
-              <a href="#">
-                <Library className="mr-2 h-4 w-4" />
-                প্রশ্নব্যাংক
-              </a>
-            </Button>
-            <Button variant="ghost" className="rounded-full" asChild>
-              <a href="#" className="flex items-center">
-                <Info className="mr-2 h-4 w-4" />
-                তথ্য
-                <ChevronDown className="ml-1 h-4 w-4" />
-              </a>
-            </Button>
-             <Button variant="ghost" className="rounded-full" asChild>
-              <a href="#">
-                <GraduationCap className="mr-2 h-4 w-4" />
-                কোর্স
+              <a href="#try-it">
+                <FlaskConical className="mr-2 h-4 w-4" />
+                চেষ্টা করুন
               </a>
             </Button>
           </nav>
-          
+
           <div className="flex items-center pl-2 ml-2 border-l">
             <ThemeToggle />
             <Button variant="ghost" size="icon" className="rounded-full" asChild>
