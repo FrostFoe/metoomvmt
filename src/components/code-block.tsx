@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { cn } from "@/lib/utils";
 import { Check, Clipboard } from "lucide-react";
@@ -12,7 +12,8 @@ interface CodeBlockProps {
 
 export function CodeBlock({ code, className }: CodeBlockProps) {
   const [hasCopied, setHasCopied] = useState(false);
-  const codeString = typeof code === 'string' ? code : JSON.stringify(code, null, 2);
+  const codeString =
+    typeof code === "string" ? code : JSON.stringify(code, null, 2);
 
   const copyToClipboard = () => {
     if (typeof navigator !== "undefined" && navigator.clipboard) {

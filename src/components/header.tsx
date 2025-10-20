@@ -1,6 +1,12 @@
 "use client";
 
-import { Home, BookOpenCheck, FlaskConical, LogOut, Shield } from "lucide-react";
+import {
+  Home,
+  BookOpenCheck,
+  FlaskConical,
+  LogOut,
+  Shield,
+} from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "./ui/button";
 import { useEffect, useState } from "react";
@@ -49,9 +55,8 @@ export function Header() {
 
   useEffect(() => {
     // This will run only on the client, after hydration
-    setIsDev(process.env.NODE_ENV === 'development');
+    setIsDev(process.env.NODE_ENV === "development");
   }, []);
-
 
   return (
     <header className="fixed top-4 left-1/2 -translate-x-1/2 z-50 w-full max-w-fit px-2 sm:px-4">
@@ -62,26 +67,42 @@ export function Header() {
           </a>
 
           <nav className="flex items-center">
-            <Button variant="secondary" className="rounded-full px-3 md:px-4" asChild>
+            <Button
+              variant="secondary"
+              className="rounded-full px-3 md:px-4"
+              asChild
+            >
               <a href="/">
                 <Home className="h-4 w-4 md:mr-2" />
                 <span className="hidden md:inline">হোম</span>
               </a>
             </Button>
-            <Button variant="ghost" className="rounded-full px-3 md:px-4" asChild>
+            <Button
+              variant="ghost"
+              className="rounded-full px-3 md:px-4"
+              asChild
+            >
               <a href="#documentation">
                 <BookOpenCheck className="h-4 w-4 md:mr-2" />
                 <span className="hidden md:inline">ডকুমেন্টেশন</span>
               </a>
             </Button>
-            <Button variant="ghost" className="rounded-full px-3 md:px-4" asChild>
+            <Button
+              variant="ghost"
+              className="rounded-full px-3 md:px-4"
+              asChild
+            >
               <a href="#try-it">
                 <FlaskConical className="h-4 w-4 md:mr-2" />
                 <span className="hidden md:inline">চেষ্টা করুন</span>
               </a>
             </Button>
             {isDev && (
-               <Button variant="ghost" className="rounded-full px-3 md:px-4" asChild>
+              <Button
+                variant="ghost"
+                className="rounded-full px-3 md:px-4"
+                asChild
+              >
                 <a href="/admin">
                   <Shield className="h-4 w-4 md:mr-2" />
                   <span className="hidden md:inline">অ্যাডমিন</span>
@@ -92,7 +113,12 @@ export function Header() {
 
           <div className="flex items-center pl-1 sm:pl-2 ml-1 sm:ml-2 border-l">
             <ThemeToggle />
-            <Button variant="ghost" size="icon" className="rounded-full h-9 w-9" asChild>
+            <Button
+              variant="ghost"
+              size="icon"
+              className="rounded-full h-9 w-9"
+              asChild
+            >
               <a href="#">
                 <LogOut className="h-4 w-4" />
               </a>
