@@ -69,4 +69,10 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
   }
+  .animation-delay-200 {
+    animation-delay: 200ms;
+  }
+  .animation-delay-400 {
+    animation-delay: 400ms;
+  }
 }
