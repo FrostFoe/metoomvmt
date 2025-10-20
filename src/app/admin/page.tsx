@@ -15,6 +15,7 @@ import { useToast } from '@/hooks/use-toast';
 import { Trash2, Plus, Save } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Alert, AlertDescription, AlertTitle } from '@/components/ui/alert';
+import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from '@/components/ui/table';
 
 type Quote = {
   id: number;
@@ -136,7 +137,7 @@ export default function AdminPage() {
 
   return (
     <div className="container mx-auto px-6 py-12">
-      <Card className="max-w-4xl mx-auto">
+      <Card className="max-w-6xl mx-auto">
         <CardHeader>
           <CardTitle className="flex justify-between items-center">
             <span>Content Editor</span>
@@ -147,7 +148,7 @@ export default function AdminPage() {
           </CardTitle>
         </CardHeader>
         <CardContent>
-          <div className="mb-6">
+          <div className="mb-6 flex justify-between items-center">
             <Select
               value={selectedFile}
               onValueChange={(value: DataFile) => setSelectedFile(value)}
@@ -162,48 +163,51 @@ export default function AdminPage() {
                 <SelectItem value="motivation.json">motivation.json</SelectItem>
               </SelectContent>
             </Select>
+            <Button onClick={addNewQuote} variant="outline">
+                <Plus className="mr-2 h-4 w-4" />
+                Add New Quote
+            </Button>
           </div>
           
           {loading ? (
              <p>Loading data...</p>
           ) : (
-            <div className="space-y-4">
-              {data.map((quote, index) => (
-                 <Card key={quote.id} className="p-4">
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <Input
-                            placeholder="ID"
-                            type="number"
-                            value={quote.id}
-                            onChange={(e) => handleFieldChange(index, 'id', e.target.value)}
-                        />
-                         <Input
-                            placeholder="Author"
-                            value={quote.author}
-                            onChange={(e) => handleFieldChange(index, 'author', e.target.value)}
-                        />
-                    </div>
-                    <Textarea
-                        placeholder="Quote text..."
-                        value={quote.text}
-                        onChange={(e) => handleFieldChange(index, 'text', e.target.value)}
-                        className="mt-4 min-h-[100px]"
-                    />
-                     <Input
-                        placeholder="Type"
-                        value={quote.type}
-                        onChange={(e) => handleFieldChange(index, 'type', e.target.value)}
-                        className="mt-4"
-                    />
-                    <Button variant="destructive" size="icon" className="mt-4" onClick={() => deleteQuote(index)}>
-                        <Trash2 className="h-4 w-4" />
-                    </Button>
-                 </Card>
-              ))}
-               <Button onClick={addNewQuote} variant="outline" className="w-full">
-                    <Plus className="mr-2 h-4 w-4" />
-                    Add New Quote
-                </Button>
+            <div className="border rounded-lg">
+                <Table>
+                    <TableHeader>
+                        <TableRow>
+                            <TableHead className="w-[80px]">ID</TableHead>
+                            <TableHead>Text</TableHead>
+                            <TableHead className="w-[200px]">Author</TableHead>
+                            <TableHead className="w-[100px]">Actions</TableHead>
+                        </TableRow>
+                    </TableHeader>
+                    <TableBody>
+                        {data.map((quote, index) => (
+                            <TableRow key={quote.id}>
+                                <TableCell>{quote.id}</TableCell>
+                                <TableCell>
+                                    <Textarea
+                                        value={quote.text}
+                                        onChange={(e) => handleFieldChange(index, 'text', e.target.value)}
+                                        className="min-h-[60px]"
+                                    />
+                                </TableCell>
+                                <TableCell>
+                                    <Input
+                                        value={quote.author}
+                                        onChange={(e) => handleFieldChange(index, 'author', e.target.value)}
+                                    />
+                                </TableCell>
+                                <TableCell>
+                                    <Button variant="destructive" size="icon" onClick={() => deleteQuote(index)}>
+                                        <Trash2 className="h-4 w-4" />
+                                    </Button>
+                                </TableCell>
+                            </TableRow>
+                        ))}
+                    </TableBody>
+                </Table>
             </div>
           )}
         </CardContent>
