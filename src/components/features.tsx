@@ -10,8 +10,8 @@ const featuresData = [
   },
   {
     icon: <ShieldCheck className="h-10 w-10 text-primary" />,
-    title: "কোন प्रमाणीकरण নেই",
-    description: "সম্পূর্ণ বিনামূল্যে এবং উন্মুক্ত। কোন API কী বা रेट সীমা নেই।",
+    title: "কোন প্রমাণীকরণ নেই",
+    description: "সম্পূর্ণ বিনামূল্যে এবং উন্মুক্ত। কোন API কী বা রেট সীমা নেই।",
   },
   {
     icon: <Rocket className="h-10 w-10 text-primary" />,
