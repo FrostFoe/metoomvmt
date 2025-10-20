@@ -50,7 +50,7 @@ export function Documentation() {
               <div className="space-y-4">
                 {endpoints.map((endpoint, index) => (
                     <p key={index}>
-                        <span className="inline-block px-3 py-1 text-sm font-semibold text-white bg-emerald-500 rounded-md">{endpoint.method}</span>
+                        <span className="inline-block px-3 py-1 text-sm font-semibold text-primary-foreground bg-primary rounded-md">{endpoint.method}</span>
                         <code className="ml-3 font-mono text-lg">{endpoint.path}</code>
                         <span className="text-muted-foreground"> - {endpoint.description}</span>
                     </p>
