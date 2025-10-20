@@ -8,7 +8,7 @@ import path from 'path';
 // Function to get the path to the data file
 const getDataFilePath = (filename: string) => {
   // Security: Ensure filename is one of the allowed files to prevent path traversal attacks
-  const allowedFiles = ['quran.json', 'quote.json', 'motivation.json'];
+  const allowedFiles = ['quran.json', 'quote.json', 'motivation.json', 'hadith.json'];
   if (!allowedFiles.includes(filename)) {
     throw new Error('Invalid file name');
   }

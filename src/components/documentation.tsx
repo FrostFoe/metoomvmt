@@ -17,6 +17,7 @@ const responseFormat = `{
 
 const endpoints = [
     { method: 'GET', path: '/api/quran', description: 'সমস্ত কুরআন উক্তি প্রদান করে।' },
+    { method: 'GET', path: '/api/hadith', description: 'সমস্ত হাদিস উক্তি প্রদান করে।' },
     { method: 'GET', path: '/api/quote', description: 'সাধারণ উক্তি প্রদান করে।' },
     { method: 'GET', path: '/api/motivation', description: 'প্রেরণামূলক উক্তি প্রদান করে।' },
     { method: 'GET', path: '/api/quran?random=true', description: 'একটি এলোমেলো কুরআন উক্তি প্রদান করে।' },

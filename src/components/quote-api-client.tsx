@@ -239,6 +239,17 @@ export function QuoteApiClient() {
                         একটি এলোমেলো কুরআন উক্তি পান
                     </div>
                 </Card>
+                <Card
+                onClick={() => quickTest('api/hadith?random=true')}
+                className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
+                >
+                    <div className="font-mono text-sm text-primary mb-1">
+                        api/hadith?random=true
+                    </div>
+                    <div className="text-sm text-muted-foreground">
+                        একটি এলোমেলো হাদিস উক্তি পান
+                    </div>
+                </Card>
                  <Card
                 onClick={() => quickTest('api/quote?limit=1')}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
