@@ -25,7 +25,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="bn" className={`${hindSiliguri.variable} dark scroll-smooth`} suppressHydrationWarning>
+    <html lang="bn" className={`${hindSiliguri.variable} scroll-smooth`} suppressHydrationWarning>
       <body className="font-body antialiased bg-gray-50 dark:bg-gray-900 transition-colors duration-300">
         <ThemeProvider
             attribute="class"

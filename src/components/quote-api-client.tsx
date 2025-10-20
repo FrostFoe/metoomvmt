@@ -4,7 +4,7 @@ import { useEffect, useState, useMemo } from "react";
 import { CodeBlock } from "@/components/code-block";
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
-import { Copy, FlaskConical, Info, Quote as QuoteIcon, RefreshCw, Server, FileJson, CheckCircle } from "lucide-react";
+import { Copy, FlaskConical, Info, Quote as QuoteIcon, RefreshCw, Server, FileJson, CheckCircle, Check } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
 
@@ -41,6 +41,7 @@ export function QuoteApiClient() {
   const [response, setResponse] = useState<ApiResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [quoteLoading, setQuoteLoading] = useState(false);
+  const [hasCopiedQuote, setHasCopiedQuote] = useState(false);
 
   const fetchRandomQuote = async () => {
     setQuoteLoading(true);
@@ -95,6 +96,15 @@ export function QuoteApiClient() {
     }
   };
 
+  const copyRandomQuote = () => {
+    if (randomQuote) {
+      navigator.clipboard.writeText(`"${randomQuote.text}" - ${randomQuote.author}`);
+      setHasCopiedQuote(true);
+      toast({ title: "অনুলিপি!", description: "উক্তিটি ক্লিপবোর্ডে অনুলিপি করা হয়েছে।" });
+      setTimeout(() => setHasCopiedQuote(false), 2000);
+    }
+  };
+
   const memoizedRandomQuote = useMemo(() => randomQuote, [randomQuote]);
 
 
@@ -116,7 +126,7 @@ export function QuoteApiClient() {
                 <StatCard icon={<CheckCircle className="w-8 h-8 text-primary mb-2"/>} title="বিনামূল্যে" value="১০০%" animationDelay="300ms" />
             </div>
 
-            <Card className="animate-fade-in-up animation-delay-400">
+            <Card className="animate-fade-in-up animation-delay-400 group relative">
                 <CardHeader className="items-center">
                     <QuoteIcon className="text-4xl text-primary" />
                     <CardTitle>অনুপ্রেরণামূলক উক্তি</CardTitle>
@@ -129,6 +139,15 @@ export function QuoteApiClient() {
                         — {quoteLoading ? "..." : (memoizedRandomQuote ? memoizedRandomQuote.author : "লেখক")}
                     </p>
                 </CardContent>
+                <Button
+                    size="icon"
+                    variant="ghost"
+                    onClick={copyRandomQuote}
+                    className="absolute top-4 right-4 h-8 w-8 opacity-0 group-hover:opacity-100 transition-opacity"
+                    aria-label="উক্তি কপি করুন"
+                >
+                    {hasCopiedQuote ? <Check className="h-4 w-4 text-green-500" /> : <Copy className="h-4 w-4" />}
+                </Button>
                 <div className="p-6 pt-0 text-center">
                     <Button
                         onClick={fetchRandomQuote}
