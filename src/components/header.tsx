@@ -1,6 +1,9 @@
-import { Home, BookOpenCheck, FlaskConical, LogOut } from "lucide-react";
+"use client";
+
+import { Home, BookOpenCheck, FlaskConical, LogOut, Shield } from "lucide-react";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { Button } from "./ui/button";
+import { useEffect, useState } from "react";
 
 const Logo = () => (
   <svg
@@ -42,6 +45,14 @@ const Logo = () => (
 );
 
 export function Header() {
+  const [isDev, setIsDev] = useState(false);
+
+  useEffect(() => {
+    // This will run only on the client, after hydration
+    setIsDev(process.env.NODE_ENV === 'development');
+  }, []);
+
+
   return (
     <header className="fixed top-4 left-1/2 -translate-x-1/2 z-50 w-full max-w-fit px-4">
       <div className="flex items-center justify-center p-2 bg-card/80 backdrop-blur-sm rounded-full border shadow-lg">
@@ -69,6 +80,14 @@ export function Header() {
                 চেষ্টা করুন
               </a>
             </Button>
+            {isDev && (
+               <Button variant="ghost" className="rounded-full" asChild>
+                <a href="/admin">
+                  <Shield className="mr-2 h-4 w-4" />
+                  অ্যাডমিন
+                </a>
+              </Button>
+            )}
           </nav>
 
           <div className="flex items-center pl-2 ml-2 border-l">
