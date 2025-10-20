@@ -16,12 +16,13 @@ const responseFormat = `{
 }`;
 
 const endpoints = [
-    { method: 'GET', path: '/api/quotes', description: 'সমস্ত উক্তি প্রদান করে।' },
-    { method: 'GET', path: '/api/quotes/random', description: 'একটি এলোমেলো উক্তি প্রদান করে।' },
-    { method: 'GET', path: '/api/quotes?limit=5', description: 'সীমিত সংখ্যক উক্তি প্রদান করে।' },
-    { method: 'GET', path: '/api/quotes?search=happiness', description: 'কীওয়ার্ড দ্বারা উক্তি অনুসন্ধান করুন।' },
-    { method: 'GET', path: '/api/quotes?author=সূরা%20আন-নিসা', description: 'লেখক দ্বারা ফিল্টার করুন।' },
-    { method: 'GET', path: '/api/categories', description: 'उपलब्ध বিভাগগুলি প্রদান করে।' },
+    { method: 'GET', path: '/api/quran', description: 'সমস্ত কুরআন উক্তি প্রদান করে।' },
+    { method: 'GET', path: '/api/quote', description: 'সাধারণ উক্তি প্রদান করে।' },
+    { method: 'GET', path: '/api/motivation', description: 'প্রেরণামূলক উক্তি প্রদান করে।' },
+    { method: 'GET', path: '/api/quran?random=true', description: 'একটি এলোমেলো কুরআন উক্তি প্রদান করে।' },
+    { method: 'GET', path: '/api/quote?limit=1', description: 'সীমিত সংখ্যক উক্তি প্রদান করে।' },
+    { method: 'GET', path: '/api/motivation?search=সাফল্য', description: 'কীওয়ার্ড দ্বারা উক্তি অনুসন্ধান করুন।' },
+    { method: 'GET', path: '/api/quran?author=আল-বাকারা', description: 'লেখক দ্বারা ফিল্টার করুন।' },
 ]
 
 export function Documentation() {
@@ -33,7 +34,7 @@ export function Documentation() {
             <h2 className="text-4xl font-bold text-gray-800 dark:text-white">
                 API ডকুমেন্টেশন
             </h2>
-            <p className="text-muted-foreground mt-2">উপলব্ধ এন্ডপয়ентগুলি अन्वेषण করুন এবং API কীভাবে ব্যবহার করতে হয় তা শিখুন।</p>
+            <p className="text-muted-foreground mt-2">উপলব্ধ এন্ডপয়েন্টগুলি अन्वेषण করুন এবং API কীভাবে ব্যবহার করতে হয় তা শিখুন।</p>
           </div>
 
           <div className="max-w-5xl mx-auto grid gap-12">

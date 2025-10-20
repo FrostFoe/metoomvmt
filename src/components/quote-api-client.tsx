@@ -37,7 +37,7 @@ const StatCard = ({ icon, title, value, animationDelay }: { icon: React.ReactNod
 export function QuoteApiClient() {
   const { toast } = useToast();
   const [randomQuote, setRandomQuote] = useState<Quote | null>(null);
-  const [endpoint, setEndpoint] = useState("api/quotes?limit=5");
+  const [endpoint, setEndpoint] = useState("api/quran?limit=5");
   const [response, setResponse] = useState<ApiResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [quoteLoading, setQuoteLoading] = useState(false);
@@ -45,7 +45,7 @@ export function QuoteApiClient() {
   const fetchRandomQuote = async () => {
     setQuoteLoading(true);
     try {
-      const res = await fetch('/api/quotes/random');
+      const res = await fetch('/api/quran?random=true');
       const data = await res.json();
       if (data.data && data.data.length > 0) {
         setRandomQuote(data.data[0]);
@@ -112,7 +112,7 @@ export function QuoteApiClient() {
         <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 md:grid-cols-1">
                 <StatCard icon={<FileJson className="w-8 h-8 text-primary mb-2"/>} title="উক্তি" value="৩০+" animationDelay="100ms" />
-                <StatCard icon={<Server className="w-8 h-8 text-primary mb-2"/>} title="বিভাগ" value="১" animationDelay="200ms" />
+                <StatCard icon={<Server className="w-8 h-8 text-primary mb-2"/>} title="বিভাগ" value="৩" animationDelay="200ms" />
                 <StatCard icon={<CheckCircle className="w-8 h-8 text-primary mb-2"/>} title="বিনামূল্যে" value="১০০%" animationDelay="300ms" />
             </div>
 
@@ -167,7 +167,7 @@ export function QuoteApiClient() {
                     id="endpoint-input"
                     value={endpoint}
                     onChange={(e) => setEndpoint(e.target.value)}
-                    placeholder="api/quotes?limit=5"
+                    placeholder="api/quran?limit=5"
                     className="flex-1"
                     />
                     <Button
@@ -210,36 +210,36 @@ export function QuoteApiClient() {
             </h3>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                 <Card
-                onClick={() => quickTest('api/quotes/random')}
+                onClick={() => quickTest('api/quran?random=true')}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
                 >
                     <div className="font-mono text-sm text-primary mb-1">
-                        api/quotes/random
+                        api/quran?random=true
                     </div>
                     <div className="text-sm text-muted-foreground">
-                        একটি এলোমেলো উক্তি পান
+                        একটি এলোমেলো কুরআন উক্তি পান
                     </div>
                 </Card>
                  <Card
-                onClick={() => quickTest('api/quotes?limit=3')}
+                onClick={() => quickTest('api/quote?limit=1')}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
                 >
                     <div className="font-mono text-sm text-primary mb-1">
-                        api/quotes?limit=3
+                        api/quote?limit=1
                     </div>
                     <div className="text-sm text-muted-foreground">
-                        ৩টি উক্তি পান
+                        ১টি সাধারণ উক্তি পান
                     </div>
                 </Card>
                  <Card
-                onClick={() => quickTest('api/quotes')}
+                onClick={() => quickTest('api/motivation')}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
                 >
                     <div className="font-mono text-sm text-primary mb-1">
-                        api/quotes
+                        api/motivation
                     </div>
                     <div className="text-sm text-muted-foreground">
-                        সব উক্তি পান
+                        সব প্রেরণামূলক উক্তি পান
                     </div>
                 </Card>
             </div>

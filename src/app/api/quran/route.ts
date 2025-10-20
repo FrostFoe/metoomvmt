@@ -1,20 +1,26 @@
 import { type NextRequest, NextResponse } from 'next/server';
-import quotes from '@/lib/data/quotes.json';
+import data from '@/lib/data/quran.json';
 
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
   const limit = searchParams.get('limit');
   const search = searchParams.get('search');
   const author = searchParams.get('author');
+  const random = searchParams.get('random');
 
-  let filteredQuotes = [...quotes];
+  let filteredData = [...data];
+
+  if (random) {
+    const randomItem = filteredData[Math.floor(Math.random() * filteredData.length)];
+    return NextResponse.json({ data: [randomItem], count: 1 });
+  }
 
   if (author) {
-    filteredQuotes = filteredQuotes.filter(q => q.author.toLowerCase().includes(author.toLowerCase()));
+    filteredData = filteredData.filter(q => q.author.toLowerCase().includes(author.toLowerCase()));
   }
 
   if (search) {
-    filteredQuotes = filteredQuotes.filter(q => 
+    filteredData = filteredData.filter(q => 
       q.text.toLowerCase().includes(search.toLowerCase()) || 
       q.author.toLowerCase().includes(search.toLowerCase())
     );
@@ -23,9 +29,9 @@ export async function GET(request: NextRequest) {
   if (limit) {
     const limitNum = parseInt(limit, 10);
     if (!isNaN(limitNum) && limitNum > 0) {
-      filteredQuotes = filteredQuotes.slice(0, limitNum);
+      filteredData = filteredData.slice(0, limitNum);
     }
   }
 
-  return NextResponse.json({ data: filteredQuotes, count: filteredQuotes.length });
+  return NextResponse.json({ data: filteredData, count: filteredData.length });
 }
