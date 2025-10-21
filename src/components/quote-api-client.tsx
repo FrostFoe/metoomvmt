@@ -144,11 +144,11 @@ export function QuoteApiClient() {
         <div className="container mx-auto px-6">
           <div className="mb-12 animate-fade-in-down">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 text-gray-800 dark:text-white">
-              বিনামূল্যে কুরআন উক্তি API
+              বিনামূল্যে কুরআন ও হাদিস উক্তি API
             </h2>
             <p className="text-lg md:text-xl mb-8 text-muted-foreground max-w-3xl mx-auto">
-              আপনার প্রকল্পের জন্য একটি সহজ, ফ্রন্টএন্ড-অনলি কুরআন উক্তি API.
-              কোনো চাবি নেই, কোনো সীমা নেই, শুধু উক্তি।
+              আপনার প্রকল্পের জন্য একটি সহজ, ফ্রন্টএন্ড-অনলি কুরআন ও হাদিস উক্তি
+              API. কোনো চাবি নেই, কোনো সীমা নেই, শুধু উক্তি।
             </p>
           </div>
 
@@ -157,13 +157,13 @@ export function QuoteApiClient() {
               <StatCard
                 icon={<FileJson className="w-8 h-8 text-primary mb-2" />}
                 title="উক্তি"
-                value="৩০+"
+                value="৩২+"
                 animationDelay="100ms"
               />
               <StatCard
                 icon={<Server className="w-8 h-8 text-primary mb-2" />}
                 title="বিভাগ"
-                value="৩"
+                value="২"
                 animationDelay="200ms"
               />
               <StatCard
@@ -304,7 +304,7 @@ export function QuoteApiClient() {
             <h3 className="text-xl font-bold mb-4 text-gray-800 dark:text-white">
               দ্রুত উদাহরণ
             </h3>
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <Card
                 onClick={() => quickTest("api/quran?random=true")}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
@@ -328,25 +328,25 @@ export function QuoteApiClient() {
                 </div>
               </Card>
               <Card
-                onClick={() => quickTest("api/quote?limit=1")}
+                onClick={() => quickTest("api/quran")}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
               >
                 <div className="font-mono text-sm text-primary mb-1 break-words">
-                  api/quote?limit=1
+                  api/quran
                 </div>
                 <div className="text-sm text-muted-foreground">
-                  ১টি সাধারণ উক্তি পান
+                  সব কুরআনের উক্তি পান
                 </div>
               </Card>
               <Card
-                onClick={() => quickTest("api/motivation")}
+                onClick={() => quickTest("api/hadith")}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
               >
                 <div className="font-mono text-sm text-primary mb-1 break-words">
-                  api/motivation
+                  api/hadith
                 </div>
                 <div className="text-sm text-muted-foreground">
-                  সব প্রেরণামূলক উক্তি পান
+                  সব হাদিসের উক্তি পান
                 </div>
               </Card>
             </div>

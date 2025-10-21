@@ -31,7 +31,7 @@ type Quote = {
   type: string;
 };
 
-type DataFile = "quran.json" | "quote.json" | "motivation.json" | "hadith.json";
+type DataFile = "quran.json" | "hadith.json";
 
 export default function AdminPage() {
   const [isDev, setIsDev] = useState(false);
@@ -172,8 +172,6 @@ export default function AdminPage() {
               <SelectContent>
                 <SelectItem value="quran.json">quran.json</SelectItem>
                 <SelectItem value="hadith.json">hadith.json</SelectItem>
-                <SelectItem value="quote.json">quote.json</SelectItem>
-                <SelectItem value="motivation.json">motivation.json</SelectItem>
               </SelectContent>
             </Select>
             <Button

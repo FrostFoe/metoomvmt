@@ -14,12 +14,12 @@ const hindSiliguri = Hind_Siliguri({
 });
 
 export const metadata: Metadata = {
-  title: "উক্তি API - বিনামূল্যে কুরআন উক্তি API পরিষেবা",
+  title: "কুরআন ও হাদিস API - বিনামূল্যে উক্তি পরিষেবা",
   description:
-    "বিনামূল্যে কুরআন উক্তি API - কুরআনের प्रेरणाদায়ক উক্তিগুলির জন্য একাধিক এন্ডপয়েন্ট সহ একটি ফ্রন্টএন্ড-অনলি API।",
+    "বিনামূল্যে কুরআন ও হাদিসের উক্তিগুলির জন্য একটি ফ্রন্টএন্ড-অনলি API।",
   keywords:
-    "কুরআন এপিআই, ফ্রি এপিআই, উক্তি, অনুপ্রেরণামূলক উক্তি, ইসলামিক উক্তি",
-  authors: [{ name: "Quran Quote API" }],
+    "কুরআন এপিআই, হাদিস এপিআই, ফ্রি এপিআই, উক্তি, ইসলামিক উক্তি",
+  authors: [{ name: "Quran Hadith API" }],
 };
 
 export default function RootLayout({

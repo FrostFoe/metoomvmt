@@ -35,32 +35,22 @@ const endpoints = [
   },
   {
     method: "GET",
-    path: "/api/quote",
-    description: "সাধারণ উক্তি প্রদান করে।",
-  },
-  {
-    method: "GET",
-    path: "/api/motivation",
-    description: "প্রেরণামূলক উক্তি প্রদান করে।",
-  },
-  {
-    method: "GET",
     path: "/api/quran?random=true",
     description: "একটি এলোমেলো কুরআন উক্তি প্রদান করে।",
   },
   {
     method: "GET",
-    path: "/api/quote?limit=1",
-    description: "সীমিত সংখ্যক উক্তি প্রদান করে।",
+    path: "/api/hadith?limit=1",
+    description: "সীমিত সংখ্যক হাদিস প্রদান করে।",
   },
   {
     method: "GET",
-    path: "/api/motivation?search=সাফল্য",
+    path: "/api/quran?search=আল্লাহ",
     description: "কীওয়ার্ড দ্বারা উক্তি অনুসন্ধান করুন।",
   },
   {
     method: "GET",
-    path: "/api/quran?author=আল-বাকারা",
+    path: "/api/hadith?author=বুখারী",
     description: "লেখক দ্বারা ফিল্টার করুন।",
   },
 ];
