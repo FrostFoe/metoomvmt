@@ -55,7 +55,7 @@ const endpoints = [
   {
     method: "GET",
     path: "/api/quran?random=true",
-    description: "একটি এলোমেলো সূরা প্রদান করে।",
+    description: "একটি এলোমেলো আয়াত প্রদান করে।",
   },
   {
     method: "GET",

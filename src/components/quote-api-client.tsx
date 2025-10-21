@@ -336,7 +336,7 @@ export function QuoteApiClient() {
                   api/quran?random=true
                 </div>
                 <div className="text-sm text-muted-foreground">
-                  একটি এলোমেলো সূরা পান
+                  একটি এলোমেলো আয়াত পান
                 </div>
               </Card>
               <Card

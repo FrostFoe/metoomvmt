@@ -7,7 +7,7 @@ const getQuranDataPath = () => {
   return path.join(process.cwd(), "src", "lib", "data", "quran");
 };
 
-// GET all surahs list, a specific surah, or a random surah
+// GET all surahs list, a specific surah, or a random verse
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
   const surahId = searchParams.get("id");
@@ -21,14 +21,38 @@ export async function GET(request: NextRequest) {
 
     if (random) {
       if (surahFiles.length === 0) {
-        return NextResponse.json({ error: "No surahs found" }, { status: 404 });
+        return NextResponse.json(
+          { error: "No surahs found" },
+          { status: 404 },
+        );
       }
-      const randomFile =
-        surahFiles[Math.floor(Math.random() * surahFiles.length)];
-      const filePath = path.join(quranDir, randomFile);
-      const fileContent = await fs.readFile(filePath, "utf8");
-      const data = JSON.parse(fileContent);
-      return NextResponse.json(data);
+      // Combine all verses from all surahs
+      let allVerses = [];
+      for (const file of surahFiles) {
+        const filePath = path.join(quranDir, file);
+        const fileContent = await fs.readFile(filePath, "utf8");
+        const surahData = JSON.parse(fileContent);
+        const versesWithSurahInfo = surahData.verses.map((verse: any) => ({
+          ...verse,
+          surah_id: surahData.id,
+          surah_name: surahData.name,
+          surah_transliteration: surahData.transliteration,
+          surah_translation: surahData.translation,
+        }));
+        allVerses.push(...versesWithSurahInfo);
+      }
+
+      if (allVerses.length === 0) {
+        return NextResponse.json(
+          { error: "No verses found" },
+          { status: 404 },
+        );
+      }
+
+      // Select a random verse
+      const randomVerse =
+        allVerses[Math.floor(Math.random() * allVerses.length)];
+      return NextResponse.json(randomVerse);
     }
 
     if (surahId) {
