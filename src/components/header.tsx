@@ -45,16 +45,17 @@ const Logo = () => (
 
 export function Header() {
   return (
-    <header className="fixed top-4 left-1/2 -translate-x-1/2 z-50 w-full max-w-fit px-2 sm:px-4">
-      <div className="flex items-center justify-center p-2 bg-card/80 backdrop-blur-sm rounded-full border shadow-lg">
-        <div className="flex items-center space-x-1 sm:space-x-2">
-          <a href="/" className="flex items-center space-x-2 mr-2">
-            <Logo />
-          </a>
+    <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-sm border-b">
+      <div className="container mx-auto flex items-center justify-between p-2">
+        <a href="/" className="flex items-center space-x-2">
+          <Logo />
+          <span className="font-bold hidden sm:inline">উক্তি API</span>
+        </a>
 
+        <div className="flex items-center space-x-1 sm:space-x-2">
           <nav className="flex items-center">
             <Button
-              variant="secondary"
+              variant="ghost"
               className="rounded-full px-3 md:px-4"
               asChild
             >

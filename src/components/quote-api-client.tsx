@@ -144,17 +144,17 @@ export function QuoteApiClient() {
       <section className="py-16 md:py-20 text-center">
         <div className="container mx-auto px-6">
           <div className="mb-12 animate-fade-in-down">
-            <h2 className="text-4xl md:text-5xl font-bold mb-4 text-gray-800 dark:text-white">
+            <h1 className="text-3xl md:text-5xl font-bold mb-4 text-gray-800 dark:text-white">
               বিনামূল্যে কুরআন ও হাদিস API
-            </h2>
-            <p className="text-lg md:text-xl mb-8 text-muted-foreground max-w-3xl mx-auto">
+            </h1>
+            <p className="text-md md:text-xl mb-8 text-muted-foreground max-w-3xl mx-auto">
               আপনার প্রকল্পের জন্য একটি সহজ, ফ্রন্টএন্ড-অনলি কুরআন ও হাদিস API.
               কোনো চাবি নেই, কোনো সীমা নেই, শুধু উক্তি।
             </p>
           </div>
 
           <div className="grid md:grid-cols-2 gap-8 items-center">
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 md:grid-cols-1">
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 md:grid-cols-2">
               <StatCard
                 icon={<FileJson className="w-8 h-8 text-primary mb-2" />}
                 title="হাদিস"
@@ -180,8 +180,8 @@ export function QuoteApiClient() {
                 <QuoteIcon className="text-4xl text-primary" />
                 <CardTitle>এলোমেলো হাদিস</CardTitle>
               </CardHeader>
-              <CardContent className="text-center min-h-[200px] flex flex-col justify-center">
-                <p className="text-xl font-medium mb-4 italic text-foreground">
+              <CardContent className="text-center min-h-[150px] flex flex-col justify-center">
+                <p className="text-lg font-medium mb-4 italic text-foreground">
                   {quoteLoading
                     ? "..."
                     : memoizedRandomQuote
@@ -287,7 +287,7 @@ export function QuoteApiClient() {
 
                 <div className="min-h-[200px] w-full">
                   <CodeBlock
-                    className="max-h-[500px] overflow-y-auto"
+                    className="max-h-[400px] overflow-y-auto"
                     code={
                       loading
                         ? { status: "লোড হচ্ছে..." }
