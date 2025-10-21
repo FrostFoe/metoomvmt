@@ -17,8 +17,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        body: ["var(--font-hind-siliguri)", "sans-serif"],
-        headline: ["var(--font-hind-siliguri)", "sans-serif"],
+        sans: ["var(--font-hind-siliguri)", "sans-serif"],
       },
       colors: {
         background: "hsl(var(--background))",

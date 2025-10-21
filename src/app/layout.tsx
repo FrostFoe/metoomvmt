@@ -32,7 +32,7 @@ export default function RootLayout({
       className={`${hindSiliguri.variable} scroll-smooth`}
       suppressHydrationWarning
     >
-      <body className="font-body antialiased bg-gray-50 dark:bg-gray-900 transition-colors duration-300">
+      <body className="antialiased bg-gray-50 dark:bg-gray-900 transition-colors duration-300">
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
