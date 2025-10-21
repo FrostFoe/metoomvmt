@@ -49,7 +49,7 @@ const endpoints = [
   },
   {
     method: "GET",
-    path: "/api/quran/1",
+    path: "/api/quran?id=1",
     description: "নির্দিষ্ট সূরা প্রদান করে।",
   },
   {
@@ -126,7 +126,7 @@ export function Documentation() {
             </p>
             <CodeBlock code={responseFormatAll} className="mb-4" />
             <p className="text-muted-foreground mb-2">
-              `/api/quran/[id]` পথের জন্য প্রতিক্রিয়া:
+              `/api/quran?id=[id]` পথের জন্য প্রতিক্রিয়া:
             </p>
             <CodeBlock code={responseFormatOne} />
           </div>

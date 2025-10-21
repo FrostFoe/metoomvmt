@@ -9,24 +9,22 @@ const getQuranDataPath = () => {
 
 // GET all surahs list or a specific surah
 export async function GET(request: NextRequest) {
-  const { pathname } = new URL(request.url);
-  const pathParts = pathname.split("/");
-  const surahId = pathParts[pathParts.length - 1];
+  const { searchParams } = new URL(request.url);
+  const surahId = searchParams.get("id");
 
   const quranDir = getQuranDataPath();
 
-  if (surahId && surahId !== "quran") {
+  if (surahId) {
     try {
-      const filePath = path.join(quranDir, `${surahId}.json`);
+      // Ensure the surahId is a number and format it to 3 digits (e.g., 1 -> 001)
+      const formattedSurahId = String(surahId).padStart(3, "0");
+      const filePath = path.join(quranDir, `${formattedSurahId}.json`);
       const fileContent = await fs.readFile(filePath, "utf8");
       const data = JSON.parse(fileContent);
       return NextResponse.json(data);
     } catch (error) {
       if ((error as NodeJS.ErrnoException).code === "ENOENT") {
-        return NextResponse.json(
-          { error: "Surah not found" },
-          { status: 404 },
-        );
+        return NextResponse.json({ error: "Surah not found" }, { status: 404 });
       }
       return NextResponse.json(
         { error: `Failed to read surah: ${(error as Error).message}` },

@@ -57,7 +57,7 @@ const StatCard = ({
 export function QuoteApiClient() {
   const { toast } = useToast();
   const [randomQuote, setRandomQuote] = useState<Quote | null>(null);
-  const [endpoint, setEndpoint] = useState("api/quran/1");
+  const [endpoint, setEndpoint] = useState("api/quran?id=1");
   const [response, setResponse] = useState<ApiResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [quoteLoading, setQuoteLoading] = useState(false);
@@ -148,7 +148,8 @@ export function QuoteApiClient() {
               বিনামূল্যে কুরআন ও হাদিস API
             </h2>
             <p className="text-lg md:text-xl mb-8 text-muted-foreground max-w-3xl mx-auto">
-              আপনার প্রকল্পের জন্য একটি সহজ, ফ্রন্টএন্ড-অনলি কুরআন ও হাদিস API. কোনো চাবি নেই, কোনো সীমা নেই, শুধু উক্তি।
+              আপনার প্রকল্পের জন্য একটি সহজ, ফ্রন্টএন্ড-অনলি কুরআন ও হাদিস API.
+              কোনো চাবি নেই, কোনো সীমা নেই, শুধু উক্তি।
             </p>
           </div>
 
@@ -256,7 +257,7 @@ export function QuoteApiClient() {
                     id="endpoint-input"
                     value={endpoint}
                     onChange={(e) => setEndpoint(e.target.value)}
-                    placeholder="api/quran/1"
+                    placeholder="api/quran?id=1"
                     className="flex-1"
                   />
                   <Button
@@ -269,7 +270,7 @@ export function QuoteApiClient() {
                 </div>
                 <p className="mt-2 text-sm text-muted-foreground flex items-center">
                   <Info className="w-4 h-4 mr-1" />
-                  বেস URL ছাড়া এন্ডপয়েন্ট পাথ লিখুন (e.g., api/quran/1)
+                  বেস URL ছাড়া এন্ডপয়েন্ট পাথ লিখুন (e.g., api/quran?id=1)
                 </p>
               </div>
 
@@ -317,11 +318,11 @@ export function QuoteApiClient() {
                 </div>
               </Card>
               <Card
-                onClick={() => quickTest("api/quran/1")}
+                onClick={() => quickTest("api/quran?id=1")}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
               >
                 <div className="font-mono text-sm text-primary mb-1 break-words">
-                  api/quran/1
+                  api/quran?id=1
                 </div>
                 <div className="text-sm text-muted-foreground">
                   সূরা আল-ফাতিহা পান
