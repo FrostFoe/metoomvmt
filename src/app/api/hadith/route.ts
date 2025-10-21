@@ -1,6 +1,13 @@
 import { type NextRequest, NextResponse } from "next/server";
-import data from "@/lib/data/hadith.json";
+import fs from "fs/promises";
+import path from "path";
 
+// Function to get the path to the hadith data directory
+const getHadithDataPath = () => {
+  return path.join(process.cwd(), "src", "lib", "data", "hadith");
+};
+
+// GET all hadiths, or a random hadith
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
   const limit = searchParams.get("limit");
@@ -8,34 +15,65 @@ export async function GET(request: NextRequest) {
   const author = searchParams.get("author");
   const random = searchParams.get("random");
 
-  let filteredData = [...data];
+  const hadithDir = getHadithDataPath();
 
-  if (random) {
-    const randomItem =
-      filteredData[Math.floor(Math.random() * filteredData.length)];
-    return NextResponse.json({ data: [randomItem], count: 1 });
-  }
+  try {
+    const files = await fs.readdir(hadithDir);
+    const hadithFiles = files.filter((file) => file.endsWith(".json"));
 
-  if (author) {
-    filteredData = filteredData.filter((q) =>
-      q.author.toLowerCase().includes(author.toLowerCase()),
-    );
-  }
-
-  if (search) {
-    filteredData = filteredData.filter(
-      (q) =>
-        q.text.toLowerCase().includes(search.toLowerCase()) ||
-        q.author.toLowerCase().includes(search.toLowerCase()),
-    );
-  }
-
-  if (limit) {
-    const limitNum = parseInt(limit, 10);
-    if (!isNaN(limitNum) && limitNum > 0) {
-      filteredData = filteredData.slice(0, limitNum);
+    let allHadiths: any[] = [];
+    for (const file of hadithFiles) {
+      const filePath = path.join(hadithDir, file);
+      const fileContent = await fs.readFile(filePath, "utf8");
+      // If file is empty, JSON.parse will throw an error.
+      if (fileContent) {
+        const hadithData = JSON.parse(fileContent);
+        allHadiths = allHadiths.concat(hadithData);
+      }
     }
-  }
 
-  return NextResponse.json({ data: filteredData, count: filteredData.length });
+    if (random) {
+      if (allHadiths.length === 0) {
+        return NextResponse.json({ error: "No hadiths found" }, { status: 404 });
+      }
+      const randomItem =
+        allHadiths[Math.floor(Math.random() * allHadiths.length)];
+      return NextResponse.json({ data: [randomItem], count: 1 });
+    }
+
+    if (author) {
+      allHadiths = allHadiths.filter((q) =>
+        q.author.toLowerCase().includes(author.toLowerCase())
+      );
+    }
+
+    if (search) {
+      allHadiths = allHadiths.filter(
+        (q) =>
+          q.text.toLowerCase().includes(search.toLowerCase()) ||
+          q.author.toLowerCase().includes(search.toLowerCase())
+      );
+    }
+
+    if (limit) {
+      const limitNum = parseInt(limit, 10);
+      if (!isNaN(limitNum) && limitNum > 0) {
+        allHadiths = allHadiths.slice(0, limitNum);
+      }
+    }
+
+    return NextResponse.json({ data: allHadiths, count: allHadiths.length });
+  } catch (error) {
+     if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
+        // This can happen if the directory doesn't exist or if hadith.json was deleted and the new dir structure is not yet in place.
+        // Return an empty array as if there are no hadiths.
+        return NextResponse.json({ data: [], count: 0 });
+    }
+    return NextResponse.json(
+      {
+        error: `Failed to process request: ${(error as Error).message}`,
+      },
+      { status: 500 }
+    );
+  }
 }
