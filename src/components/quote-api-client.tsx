@@ -17,12 +17,15 @@ import {
 } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
 type Quote = {
   id: number;
   text: string;
-  author: string;
-  type: string;
+  author?: string;
+  surah_name?: string;
+  surah_id?: number;
+  type?: string;
 };
 
 type ApiResponse = {
@@ -56,30 +59,50 @@ const StatCard = ({
 
 export function QuoteApiClient() {
   const { toast } = useToast();
-  const [randomQuote, setRandomQuote] = useState<Quote | null>(null);
+  const [randomHadith, setRandomHadith] = useState<Quote | null>(null);
+  const [randomVerse, setRandomVerse] = useState<Quote | null>(null);
   const [endpoint, setEndpoint] = useState("api/quran?id=1");
   const [response, setResponse] = useState<ApiResponse | null>(null);
   const [loading, setLoading] = useState(false);
-  const [quoteLoading, setQuoteLoading] = useState(false);
-  const [hasCopiedQuote, setHasCopiedQuote] = useState(false);
+  const [hadithLoading, setHadithLoading] = useState(false);
+  const [verseLoading, setVerseLoading] = useState(false);
+  const [hasCopied, setHasCopied] = useState<string | null>(null);
 
-  const fetchRandomQuote = async () => {
-    setQuoteLoading(true);
+  const fetchRandomHadith = async () => {
+    setHadithLoading(true);
     try {
       const res = await fetch("/api/hadith?random=true");
       const data = await res.json();
       if (data.data && data.data.length > 0) {
-        setRandomQuote(data.data[0]);
+        setRandomHadith(data.data[0]);
       }
     } catch (error) {
-      console.error("Failed to fetch random quote:", error);
+      console.error("Failed to fetch random hadith:", error);
       toast({
         variant: "destructive",
         title: "ত্রুটি",
-        description: "একটি নতুন উক্তি আনতে ব্যর্থ হয়েছে।",
+        description: "একটি নতুন হাদিস আনতে ব্যর্থ হয়েছে।",
       });
     } finally {
-      setTimeout(() => setQuoteLoading(false), 500);
+      setTimeout(() => setHadithLoading(false), 500);
+    }
+  };
+
+  const fetchRandomVerse = async () => {
+    setVerseLoading(true);
+    try {
+      const res = await fetch("/api/quran?random=true");
+      const data = await res.json();
+      setRandomVerse(data);
+    } catch (error) {
+      console.error("Failed to fetch random verse:", error);
+      toast({
+        variant: "destructive",
+        title: "ত্রুটি",
+        description: "একটি নতুন আয়াত আনতে ব্যর্থ হয়েছে।",
+      });
+    } finally {
+      setTimeout(() => setVerseLoading(false), 500);
     }
   };
 
@@ -110,7 +133,8 @@ export function QuoteApiClient() {
   };
 
   useEffect(() => {
-    fetchRandomQuote();
+    fetchRandomHadith();
+    fetchRandomVerse();
   }, []);
 
   const copyResponse = () => {
@@ -123,21 +147,18 @@ export function QuoteApiClient() {
     }
   };
 
-  const copyRandomQuote = () => {
-    if (randomQuote) {
-      navigator.clipboard.writeText(
-        `"${randomQuote.text}" - ${randomQuote.author}`,
-      );
-      setHasCopiedQuote(true);
-      toast({
-        title: "অনুলিপি!",
-        description: "উক্তিটি ক্লিপবোর্ডে অনুলিপি করা হয়েছে।",
-      });
-      setTimeout(() => setHasCopiedQuote(false), 2000);
-    }
+  const copyToClipboard = (text: string, id: string) => {
+    navigator.clipboard.writeText(text);
+    setHasCopied(id);
+    toast({
+      title: "অনুলিপি!",
+      description: "উদ্ধৃতি ক্লিপবোর্ডে অনুলিপি করা হয়েছে।",
+    });
+    setTimeout(() => setHasCopied(null), 2000);
   };
 
-  const memoizedRandomQuote = useMemo(() => randomQuote, [randomQuote]);
+  const memoizedRandomHadith = useMemo(() => randomHadith, [randomHadith]);
+  const memoizedRandomVerse = useMemo(() => randomVerse, [randomVerse]);
 
   return (
     <>
@@ -175,54 +196,125 @@ export function QuoteApiClient() {
               />
             </div>
 
-            <Card className="animate-fade-in-up animation-delay-400 group relative">
-              <CardHeader className="items-center">
-                <QuoteIcon className="text-4xl text-primary" />
-                <CardTitle>এলোমেলো হাদিস</CardTitle>
-              </CardHeader>
-              <CardContent className="text-center min-h-[150px] flex flex-col justify-center">
-                <p className="text-lg font-medium mb-4 italic text-foreground">
-                  {quoteLoading
-                    ? "..."
-                    : memoizedRandomQuote
-                      ? memoizedRandomQuote.text
-                      : "উক্তি লোড হচ্ছে..."}
-                </p>
-                <p className="text-base text-muted-foreground">
-                  —{" "}
-                  {quoteLoading
-                    ? "..."
-                    : memoizedRandomQuote
-                      ? memoizedRandomQuote.author
-                      : "লেখক"}
-                </p>
-              </CardContent>
-              <Button
-                size="icon"
-                variant="ghost"
-                onClick={copyRandomQuote}
-                className="absolute top-4 right-4 h-8 w-8 opacity-0 group-hover:opacity-100 transition-opacity"
-                aria-label="উক্তি কপি করুন"
-              >
-                {hasCopiedQuote ? (
-                  <Check className="h-4 w-4 text-green-500" />
-                ) : (
-                  <Copy className="h-4 w-4" />
-                )}
-              </Button>
-              <div className="p-6 pt-0 text-center">
-                <Button
-                  onClick={fetchRandomQuote}
-                  size="lg"
-                  disabled={quoteLoading}
-                >
-                  <RefreshCw
-                    className={`w-4 h-4 mr-2 ${quoteLoading ? "animate-spin" : ""}`}
-                  />
-                  {quoteLoading ? "লোড হচ্ছে..." : "আরেকটি হাদিস পান"}
-                </Button>
-              </div>
-            </Card>
+            <Tabs defaultValue="hadith" className="w-full animate-fade-in-up animation-delay-400">
+              <TabsList className="grid w-full grid-cols-2">
+                <TabsTrigger value="hadith">এলোমেলো হাদিস</TabsTrigger>
+                <TabsTrigger value="verse">এলোমেলো আয়াত</TabsTrigger>
+              </TabsList>
+              <TabsContent value="hadith">
+                <Card className="group relative">
+                  <CardHeader className="items-center">
+                    <QuoteIcon className="text-4xl text-primary" />
+                    <CardTitle>এলোমেলো হাদিস</CardTitle>
+                  </CardHeader>
+                  <CardContent className="text-center min-h-[150px] flex flex-col justify-center">
+                    <p className="text-lg font-medium mb-4 italic text-foreground">
+                      {hadithLoading
+                        ? "..."
+                        : memoizedRandomHadith
+                        ? memoizedRandomHadith.text
+                        : "উক্তি লোড হচ্ছে..."}
+                    </p>
+                    <p className="text-base text-muted-foreground">
+                      —{" "}
+                      {hadithLoading
+                        ? "..."
+                        : memoizedRandomHadith
+                        ? memoizedRandomHadith.author
+                        : "লেখক"}
+                    </p>
+                  </CardContent>
+                  <Button
+                    size="icon"
+                    variant="ghost"
+                    onClick={() =>
+                      memoizedRandomHadith &&
+                      copyToClipboard(
+                        `"${memoizedRandomHadith.text}" - ${memoizedRandomHadith.author}`,
+                        "hadith"
+                      )
+                    }
+                    className="absolute top-4 right-4 h-8 w-8 opacity-0 group-hover:opacity-100 transition-opacity"
+                    aria-label="উক্তি কপি করুন"
+                  >
+                    {hasCopied === "hadith" ? (
+                      <Check className="h-4 w-4 text-green-500" />
+                    ) : (
+                      <Copy className="h-4 w-4" />
+                    )}
+                  </Button>
+                  <div className="p-6 pt-0 text-center">
+                    <Button
+                      onClick={fetchRandomHadith}
+                      size="lg"
+                      disabled={hadithLoading}
+                    >
+                      <RefreshCw
+                        className={`w-4 h-4 mr-2 ${
+                          hadithLoading ? "animate-spin" : ""
+                        }`}
+                      />
+                      {hadithLoading ? "লোড হচ্ছে..." : "আরেকটি হাদিস পান"}
+                    </Button>
+                  </div>
+                </Card>
+              </TabsContent>
+              <TabsContent value="verse">
+                <Card className="group relative">
+                  <CardHeader className="items-center">
+                    <QuoteIcon className="text-4xl text-primary" />
+                    <CardTitle>এলোমেলো আয়াত</CardTitle>
+                  </CardHeader>
+                  <CardContent className="text-center min-h-[150px] flex flex-col justify-center">
+                    <p className="text-lg font-medium mb-4 italic text-foreground">
+                      {verseLoading
+                        ? "..."
+                        : memoizedRandomVerse
+                        ? memoizedRandomVerse.text
+                        : "আয়াত লোড হচ্ছে..."}
+                    </p>
+                    <p className="text-base text-muted-foreground">
+                      — সূরা {memoizedRandomVerse?.surah_name} (
+                      {memoizedRandomVerse?.surah_id}:
+                      {memoizedRandomVerse?.id})
+                    </p>
+                  </CardContent>
+                   <Button
+                    size="icon"
+                    variant="ghost"
+                    onClick={() =>
+                      memoizedRandomVerse &&
+                      copyToClipboard(
+                        `"${memoizedRandomVerse.text}" - সূরা ${memoizedRandomVerse.surah_name} (${memoizedRandomVerse.surah_id}:${memoizedRandomVerse.id})`,
+                        "verse"
+                      )
+                    }
+                    className="absolute top-4 right-4 h-8 w-8 opacity-0 group-hover:opacity-100 transition-opacity"
+                    aria-label="আয়াত কপি করুন"
+                  >
+                    {hasCopied === "verse" ? (
+                      <Check className="h-4 w-4 text-green-500" />
+                    ) : (
+                      <Copy className="h-4 w-4" />
+                    )}
+                  </Button>
+                  <div className="p-6 pt-0 text-center">
+                    <Button
+                      onClick={fetchRandomVerse}
+                      size="lg"
+                      disabled={verseLoading}
+                    >
+                      <RefreshCw
+                        className={`w-4 h-4 mr-2 ${
+                          verseLoading ? "animate-spin" : ""
+                        }`}
+                      />
+                      {verseLoading ? "লোড হচ্ছে..." : "আরেকটি আয়াত পান"}
+                    </Button>
+                  </div>
+                </Card>
+              </TabsContent>
+            </Tabs>
           </div>
         </div>
       </section>

@@ -43,11 +43,11 @@ const Logo = () => (
 
 export function Header() {
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-sm rounded-b-lg">
-      <div className="container mx-auto flex items-center justify-between p-2 max-w-5xl">
+    <header className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-sm border-b">
+      <div className="container mx-auto flex items-center justify-between p-4">
         <a href="/" className="flex items-center space-x-2">
           <Logo />
-          <span className="font-bold hidden sm:inline">উক্তি API</span>
+          <span className="font-bold sm:inline">উক্তি API</span>
         </a>
 
         <div className="flex items-center space-x-1 sm:space-x-2">
