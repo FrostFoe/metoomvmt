@@ -29,6 +29,7 @@ type ApiResponse = {
   data?: Quote[] | string[];
   count?: number;
   error?: string;
+  [key: string]: any;
 };
 
 const StatCard = ({
@@ -56,7 +57,7 @@ const StatCard = ({
 export function QuoteApiClient() {
   const { toast } = useToast();
   const [randomQuote, setRandomQuote] = useState<Quote | null>(null);
-  const [endpoint, setEndpoint] = useState("api/quran?limit=5");
+  const [endpoint, setEndpoint] = useState("api/quran/1");
   const [response, setResponse] = useState<ApiResponse | null>(null);
   const [loading, setLoading] = useState(false);
   const [quoteLoading, setQuoteLoading] = useState(false);
@@ -65,7 +66,7 @@ export function QuoteApiClient() {
   const fetchRandomQuote = async () => {
     setQuoteLoading(true);
     try {
-      const res = await fetch("/api/quran?random=true");
+      const res = await fetch("/api/hadith?random=true");
       const data = await res.json();
       if (data.data && data.data.length > 0) {
         setRandomQuote(data.data[0]);
@@ -144,11 +145,10 @@ export function QuoteApiClient() {
         <div className="container mx-auto px-6">
           <div className="mb-12 animate-fade-in-down">
             <h2 className="text-4xl md:text-5xl font-bold mb-4 text-gray-800 dark:text-white">
-              বিনামূল্যে কুরআন ও হাদিস উক্তি API
+              বিনামূল্যে কুরআন ও হাদিস API
             </h2>
             <p className="text-lg md:text-xl mb-8 text-muted-foreground max-w-3xl mx-auto">
-              আপনার প্রকল্পের জন্য একটি সহজ, ফ্রন্টএন্ড-অনলি কুরআন ও হাদিস উক্তি
-              API. কোনো চাবি নেই, কোনো সীমা নেই, শুধু উক্তি।
+              আপনার প্রকল্পের জন্য একটি সহজ, ফ্রন্টএন্ড-অনলি কুরআন ও হাদিস API. কোনো চাবি নেই, কোনো সীমা নেই, শুধু উক্তি।
             </p>
           </div>
 
@@ -156,14 +156,14 @@ export function QuoteApiClient() {
             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 md:grid-cols-1">
               <StatCard
                 icon={<FileJson className="w-8 h-8 text-primary mb-2" />}
-                title="উক্তি"
-                value="৩২+"
+                title="হাদিস"
+                value="২+"
                 animationDelay="100ms"
               />
               <StatCard
                 icon={<Server className="w-8 h-8 text-primary mb-2" />}
-                title="বিভাগ"
-                value="২"
+                title="সূরা"
+                value="১+"
                 animationDelay="200ms"
               />
               <StatCard
@@ -177,7 +177,7 @@ export function QuoteApiClient() {
             <Card className="animate-fade-in-up animation-delay-400 group relative">
               <CardHeader className="items-center">
                 <QuoteIcon className="text-4xl text-primary" />
-                <CardTitle>অনুপ্রেরণামূলক উক্তি</CardTitle>
+                <CardTitle>এলোমেলো হাদিস</CardTitle>
               </CardHeader>
               <CardContent className="text-center min-h-[200px] flex flex-col justify-center">
                 <p className="text-xl font-medium mb-4 italic text-foreground">
@@ -218,7 +218,7 @@ export function QuoteApiClient() {
                   <RefreshCw
                     className={`w-4 h-4 mr-2 ${quoteLoading ? "animate-spin" : ""}`}
                   />
-                  {quoteLoading ? "লোড হচ্ছে..." : "আরেকটি উক্তি পান"}
+                  {quoteLoading ? "লোড হচ্ছে..." : "আরেকটি হাদিস পান"}
                 </Button>
               </div>
             </Card>
@@ -256,7 +256,7 @@ export function QuoteApiClient() {
                     id="endpoint-input"
                     value={endpoint}
                     onChange={(e) => setEndpoint(e.target.value)}
-                    placeholder="api/quran?limit=5"
+                    placeholder="api/quran/1"
                     className="flex-1"
                   />
                   <Button
@@ -269,7 +269,7 @@ export function QuoteApiClient() {
                 </div>
                 <p className="mt-2 text-sm text-muted-foreground flex items-center">
                   <Info className="w-4 h-4 mr-1" />
-                  বেস URL ছাড়া এন্ডপয়েন্ট পাথ লিখুন
+                  বেস URL ছাড়া এন্ডপয়েন্ট পাথ লিখুন (e.g., api/quran/1)
                 </p>
               </div>
 
@@ -306,14 +306,25 @@ export function QuoteApiClient() {
             </h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <Card
-                onClick={() => quickTest("api/quran?random=true")}
+                onClick={() => quickTest("api/quran")}
                 className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
               >
                 <div className="font-mono text-sm text-primary mb-1 break-words">
-                  api/quran?random=true
+                  api/quran
                 </div>
                 <div className="text-sm text-muted-foreground">
-                  একটি এলোমেলো কুরআন উক্তি পান
+                  সব সূরা তালিকা পান
+                </div>
+              </Card>
+              <Card
+                onClick={() => quickTest("api/quran/1")}
+                className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
+              >
+                <div className="font-mono text-sm text-primary mb-1 break-words">
+                  api/quran/1
+                </div>
+                <div className="text-sm text-muted-foreground">
+                  সূরা আল-ফাতিহা পান
                 </div>
               </Card>
               <Card
@@ -325,17 +336,6 @@ export function QuoteApiClient() {
                 </div>
                 <div className="text-sm text-muted-foreground">
                   একটি এলোমেলো হাদিস উক্তি পান
-                </div>
-              </Card>
-              <Card
-                onClick={() => quickTest("api/quran")}
-                className="p-4 hover:shadow-lg hover:border-primary transition cursor-pointer"
-              >
-                <div className="font-mono text-sm text-primary mb-1 break-words">
-                  api/quran
-                </div>
-                <div className="text-sm text-muted-foreground">
-                  সব কুরআনের উক্তি পান
                 </div>
               </Card>
               <Card

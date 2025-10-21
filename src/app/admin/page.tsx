@@ -31,11 +31,11 @@ type Quote = {
   type: string;
 };
 
-type DataFile = "quran.json" | "hadith.json";
+type DataFile = "hadith.json";
 
 export default function AdminPage() {
   const [isDev, setIsDev] = useState(false);
-  const [selectedFile, setSelectedFile] = useState<DataFile>("quran.json");
+  const [selectedFile, setSelectedFile] = useState<DataFile>("hadith.json");
   const [data, setData] = useState<Quote[]>([]);
   const [loading, setLoading] = useState(true);
   const [saving, setSaving] = useState(false);
@@ -170,7 +170,6 @@ export default function AdminPage() {
                 <SelectValue placeholder="সম্পাদনা করার জন্য একটি ফাইল নির্বাচন করুন" />
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value="quran.json">quran.json</SelectItem>
                 <SelectItem value="hadith.json">hadith.json</SelectItem>
               </SelectContent>
             </Select>
