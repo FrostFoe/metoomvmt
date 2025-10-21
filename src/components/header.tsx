@@ -81,7 +81,7 @@ export function Header() {
             >
               <a href="#try-it">
                 <FlaskConical className="h-4 w-4 md:mr-2" />
-                <span className="hidden md:inline">চেষ্টা করুন</span>
+                <span className="hidden md-inline">চেষ্টা করুন</span>
               </a>
             </Button>
           </nav>
