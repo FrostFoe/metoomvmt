@@ -1,0 +1,360 @@
+{
+  "id": 2,
+  "name": "ٱلْبَقَرَة",
+  "transliteration": "Al-Baqarah",
+  "translation": "The Cow",
+  "type": "Medinan",
+  "total_verses": 286,
+  "verses": [
+    {
+      "id": 1,
+      "text": "الم",
+      "transliteration": "Alif-Lām-Mīm",
+      "translation_bn": "আলিফ-লাম-মীম।",
+      "translation_en": "Alif, Lam, Meem."
+    },
+    {
+      "id": 2,
+      "text": "ذَٰلِكَ الْكِتَابُ لَا رَيْبَ فِيهِ هُدًى لِلْمُتَّقِينَ",
+      "transliteration": "Zalikal kitabu la raiba fih, hudal lil muttaqin",
+      "translation_bn": "এ সেই কিতাব যাতে কোনই সন্দেহ নেই। পথ প্রদর্শনকারী পরহেযগারদের জন্য,",
+      "translation_en": "This is the Book about which there is no doubt, a guidance for those conscious of Allah -"
+    },
+    {
+      "id": 3,
+      "text": "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنْفِقُونَ",
+      "transliteration": "Allazina yu'minuna bilghaibi wa yuqimunas salata wa mimma razaqnahum yunfiqun",
+      "translation_bn": "যারা অদেখা বিষয়ের উপর বিশ্বাস স্থাপন করে এবং নামায প্রতিষ্ঠা করে। আর আমি তাদেরকে যে রুযী দান করেছি তা থেকে ব্যয় করে",
+      "translation_en": "Who believe in the unseen, establish prayer, and spend out of what We have provided for them,"
+    },
+    {
+      "id": 4,
+      "text": "وَالَّذِينَ يُؤْمِنُونَ بِمَا أُنْزِلَ إِلَيْكَ وَمَا أُنْزِلَ مِنْ قَبْلِكَ وَبِالْآخِرَةِ هُمْ يُوقِنُونَ",
+      "transliteration": "Wallazina yu'minuna bima unzila ilaika wa ma unzila min qablika wa bil 'akhirati hum yuqinun",
+      "translation_bn": "এবং যারা বিশ্বাস স্থাপন করেছে সেসব বিষয়ের উপর যা কিছু তোমার প্রতি অবতীর্ণ হয়েছে এবং সেসব বিষয়ের উপর যা তোমার পূর্ববর্তীদের প্রতি অবতীর্ণ হয়েছে। আর আখেরাতকে যারা নিশ্চিত বলে বিশ্বাস করে।",
+      "translation_en": "And who believe in what has been revealed to you, [O Muhammad], and what was revealed before you, and of the Hereafter they are certain [in faith]."
+    },
+    {
+      "id": 5,
+      "text": "أُولَٰئِكَ عَلَىٰ هُدًى مِنْ رَبِّهِمْ وَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+      "transliteration": "Ula'ika 'ala hudam mir rabbihim wa ula'ika humul muflihun",
+      "translation_bn": "তারাই নিজেদের পালনকর্তার পক্ষ থেকে সুপথ প্রাপ্ত, আর তারাই যথার্থ সফলকাম।",
+      "translation_en": "Those are upon [right] guidance from their Lord, and it is those who are the successful."
+    },
+    {
+      "id": 6,
+      "text": "إِنَّ الَّذِينَ كَفَرُوا سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ لَا يُؤْمِنُونَ",
+      "transliteration": "Innal lazina kafaru sawa'un 'alaihim a'anzartahum am lam tunzirhum la yu'minun",
+      "translation_bn": "নিশ্চিতই যারা কাফের হয়েছে তাদেরকে আপনি ভয় প্রদর্শন করুন আর নাই করুন তাতে কিছুই আসে যায় না, তারা ঈমান আনবে না।",
+      "translation_en": "Indeed, those who disbelieve - it is all the same for them whether you warn them or do not warn them - they will not believe."
+    },
+    {
+      "id": 7,
+      "text": "خَتَمَ اللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ وَعَلَىٰ أَبْصَارِهِمْ غِشَاوَةٌ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+      "transliteration": "Khatamal lahu 'ala qulubihim wa 'ala sam'ihim, wa 'ala absarihim ghishawatun wa lahum 'azabun 'azim",
+      "translation_bn": "আল্লাহ তাদের অন্তকরণ এবং তাদের কানসমূহ বন্ধ করে দিয়েছেন, আর তাদের চোখসমূহ পর্দায় ঢেকে দিয়েছেন। আর তাদের জন্য রয়েছে কঠোর শাস্তি।",
+      "translation_en": "Allah has set a seal upon their hearts and upon their hearing, and over their vision is a veil. And for them is a great punishment."
+    },
+    {
+      "id": 8,
+      "text": "وَمِنَ النَّاسِ مَنْ يَقُولُ آمَنَّا بِاللَّهِ وَبِالْيَوْمِ الْآخِرِ وَمَا هُمْ بِمُؤْمِنِينَ",
+      "transliteration": "Wa minan nasi man yaqulu amanna billahi wa bil yawmil 'akhiri wa ma hum bimu'minin",
+      "translation_bn": "আর মানুষের মধ্যে কিছু লোক এমন রয়েছে যারা বলে, আমরা আল্লাহ ও পরকালের প্রতি ঈমান এনেছি অথচ আদৌ তারা ঈমানদার নয়।",
+      "translation_en": "And of the people are some who say, 'We believe in Allah and the Last Day,' but they are not believers."
+    },
+    {
+      "id": 9,
+      "text": "يُخَادِعُونَ اللَّهَ وَالَّذِينَ آمَنُوا وَمَا يَخْدَعُونَ إِلَّا أَنْفُسَهُمْ وَمَا يَشْعُرُونَ",
+      "transliteration": "Yukhadi'unal laha wallazina amanu wa ma yakhda'una illa anfusahum wa ma yash'urun",
+      "translation_bn": "তারা আল্লাহ এবং ঈমানদারগণকে ধোঁকা দেয়। অথচ এতে তারা নিজেদেরকে ছাড়া অন্য কাউকে ধোঁকা দেয় না অথচ তারা তা অনুভব করতে পারে না।",
+      "translation_en": "They [think to] deceive Allah and those who believe, but they deceive not except themselves and perceive [it] not."
+    },
+    {
+      "id": 10,
+      "text": "فِي قُلُوبِهِمْ مَرَضٌ فَزَادَهُمُ اللَّهُ مَرَضًا وَلَهُمْ عَذَابٌ أَلِيمٌ بِمَا كَانُوا يَكْذِبُونَ",
+      "transliteration": "Fi qulubihim maradun fa zadahumul lahu maradan wa lahum 'azabun alimum bima kanu yakzibun",
+      "translation_bn": "তাদের অন্তঃকরণ ব্যধিগ্রস্ত আর আল্লাহ তাদের ব্যধি আরো বাড়িয়ে দিয়েছেন। বস্তুতঃ তাদের জন্য নির্ধারিত রয়েছে ভয়াবহ আযাব, তাদের মিথ্যাচারের দরুন।",
+      "translation_en": "In their hearts is a disease, so Allah has increased their disease; and for them is a painful punishment because they [habitually] used to lie."
+    },
+    {
+      "id": 11,
+      "text": "وَإِذَا قِيلَ لَهُمْ لَا تُفْسِدُوا فِي الْأَرْضِ قَالُوا إِنَّمَا نَحْنُ مُصْلِحُونَ",
+      "transliteration": "Wa iza qila lahum la tufsidu fil ardi qalu innama nahnu muslihun",
+      "translation_bn": "আর যখন তাদেরকে বলা হয় যে, দুনিয়ার বুকে দাঙ্গা-হাঙ্গামা সৃষ্টি করো না, তখন তারা বলে, আমরা তো মীমাংসার পথ অবলম্বন করেছি।",
+      "translation_en": "And when it is said to them, 'Do not cause corruption on the earth,' they say, 'We are but reformers.'"
+    },
+    {
+      "id": 12,
+      "text": "أَلَا إِنَّهُمْ هُمُ الْمُفْسِدُونَ وَلَٰكِنْ لَا يَشْعُرُونَ",
+      "transliteration": "Ala innahum humul mufsiduna wa lakil la yash'urun",
+      "translation_bn": "মনে রেখো, তারাই হাঙ্গামা সৃষ্টিকারী, কিন্তু তারা তা উপলব্ধি করে না।",
+      "translation_en": "Unquestionably, it is they who are the corrupters, but they perceive [it] not."
+    },
+    {
+      "id": 13,
+      "text": "وَإِذَا قِيلَ لَهُمْ آمِنُوا كَمَا آمَنَ النَّاسُ قَالُوا أَنُؤْمِنُ كَمَا آمَنَ السُّفَهَاءُ أَلَا إِنَّهُمْ هُمُ السُّفَهَاءُ وَلَٰكِنْ لَا يَعْلَمُونَ",
+      "transliteration": "Wa iza qila lahum aminu kama amanan nasu qalu a'nu'minu kama amanas sufaha', ala innahum humus sufaha'u wa lakil la ya'lamun",
+      "translation_bn": "আর যখন তাদেরকে বলা হয়, অন্যান্যরা যেভাবে ঈমান এনেছে তোমরাও সেভাবে ঈমান আন, তখন তারা বলে, আমরাও কি ঈমান আনব বোকাদেরই মত! মনে রেখো, প্রকৃতপক্ষে তারাই বোকা, কিন্তু তারা তা বোঝে না।",
+      "translation_en": "And when it is said to them, 'Believe as the people have believed,' they say, 'Should we believe as the foolish have believed?' Unquestionably, it is they who are the foolish, but they know it not."
+    },
+    {
+      "id": 14,
+      "text": "وَإِذَا لَقُوا الَّذِينَ آمَنُوا قَالُوا آمَنَّا وَإِذَا خَلَوْا إِلَىٰ شَيَاطِينِهِمْ قَالُوا إِنَّا مَعَكُمْ إِنَّمَا نَحْنُ مُسْتَهْزِئُونَ",
+      "transliteration": "Wa iza laqul lazina amanu qalu amanna, wa iza khalau ila shayatihim qalu inna ma'akum innama nahnu mustahzi'un",
+      "translation_bn": "আর তারা যখন ঈমানদারদের সাথে মিশে, তখন বলে, আমরা ঈমান এনেছি। আবার যখন তাদের শয়তানদের সাথে একান্তে সাক্ষাৎ করে, তখন বলে, আমরা তোমাদের সাথে রয়েছি। আমরা তো (মুসলমানদের সাথে) উপহাস করি মাত্রা।",
+      "translation_en": "And when they meet those who believe, they say, 'We believe'; but when they are alone with their evil ones, they say, 'Indeed, we are with you; we were only mockers.'"
+    },
+    {
+      "id": 15,
+      "text": "اللَّهُ يَسْتَهْزِئُ بِهِمْ وَيَمُدُّهُمْ فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "transliteration": "Allahu yastahzi'u bihim wa yamudduhum fi tughyanihim ya'mahun",
+      "translation_bn": "বরং আল্লাহই তাদের সাথে উপহাস করেন। আর তাদেরকে তিনি ছেড়ে দিয়েছেন যেন তারা নিজেদের অহংকার ও কুমতলবে হয়রান ও পেরেশান থাকে।",
+      "translation_en": "Allah mocks them and prolongs them in their transgression [while] they wander blindly."
+    },
+    {
+      "id": 16,
+      "text": "أُولَٰئِكَ الَّذِينَ اشْتَرَوُا الضَّلَالَةَ بِالْهُدَىٰ فَمَا رَبِحَتْ تِجَارَتُهُمْ وَمَا كَانُوا مُهْتَدِينَ",
+      "transliteration": "Ula'ikal lazinashtarawud dalalata bil huda fama rabihat tijaratuhum wa ma kanu muhtadin",
+      "translation_bn": "তারা সে সমস্ত লোক, যারা হেদায়েতের বিনিময়ে গোমরাহী খরিদ করে। বস্তুতঃ তারা তাদের এ ব্যবসায় লাভবান হতে পারেনি এবং তারা হেদায়েতও লাভ করতে পারেনি।",
+      "translation_en": "Those are the ones who have purchased error [in exchange] for guidance, so their transaction has brought no profit, nor were they guided."
+    },
+    {
+      "id": 17,
+      "text": "مَثَلُهُمْ كَمَثَلِ الَّذِي اسْتَوْقَدَ نَارًا فَلَمَّا أَضَاءَتْ مَا حَوْلَهُ ذَهَبَ اللَّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي ظُلُمَاتٍ لَا يُبْصِرُونَ",
+      "transliteration": "Masaluhum kamasalil lazi stauqada naran falamma ada'at ma haulahu zahabal lahu binurihim wa tarakahum fi zulumatil la yubqirun",
+      "translation_bn": "তাদের অবস্থা সে ব্যক্তির মত, যে লোক কোথাও আগুন জ্বালালো এবং তার চারদিককার সবকিছুকে যখন আগুন স্পষ্ট করে তুললো, ঠিক এমনি সময় আল্লাহ তার চারদিকের আলোকে উঠিয়ে নিলেন এবং তাদেরকে অন্ধকারে ছেড়ে দিলেন। ফলে, তারা কিছুই দেখতে পায় না।",
+      "translation_en": "Their example is that of one who kindled a fire, but when it illuminated what was around him, Allah took away their light and left them in darkness [so] they could not see."
+    },
+    {
+      "id": 18,
+      "text": "صُمٌّ بُكْمٌ عُمْيٌ فَهُمْ لَا يَرْجِعُونَ",
+      "transliteration": "Summum bukmun 'umyun fahum la yarji'un",
+      "translation_bn": "তারা বধির, মূক ও অন্ধ। সুতরাং তারা ফিরে আসবে না।",
+      "translation_en": "Deaf, dumb and blind - so they will not return [to the right path]."
+    },
+    {
+      "id": 19,
+      "text": "أَوْ كَصَيِّبٍ مِنَ السَّمَاءِ فِيهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْقٌ يَجْعَلُونَ أَصَابِعَهُمْ فِي آذَانِهِمْ مِنَ الصَّوَاعِقِ حَذَرَ الْمَوْتِ وَاللَّهُ مُحِيطٌ بِالْكَافِرِينَ",
+      "transliteration": "Aw kasayyibim minas sama'i fihi zulumatunw wa ra'dunw wa barq, yaj'aluna asabi'ahum fi azanihim minas sawa'iqi hazaral maut, wallahu muhitum bil kafirin",
+      "translation_bn": "আর তাদের উদাহরণ সেসব লোকের মত যারা দুর্যোগপূর্ণ ঝড়ো রাতে পথ চলে, যাতে থাকে আঁধার, গর্জন ও বিদ্যুৎচমক। মৃত্যুর ভয়ে গর্জনের সময় কানে আঙ্গুল দিয়ে রক্ষা পেতে চায়। অথচ সমস্ত কাফেরই আল্লাহ কর্তৃক পরিবেষ্ঠিত।",
+      "translation_en": "Or [it is] like a rainstorm from the sky within which is darkness, thunder and lightning. They put their fingers in their ears against the thunderclaps in dread of death. But Allah is encompassing of the disbelievers."
+    },
+    {
+      "id": 20,
+      "text": "يَكَادُ الْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ كُلَّمَا أَضَاءَ لَهُمْ مَشَوْا فِيهِ وَإِذَا أَظْلَمَ عَلَيْهِمْ قَامُوا وَلَوْ شَاءَ اللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَارِهِمْ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "Yakadul barqu yakhtafu absarahum, kullama ada'a lahum mashau fihi wa iza azlama 'alaihim qamu, wa lau sha'al lahu lazahaba bisam'ihim wa absarihim, innallaha 'ala kulli shai'in qadir",
+      "translation_bn": "বিদ্যুতালোকে যখন সামান্য আলোকিত হয়, তখন কিছুটা পথ চলে। আবার যখন অন্ধকার হয়ে যায়, তখন ঠাঁয় দাঁড়িয়ে থাকে। যদি আল্লাহ ইচ্ছা করেন, তাহলে তাদের শ্রবণশক্তি ও দৃষ্টিশক্তি ছিনিয়ে নিতে পারেন। আল্লাহ যাবতীয় বিষয়ের উপর সর্বময় ক্ষমতাশীল।",
+      "translation_en": "The lightning almost snatches away their sight. Every time it lights [the way] for them, they walk therein; but when darkness comes over them, they stand still. And if Allah had willed, He could have taken away their hearing and their sight. Indeed, Allah is over all things competent."
+    },
+    {
+      "id": 21,
+      "text": "يَا أَيُّهَا النَّاسُ اعْبُدُوا رَبَّكُمُ الَّذِي خَلَقَكُمْ وَالَّذِينَ مِنْ قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+      "transliteration": "Ya ayyuhan nasu'budu rabbakumul lazi khalaqakum wallazina min qablikum la'allakum tattaqun",
+      "translation_bn": "হে মানব সমাজ! তোমরা তোমাদের পালনকর্তার এবাদত কর, যিনি তোমাদিগকে এবং তোমাদের পূর্ববর্তীদিগকে সৃষ্টি করেছেন। তাতে আশা করা যায়, তোমরা পরহেযগারী অর্জন করতে পারবে।",
+      "translation_en": "O mankind, worship your Lord, who created you and those before you, that you may become righteous -"
+    },
+    {
+      "id": 22,
+      "text": "الَّذِي جَعَلَ لَكُمُ الْأَرْضَ فِرَاشًا وَالسَّمَاءَ بِنَاءً وَأَنْزَلَ مِنَ السَّمَاءِ مَاءً فَأَخْرَجَ بِهِ مِنَ الثَّمَرَاتِ رِزْقًا لَكُمْ فَلَا تَجْعَلُوا لِلَّهِ أَنْدَادًا وَأَنْتُمْ تَعْلَمُونَ",
+      "transliteration": "Allazi ja'ala lakumul arda firashanw was sama'a bina'anw wa anzala minas sama'i ma'an fa'akhraja bihi minas samarati rizqal lakum, fala taj'alu lillahi andadanw wa antum ta'lamun",
+      "translation_bn": "যে পবিত্রসত্তা তোমাদের জন্য ভূমিকে বিছানা এবং আকাশকে ছাদ স্বরূপ স্থাপন করে দিয়েছেন, আর আকাশ থেকে পানি বর্ষণ করে তোমাদের জন্য ফল-ফসল উৎপাদন করেছেন তোমাদের খাদ্য হিসাবে। অতএব, আল্লাহর সাথে তোমরা অন্য কাকেও সমকক্ষ করো না। বস্তুতঃ এসব তোমরা জান।",
+      "translation_en": "[He] who made for you the earth a bed [spread out] and the sky a ceiling and sent down from the sky rain and brought forth thereby fruits as provision for you. So do not attribute to Allah equals while you know [that there is nothing similar to Him]."
+    },
+    {
+      "id": 23,
+      "text": "وَإِنْ كُنْتُمْ فِي رَيْبٍ مِمَّا نَزَّلْنَا عَلَىٰ عَبْدِنَا فَأْتُوا بِسُورَةٍ مِنْ مِثْلِهِ وَادْعُوا شُهَدَاءَكُمْ مِنْ دُونِ اللَّهِ إِنْ كُنْتُمْ صَادِقِينَ",
+      "transliteration": "Wa in kuntum fi raibim mimma nazzalna 'ala 'abdina fa'tu bi suratim mim mislihi wad'u shuhada'akum min dunillahi in kuntum sadiqin",
+      "translation_bn": "এতদসম্পর্কে যদি তোমাদের কোন সন্দেহ থাকে যা আমি আমার বান্দার প্রতি অবতীর্ণ করেছি, তাহলে এর মত একটি সূরা রচনা করে নিয়ে এস। তোমাদের সেসব সাহায্যকারীদেরকে সঙ্গে নাও-এক আল্লাহকে ছাড়া, যদি তোমরা সত্যবাদী হয়ে থাকো।",
+      "translation_en": "And if you are in doubt about what We have sent down upon Our Servant [Muhammad], then produce a surah the like of it and call upon your witnesses other than Allah, if you should be truthful."
+    },
+    {
+      "id": 24,
+      "text": "فَإِنْ لَمْ تَفْعَلُوا وَلَنْ تَفْعَلُوا فَاتَّقُوا النَّارَ الَّتِي وَقُودُهَا النَّاسُ وَالْحِجَارَةُ أُعِدَّتْ لِلْكَافِرِينَ",
+      "transliteration": "Fa il lam taf'alu wa lan taf'alu fattaqun naral-lati waquduhan nasu wal hijaratu u'iddat lilkafirin",
+      "translation_bn": "আর যদি তা না পার-অবশ্য তা তোমরা কখনও পারবে না, তাহলে সে দোযখের আগুন থেকে রক্ষা পাওয়ার চেষ্টা কর, যার জ্বালানী হবে মানুষ ও পাথর। যা প্রস্তুত করা হয়েছে কাফেরদের জন্য।",
+      "translation_en": "But if you do not - and you will never be able to - then fear the Fire, whose fuel is men and stones, prepared for the disbelievers."
+    },
+    {
+      "id": 25,
+      "text": "وَبَشِّرِ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أَنَّ لَهُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ كُلَّمَا رُزِقُوا مِنْهَا مِنْ ثَمَرَةٍ رِزْقًا قَالُوا هَٰذَا الَّذِي رُزِقْنَا مِنْ قَبْلُ وَأُتُوا بِهِ مُتَشَابِهًا وَلَهُمْ فِيهَا أَزْوَاجٌ مُطَهَّرَةٌ وَهُمْ فِيهَا خَالِدُونَ",
+      "transliteration": "Wa bashshiril lazina amanu wa 'amilus salihati anna lahum jannatin tajri min tahtihal anhar, kullama ruziqu minha min samaratir rizqan qalu hazal lazi ruziqna min qablu wa utu bihi mutashabiha, wa lahum fiha azwajum mutahharatun wa hum fiha khalidun",
+      "translation_bn": "আর হে নবী (সাঃ), যারা ঈমান এনেছে এবং সৎকাজসমূহ করেছে, আপনি তাদেরকে এমন বেহেশতের সুসংবাদ দিন, যার পাদদেশে নহরসমূহ প্রবাহমান থাকবে। যখনই তারা খাবার হিসেবে কোন ফল প্রাপ্ত হবে, তখনই তারা বলবে, এতো অবিকল সে ফলই যা আমরা ইতিপূর্বেও লাভ করেছিলাম। বস্তুতঃ তাদেরকে একই প্রকৃতির ফল প্রদান করা হবে। এবং সেখানে তাদের জন্য শুদ্ধচারিনী রমণীকূল থাকবে। আর সেখানে তারা অনন্তকাল অবস্থান করবে।",
+      "translation_en": "And give good tidings to those who believe and do righteous deeds that they will have gardens [in Paradise] beneath which rivers flow. Whenever they are provided with a provision of fruit therefrom, they will say, 'This is what we were provided with before.' And it will be given to them in resemblance. And they will have therein purified spouses, and they will abide therein eternally."
+    },
+    {
+      "id": 26,
+      "text": "إِنَّ اللَّهَ لَا يَسْتَحْيِي أَنْ يَضْرِبَ مَثَلًا مَا بَعُوضَةً فَمَا فَوْقَهَا فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ أَنَّهُ الْحَقُّ مِنْ رَبِّهِمْ وَأَمَّا الَّذِينَ كَفَرُوا فَيَقُولُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا يُضِلُّ بِهِ كَثِيرًا وَيَهْدِي بِهِ كَثِيرًا وَمَا يُضِلُّ بِهِ إِلَّا الْفَاسِقِينَ",
+      "transliteration": "Innal laha la yastahyi ayyadriba masalam ma ba'udatan fama fauqaha, fa'ammal lazina amanu faya'lamuna annahul haqqu mir rabbihim, wa ammal lazina kafaru fayaquluna maza aradal lahu bi haza masala, yudillu bihi kasiranw wa yahdi bihi kasira, wa ma yudillu bihi illal fasiqin",
+      "translation_bn": "আল্লাহ পাক নিঃসন্দেহে মশা বা তদুর্ধ্ব বস্তু দ্বারা উপমা পেশ করতে লজ্জাবোধ করেন না। বস্তুতঃ যারা মুমিন তারা নিশ্চিতভাবে বিশ্বাস করে যে, তাদের পালনকর্তা কর্তৃক উপস্থাপিত এ উপমা সম্পূর্ণ নির্ভূল ও সঠিক। আর যারা কাফের তারা বলে, এরূপ উপমা উপস্থাপনে আল্লাহর মতলবই বা কি ছিল। এ দ্বারা আল্লাহ তা’আলা অনেককে বিপথগামী করেন, আবার অনেককে সঠিক পথও প্রদর্শন করেন। তিনি অনুরূপ উপমা দ্বারা অসৎ ব্যক্তিবর্গ ভিন্ন কাকেও বিপথগামী করেন না।",
+      "translation_en": "Indeed, Allah is not timid to present an example - that of a mosquito or what is smaller than it. And those who have believed know that it is the truth from their Lord. But as for those who disbelieve, they say, 'What did Allah intend by this as an example?' He misleads many thereby and guides many thereby. And He misleads not thereby except the defiantly disobedient,"
+    },
+    {
+      "id": 27,
+      "text": "الَّذِينَ يَنْقُضُونَ عَهْدَ اللَّهِ مِنْ بَعْدِ مِيثَاقِهِ وَيَقْطَعُونَ مَا أَمَرَ اللَّهُ بِهِ أَنْ يُوصَلَ وَيُفْسِدُونَ فِي الْأَرْضِ أُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+      "transliteration": "Allazina yanquduna 'ahdal lahi mim ba'di misaqihi wa yaqta'una ma amaral lahu bihi an yusala wa yufsiduna fil ard, ula'ika humul khasirun",
+      "translation_bn": "(বিপথগামী ওরাই) যারা আল্লাহর সঙ্গে অঙ্গীকারাবদ্ধ হওয়ার পর তা ভঙ্গ করে এবং আল্লাহ পাক যা অবিচ্ছিন্ন রাখতে নির্দেশ দিয়েছেন, তা ছিন্ন করে, আর পৃথিবীর বুকে অশান্তি সৃষ্টি করে। ওরা যথার্থই ক্ষতিগ্রস্ত।",
+      "translation_en": "Who break the covenant of Allah after contracting it and sever that which Allah has ordered to be joined and cause corruption on earth. It is those who are the losers."
+    },
+    {
+      "id": 28,
+      "text": "كَيْفَ تَكْفُرُونَ بِاللَّهِ وَكُنْتُمْ أَمْوَاتًا فَأَحْيَاكُمْ ثُمَّ يُمِيتُكُمْ ثُمَّ يُحْيِيكُمْ ثُمَّ إِلَيْهِ تُرْجَعُونَ",
+      "transliteration": "Kaifa takfuruna billahi wa kuntum amwatan fa ahyakum, summa yumitukum summa yuhyikum summa ilaihi turja'un",
+      "translation_bn": "কেমন করে তোমরা আল্লাহর ব্যাপারে কুফরী অবলম্বন করছ? অথচ তোমরা ছিলে নিষ্প্রাণ। অতঃপর তিনিই তোমাদেরকে প্রাণ দান করেছেন, আবার মৃত্যু দান করবেন। পুনরায় তোমাদেরকে জীবনদান করবেন। অতঃপর তারই প্রতি প্রত্যাবর্তন করবে।",
+      "translation_en": "How can you disbelieve in Allah when you were lifeless and He brought you to life; then He will cause you to die, then He will bring you [back] to life, and then to Him you will be returned."
+    },
+    {
+      "id": 29,
+      "text": "هُوَ الَّذِي خَلَقَ لَكُمْ مَا فِي الْأَرْضِ جَمِيعًا ثُمَّ اسْتَوَىٰ إِلَى السَّمَاءِ فَسَوَّاهُنَّ سَبْعَ سَمَاوَاتٍ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+      "transliteration": "Huwal lazi khalaqa lakum ma fil ardi jami'an summas tawa ilas sama'i fasawwahunna sab'a samawat, wa huwa bikulli shai'in 'alim",
+      "translation_bn": "তিনিই সে সত্ত্বা যিনি সৃষ্টি করেছেন তোমাদের জন্য যা কিছু জমীনে রয়েছে সে সমস্ত। তারপর তিনি মনোসংযোগ করেছেন আকাশের প্রতি। বস্তুতঃ তিনি তৈরী করেছেন সাত আসমান। আর আল্লাহ সর্ববিষয়ে অবহিত।",
+      "translation_en": "It is He who created for you all of that which is on the earth. Then He directed Himself to the heaven, [His being above all creation], and made them seven heavens, and He is Knowing of all things."
+    },
+    {
+      "id": 30,
+      "text": "وَإِذْ قَالَ رَبُّكَ لِلْمَلَائِكَةِ إِنِّي جَاعِلٌ فِي الْأَرْضِ خَلِيفَةً قَالُوا أَتَجْعَلُ فِيهَا مَنْ يُفْسِدُ فِيهَا وَيَسْفِكُ الدِّمَاءَ وَنَحْنُ نُسَبِّحُ بِحَمْدِكَ وَنُقَدِّسُ لَكَ قَالَ إِنِّي أَعْلَمُ مَا لَا تَعْلَمُونَ",
+      "transliteration": "Wa iz qala rabbuka lil mala'ikati inni ja'ilun fil ardi khalifah, qalu ataj'alu fiha man yufsidu fiha wa yasfikud dima', wa nahnu nusabbihu bihamdika wa nuqaddisu lak, qala inni a'lamu ma la ta'lamun",
+      "translation_bn": "আর তোমার পালনকর্তা যখন ফেরেশতাদিগকে বললেনঃ আমি পৃথিবীতে একজন প্রতিনিধি বানাতে যাচ্ছি, তখন ফেরেশতাগণ বলল, তুমি কি পৃথিবীতে এমন কাউকে সৃষ্টি করবে যে দাঙ্গা-হাঙ্গামার সৃষ্টি করবে এবং রক্তপাত ঘটাবে? অথচ আমরা নিয়ত তোমার গুণকীর্তন করছি এবং তোমার পবিত্র সত্তাকে স্মরণ করছি। তিনি বললেন, নিঃসন্দেহে আমি জানি, যা তোমরা জান না।",
+      "translation_en": "And [mention, O Muhammad], when your Lord said to the angels, 'Indeed, I will make upon the earth a successive authority.' They said, 'Will You place upon it one who causes corruption therein and sheds blood, while we declare Your praise and sanctify You?' Allah said, 'Indeed, I know that which you do not know.'"
+    },
+    {
+      "id": 31,
+      "text": "وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ فَقَالَ أَنْبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِنْ كُنْتُمْ صَادِقِينَ",
+      "transliteration": "Wa 'allama adamal asma'a kullaha summa 'aradahum 'alal mala'ikati faqala ambi'uni bi'asma'i ha'ula'i in kuntum sadiqin",
+      "translation_bn": "আর আল্লাহ তা’আলা শিখালেন আদমকে সমস্ত বস্তু-সামগ্রীর নাম। তারপর সে সমস্ত বস্তু-সামগ্রীকে ফেরেশতাদের সামনে উপস্থাপন করলেন। অতঃপর বললেন, আমাকে তোমরা এগুলোর নাম বলে দাও, যদি তোমরা সত্য হয়ে থাক।",
+      "translation_en": "And He taught Adam the names - all of them. Then He showed them to the angels and said, 'Inform Me of the names of these, if you are truthful.'"
+    },
+    {
+      "id": 32,
+      "text": "قَالُوا سُبْحَانَكَ لَا عِلْمَ لَنَا إِلَّا مَا عَلَّمْتَنَا إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ",
+      "transliteration": "Qalu subhanaka la 'ilma lana illa ma 'allamtana, innaka antal 'alimul hakim",
+      "translation_bn": "তারা বলল, তুমি পবিত্র! আমরা কোন কিছুই জানি না, তবে তুমি যা আমাদিগকে শিখিয়েছ (সেগুলো ব্যতীত) নিশ্চয় তুমিই প্রকৃত জ্ঞানসম্পন্ন, হেকমতওয়ালা।",
+      "translation_en": "They said, 'Exalted are You; we have no knowledge except what You have taught us. Indeed, it is You who is the Knowing, the Wise.'"
+    },
+    {
+      "id": 33,
+      "text": "قَالَ يَا آدَمُ أَنْبِئْهُمْ بِأَسْمَائِهِمْ فَلَمَّا أَنْبَأَهُمْ بِأَسْمَائِهِمْ قَالَ أَلَمْ أَقُلْ لَكُمْ إِنِّي أَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ وَأَعْلَمُ مَا تُبْدُونَ وَمَا كُنْتُمْ تَكْتُمُونَ",
+      "transliteration": "Qala ya adamu ambi'hum bi asma'ihim, falamma amba'ahum bi asma'ihim qala alam aqul lakum inni a'lamu ghaibas samawati wal ardi wa a'lamu ma tubduna wa ma kuntum taktumun",
+      "translation_bn": "তিনি বললেন, হে আদম, ফেরেশতাদেরকে বলে দাও এসবের নাম। তারপর যখন তিনি বলে দিলেন সে সবের নাম, তখন তিনি বললেন, আমি কি তোমাদেরকে বলিনি যে, আমি আসমান ও যমীনের যাবতীয় গোপন বিষয় সম্পর্কে খুব ভাল করেই অবগত রয়েছি? এবং সেসব বিষয়ও জানি যা তোমরা প্রকাশ কর, আর যা তোমরা গোপন কর!",
+      "translation_en": "He said, 'O Adam, inform them of their names.' And when he had informed them of their names, He said, 'Did I not tell you that I know the unseen [aspects] of the heavens and the earth? And I know what you reveal and what you have concealed.'"
+    },
+    {
+      "id": 34,
+      "text": "وَإِذْ قُلْنَا لِلْمَلَائِكَةِ اسْجُdُوا لِآدَمَ فَسَجَدُوا إِلَّا إِبْلِيسَ أَبَىٰ وَاسْتَكْبَرَ وَكَانَ مِنَ الْكَافِرِينَ",
+      "transliteration": "Wa iz qulna lil mala'ikatisjudu li'adama fasajadu illa iblis, aba wastakbara wa kana minal kafirin",
+      "translation_bn": "এবং যখন আমি হযরত আদম (আঃ)-কে সেজদা করার জন্য ফেরেশতাগণকে নির্দেশ দিলাম, তখনই ইবলীস ব্যতীত সবাই সিজদা করলো। সে (নির্দেশ) পালন করতে অস্বীকার করল এবং অহংকার প্রদর্শন করল। ফলে সে কাফেরদের অন্তর্ভূক্ত হয়ে গেল।",
+      "translation_en": "And [mention] when We said to the angels, 'Prostrate to Adam,' and they prostrated, except for Iblees. He refused and was arrogant and became of the disbelievers."
+    },
+    {
+      "id": 35,
+      "text": "وَقُلْنَا يَا آدَمُ اسْكُنْ أَنْتَ وَزَوْجُكَ الْجَنَّةَ وَكُلَا مِنْهَا رَغَدًا حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هَٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِمِينَ",
+      "transliteration": "Wa qulna ya adamus kun anta wa zaujukal jannata wa kula minha raghadan haisu shi'tuma wa la taqraba hazihish shajarata fatakuna minaz zalimin",
+      "translation_bn": "এবং আমি আদমকে হুকুম করলাম যে, তুমি ও তোমার স্ত্রী জান্নাতে বসবাস করতে থাক এবং ওখানে যা চাও, যেখান থেকে চাও, পরিতৃপ্তিসহ খেতে থাক, কিন্তু এ গাছের নিকটবর্তী হয়ো না। অন্যথায় তোমরা যালিমদের অন্তর্ভূক্ত হয়ে পড়বে।",
+      "translation_en": "And We said, 'O Adam, dwell, you and your wife, in Paradise and eat therefrom in [ease and] abundance from wherever you will. But do not approach this tree, lest you be of the wrongdoers.'"
+    },
+    {
+      "id": 36,
+      "text": "فَأَزَلَّهُمَا الشَّيْطَانُ عَنْهَا فَأَخْرَجَهُمَا مِمَّا كَانَا فِيهِ وَقُلْنَا اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّ وَلَكُمْ فِي الْأَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ إِلَىٰ حِينٍ",
+      "transliteration": "Fa azallahumash shaitanu 'anha fa akhrajahuma mimma kana fihi wa qulnah bitu ba'dukum li ba'din 'aduwwun, wa lakum fil ardi mustaqarrun wa mata'un ila hin",
+      "translation_bn": "অনন্তর শয়তান তাদের উভয়কে ওখান থেকে পদস্খলিত করেছিল। পরে তারা যে সুখ-স্বাচ্ছন্দ্যে ছিল তা থেকে তাদেরকে বের করে দিল এবং আমি বললাম, তোমরা নেমে যাও। তোমরা পরস্পর একে অপরের শক্র হবে এবং তোমাদেরকে সেখানে কিছুকাল অবস্থান করতে হবে ও লাভ সংগ্রহ করতে হবে।",
+      "translation_en": "But Satan caused them to slip out of it and removed them from that [condition] in which they had been. And We said, 'Go down, [all of you], as enemies to one another, and you will have upon the earth a place of settlement and provision for a time.'"
+    },
+    {
+      "id": 37,
+      "text": "فَتَلَقَّىٰ آدَمُ مِنْ رَبِّهِ كَلِمَاتٍ فَتَابَ عَلَيْهِ إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ",
+      "transliteration": "Fatalaqqa adamu mir rabbihi kalimatin fataba 'alaih, innahu huwat tawwabur rahim",
+      "translation_bn": "অতঃপর হযরত আদম (আঃ) স্বীয় পালনকর্তার কাছ থেকে কয়েকটি কথা শিখে নিলেন, অতঃপর আল্লাহ পাক তাঁর প্রতি (করুণাভরে) লক্ষ্য করলেন। নিশ্চয়ই তিনি মহা-ক্ষমাশীল ও অসীম দয়ালু।",
+      "translation_en": "Then Adam received from his Lord [some] words, and He accepted his repentance. Indeed, it is He who is the Accepting of repentance, the Merciful."
+    },
+    {
+      "id": 38,
+      "text": "قُلْنَا اهْبِطُوا مِنْهَا جَمِيعًا فَإِمَّا يَأْتِيَنَّكُمْ مِنِّي هُدًى فَمَنْ تَبِعَ هُدَايَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "transliteration": "Qulnah bitu minha jami'a, fa imma ya'tiyannakum minni hudan faman tabi'a hudaya fala khaufun 'alaihim wa la hum yahzanun",
+      "translation_bn": "আমি হুকুম করলাম, তোমরা সবাই নীচে নেমে যাও। অতঃপর যদি তোমাদের নিকট আমার পক্ষ থেকে কোন হেদায়েত পৌঁছে, তবে যে ব্যক্তি আমার সে হেদায়েত অনুসারে চলবে, তার উপর না কোন ভয় আসবে, না (কোন কারণে) তারা চিন্তাগ্রস্ত ও সন্তপ্ত হবে।",
+      "translation_en": "We said, 'Go down from it, all of you. And when guidance comes to you from Me, whoever follows My guidance - there will be no fear concerning them, nor will they grieve."
+    },
+    {
+      "id": 39,
+      "text": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ النَّارِ هُمْ فِيهَا خَالِدُونَ",
+      "transliteration": "Wallazina kafaru wa kazzabu bi ayatina ula'ika ashabun nar, hum fiha khalidun",
+      "translation_bn": "আর যে লোক তা অস্বীকার করবে এবং আমার নিদর্শনগুলোকে মিথ্যা প্রতিপন্ন করার প্রয়াস পাবে, তারাই হবে জাহান্নামবাসী; অন্তকাল সেখানে থাকবে।",
+      "translation_en": "And those who disbelieve and deny Our signs - those will be companions of the Fire; they will abide therein eternally.'"
+    },
+    {
+      "id": 40,
+      "text": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَوْفُوا بِعَهْدِي أُوفِ بِعَهْدِكُمْ وَإِيَّايَ فَارْهَبُونِ",
+      "transliteration": "Ya bani isra'ilazkuru ni'matiyal lati an'amtu 'alaikum wa aufu bi'ahdi ufi bi'ahdikum wa iyyaya farhabun",
+      "translation_bn": "হে বনী-ইসরাঈলগণ, তোমরা স্মরণ কর আমার সে অনুগ্রহ যা আমি তোমাদের প্রতি করেছি এবং তোমরা পূরণ কর আমার সাথে কৃত প্রতিজ্ঞা, তাহলে আমি তোমাদেরকে প্রদত্ত প্রতিশ্রুতি পূরণ করব। আর ভয় কর আমাকেই।",
+      "translation_en": "O Children of Israel, remember My favor which I have bestowed upon you and fulfill My covenant [upon you] that I will fulfill your covenant [from Me], and be afraid of [only] Me."
+    },
+    {
+      "id": 41,
+      "text": "وَآمِنُوا بِمَا أَنْزَلْتُ مُصَدِّقًا لِمَا مَعَكُمْ وَلَا تَكُونُوا أَوَّلَ كَافِرٍ بِهِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا وَإِيَّايَ فَاتَّقُونِ",
+      "transliteration": "Wa aminu bima anzaltu musaddiqal lima ma'akum wa la takunu awwala kafirim bih, wa la tashtaru bi ayati samanan qalilanw wa iyyaya fattaqun",
+      "translation_bn": "আর তোমরা সে গ্রন্থের প্রতি বিশ্বাস স্থাপন কর, যা আমি অবতীর্ণ করেছি সত্যবক্তা হিসেবে তোমাদের কাছে। বস্তুতঃ তোমরা তার প্রাথমিক অস্বীকারকারী হয়ো না আর আমার আয়াতের অল্প মূল্য দিও না। এবং আমার (আযাব) থেকে বাঁচ।",
+      "translation_en": "And believe in what I have sent down confirming that which is [already] with you, and be not the first to disbelieve in it. And do not exchange My signs for a small price, and fear [only] Me."
+    },
+    {
+      "id": 42,
+      "text": "وَلَا تَلْبِسُوا الْحَقَّ بِالْبَاطِلِ وَتَكْتُمُوا الْحَقَّ وَأَنْتُمْ تَعْلَمُونَ",
+      "transliteration": "Wa la talbisul haqqa bil batili wa taktumul haqqa wa antum ta'lamun",
+      "translation_bn": "তোমরা সত্যকে মিথ্যার সাথে মিশিয়ে দিও না এবং জানা সত্ত্বে সত্যকে তোমরা গোপন করো না।",
+      "translation_en": "And do not mix the truth with falsehood or conceal the truth while you know [it]."
+    },
+    {
+      "id": 43,
+      "text": "وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارْكَعُوا مَعَ الرَّاكِعِينَ",
+      "transliteration": "Wa aqimus salata wa atuz zakata war ka'u ma'ar raki'in",
+      "translation_bn": "আর নামায কায়েম কর, যাকাত দান কর এবং নামাযে অবনত হও তাদের সাথে, যারা অবনত হয়।",
+      "translation_en": "And establish prayer and give zakah and bow with those who bow [in worship and obedience]."
+    },
+    {
+      "id": 44,
+      "text": "أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ أَنْفُسَكُمْ وَأَنْتُمْ تَتْلُونَ الْكِتَابَ أَفَلَا تَعْقِلُونَ",
+      "transliteration": "Ata'murunan nasa bil birri wa tansauna anfusakum wa antum tatlunal kitab, afala ta'qilun",
+      "translation_bn": "তোমরা কি মানুষকে সৎকর্মের নির্দেশ দাও এবং নিজেরা নিজেদেরকে ভূলে যাও, অথচ তোমরা কিতাব পাঠ কর? তবুও কি তোমরা চিন্তা কর না?",
+      "translation_en": "Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason?"
+    },
+    {
+      "id": 45,
+      "text": "وَاسْتَعِينُوا بِالصَّبْرِ وَالصَّلَاةِ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى الْخَاشِعِينَ",
+      "transliteration": "Wasta'inu bis sabri was salah, wa innaha lakabiratun illa 'alal khashi'in",
+      "translation_bn": "ধৈর্য্যর সাথে সাহায্য প্রার্থনা কর নামাযের মাধ্যমে। অবশ্য তা যথেষ্ট কঠিন। কিন্তু সে সমস্ত বিনয়ী লোকদের পক্ষেই তা সম্ভব।",
+      "translation_en": "And seek help through patience and prayer, and indeed, it is difficult except for the humbly submissive [to Allah]"
+    },
+    {
+      "id": 46,
+      "text": "الَّذِينَ يَظُنُّونَ أَنَّهُمْ مُلَاقُو رَبِّهِمْ وَأَنَّهُمْ إِلَيْهِ رَاجِعُونَ",
+      "transliteration": "Allazina yazunnuna annahum mulaqu rabbihim wa annahum ilaihi raji'un",
+      "translation_bn": "যারা একথা খেয়াল করে যে, তাদেরকে সম্মুখীন হতে হবে স্বীয় পরওয়ারদেগারের এবং তাঁরই দিকে ফিরে যেতে হবে।",
+      "translation_en": "Who are certain that they will meet their Lord and that they will return to Him."
+    },
+    {
+      "id": 47,
+      "text": "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ",
+      "transliteration": "Ya bani isra'ilazkuru ni'matiyal lati an'amtu 'alaikum wa anni faddaltukum 'alal 'alamin",
+      "translation_bn": "হে বনী-ইসরাঈলগণ! তোমরা স্মরণ কর আমার অনুগ্রহের কথা, যা আমি তোমাদের উপর করেছি এবং (স্মরণ কর) সে বিষয়টি যে, আমি তোমাদেরকে উচ্চমর্যাদা দান করেছি সমগ্র বিশ্বের উপর।",
+      "translation_en": "O Children of Israel, remember My favor which I have bestowed upon you and that I preferred you over the worlds."
+    },
+    {
+      "id": 48,
+      "text": "وَاتَّقُوا يَوْمًا لَا تَجْزِي نَفْسٌ عَنْ نَفْسٍ شَيْئًا وَلَا يُقْبَلُ مِنْهَا شَفَاعَةٌ وَلَا يُؤْخَذُ مِنْهَا عَدْلٌ وَلَا هُمْ يُنْصَرُونَ",
+      "transliteration": "Wattaqu yaumal la tajzi nafsun 'an nafsin shai'anw wa la yuqbalu minha shafa'atunw wa la yu'khazu minha 'adlunw wa la hum yunsarun",
+      "translation_bn": "আর সে দিনের ভয় কর, যখন কেউ কারও সামান্য উপকারে আসবে না এবং তার পক্ষে কোন সুপারিশও কবুল হবে না; কারও কাছ থেকে ক্ষতিপূরণও নেয়া হবে না এবং তারা কোন রকম সাহায্যও পাবে না।",
+      "translation_en": "And fear a Day when no soul will suffice for another soul at all, nor will intercession be accepted from it, nor will compensation be taken from it, nor will they be aided."
+    },
+    {
+      "id": 49,
+      "text": "وَإِذْ نَجَّيْنَاكُمْ مِنْ آلِ فِرْعَوْنَ يَسُومُونَكُمْ سُوءَ الْعَذَابِ يُذَبِّحُونَ أَبْنَاءَكُمْ وَيَسْتَحْيُونَ نِسَاءَكُمْ وَفِي ذَٰلِكُمْ بَلَاءٌ مِنْ رَبِّكُمْ عَظِيمٌ",
+      "transliteration": "Wa iz najjainakum min ali fir'auna yasumunakum su'al 'azabi yuzabbihuna abna'akum wa yastahyuna nisa'akum, wa fi zalikum bala'um mir rabbikum 'azim",
+      "translation_bn": "আর (স্মরণ কর) সে সময়ের কথা, যখন আমি তোমাদিগকে মুক্তিদান করেছি ফেরআউনের লোকদের কবল থেকে যারা তোমাদিগকে কঠিন শাস্তি দান করত; তোমাদের পুত্রসন্তানদেরকে জবাই করত এবং তোমাদের স্ত্রীদিগকে অব্যাহতি দিত। বস্তুতঃ তাতে পরীক্ষা ছিল তোমাদের পালনকর্তার পক্ষ থেকে, মহা পরীক্ষা।",
+      "translation_en": "And [recall] when We saved your forefathers from the people of Pharaoh, who afflicted you with the worst torment, slaughtering your sons and keeping your women alive. And in that was a great trial from your Lord."
+    },
+    {
+      "id": 50,
+      "text": "وَإِذْ فَرَقْنَا بِكُمُ الْبَحْرَ فَأَنْجَيْنَاكُمْ وَأَغْرَقْنَا آلَ فِرْعَوْنَ وَأَنْتُمْ تَنْظُرُونَ",
+      "transliteration": "Wa iz faraqna bikumul bahra fa anjainakum wa aghraqna ala fir'auna wa antum tanzurun",
+      "translation_bn": "আর যখন আমি তোমাদের জন্য সাগরকে দ্বিখন্ডিত করেছি, অতঃপর তোমাদেরকে বাঁচিয়ে দিয়েছি এবং ডুবিয়ে দিয়েছি ফেরআউনের লোকদিগকে অথচ তোমরা দেখছিলে।",
+      "translation_en": "And [recall] when We parted the sea for you and saved you and drowned the people of Pharaoh while you were looking on."
+    }
+  ]
+}
