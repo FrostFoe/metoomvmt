@@ -7,6 +7,13 @@ const getHadithDataPath = () => {
   return path.join(process.cwd(), "src", "lib", "data", "hadith");
 };
 
+const prettyJsonResponse = (data: any, status: number = 200) => {
+  return new NextResponse(JSON.stringify(data, null, 2), {
+    status,
+    headers: { "Content-Type": "application/json" },
+  });
+};
+
 // GET all hadiths, or a random hadith
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
@@ -34,11 +41,11 @@ export async function GET(request: NextRequest) {
 
     if (random) {
       if (allHadiths.length === 0) {
-        return NextResponse.json({ error: "No hadiths found" }, { status: 404 });
+        return prettyJsonResponse({ error: "No hadiths found" }, 404);
       }
       const randomItem =
         allHadiths[Math.floor(Math.random() * allHadiths.length)];
-      return NextResponse.json({ data: [randomItem], count: 1 });
+      return prettyJsonResponse({ data: [randomItem], count: 1 });
     }
 
     if (author) {
@@ -62,18 +69,18 @@ export async function GET(request: NextRequest) {
       }
     }
 
-    return NextResponse.json({ data: allHadiths, count: allHadiths.length });
+    return prettyJsonResponse({ data: allHadiths, count: allHadiths.length });
   } catch (error) {
      if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
         // This can happen if the directory doesn't exist or if hadith.json was deleted and the new dir structure is not yet in place.
         // Return an empty array as if there are no hadiths.
-        return NextResponse.json({ data: [], count: 0 });
+        return prettyJsonResponse({ data: [], count: 0 });
     }
-    return NextResponse.json(
+    return prettyJsonResponse(
       {
         error: `Failed to process request: ${(error as Error).message}`,
       },
-      { status: 500 }
+      500
     );
   }
 }

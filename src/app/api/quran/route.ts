@@ -7,6 +7,13 @@ const getQuranDataPath = () => {
   return path.join(process.cwd(), "src", "lib", "data", "quran");
 };
 
+const prettyJsonResponse = (data: any, status: number = 200) => {
+  return new NextResponse(JSON.stringify(data, null, 2), {
+    status,
+    headers: { "Content-Type": "application/json" },
+  });
+};
+
 // GET all surahs list, a specific surah, or a random verse
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
@@ -21,10 +28,7 @@ export async function GET(request: NextRequest) {
 
     if (random) {
       if (surahFiles.length === 0) {
-        return NextResponse.json(
-          { error: "No surahs found" },
-          { status: 404 },
-        );
+        return prettyJsonResponse({ error: "No surahs found" }, 404);
       }
       // Combine all verses from all surahs
       let allVerses = [];
@@ -43,16 +47,13 @@ export async function GET(request: NextRequest) {
       }
 
       if (allVerses.length === 0) {
-        return NextResponse.json(
-          { error: "No verses found" },
-          { status: 404 },
-        );
+        return prettyJsonResponse({ error: "No verses found" }, 404);
       }
 
       // Select a random verse
       const randomVerse =
         allVerses[Math.floor(Math.random() * allVerses.length)];
-      return NextResponse.json(randomVerse);
+      return prettyJsonResponse(randomVerse);
     }
 
     if (surahId) {
@@ -62,13 +63,10 @@ export async function GET(request: NextRequest) {
       try {
         const fileContent = await fs.readFile(filePath, "utf8");
         const data = JSON.parse(fileContent);
-        return NextResponse.json(data);
+        return prettyJsonResponse(data);
       } catch (error) {
         if ((error as NodeJS.ErrnoException).code === "ENOENT") {
-          return NextResponse.json(
-            { error: "Surah not found" },
-            { status: 404 },
-          );
+          return prettyJsonResponse({ error: "Surah not found" }, 404);
         }
         throw error; // Re-throw other errors
       }
@@ -95,14 +93,14 @@ export async function GET(request: NextRequest) {
       // Sort surahs by id
       surahList.sort((a, b) => a.id - b.id);
 
-      return NextResponse.json({ surahs: surahList });
+      return prettyJsonResponse({ surahs: surahList });
     }
   } catch (error) {
-    return NextResponse.json(
+    return prettyJsonResponse(
       {
         error: `Failed to process request: ${(error as Error).message}`,
       },
-      { status: 500 },
+      500
     );
   }
 }
