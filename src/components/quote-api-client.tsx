@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState, useMemo } from "react";
+import { useEffect, useState } from "react";
 import { CodeBlock } from "@/components/code-block";
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
@@ -160,9 +160,6 @@ export function QuoteApiClient() {
     setTimeout(() => setHasCopied(null), 2000);
   };
 
-  const memoizedRandomHadith = useMemo(() => randomHadith, [randomHadith]);
-  const memoizedRandomVerse = useMemo(() => randomVerse, [randomVerse]);
-
   return (
     <>
       <section className="relative overflow-hidden pt-16 md:pt-20 text-center text-foreground">
@@ -189,7 +186,6 @@ export function QuoteApiClient() {
                 icon={<Server className="w-8 h-8 text-primary mb-2" />}
                 title="সূরা"
                 value="১+"
-                animationDelay="200ms"
               />
               <StatCard
                 icon={<CheckCircle className="w-8 h-8 text-primary mb-2" />}
@@ -221,16 +217,16 @@ export function QuoteApiClient() {
                     <p className="text-lg font-medium mb-4 italic">
                       {hadithLoading
                         ? "..."
-                        : memoizedRandomHadith
-                        ? memoizedRandomHadith.text
+                        : randomHadith
+                        ? randomHadith.text
                         : "উক্তি লোড হচ্ছে..."}
                     </p>
                     <p className="text-base text-muted-foreground font-english">
                       —{" "}
                       {hadithLoading
                         ? "..."
-                        : memoizedRandomHadith
-                        ? memoizedRandomHadith.author
+                        : randomHadith
+                        ? randomHadith.author
                         : "লেখক"}
                     </p>
                   </CardContent>
@@ -238,9 +234,9 @@ export function QuoteApiClient() {
                     size="icon"
                     variant="ghost"
                     onClick={() =>
-                      memoizedRandomHadith &&
+                      randomHadith &&
                       copyToClipboard(
-                        `"${memoizedRandomHadith.text}" - ${memoizedRandomHadith.author}`,
+                        `"${randomHadith.text}" - ${randomHadith.author}`,
                         "hadith",
                       )
                     }
@@ -279,23 +275,22 @@ export function QuoteApiClient() {
                     <p className="text-3xl font-arabic mb-4">
                       {verseLoading
                         ? "..."
-                        : memoizedRandomVerse
-                        ? memoizedRandomVerse.text
+                        : randomVerse
+                        ? randomVerse.text
                         : "আয়াত লোড হচ্ছে..."}
                     </p>
                     <p className="text-base text-muted-foreground">
-                      — সূরা {memoizedRandomVerse?.surah_name} (
-                      {memoizedRandomVerse?.surah_id}:
-                      {memoizedRandomVerse?.id})
+                      — সূরা {randomVerse?.surah_name} (
+                      {randomVerse?.surah_id}:{randomVerse?.id})
                     </p>
                   </CardContent>
                   <Button
                     size="icon"
                     variant="ghost"
                     onClick={() =>
-                      memoizedRandomVerse &&
+                      randomVerse &&
                       copyToClipboard(
-                        `"${memoizedRandomVerse.text}" - সূরা ${memoizedRandomVerse.surah_name} (${memoizedRandomVerse.surah_id}:${memoizedRandomVerse.id})`,
+                        `"${randomVerse.text}" - সূরা ${randomVerse.surah_name} (${randomVerse.surah_id}:${randomVerse.id})`,
                         "verse",
                       )
                     }

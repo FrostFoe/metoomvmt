@@ -14,6 +14,44 @@ const prettyJsonResponse = (data: any, status: number = 200) => {
   });
 };
 
+// Cache hadiths in memory
+let allHadiths: any[] | null = null;
+
+async function loadHadiths() {
+  if (allHadiths !== null) {
+    return allHadiths;
+  }
+
+  const hadithDir = getHadithDataPath();
+  try {
+    const files = await fs.readdir(hadithDir);
+    const hadithFiles = files.filter((file) => file.endsWith(".json"));
+
+    const loadedHadiths: any[] = [];
+    for (const file of hadithFiles) {
+      const filePath = path.join(hadithDir, file);
+      const fileContent = await fs.readFile(filePath, "utf8");
+      if (fileContent) {
+        const hadithData = JSON.parse(fileContent);
+        loadedHadiths.push(...hadithData);
+      }
+    }
+    allHadiths = loadedHadiths;
+    return allHadiths;
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code === "ENOENT") {
+      allHadiths = [];
+      return allHadiths;
+    }
+    console.error("Failed to load hadiths:", error);
+    allHadiths = []; // Cache empty array on error
+    return allHadiths;
+  }
+}
+
+// Preload hadiths on server start
+loadHadiths();
+
 // GET all hadiths, or a random hadith
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
@@ -22,40 +60,28 @@ export async function GET(request: NextRequest) {
   const author = searchParams.get("author");
   const random = searchParams.get("random");
 
-  const hadithDir = getHadithDataPath();
-
   try {
-    const files = await fs.readdir(hadithDir);
-    const hadithFiles = files.filter((file) => file.endsWith(".json"));
+    let hadiths = await loadHadiths();
 
-    let allHadiths: any[] = [];
-    for (const file of hadithFiles) {
-      const filePath = path.join(hadithDir, file);
-      const fileContent = await fs.readFile(filePath, "utf8");
-      // If file is empty, JSON.parse will throw an error.
-      if (fileContent) {
-        const hadithData = JSON.parse(fileContent);
-        allHadiths = allHadiths.concat(hadithData);
-      }
+    if (hadiths.length === 0) {
+      return prettyJsonResponse({ data: [], count: 0 });
     }
 
     if (random) {
-      if (allHadiths.length === 0) {
-        return prettyJsonResponse({ error: "No hadiths found" }, 404);
-      }
-      const randomItem =
-        allHadiths[Math.floor(Math.random() * allHadiths.length)];
+      const randomItem = hadiths[Math.floor(Math.random() * hadiths.length)];
       return prettyJsonResponse({ data: [randomItem], count: 1 });
     }
 
+    let filteredHadiths = [...hadiths];
+
     if (author) {
-      allHadiths = allHadiths.filter((q) =>
+      filteredHadiths = filteredHadiths.filter((q) =>
         q.author.toLowerCase().includes(author.toLowerCase())
       );
     }
 
     if (search) {
-      allHadiths = allHadiths.filter(
+      filteredHadiths = filteredHadiths.filter(
         (q) =>
           q.text.toLowerCase().includes(search.toLowerCase()) ||
           q.author.toLowerCase().includes(search.toLowerCase())
@@ -65,17 +91,15 @@ export async function GET(request: NextRequest) {
     if (limit) {
       const limitNum = parseInt(limit, 10);
       if (!isNaN(limitNum) && limitNum > 0) {
-        allHadiths = allHadiths.slice(0, limitNum);
+        filteredHadiths = filteredHadiths.slice(0, limitNum);
       }
     }
 
-    return prettyJsonResponse({ data: allHadiths, count: allHadiths.length });
+    return prettyJsonResponse({
+      data: filteredHadiths,
+      count: filteredHadiths.length,
+    });
   } catch (error) {
-     if ((error as NodeJS.ErrnoException).code === 'ENOENT') {
-        // This can happen if the directory doesn't exist or if hadith.json was deleted and the new dir structure is not yet in place.
-        // Return an empty array as if there are no hadiths.
-        return prettyJsonResponse({ data: [], count: 0 });
-    }
     return prettyJsonResponse(
       {
         error: `Failed to process request: ${(error as Error).message}`,
