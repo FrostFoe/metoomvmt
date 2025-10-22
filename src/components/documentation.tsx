@@ -9,6 +9,7 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { Badge } from "@/components/ui/badge";
+import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
 
 const responseFormatAll = `{
   "surahs": [
@@ -88,53 +89,62 @@ export function Documentation() {
         </div>
 
         <div className="max-w-5xl mx-auto grid gap-12">
-          <div className="rounded-xl shadow-lg border bg-card text-card-foreground animate-fade-in-up animation-delay-200">
-            <div className="p-6">
-              <h3 className="text-2xl font-bold mb-4">উপলব্ধ এন্ডপয়েন্ট</h3>
-            </div>
-            <div className="overflow-x-auto">
-              <Table>
-                <TableHeader>
-                  <TableRow>
-                    <TableHead className="w-[100px]">পদ্ধতি</TableHead>
-                    <TableHead>পথ</TableHead>
-                    <TableHead>বর্ণনা</TableHead>
-                  </TableRow>
-                </TableHeader>
-                <TableBody>
-                  {endpoints.map((endpoint, index) => (
-                    <TableRow key={index}>
-                      <TableCell>
-                        <Badge variant="default" className="text-sm font-english">
-                          {endpoint.method}
-                        </Badge>
-                      </TableCell>
-                      <TableCell>
-                        <code className="font-mono text-sm md:text-base bg-muted px-2 py-1 rounded-md break-words font-english">
-                          {endpoint.path}
-                        </code>
-                      </TableCell>
-                      <TableCell className="text-muted-foreground">
-                        {endpoint.description}
-                      </TableCell>
+          <Card className="animate-fade-in-up animation-delay-200 shadow-lg border">
+            <CardHeader>
+              <CardTitle className="text-2xl">উপলব্ধ এন্ডপয়েন্ট</CardTitle>
+            </CardHeader>
+            <CardContent>
+              <div className="overflow-x-auto">
+                <Table>
+                  <TableHeader>
+                    <TableRow>
+                      <TableHead className="w-[100px]">পদ্ধতি</TableHead>
+                      <TableHead>পথ</TableHead>
+                      <TableHead>বর্ণনা</TableHead>
                     </TableRow>
-                  ))}
-                </TableBody>
-              </Table>
-            </div>
-          </div>
+                  </TableHeader>
+                  <TableBody>
+                    {endpoints.map((endpoint, index) => (
+                      <TableRow key={index}>
+                        <TableCell>
+                          <Badge
+                            variant="default"
+                            className="text-sm font-english"
+                          >
+                            {endpoint.method}
+                          </Badge>
+                        </TableCell>
+                        <TableCell>
+                          <code className="font-mono text-sm md:text-base bg-muted px-2 py-1 rounded-md break-words font-english">
+                            {endpoint.path}
+                          </code>
+                        </TableCell>
+                        <TableCell className="text-muted-foreground">
+                          {endpoint.description}
+                        </TableCell>
+                      </TableRow>
+                    ))}
+                  </TableBody>
+                </Table>
+              </div>
+            </CardContent>
+          </Card>
 
-          <div className="p-6 rounded-xl shadow-lg border bg-card text-card-foreground animate-fade-in-up animation-delay-400">
-            <h3 className="text-2xl font-bold mb-4">প্রতিক্রিয়া ফর্ম্যাট</h3>
-            <p className="text-muted-foreground mb-2">
-              `/api/quran` পথের জন্য প্রতিক্রিয়া:
-            </p>
-            <CodeBlock code={responseFormatAll} className="mb-4" />
-            <p className="text-muted-foreground mb-2">
-              `/api/quran?id=[id]` পথের জন্য প্রতিক্রিয়া:
-            </p>
-            <CodeBlock code={responseFormatOne} />
-          </div>
+          <Card className="animate-fade-in-up animation-delay-400 shadow-lg border">
+            <CardHeader>
+              <CardTitle className="text-2xl">প্রতিক্রিয়া ফর্ম্যাট</CardTitle>
+            </CardHeader>
+            <CardContent>
+              <p className="text-muted-foreground mb-2">
+                `/api/quran` পথের জন্য প্রতিক্রিয়া:
+              </p>
+              <CodeBlock code={responseFormatAll} className="mb-4" />
+              <p className="text-muted-foreground mb-2">
+                `/api/quran?id=[id]` পথের জন্য প্রতিক্রিয়া:
+              </p>
+              <CodeBlock code={responseFormatOne} />
+            </CardContent>
+          </Card>
         </div>
       </div>
     </section>
