@@ -74,12 +74,12 @@ export function Documentation() {
   return (
     <section
       id="documentation"
-      className="py-16 md:py-20 bg-white dark:bg-gray-950"
+      className="py-16 md:py-20 bg-background"
     >
       <div className="container mx-auto px-6">
         <div className="text-center mb-12">
           <BookOpenCheck className="w-12 h-12 mx-auto mb-4 gradient-text" />
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-800 dark:text-white">
+          <h2 className="text-3xl md:text-4xl font-bold">
             API ডকুমেন্টেশন
           </h2>
           <p className="text-muted-foreground mt-2">

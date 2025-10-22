@@ -47,7 +47,7 @@ const StatCard = ({
   animationDelay?: string;
 }) => (
   <Card
-    className="text-center animate-fade-in-up bg-background/20 backdrop-blur-sm border-white/20"
+    className="text-center animate-fade-in-up bg-card/80 backdrop-blur-sm border"
     style={{ animationDelay }}
   >
     <CardHeader className="items-center">
@@ -55,7 +55,7 @@ const StatCard = ({
       <CardTitle className="text-4xl font-bold font-english">{value}</CardTitle>
     </CardHeader>
     <CardContent>
-      <p className="text-sm text-white/80">{title}</p>
+      <p className="text-sm text-muted-foreground">{title}</p>
     </CardContent>
   </Card>
 );
@@ -165,13 +165,13 @@ export function QuoteApiClient() {
 
   return (
     <>
-      <section className="relative overflow-hidden pt-16 md:pt-20 text-center gradient-bg text-white">
+      <section className="relative overflow-hidden pt-16 md:pt-20 text-center text-foreground">
         <div className="container mx-auto px-6">
           <div className="mb-12 animate-fade-in-down">
-            <h1 className="text-4xl md:text-6xl font-bold mb-4">
+            <h1 className="text-4xl md:text-6xl font-bold mb-4 gradient-text">
               বিনামূল্যে কুরআন ও হাদিস API
             </h1>
-            <p className="text-md md:text-xl mb-8 text-white/80 max-w-3xl mx-auto font-english">
+            <p className="text-md md:text-xl mb-8 text-muted-foreground max-w-3xl mx-auto font-english">
               A simple, frontend-only Quran and Hadith API for your projects. No
               keys, no limits, just quotes.
             </p>
@@ -180,19 +180,19 @@ export function QuoteApiClient() {
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 md:grid-cols-2">
               <StatCard
-                icon={<FileJson className="w-8 h-8 text-white mb-2" />}
+                icon={<FileJson className="w-8 h-8 text-primary mb-2" />}
                 title="হাদিস"
                 value="২+"
                 animationDelay="100ms"
               />
               <StatCard
-                icon={<Server className="w-8 h-8 text-white mb-2" />}
+                icon={<Server className="w-8 h-8 text-primary mb-2" />}
                 title="সূরা"
                 value="১+"
                 animationDelay="200ms"
               />
               <StatCard
-                icon={<CheckCircle className="w-8 h-8 text-white mb-2" />}
+                icon={<CheckCircle className="w-8 h-8 text-primary mb-2" />}
                 title="বিনামূল্যে"
                 value="১০০%"
                 animationDelay="300ms"
@@ -203,18 +203,18 @@ export function QuoteApiClient() {
               defaultValue="hadith"
               className="w-full animate-fade-in-up animation-delay-400"
             >
-              <TabsList className="grid w-full grid-cols-2 bg-white/20">
-                <TabsTrigger value="hadith" className="text-white data-[state=active]:bg-white/90 data-[state=active]:text-primary">
+              <TabsList className="grid w-full grid-cols-2">
+                <TabsTrigger value="hadith">
                   এলোমেলো হাদিস
                 </TabsTrigger>
-                <TabsTrigger value="verse" className="text-white data-[state=active]:bg-white/90 data-[state=active]:text-primary">
+                <TabsTrigger value="verse">
                   এলোমেলো আয়াত
                 </TabsTrigger>
               </TabsList>
               <TabsContent value="hadith">
-                <Card className="group relative bg-white/10 border-white/20 text-white">
+                <Card className="group relative">
                   <CardHeader className="items-center">
-                    <QuoteIcon className="text-4xl text-white" />
+                    <QuoteIcon className="text-4xl text-primary" />
                     <CardTitle>এলোমেলো হাদিস</CardTitle>
                   </CardHeader>
                   <CardContent className="text-center min-h-[150px] flex flex-col justify-center">
@@ -225,7 +225,7 @@ export function QuoteApiClient() {
                         ? memoizedRandomHadith.text
                         : "উক্তি লোড হচ্ছে..."}
                     </p>
-                    <p className="text-base text-white/70 font-english">
+                    <p className="text-base text-muted-foreground font-english">
                       —{" "}
                       {hadithLoading
                         ? "..."
@@ -244,11 +244,11 @@ export function QuoteApiClient() {
                         "hadith",
                       )
                     }
-                    className="absolute top-4 right-4 h-8 w-8 opacity-0 group-hover:opacity-100 transition-opacity hover:bg-white/20"
+                    className="absolute top-4 right-4 h-8 w-8 opacity-0 group-hover:opacity-100 transition-opacity"
                     aria-label="উক্তি কপি করুন"
                   >
                     {hasCopied === "hadith" ? (
-                      <Check className="h-4 w-4 text-green-400" />
+                      <Check className="h-4 w-4 text-green-500" />
                     ) : (
                       <Copy className="h-4 w-4" />
                     )}
@@ -258,7 +258,6 @@ export function QuoteApiClient() {
                       onClick={fetchRandomHadith}
                       size="lg"
                       disabled={hadithLoading}
-                      className="bg-white text-primary hover:bg-white/90"
                     >
                       <RefreshCw
                         className={`w-4 h-4 mr-2 ${
@@ -271,9 +270,9 @@ export function QuoteApiClient() {
                 </Card>
               </TabsContent>
               <TabsContent value="verse">
-                <Card className="group relative bg-white/10 border-white/20 text-white">
+                <Card className="group relative">
                   <CardHeader className="items-center">
-                    <QuoteIcon className="text-4xl text-white" />
+                    <QuoteIcon className="text-4xl text-primary" />
                     <CardTitle>এলোমেলো আয়াত</CardTitle>
                   </CardHeader>
                   <CardContent className="text-center min-h-[150px] flex flex-col justify-center">
@@ -284,7 +283,7 @@ export function QuoteApiClient() {
                         ? memoizedRandomVerse.text
                         : "আয়াত লোড হচ্ছে..."}
                     </p>
-                    <p className="text-base text-white/70">
+                    <p className="text-base text-muted-foreground">
                       — সূরা {memoizedRandomVerse?.surah_name} (
                       {memoizedRandomVerse?.surah_id}:
                       {memoizedRandomVerse?.id})
@@ -300,11 +299,11 @@ export function QuoteApiClient() {
                         "verse",
                       )
                     }
-                    className="absolute top-4 right-4 h-8 w-8 opacity-0 group-hover:opacity-100 transition-opacity hover:bg-white/20"
+                    className="absolute top-4 right-4 h-8 w-8 opacity-0 group-hover:opacity-100 transition-opacity"
                     aria-label="আয়াত কপি করুন"
                   >
                     {hasCopied === "verse" ? (
-                      <Check className="h-4 w-4 text-green-400" />
+                      <Check className="h-4 w-4 text-green-500" />
                     ) : (
                       <Copy className="h-4 w-4" />
                     )}
@@ -314,7 +313,6 @@ export function QuoteApiClient() {
                       onClick={fetchRandomVerse}
                       size="lg"
                       disabled={verseLoading}
-                      className="bg-white text-primary hover:bg-white/90"
                     >
                       <RefreshCw
                         className={`w-4 h-4 mr-2 ${
@@ -334,12 +332,12 @@ export function QuoteApiClient() {
 
       <section
         id="try-it"
-        className="py-16 md:py-20 bg-gray-50 dark:bg-gray-900 -mt-24"
+        className="py-16 md:py-20 bg-muted/40"
       >
         <div className="container mx-auto px-6">
           <div className="text-center mb-12">
             <FlaskConical className="w-10 h-10 mr-3 inline-block gradient-text" />
-            <h2 className="text-3xl md:text-4xl font-bold text-center text-gray-800 dark:text-white">
+            <h2 className="text-3xl md:text-4xl font-bold text-center">
               চেষ্টা করে দেখুন
             </h2>
             <p className="text-muted-foreground mt-2">
@@ -407,7 +405,7 @@ export function QuoteApiClient() {
           </Card>
 
           <div className="max-w-4xl mx-auto mt-8">
-            <h3 className="text-xl font-bold mb-4 text-gray-800 dark:text-white">
+            <h3 className="text-xl font-bold mb-4">
               দ্রুত উদাহরণ
             </h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
