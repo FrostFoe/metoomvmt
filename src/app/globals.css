@@ -83,4 +83,10 @@
   .animation-delay-400 {
     animation-delay: 400ms;
   }
+  .font-bengali {
+    font-family: var(--font-hind-siliguri);
+  }
+  .font-arabic {
+    font-family: var(--font-lateef);
+  }
 }

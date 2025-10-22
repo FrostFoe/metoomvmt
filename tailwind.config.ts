@@ -17,7 +17,9 @@ export default {
     },
     extend: {
       fontFamily: {
-        sans: ["var(--font-hind-siliguri)", "sans-serif"],
+        sans: ["var(--font-poppins)", "sans-serif"],
+        bengali: ["var(--font-hind-siliguri)", "sans-serif"],
+        arabic: ["var(--font-lateef)", "serif"],
       },
       colors: {
         background: "hsl(var(--background))",

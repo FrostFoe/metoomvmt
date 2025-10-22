@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Hind_Siliguri } from "next/font/google";
+import { Hind_Siliguri, Poppins, Lateef } from "next/font/google";
 import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
 import { ThemeProvider } from "@/components/theme-provider";
@@ -7,10 +7,22 @@ import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { Analytics } from "@vercel/analytics/react";
 
+const poppins = Poppins({
+  subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
+  variable: "--font-poppins",
+});
+
 const hindSiliguri = Hind_Siliguri({
   subsets: ["bengali", "latin"],
   weight: ["300", "400", "500", "600", "700"],
   variable: "--font-hind-siliguri",
+});
+
+const lateef = Lateef({
+  subsets: ["arabic"],
+  weight: ["400", "700"],
+  variable: "--font-lateef",
 });
 
 export const metadata: Metadata = {
@@ -29,10 +41,10 @@ export default function RootLayout({
   return (
     <html
       lang="bn"
-      className={`${hindSiliguri.variable} scroll-smooth`}
+      className={`${poppins.variable} ${hindSiliguri.variable} ${lateef.variable} scroll-smooth`}
       suppressHydrationWarning
     >
-      <body className="antialiased bg-gray-50 dark:bg-gray-900 transition-colors duration-300">
+      <body className="antialiased bg-gray-50 dark:bg-gray-900 transition-colors duration-300 font-sans">
         <ThemeProvider
           attribute="class"
           defaultTheme="system"
