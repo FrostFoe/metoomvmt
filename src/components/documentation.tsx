@@ -105,12 +105,12 @@ export function Documentation() {
                   {endpoints.map((endpoint, index) => (
                     <TableRow key={index}>
                       <TableCell>
-                        <Badge variant="default" className="text-sm">
+                        <Badge variant="default" className="text-sm font-english">
                           {endpoint.method}
                         </Badge>
                       </TableCell>
                       <TableCell>
-                        <code className="font-mono text-sm md:text-base bg-muted px-2 py-1 rounded-md break-words">
+                        <code className="font-mono text-sm md:text-base bg-muted px-2 py-1 rounded-md break-words font-english">
                           {endpoint.path}
                         </code>
                       </TableCell>

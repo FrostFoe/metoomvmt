@@ -5,7 +5,8 @@ export function Footer() {
     <footer className="bg-background text-muted-foreground py-8">
       <div className="container mx-auto px-6 text-center">
         <div className="flex justify-center items-center space-x-2 mb-4">
-          <p>Next.js দিয়ে</p>
+          <p className="font-english">Next.js</p>
+          <p>দিয়ে</p>
           <Heart className="h-5 w-5 text-red-400 fill-red-400" />
           <p>দিয়ে নির্মিত</p>
         </div>
