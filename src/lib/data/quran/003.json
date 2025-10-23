@@ -1,0 +1,363 @@
+
+{
+  "id": 3,
+  "name": "آل عمران",
+  "transliteration": "Al-i'Imran",
+  "translation": "The Family of Imran",
+  "type": "Medinan",
+  "total_verses": 200,
+  "verses": [
+    {
+      "id": 1,
+      "text": "الٓمٓ",
+      "transliteration": "Alif-Lām-Mīm",
+      "translation_bn": "আলিফ লাম মীম।",
+      "translation_en": "A.L.M."
+    },
+    {
+      "id": 2,
+      "text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْحَىُّ ٱلْقَيُّومُ",
+      "transliteration": "Allāhu lā ilāha illā huwal-ḥayyul-qayyūm",
+      "translation_bn": "আল্লাহ ছাড়া কোন উপাস্য নেই, তিনি চিরঞ্জীব, সবকিছুর ধারক।",
+      "translation_en": "Allah! There is no god but He,-the Living, the Self-Subsisting, Eternal."
+    },
+    {
+      "id": 3,
+      "text": "نَزَّلَ عَلَيْكَ ٱلْكِتَٰبَ بِٱلْحَقِّ مُصَدِّقًا لِّمَا بَيْنَ يَدَيْهِ وَأَنزَلَ ٱلتَّوْرَىٰةَ وَٱلْإِنجِيلَ",
+      "transliteration": "Nazzala 'alaykal-kitāba bil-ḥaqqi muṣaddiqal limā bayna yadayhi wa anzalat-tawrāta wal-injīl",
+      "translation_bn": "তিনি আপনার প্রতি কিতাব নাযিল করেছেন সত্যতার সাথে; যা সত্যায়ন করে পূর্ববর্তী কিতাবসমুহের।",
+      "translation_en": "It is He Who sent down to thee (step by step), in truth, the Book, confirming what went before it; and He sent down the Law (of Moses) and the Gospel (of Jesus) before this, as a guide to mankind, and He sent down the criterion (of judgment between right and wrong)."
+    },
+    {
+      "id": 4,
+      "text": "مِن قَبْلُ هُدًى لِّلنَّاسِ وَأَنزَلَ ٱلْفُرْقَانَ إِنَّ ٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِ ٱللَّهِ لَهُمْ عَذَابٌ شَدِيدٌ وَٱللَّهُ عَزِيزٌ ذُو ٱنتِقَامٍ",
+      "transliteration": "Min qablu hudal lin-nāsi wa anzalal-furqān, innalladhīna kafarū bi'āyātillāhi lahum 'adhābun shadīd, wallāhu 'azīzun dhun-tiqām",
+      "translation_bn": "নাযিল করেছেন তাওরত ও ইঞ্জিল, এ কিতাবের পূর্বে, মানুষের হেদায়েতের জন্যে এবং অবতীর্ণ করেছেন মীমাংসা। নিঃসন্দেহে যারা আল্লাহর আয়াতসমূহ অস্বীকার করে, তাদের জন্যে রয়েছে কঠিন আযাব। আর আল্লাহ হচ্ছেন পরাক্রমশীল, প্রতিশোধ গ্রহণকারী।",
+      "translation_en": "Then those who reject Faith in the Signs of Allah will suffer the severest penalty, and Allah is Exalted in Might, Lord of Retribution."
+    },
+    {
+      "id": 5,
+      "text": "إِنَّ ٱللَّهَ لَا يَخْفَىٰ عَلَيْهِ شَىْءٌ فِى ٱلْأَرْضِ وَلَا فِى ٱلسَّمَآءِ",
+      "transliteration": "Innallāha lā yakhfā 'alayhi shay'un fil-arḍi wa lā fis-samā'",
+      "translation_bn": "আল্লাহর নিকট আসমান ও যমীনের কোন বিষয়ই গোপন নেই।",
+      "translation_en": "From Allah, verily nothing is hidden on earth or in the heavens."
+    },
+    {
+      "id": 6,
+      "text": "هُوَ ٱلَّذِى يُصَوِّرُكُمْ فِى ٱلْأَرْحَامِ كَيْفَ يَشَآءُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "transliteration": "Huwalladhī yuṣawwirukum fil-arḥāmi kayfa yashā', lā ilāha illā huwal-'azīzul-ḥakīm",
+      "translation_bn": "তিনিই সেই আল্লাহ, যিনি তোমাদের আকৃতি গঠন করেন মায়ের গর্ভে, যেমন তিনি চেয়েছেন। তিনি ছাড়া আর কোন উপাস্য নেই। তিনি প্রবল পরাক্রমশীল, প্রজ্ঞাময়।",
+      "translation_en": "He it is Who shapes you in the wombs as He pleases. There is no god but He, the Exalted in Might, the Wise."
+    },
+    {
+      "id": 7,
+      "text": "هُوَ ٱلَّذِىٓ أَنزَلَ عَلَيْكَ ٱلْكِتَٰبَ مِنْهُ ءَايَٰتٌ مُّحْكَمَٰتٌ هُنَّ أُمُّ ٱلْكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٌ فَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِمْ زَيْغٌ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنْهُ ٱبْتِغَآءَ ٱلْفِتْنَةِ وَٱبْتِغَآءَ تَأْوِيلِهِۦ وَمَا يَعْلَمُ تَأْوِيلَهُۥٓ إِلَّا ٱللَّهُ وَٱلرَّٰسِخُونَ فِى ٱلْعِلْمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلٌّ مِّنْ عِندِ رَبِّنَا وَمَا يَذَّكَّرُ إِلَّآ أُو۟لُوا۟ ٱلْأَلْبَٰبِ",
+      "transliteration": "Huwalladhī anzala 'alaykal-kitāba minhu āyātum muḥkamātun hunna ummul-kitābi wa ukharu mutashābihāt, fa'ammalladhīna fī qulūbihim zayghun fayattabi'ūna mā tashābaha minhubtighā'al-fitnati wabtighā'a ta'wīlih, wa mā ya'lamu ta'wīlahū illallāh, war-rāsikhūna fil-'ilmi yaqūlūna āmannā bihī kullum min 'indi rabbinā, wa mā yadhdhakkaru illā ulul-albāb",
+      "translation_bn": "তিনিই আপনার প্রতি কিতাব নাযিল করেছেন। তাতে কিছু আয়াত রয়েছে সুস্পষ্ট, সেগুলোই কিতাবের আসল অংশ। আর অন্যগুলো রূপক। সুতরাং যাদের অন্তরে কুটিলতা রয়েছে, তারা অনুসরণ করে ফিৎনা বিস্তার এবং অপব্যাখ্যার উদ্দেশে তন্মধ্যেকার রূপকগুলোর। আর সেগুলোর ব্যাখ্যা আল্লাহ ব্যতীত কেউ জানে না। আর যারা জ্ঞানে সুগভীর, তারা বলেনঃ আমরা এর প্রতি ঈমান এনেছি। এই সবই আমাদের পালনকর্তার পক্ষ থেকে অবতীর্ণ হয়েছে। আর বোধশক্তি সম্পন্নেরা ছাড়া অপর কেউ শিক্ষা গ্রহণ করে না।",
+      "translation_en": "He it is Who has sent down to thee the Book: In it are verses basic or fundamental (of established meaning); they are the foundation of the Book: others are allegorical. But those in whose hearts is perversity follow the part thereof that is allegorical, seeking discord, and searching for its hidden meanings, but no one knows its hidden meanings except Allah. And those who are firmly grounded in knowledge say: \"We believe in the Book; the whole of it is from our Lord:\" and none will grasp the Message except men of understanding."
+    },
+    {
+      "id": 8,
+      "text": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "transliteration": "Rabbanā lā tuzigh qulūbanā ba'da idh hadaytanā wa hab lanā mil ladunka raḥmah, innaka antal-wahhāb",
+      "translation_bn": "হে আমাদের পালনকর্তা! সরল পথ প্রদর্শনের পর তুমি আমাদের অন্তরকে সত্যলংঘনে প্রবৃত্ত করোনা এবং তোমার নিকট থেকে আমাদিগকে অনুগ্রহ দান কর। তুমিই সব কিছুর দাতা।",
+      "translation_en": "\"Our Lord!\" (they say), \"Let not our hearts deviate now after Thou hast guided us, but grant us mercy from Thine own Presence; for Thou art the Grantor of bounties without measure."
+    },
+    {
+      "id": 9,
+      "text": "رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوْمٍ لَّا رَيْبَ فِيهِ إِنَّ ٱللَّهَ لَا يُخْلِفُ ٱلْمِيعَادَ",
+      "transliteration": "Rabbanā innaka jāmi'un-nāsi li-yawmil lā rayba fīh, innallāha lā yukhliful-mī'ād",
+      "translation_bn": "হে আমাদের পালনকর্তা! তুমি মানুষকে একদিন অবশ্যই একত্রিত করবেঃ এতে কোনই সন্দেহ নেই। নিশ্চয় আল্লাহ তাঁর ওয়াদার অন্যথা করেন না।",
+      "translation_en": "\"Our Lord! Thou art He that will gather mankind Together against a day about which there is no doubt; for Allah never fails in His promise.\""
+    },
+    {
+      "id": 10,
+      "text": "إِنَّ ٱلَّذِينَ كَفَرُوا۟ لَن تُغْنِىَ عَنْهُمْ أَمْوَٰلُهُمْ وَلَآ أَوْلَٰدُهُم مِّنَ ٱللَّهِ شَيْـًٔا وَأُو۟لَٰٓئِكَ هُمْ وَقُودُ ٱلنَّارِ",
+      "transliteration": "Innalladhīna kafarū lan tughniya 'anhum amwāluhum wa lā awlāduhum minallāhi shay'ā, wa ulā'ika hum waqūdun-nār",
+      "translation_bn": "যারা কুফুরী করে, তাদের ধন-সম্পদ ও সন্তান-সন্ততি আল্লাহর সামনে কখনও কাজে আসবে না। আর তারাই হচ্ছে দোযখের ইন্ধন।",
+      "translation_en": "Those who reject Faith,- neither their possessions nor their (numerous) progeny will avail them aught against Allah: They are themselves but fuel for the Fire."
+    },
+    {
+      "id": 11,
+      "text": "كَدَأْبِ ءَالِ فِرْعَوْنَ وَٱلَّذِينَ مِن قَبْلِهِمْ كَذَّبُوا۟ بِـَٔايَٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمْ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ",
+      "transliteration": "Kada'bi āli fir'awna walladhīna min qablihim, kadhdhabū bi'āyātinā fa'akhadhahumullāhu bidhunūbihim, wallāhu shadīdul-'iqāb",
+      "translation_bn": "ফেরআউনের সম্প্রদায় এবং তাদের পূর্ববর্তীদের ধারা অনুযায়ীই তারা আমার আয়াতসমূহকে মিথ্যা প্রতিপন্ন করেছে। ফলে তাদের পাপের কারণে আল্লাহ তাদেরকে পাকড়াও করেছেন আর আল্লাহর আযাব অতি কঠিন।",
+      "translation_en": "(Their plight will be) no better than that of the people of Pharaoh, and their predecessors: They denied our Signs, and Allah called them to account for their sins. For Allah is strict in punishment."
+    },
+    {
+      "id": 12,
+      "text": "قُل لِّلَّذِينَ كَفَرُوا۟ سَتُغْلَبُونَ وَتُحْشَرُونَ إِلَىٰ جَهَنَّمَ وَبِئْسَ ٱلْمِهَادُ",
+      "transliteration": "Qul lilladhīna kafarū satughlabūna wa tuḥsharūna ilā jahannam, wa bi'sal-mihād",
+      "translation_bn": "কাফেরদিগকে বলে দিন, খুব শিগগীরই তোমরা পরাভূত হয়ে দোযখের দিকে হাঁকিয়ে নীত হবে-সেটা কতই না নিকৃষ্টতম অবস্থান।",
+      "translation_en": "Say to those who reject Faith: \"Soon will ye be vanquished and gathered together to Hell,-an evil bed indeed (to lie on)!"
+    },
+    {
+      "id": 13,
+      "text": "قَدْ كَانَ لَكُمْ ءَايَةٌ فِى فِئَتَيْنِ ٱلْتَقَتَا فِئَةٌ تُقَٰتِلُ فِى سَبِيلِ ٱللَّهِ وَأُخْرَىٰ كَافِرَةٌ يَرَوْنَهُم مِّثْلَيْهِمْ رَأْىَ ٱلْعَيْنِ وَٱللَّهُ يُؤَيِّدُ بِنَصْرِهِۦ مَن يَشَآءُ إِنَّ فِى ذَٰلِكَ لَعِبْرَةً لِّأُو۟لِى ٱلْأَبْصَٰرِ",
+      "transliteration": "Qad kāna lakum āyatun fī fi'ataynill-taqatā, fi'atun tuqātilu fī sabīlillāhi wa ukhrā kāfiratuy yarawnahum mithlayhim ra'yal-'ayn, wallāhu yu'ayyidu bi-naṣrihī may yashā', inna fī dhālika la'ibratal li-ulil-abṣār",
+      "translation_bn": "নিশ্চয়ই দুটো দলের মোকাবিলার মধ্যে তোমাদের জন্য নিদর্শন ছিল। একটি দল আল্লাহর রাহে যুদ্ধ করে। আর অপর দল ছিল কাফেরদের এরা স্বচক্ষে তাদেরকে দ্বিগুন দেখছিল। আর আল্লাহ যাকে নিজের সাহায্যের মাধ্যমে শক্তি দান করেন। এরই মধ্যে শিক্ষনীয় রয়েছে দৃষ্টি সম্পন্নদের জন্য।",
+      "translation_en": "\"There has already been for you a Sign in the two armies that met (in combat): One was fighting in the cause of Allah, the other resisting Allah; these saw with their own eyes Twice their number. But Allah doth support with His aid whom He pleaseth. In this is a warning for such as have eyes to see.\""
+    },
+    {
+      "id": 14,
+      "text": "زُيِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَٰتِ مِنَ ٱلنِّسَآءِ وَٱلْبَنِينَ وَٱلْقَنَٰطِيرِ ٱلْمُقَنطَرَةِ مِنَ ٱلذَّهَبِ وَٱلْفِضَّةِ وَٱلْخَيْلِ ٱلْمُسَوَّمَةِ وَٱلْأَنْعَٰمِ وَٱلْحَرْثِ ذَٰلِكَ مَتَٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا وَٱللَّهُ عِندَهُۥ حُسْنُ ٱلْمَـَٔابِ",
+      "transliteration": "Zuyyina lin-nāsi ḥubbush-shahawāti minan-nisā'i wal-banīna wal-qanāṭīril-muqanṭarati minadh-dhahabi wal-fiḍḍati wal-khaylil-musawwamati wal-an'āmi wal-ḥarth, dhālika matā'ul-ḥayātid-dun-yā, wallāhu 'indahū ḥusnul-ma'āb",
+      "translation_bn": "মানবকূলকে মোহগ্রস্ত করেছে নারী, সন্তান-সন্ততি, রাশিকৃত স্বর্ণ-রৌপ্য, চিহ্নিত অশ্ব, গবাদি পশুরাজি এবং ক্ষেত-খামারের মত আকর্ষণীয় বস্তুসামগ্রী। এসবই হচ্ছে পার্থিব জীবনের ভোগ্য বস্তু। আল্লাহর নিকটই হলো উত্তম আশ্রয়।",
+      "translation_en": "Fair in the eyes of men is the love of things they covet: Women and sons; Heaped-up hoards of gold and silver; horses branded (for blood and excellence); and (wealth of) cattle and well-tilled land. Such are the possessions of this world's life; but in nearness to Allah is the best of the goals (To return to)."
+    },
+    {
+      "id": 15,
+      "text": "قُلْ أَؤُنَبِّئُكُم بِخَيْرٍ مِّن ذَٰلِكُمْ لِلَّذِينَ ٱتَّقَوْا۟ عِندَ رَبِّهِمْ جَنَّٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَٰرُ خَٰلِدِينَ فِيهَا وَأَزْوَٰجٌ مُّطَهَّرَةٌ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ",
+      "transliteration": "Qul a'unabbi'ukum bi-khayrim min dhālikum, lilladhīnat-taqaw 'inda rabbihim jannātun tajrī min taḥtihal-anhāru khālidīna fīhā wa azwājum muṭahharatuw wa riḍwānum minallāh, wallāhu baṣīrum bil-'ibād",
+      "translation_bn": "বলুন, আমি কি তোমাদেরকে এসবের চাইতেও উত্তম বিষয়ের সন্ধান বলবো?-যারা পরহেযগার, আল্লাহর নিকট তাদের জন্যে রয়েছে বেহেশত, যার তলদেশে প্রস্রবণ প্রবাহিত-তারা সেখানে থাকবে অনন্তকাল। আর রয়েছে পরিচ্ছন্ন সঙ্গিনীগণ এবং আল্লাহর সন্তুষ্টি। আর আল্লাহ তাঁর বান্দাদের প্রতি সুদৃষ্টি রাখেন।",
+      "translation_en": "Say: Shall I give you glad tidings of things Far better than those? For the righteous are Gardens in nearness to their Lord, with rivers flowing beneath; therein is their eternal home; with companions pure (and holy); and the good pleasure of Allah. For in Allah's sight are (all) His servants,-"
+    },
+    {
+      "id": 16,
+      "text": "ٱلَّذِينَ يَقُولُونَ رَبَّنَآ إِنَّنَآ ءَامَنَّا فَٱغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ ٱلنَّارِ",
+      "transliteration": "Alladhīna yaqūlūna rabbanā innanā āmannā faghfir lanā dhunūbanā wa qinā 'adhāban-nār",
+      "translation_bn": "যারা বলে, হে আমাদের পালনকর্তা, আমরা ঈমান এনেছি, কাজেই আমাদের গোনাহ ক্ষমা করে দাও আর আমাদেরকে দোযখের আযাব থেকে রক্ষা কর।",
+      "translation_en": "(Namely), those who say: \"Our Lord! we have indeed believed: forgive us, then, our sins, and save us from the agony of the Fire;\"-"
+    },
+    {
+      "id": 17,
+      "text": "ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلْقَٰنِتِينَ وَٱلْمُنفِقِينَ وَٱلْمُسْتَغْفِرِينَ بِٱلْأَسْحَارِ",
+      "transliteration": "Aṣ-ṣābirīna waṣ-ṣādiqīna wal-qānitīna wal-munfiqīna wal-mustaghfirīna bil-asḥār",
+      "translation_bn": "তারা ধৈর্য্যধারণকারী, সত্যবাদী, নির্দেশ সম্পাদনকারী, সৎপথে ব্যয়কারী এবং শেষরাতে ক্ষমা প্রার্থনাকারী।",
+      "translation_en": "Those who show patience, Firmness and self-control; who are true (in word and deed); who worship devoutly; who spend (in the way of Allah); and who pray for forgiveness in the early hours of the morning."
+    },
+    {
+      "id": 18,
+      "text": "شَهِدَ ٱللَّهُ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا هُوَ وَٱلْمَلَٰٓئِكَةُ وَأُو۟لُوا۟ ٱلْعِلْمِ قَآئِمًۢا بِٱلْقِسْطِ لَآ إِلَٰهَ إِلَّا هُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "transliteration": "Shahidallāhu annahū lā ilāha illā huwa wal-malā'ikatu wa ulul-'ilmi qā'imam bil-qisṭ, lā ilāha illā huwal-'azīzul-ḥakīm",
+      "translation_bn": "আল্লাহ সাক্ষ্য দিয়েছেন যে, তাঁকে ছাড়া আর কোন উপাস্য নেই। ফেরেশতাগণ এবং ন্যায়নিষ্ঠ জ্ঞানীগণও সাক্ষ্য দিয়েছেন যে, তিনি ছাড়া আর কোন ইলাহ নেই। তিনি পরাক্রমশালী প্রজ্ঞাময়।",
+      "translation_en": "There is no god but He: That is the witness of Allah, His angels, and those endued with knowledge, standing firm on justice. There is no god but He, the Exalted in Power, the Wise."
+    },
+    {
+      "id": 19,
+      "text": "إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلْإِسْلَٰمُ وَمَا ٱخْتَلَفَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ إِلَّا مِنۢ بَعْدِ مَا جَآءَهُمُ ٱلْعِلْمُ بَغْيًۢا بَيْنَهُمْ وَمَن يَكْفُرْ بِـَٔايَٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلْحِسَابِ",
+      "transliteration": "Innad-dīna 'indallāhil-islām, wa makhtalafalladhīna ūtul-kitāba illā mim ba'di mā jā'ahumul-'ilmu baghyam baynahum, wa may yakfur bi'āyātillāhi fa'innallāha sarī'ul-ḥisāb",
+      "translation_bn": "নিঃসন্দেহে আল্লাহর নিকট গ্রহণযোগ্য দ্বীন একমাত্র ইসলাম। এবং যাদের প্রতি কিতাব দেয়া হয়েছে তাদের নিকট প্রকৃত জ্ঞান আসার পরও ওরা মতবিরোধে লিপ্ত হয়েছে, শুধুমাত্র পরস্পর বিদ্বেষবশতঃ, যারা আল্লাহর নিদর্শনসমূহের প্রতি কুফরী করে তাদের জানা উচিত যে, নিশ্চিতরূপে আল্লাহ হিসাব গ্রহণে অত্যন্ত দ্রুত।",
+      "translation_en": "The Religion before Allah is Islam (submission to His Will): Nor did the People of the Book dissent therefrom except through envy of each other, after knowledge had come to them. But if any deny the Signs of Allah, Allah is swift in calling to account."
+    },
+    {
+      "id": 20,
+      "text": "فَإِنْ حَآجُّوكَ فَقُلْ أَسْلَمْتُ وَجْهِىَ لِلَّهِ وَمَنِ ٱتَّبَعَنِ وَقُل لِّلَّذِينَ أُوتُوا۟ ٱلْكِتَٰبَ وَٱلْأُمِّيِّۦنَ ءَأَسْلَمْتُمْ فَإِنْ أَسْلَمُوا۟ فَقَدِ ٱهْتَدَوا۟ وَّإِن تَوَلَّوْا۟ فَإِنَّمَا عَلَيْكَ ٱلْبَلَٰغُ وَٱللَّهُ بَصِيرٌۢ بِٱلْعِبَادِ",
+      "transliteration": "Fa'in ḥājjūka faqul aslamtu wajhiya lillāhi wa manittaba'an, wa qul lilladhīna ūtul-kitāba wal-ummiyyīna a'aslamtum, fa'in aslamū faqadih-tadaw, wa in tawallaw fa'innamā 'alaykal-balāgh, wallāhu baṣīrum bil-'ibād",
+      "translation_bn": "যদি তারা তোমার সাথে বিতর্কে অবতীর্ণ হয় তবে বলে দাও, \"আমি এবং আমার অনুসরণকারীগণ আল্লাহর প্রতি আত্নসমর্পণ করেছি।\" আর আহলে কিতাবদের এবং নিরক্ষরদের বলে দাও যে, তোমরাও কি আত্নসমর্পণ করেছ? তখন যদি তারা আত্নসমর্পণ করে, তবে সরল পথ প্রাপ্ত হলো, আর যদি মুখ ঘুরিয়ে নেয়, তাহলে তোমার দায়িত্ব হলো শুধু পৌছে দেয়া। আর আল্লাহর দৃষ্টিতে রয়েছে সকল বান্দা।",
+      "translation_en": "So if they dispute with thee, say: \"I have submitted My whole self to Allah and so have those who follow me.\" And say to the People of the Book and to those who are unlearned: \"Do ye (also) submit yourselves?\" If they do, they are in right guidance, but if they turn back, Thy duty is to convey the Message; and in Allah's sight are (all) His servants."
+    },
+    {
+      "id": 21,
+      "text": "إِنَّ ٱلَّذِينَ يَكْفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَيَقْتُلُونَ ٱلنَّبِيِّۦنَ بِغَيْرِ حَقٍّ وَيَقْتُلُونَ ٱلَّذِينَ يَأْمُرُونَ بِٱلْقِسْطِ مِنَ ٱلنَّاسِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ",
+      "transliteration": "Innalladhīna yakfurūna bi'āyātillāhi wa yaqtulūnan-nabiyyīna bi-ghayri ḥaqqiw wa yaqtulūnalladhīna ya'murūna bil-qisṭi minan-nāsi fa-bashshirhum bi-'adhābin alīm",
+      "translation_bn": "যারা আল্লাহর নিদর্শনাবলীকে অস্বীকার করে এবং পয়গম্বরগণকে হত্যা করে অন্যায়ভাবে, আর সেসব লোককে হত্যা করে যারা ন্যায়পরায়ণতার নির্দেশ দেয় তাদেরকে বেদনাদায়ক শাস্তির সংবাদ দিন।",
+      "translation_en": "As to those who deny the Signs of Allah and in defiance of right, slay the prophets, and slay those who teach just dealing with mankind, announce to them a grievous penalty."
+    },
+    {
+      "id": 22,
+      "text": "أُو۟لَٰٓئِكَ ٱلَّذِينَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمَا لَهُم مِّن نَّٰصِرِينَ",
+      "transliteration": "Ulā'ikalladhīna ḥabiṭat a'māluhum fid-dun-yā wal-ākhirati wa mā lahum min nāṣirīn",
+      "translation_bn": "এরাই হলো সে লোক যাদের সমগ্র আমল দুনিয়া ও আখেরাত উভয়লোকেই বিনষ্ট হয়ে গেছে। পক্ষান্তরে তাদের কোন সাহায্যকারীও নেই।",
+      "translation_en": "They are those whose works will bear no fruit in this world and in the Hereafter nor will they have anyone to help."
+    },
+    {
+      "id": 23,
+      "text": "أَلَمْ تَرَ إِلَى ٱلَّذِينَ أُوتُوا۟ نَصِيبًا مِّنَ ٱلْكِتَٰبِ يُدْعَوْنَ إِلَىٰ كِتَٰبِ ٱللَّهِ لِيَحْكُمَ بَيْنَهُمْ ثُمَّ يَتَوَلَّىٰ فَرِيقٌ مِّنْهُمْ وَهُم مُّعْرِضُونَ",
+      "transliteration": "Alam tara ilalladhīna ūtū naṣībam minal-kitābi yud'awna ilā kitābillāhi li-yaḥkuma baynahum thumma yatawallā farīqum minhum wa hum mu'riḍūn",
+      "translation_bn": "আপনি কি তাদের দেখেননি, যারা কিতাবের কিছু অংশ পেয়েছে-আল্লাহর কিতাবের প্রতি তাদের আহবান করা হয়েছিল যাতে তাদের মধ্যে মীমাংসা করা যায়। অতঃপর তাদের মধ্যে একদল তা অমান্য করে মুখ ফিরিয়ে নেয়।",
+      "translation_en": "Hast thou not turned Thy vision to those who have been given a portion of the Book? They are invited to the Book of Allah, to settle their dispute, but a party of them Turn back and decline (The arbitration)."
+    },
+    {
+      "id": 24,
+      "text": "ذَٰلِكَ بِأَنَّهُمْ قَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامًا مَّعْدُودَٰتٍ وَغَرَّهُمْ فِى دِينِهِم مَّا كَانُوا۟ يَفْتَرُونَ",
+      "transliteration": "Dhālika bi'annahum qālū lan tamassanan-nāru illā ayyāmam ma'dūdāt, wa gharrahum fī dīnihim mā kānū yaftarūn",
+      "translation_bn": "তা এজন্য যে, তারা বলে থাকে যে, দোযখের আগুন আমাদের স্পর্শ করবে না; তবে সামান্য হাতে গোনা কয়েকদিনের জন্য স্পর্শ করতে পারে। নিজেদের উদ্ভাবিত ভিত্তিহীন কথায় তারা ধোকা খেয়েছে।",
+      "translation_en": "This because they say: \"The Fire shall not touch us but for a few numbered days\": For their forgeries deceive them as to their own religion."
+    },
+    {
+      "id": 25,
+      "text": "فَكَيْفَ إِذَا جَمَعْنَٰهُمْ لِيَوْمٍ لَّا رَيْبَ فِيهِ وَوُفِّيَتْ كُلُّ نَفْسٍ مَّا كَسَبَتْ وَهُمْ لَا يُظْلَمُونَ",
+      "transliteration": "Fa-kayfa idhā jama'nāhum li-yawmil lā rayba fīhi wa wuffiyat kullu nafsim mā kasabat wa hum lā yuẓlamūn",
+      "translation_bn": "কিন্তু তখন কি অবস্থা দাঁড়াবে যখন আমি তাদেরকে একদিন সমবেত করবো যে দিনের আগমনে কোন সন্দেহ নেই আর নিজেদের কৃতকর্ম তাদের প্রত্যেকেই পাবে তাদের প্রাপ্য প্রদান মোটেই অন্যায় করা হবে না।",
+      "translation_en": "But how (will they fare) when we gather them together against a day about which there is no doubt, and each soul will be paid out just what it has earned, without (favour or) injustice?"
+    },
+    {
+      "id": 26,
+      "text": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلْمُلْكِ تُؤْتِى ٱلْمُلْكَ مَن تَشَآءُ وَتَنزِعُ ٱلْمُلْكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُ بِيَدِكَ ٱلْخَيْرُ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "transliteration": "Qulillāhumma mālikal-mulki tu'til-mulka man tashā'u wa tanzi'ul-mulka mimman tashā', wa tu'izzu man tashā'u wa tudhillu man tashā', bi-yadikal-khayr, innaka 'alā kulli shay'in qadīr",
+      "translation_bn": "বলুন ইয়া আল্লাহ! তুমিই সার্বভৌম শক্তির অধিকারী। তুমি যাকে ইচ্ছা রাজ্য দান কর এবং যার কাছ থেকে ইচ্ছা রাজ্য ছিনিয়ে নাও এবং যাকে ইচ্ছা সম্মান দান কর আর যাকে ইচ্ছা অপমানে পতিত কর। তোমারই হাতে রয়েছে যাবতীয় কল্যাণ। নিশ্চয়ই তুমি সর্ব বিষয়ে ক্ষমতাশীল।",
+      "translation_en": "Say: \"O Allah! Lord of Power (And Rule), Thou givest power to whom Thou pleasest, and Thou strippest off power from whom Thou pleasest: Thou enduest with honour whom Thou pleasest, and Thou bringest low whom Thou pleasest: In Thy hand is all good. Verily, over all things Thou hast power."
+    },
+    {
+      "id": 27,
+      "text": "تُولِجُ ٱلَّيْلَ فِى ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِى ٱلَّيْلِ وَتُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَتُخْرِجُ ٱلْمَيِّتَ مِنَ ٱلْحَىِّ وَتَرْزُقُ مَن تَشَآءُ بِغَيْرِ حِسَابٍ",
+      "transliteration": "Tūlijul-layla fin-nahāri wa tūlijun-nahāra fil-layl, wa tukhrijul-ḥayya minal-mayyiti wa tukhrijul-mayyita minal-ḥayy, wa tarzuqu man tashā'u bi-ghayri ḥisāb",
+      "translation_bn": "তুমি রাতকে দিনের ভেতরে প্রবেশ করাও এবং দিনকে রাতের ভেতরে প্রবেশ করিয়ে দাও। আর তুমিই জীবিতকে মৃতের ভেতর থেকে বের করে আন এবং মৃতকে জীবিতের ভেতর থেকে বের কর। আর তুমিই যাকে ইচ্ছা বেহিসাব রিযিক দান কর।",
+      "translation_en": "\"Thou causest the night to gain on the day, and thou causest the day to gain on the night; Thou bringest the Living out of the dead, and Thou bringest the dead out of the Living; and Thou givest sustenance to whom Thou pleasest, without measure.\""
+    },
+    {
+      "id": 28,
+      "text": "لَّا يَتَّخِذِ ٱلْمُؤْمِنُونَ ٱلْكَٰفِرِينَ أَوْلِيَآءَ مِن دُونِ ٱلْمُؤْمِنِينَ وَمَن يَفْعَلْ ذَٰلِكَ فَلَيْسَ مِنَ ٱللَّهِ فِى شَىْءٍ إِلَّآ أَن تَتَّقُوا۟ مِنْهُمْ تُقَىٰةً وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ وَإِلَى ٱللَّهِ ٱلْمَصِيرُ",
+      "transliteration": "Lā yattakhidhil-mu'minūnal-kāfirīna awliyā'a min dūnil-mu'minīn, wa may yaf'al dhālika fa-laysa minallāhi fī shay'in illā an tattaqū minhum tuqāh, wa yuḥadhdhirukumullāhu nafsah, wa ilallāhil-maṣīr",
+      "translation_bn": "মুমিনগন যেন অন্য মুমিনকে ছেড়ে কেন কাফেরকে বন্ধুরূপে গ্রহণ না করে। যারা এরূপ করবে আল্লাহর সাথে তাদের কেন সম্পর্ক থাকবে না। তবে যদি তোমরা তাদের পক্ষ থেকে কোন অনিষ্টের আশঙ্কা কর, তবে তাদের সাথে সাবধানতার সাথে থাকবে আল্লাহ তা’আলা তাঁর সম্পর্কে তোমাদের সতর্ক করেছেন। এবং সবাই কে তাঁর কাছে ফিরে যেতে হবে।",
+      "translation_en": "Let not the believers Take for friends or helpers Unbelievers rather than believers: if any do that, in nothing will there be help from Allah: except by way of precaution, that ye may Guard yourselves from them. But Allah cautions you (To remember) Himself; for the final goal is to Allah."
+    },
+    {
+      "id": 29,
+      "text": "قُلْ إِن تُخْفُوا۟ مَا فِى صُدُورِكُمْ أَوْ تُبْدُوهُ يَعْلَمْهُ ٱللَّهُ وَيَعْلَمُ مَا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "transliteration": "Qul in tukhfū mā fī ṣudūrikum aw tubdūhu ya'lamhullāh, wa ya'lamu mā fis-samāwāti wa mā fil-arḍ, wallāhu 'alā kulli shay'in qadīr",
+      "translation_bn": "বলে দিন, তোমরা যদি মনের কথা গোপন করে রাখ অথবা প্রকাশ করে দাও, আল্লাহ সে সবই জানতে পারেন। আর আসমান ও জমিনে যা কিছু আছে, সেসব ও তিনি জানেন। আল্লাহ সর্ব বিষয়ে শক্তিমান।",
+      "translation_en": "Say: \"Whether ye hide what is in your hearts or reveal it, Allah knows it all: He knows what is in the heavens, and what is on earth. And Allah has power over all things."
+    },
+    {
+      "id": 30,
+      "text": "يَوْمَ تَجِدُ كُلُّ نَفْسٍ مَّا عَمِلَتْ مِنْ خَيْرٍ مُّحْضَرًا وَمَا عَمِلَتْ مِن سُوٓءٍ تَوَدُّ لَوْ أَنَّ بَيْنَهَا وَبَيْنَهُۥٓ أَمَدًۢا بَعِيدًا وَيُحَذِّرُكُمُ ٱللَّهُ نَفْسَهُۥ وَٱللَّهُ رَءُوفٌۢ بِٱلْعِبَادِ",
+      "transliteration": "Yawma tajidu kullu nafsim mā 'amilat min khayrim muḥḍaraw wa mā 'amilat min sū'in tawaddu law anna baynahā wa baynahū amadam ba'īdā, wa yuḥadhdhirukumullāhu nafsah, wallāhu ra'ūfum bil-'ibād",
+      "translation_bn": "সেদিন প্রত্যেকেই যা কিছু সে ভাল কাজ করেছে; চোখের সামনে দেখতে পাবে এবং যা কিছু মন্দ কাজ করেছে তাও, ওরা তখন কামনা করবে, যদি তার এবং এসব কর্মের মধ্যে ব্যবধান দুরের হতো! আল্লাহ তাঁর নিজের সম্পর্কে তোমাদের সাবধান করছেন। আল্লাহ তাঁর বান্দাদের প্রতি অত্যন্ত দয়ালু।",
+      "translation_en": "\"On the Day when every soul will be confronted with all the good it has done, and all the evil it has done, it will wish there were a great distance between it and its evil. But Allah cautions you (To remember) Himself. And Allah is full of kindness to those that serve Him.\""
+    },
+    {
+      "id": 31,
+      "text": "قُلْ إِن كُنتُمْ تُحِبُّونَ ٱللَّهَ فَٱتَّبِعُونِى يُحْبِبْكُمُ ٱللَّهُ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "transliteration": "Qul in kuntum tuḥibbūnallāha fattabi'ūnī yuḥbibkumullāhu wa yaghfir lakum dhunūbakum, wallāhu ghafūrur raḥīm",
+      "translation_bn": "বলুন, যদি তোমরা আল্লাহকে ভালবাস, তাহলে আমাকে অনুসরণ কর, যাতে আল্লাহ ও তোমাদিগকে ভালবাসেন এবং তোমাদিগকে তোমাদের পাপ মার্জনা করে দেন। আর আল্লাহ হলেন ক্ষমাকারী দয়ালু।",
+      "translation_en": "Say: \"If ye do love Allah, Follow me: Allah will love you and forgive you your sins: For Allah is Oft-Forgiving, Most Merciful.\""
+    },
+    {
+      "id": 32,
+      "text": "قُلْ أَطِيعُوا۟ ٱللَّهَ وَٱلرَّسُولَ فَإِن تَوَلَّوْا۟ فَإِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْكَٰفِرِينَ",
+      "transliteration": "Qul aṭī'ullāha war-rasūl, fa'in tawallaw fa'innallāha lā yuḥibbul-kāfirīn",
+      "translation_bn": "বলুন, আল্লাহ ও রসূলের আনুগত্য প্রকাশ কর। বস্তুতঃ যদি তারা বিমুখতা অবলম্বন করে, তাহলে আল্লাহ কাফেরদিগকে ভালবাসেন না।",
+      "translation_en": "Say: \"Obey Allah and His Messenger\": But if they turn back, Allah loveth not those who reject Faith."
+    },
+    {
+      "id": 33,
+      "text": "إِنَّ ٱللَّهَ ٱصْطَفَىٰٓ ءَادَمَ وَنُوحًا وَءَالَ إِبْرَٰهِيمَ وَءَالَ عِمْرَٰنَ عَلَى ٱلْعَٰلَمِينَ",
+      "transliteration": "Innallāhaṣṭafā ādama wa nūḥaw wa āla ibrāhīma wa āla 'imrāna 'alal-'ālamīn",
+      "translation_bn": "নিঃসন্দেহে আল্লাহ আদম (আঃ) নূহ (আঃ)͠ও ইব্রাহীম (আঃ) এর বংশধর এবং এমরানের খান্দানকে নির্বাচিত করেছেন।",
+      "translation_en": "Allah did choose Adam and Noah, the family of Abraham, and the family of 'Imran above all people,-"
+    },
+    {
+      "id": 34,
+      "text": "ذُرِّيَّةًۢ بَعْضُهَا مِنۢ بَعْضٍ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+      "transliteration": "Dhurriyyatam ba'ḍuhā mim ba'ḍ, wallāhu samī'un 'alīm",
+      "translation_bn": "যারা বংশধর ছিলেন পরস্পরের। আল্লাহ শ্রবণকারী ও মহাজ্ঞানী।",
+      "translation_en": "Offspring, one of the other: And Allah heareth and knoweth all things."
+    },
+    {
+      "id": 35,
+      "text": "إِذْ قَالَتِ ٱمْرَأَتُ عِمْرَٰنَ رَبِّ إِنِّى نَذَرْتُ لَكَ مَا فِى بَطْنِى مُحَرَّرًا فَتَقَبَّلْ مِنِّىٓ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "transliteration": "Idh qālatimra'atu 'imrāna rabbi innī nadhartu laka mā fī baṭnī muḥarraran fa-taqabbal minnī, innaka antas-samī'ul-'alīm",
+      "translation_bn": "এমরানের স্ত্রী যখন বললো-হে আমার পালনকর্তা! আমার গর্ভে যা রয়েছে আমি তাকে তোমার নামে উৎসর্গ করলাম সবার কাছ থেকে মুক্ত রেখে। আমার পক্ষ থেকে তুমি اسے কবুল করে নাও, নিশ্চয়ই তুমি শ্রবণকারী, সর্বজ্ঞাত।",
+      "translation_en": "Behold! a woman of 'Imran said: \"O my Lord! I do dedicate unto Thee what is in my womb for Thy special service: So accept this of me: For Thou hearest and knowest all things.\""
+    },
+    {
+      "id": 36,
+      "text": "فَلَمَّا وَضَعَتْهَا قَالَتْ رَبِّ إِنِّى وَضَعْتُهَآ أُنثَىٰ وَٱللَّهُ أَعْلَمُ بِمَا وَضَعَتْ وَلَيْسَ ٱلذَّكَرُ كَٱلْأُنثَىٰ وَإِنِّى سَمَّيْتُهَا مَرْيَمَ وَإِنِّىٓ أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ ٱلشَّيْطَٰنِ ٱلرَّجِيمِ",
+      "transliteration": "Falammā waḍa'at-hā qālat rabbi innī waḍa'tuhā unthā, wallāhu a'lamu bimā waḍa'at, wa laysadh-dhakaru kal-unthā, wa innī sammaytuhā maryama wa innī u'īdhuhā bika wa dhurriyyatahā minash-shayṭānir-rajīm",
+      "translation_bn": "অতঃপর যখন তাকে প্রসব করলো বলল, হে আমার পালনকর্তা! আমি একে কন্যা প্রসব করেছি। বস্তুতঃ কি সে প্রসব করেছে আল্লাহ তা ভালই জানেন। সেই কন্যার মত কোন পুত্রই যে নেই। আর আমি তার নাম রাখলাম মারইয়াম। আর আমি তাকে ও তার সন্তানদেরকে তোমার আশ্রয়ে সমর্পণ করছি। অভিশপ্ত শয়তানের কবল থেকে।",
+      "translation_en": "When she was delivered, she said: \"O my Lord! Behold! I am delivered of a female child!\"- and Allah knew best what she brought forth- \"And no wise is the male Like the female. I have named her Mary, and I commend her and her offspring to Thy protection from the Evil One, the Rejected.\""
+    },
+    {
+      "id": 37,
+      "text": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٍ وَأَنۢبَتَهَا نَبَاتًا حَسَنًا وَكَفَّلَهَا زَكَرِيَّا كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا ٱلْمِحْرَابَ وَجَدَ عِندَهَا رِزْقًا قَالَ يَٰمَرْيَمُ أَنَّىٰ لَكِ هَٰذَا قَالَتْ هُوَ مِنْ عِندِ ٱللَّهِ إِنَّ ٱللَّهَ يَرْزُقُ مَن يَشَآءُ بِغَيْرِ حِسَابٍ",
+      "transliteration": "Fa-taqabbalahā rabbuhā bi-qabūlin ḥasaniw wa ambatahā nabātan ḥasanaw wa kaffalahā zakariyyā, kullamā dakhala 'alayhā zakariyyal-miḥrāba wajada 'indahā rizqā, qāla yā maryamu annā laki hādhā, qālat huwa min 'indillāh, innallāha yarzuqu may yashā'u bi-ghayri ḥisāb",
+      "translation_bn": "অতঃপর তাঁর পালনকর্তা তাঁকে উত্তম ভাবে গ্রহণ করে নিলেন এবং তাঁকে প্রবৃদ্ধি দান করলেন-অত্যন্ত সুন্দর প্রবৃদ্ধি। আর তাঁকে যাকারিয়ার তত্ত্বাবধানে সমর্পন করলেন। যখনই যাকারিয়া মেহরাবের মধ্যে তার কছে আসতেন তখনই কিছু খাবার দেখতে পেতেন। জিজ্ঞেস করতেন \"মারইয়াম! কোথা থেকে এসব তোমার কাছে এলো?\" তিনি বলতেন, \"এসব আল্লাহর নিকট থেকে আসে। আল্লাহ যাকে ইচ্ছা বেহিসাব রিযিক দান করেন।\"",
+      "translation_en": "Right graciously did her Lord accept her: He made her grow in purity and beauty: To the care of Zakariya was she assigned. Every time that he entered (Her) chamber to see her, He found her supplied with sustenance. He said: \"O Mary! Whence (comes) this to you?\" She said: \"From Allah: for Allah Provides sustenance to whom He pleases without measure.\""
+    },
+    {
+      "id": 38,
+      "text": "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُۥ قَالَ رَبِّ هَبْ لِى مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ ٱلدُّعَآءِ",
+      "transliteration": "Hunālika da'ā zakariyyā rabbah, qāla rabbi hab lī mil ladunka dhurriyyatan ṭayyibah, innaka samī'ud-du'ā'",
+      "translation_bn": "সেখানেই যাকারিয়া তাঁর পালনকর্তার নিকট প্রার্থনা করলেন। বললেন, হে, আমার পালনকর্তা! তোমার নিকট থেকে আমাকে পুত-পবিত্র সন্তান দান কর-নিশ্চয়ই তুমি প্রার্থনা শ্রবণকারী।",
+      "translation_en": "There did Zakariya pray to his Lord, saying: \"O my Lord! Grant unto me from Thee a progeny that is pure: for Thou art He that heareth prayer!"
+    },
+    {
+      "id": 39,
+      "text": "فَنَادَتْهُ ٱلْمَلَٰٓئِكَةُ وَهُوَ قَآئِمٌ يُصَلِّى فِى ٱلْمِحْرَابِ أَنَّ ٱللَّهَ يُبَشِّرُكَ بِيَحْيَىٰ مُصَدِّقًۢا بِكَلِمَةٍ مِّنَ ٱللَّهِ وَسَيِّدًا وَحَصُورًا وَنَبِيًّا مِّنَ ٱلصَّٰلِحِينَ",
+      "transliteration": "Fa-nādat-hul-malā'ikatu wa huwa qā'imuy yuṣallī fil-miḥrābi annallāha yubashshiruka bi-yaḥyā muṣaddiqam bi-kalimatim minallāhi wa sayyidaw wa ḥaṣūraw wa nabiyyam minaṣ-ṣāliḥīn",
+      "translation_bn": "যখন তিনি কামরার ভেতরে নামাযে দাঁড়িয়েছিলেন, তখন ফেরেশতারা তাঁকে ডেকে বললেন যে, আল্লাহ তোমাকে সুসংবাদ দিচ্ছেন ইয়াহইয়া সম্পর্কে, যিনি সাক্ষ্য দেবেন আল্লাহর নির্দেশের সত্যতা সম্পর্কে, যিনি নেতা হবেন এবং নারীদের সংস্পর্শে যাবেন না, তিনি অত্যন্ত সৎকর্মশীল নবী হবেন।",
+      "translation_en": "While he was standing in prayer in the chamber, the angels called unto him: \"Allah doth give thee glad tidings of Yahya, witnessing the truth of a Word from Allah, and (be besides) noble, chaste, and a prophet,- of the (goodly) company of the righteous.\""
+    },
+    {
+      "id": 40,
+      "text": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِى غُلَٰمٌ وَقَدْ بَلَغَنِىَ ٱلْكِبَرُ وَٱمْرَأَتِى عَاقِرٌ قَالَ كَذَٰلِكَ ٱللَّهُ يَفْعَلُ مَا يَشَآءُ",
+      "transliteration": "Qāla rabbi annā yakūnu lī ghulāmuw wa qad balaghaniyal-kibaru wamra'atī 'āqir, qāla kadhālikallāhu yaf'alu mā yashā'",
+      "translation_bn": "তিনি বললেন হে পালনকর্তা! কেমন করে আমার পুত্র সন্তান হবে, আমার যে বার্ধক্য এসে গেছে, আমার স্ত্রীও যে বন্ধ্যা। বললেন, আল্লাহ এমনি ভাবেই যা ইচ্ছা করে থাকেন।",
+      "translation_en": "He said: \"O my Lord! How shall I have son, seeing I am very old, and my wife is barren?\" \"Thus,\" was the answer, \"Doth Allah accomplish what He willeth.\""
+    },
+    {
+      "id": 41,
+      "text": "قَالَ رَبِّ ٱجْعَل لِّىٓ ءَايَةً قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَةَ أَيَّامٍ إِلَّا رَمْزًا وَٱذْكُر رَّبَّكَ كَثِيرًا وَسَبِّحْ بِٱلْعَشِىِّ وَٱلْإِبْكَٰرِ",
+      "transliteration": "Qāla rabbij'al lī āyah, qāla āyatuka allā tukalliman-nāsa thalāthata ayyāmin illā ramzā, wadhkur rabbaka kathīraw wa sabbiḥ bil-'ashiyyi wal-ibkār",
+      "translation_bn": "তিনি বললেন, হে পালনকর্তা আমার জন্য কিছু নিদর্শন দাও। তিনি বললেন, তোমার জন্য নিদর্শন হলো এই যে, তুমি তিন দিন পর্যন্ত কারও সাথে কথা বলবে না। তবে ইশারা ইঙ্গতে করতে পারবে এবং তোমার পালনকর্তাকে অধিক পরিমাণে স্মরণ করবে আর সকাল-সন্ধ্যা তাঁর পবিত্রতা ও মহিমা ঘোষনা করবে।",
+      "translation_en": "He said: \"O my Lord! Give me a Sign!\" \"Thy Sign,\" was the answer, \"Shall be that thou shalt speak to no man for three days but with signals. Then celebrate the praises of thy Lord again and again, and glorify Him in the evening and in the morning.\""
+    },
+    {
+      "id": 42,
+      "text": "وَإِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ ٱصْطَفَىٰكِ وَطَهَّرَكِ وَٱصْطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلْعَٰلَمِينَ",
+      "transliteration": "Wa idh qālatil-malā'ikatu yā maryamu innallāhaṣṭafāki wa ṭahharaki waṣṭafāki 'alā nisā'il-'ālamīn",
+      "translation_bn": "আর যখন ফেরেশতা বলল হে মারইয়াম!, আল্লাহ তোমাকে পছন্দ করেছেন এবং তোমাকে পবিত্র পরিচ্ছন্ন করে দিয়েছেন। আর তোমাকে বিশ্ব নারী সমাজের উর্ধ্বে মনোনীত করেছেন।",
+      "translation_en": "Behold! the angels said: \"O Mary! Allah hath chosen thee and purified thee- chosen thee above the women of all nations."
+    },
+    {
+      "id": 43,
+      "text": "يَٰمَرْيَمُ ٱقْنُتِى لِرَبِّكِ وَٱسْجُدِى وَٱرْكَعِى مَعَ ٱلرَّٰكِعِينَ",
+      "transliteration": "Yā maryamuqnutī li-rabbiki wasjudī war-ka'ī ma'ar-rāki'īn",
+      "translation_bn": "হে মারইয়াম! তোমার পালনকর্তার উপাসনা কর এবং রুকুকারীদের সাথে সেজদা ও রুকু কর।",
+      "translation_en": "\"O Mary! worship Thy Lord devoutly: Prostrate thyself, and bow down (in prayer) with those who bow down.\""
+    },
+    {
+      "id": 44,
+      "text": "ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يُلْقُونَ أَقْلَٰمَهُمْ أَيُّهُمْ يَكْفُلُ مَرْيَمَ وَمَا كُنتَ لَدَيْهِمْ إِذْ يَخْتَصِمُونَ",
+      "transliteration": "Dhālika min ambā'il-ghaybi nūḥīhi ilayk, wa mā kunta ladayhim idh yulqūna aqlāmahum ayyuhum yakfulu maryama wa mā kunta ladayhim idh yakhtaṣimūn",
+      "translation_bn": "এ হলো গায়েবী সংবাদ, যা আমি আপনাকে পাঠিয়ে থাকি। আর আপনি তো তাদের কাছে ছিলেন না, যখন প্রতিযোগিতা করছিল যে, কে প্রতিপালন করবে মারইয়ামকে এবং আপনি তাদের কাছে ছিলেন না, যখন তারা ঝগড়া করছিলো।",
+      "translation_en": "This is part of the tidings of the things unseen, which We reveal unto thee (O Messenger!) by inspiration: Thou wast not with them when they cast lots with arrows, as to which of them should be charged with the care of Mary: Nor wast thou with them when they disputed (the point)."
+    },
+    {
+      "id": 45,
+      "text": "إِذْ قَالَتِ ٱلْمَلَٰٓئِكَةُ يَٰمَرْيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٍ مِّنْهُ ٱسْمُهُ ٱلْمَسِيحُ عِيسَى ٱبْنُ مَرْيَمَ وَجِيهًا فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ وَمِنَ ٱلْمُقَرَّبِينَ",
+      "transliteration": "Idh qālatil-malā'ikatu yā maryamu innallāha yubashshiruki bi-kalimatim-minhusmuhul-masīḥu 'īsā-bnu maryama wajīhan fid-dun-yā wal-ākhirati wa minal-muqarrabīn",
+      "translation_bn": "যখন ফেরেশতাগণ বললো, হে মারইয়াম আল্লাহ তোমাকে তাঁর এক বানীর সুসংবাদ দিচ্ছেন, যার নাম হলো মসীহ-মারইয়াম-তনয় ঈসা, দুনিয়া ও আখেরাতে তিনি মহাসম্মানের অধিকারী এবং আল্লাহর ঘনিষ্ঠদের অন্তর্ভূক্ত।",
+      "translation_en": "Behold! the angels said: \"O Mary! Allah giveth thee glad tidings of a Word from Him: his name will be Christ Jesus, the son of Mary, held in honour in this world and the Hereafter and of (the company of) those nearest to Allah;"
+    },
+    {
+      "id": 46,
+      "text": "وَيُكَلِّمُ ٱلنَّاسَ فِى ٱلْمَهْدِ وَكَهْلًا وَمِنَ ٱلصَّٰلِحِينَ",
+      "transliteration": "Wa yukallimun-nāsa fil-mahdi wa kahalaw wa minaṣ-ṣāliḥīn",
+      "translation_bn": "যখন তিনি মায়ের কোলে থাকবেন এবং পূর্ণ বয়স্ক হবেন তখন তিনি মানুষের সাথে কথা বলবেন। আর তিনি সৎকর্মশীলদের অন্তর্ভুক্ত হবেন।",
+      "translation_en": "\"He shall speak to the people in childhood and in maturity. And he shall be (of the company) of the righteous.\""
+    },
+    {
+      "id": 47,
+      "text": "قَالَتْ رَبِّ أَنَّىٰ يَكُونُ لِى وَلَدٌ وَلَمْ يَمْسَسْنِى بَشَرٌ قَالَ كَذَٰلِكِ ٱللَّهُ يَخْلُقُ مَا يَشَآءُ إِذَا قَضَىٰٓ أَمْرًا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+      "transliteration": "Qālat rabbi annā yakūnu lī waladuw wa lam yamsasnī bashar, qāla kadhālikillāhu yakhluqu mā yashā', idhā qaḍā amran fa'innamā yaqūlu lahū kun fayakūn",
+      "translation_bn": "তিনি বললেন, পরওয়ারদেগার! কেমন করে আমার সন্তান হবে; আমাকে তো কোন মানুষ স্পর্শ করেনি। বললেন এ ভাবেই আল্লাহ যা ইচ্ছা সৃষ্টি করেন। যখন কোন কাজ করার জন্য ইচ্ছা করেন তখন বলেন যে, ‘হয়ে যাও’ অমনি তা হয়ে যায়।",
+      "translation_en": "She said: \"O my Lord! How shall I have a son when no man hath touched me?\" He said: \"Even so: Allah createth what He willeth: When He hath decreed a plan, He but saith to it, 'Be,' and it is!"
+    },
+    {
+      "id": 48,
+      "text": "وَيُعَلِّمُهُ ٱلْكِتَٰبَ وَٱلْحِكْمَةَ وَٱltَّوْرَىٰةَ وَٱلْإِنجِيلَ",
+      "transliteration": "Wa yu'allimuhul-kitāba wal-ḥikmata wat-tawrāta wal-injīl",
+      "translation_bn": "আর তাকে তিনি শিখিয়ে দেবেন কিতাব, হিকমত, তওরাত, ইঞ্জিল।",
+      "translation_en": "\"And Allah will teach him the Book and Wisdom, the Law and the Gospel,"
+    },
+    {
+      "id": 49,
+      "text": "وَرَسُولًا إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ أَنِّى قَدْ جِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ أَنِّىٓ أَخْلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيْـَٔةِ ٱلطَّيْرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيْرًۢا بِإِذْنِ ٱللَّهِ وَأُبْرِئُ ٱلْأَكْمَهَ وَٱلْأَبْرَصَ وَأُحْىِ ٱلْمَوْتَىٰ بِإِذْنِ ٱللَّهِ وَأُنَبِّئُكُم بِمَا تَأْكُلُونَ وَمَا تَدَّخِرُونَ فِى بُيُوتِكُمْ إِنَّ فِى ذَٰلِكَ لَءَايَةً لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+      "transliteration": "Wa rasūlan ilā banī isrā'īla annī qad ji'tukum bi'āyatim mir rabbikum, annī akhluqu lakum minaṭ-ṭīni kahay'atiṭ-ṭayri fa'anfukhu fīhi fa-yakūnu ṭayram bi'idhnillāh, wa ubri'ul-akmaha wal-abraṣa wa uḥyil-mawtā bi'idhnillāh, wa unabbi'ukum bimā ta'kulūna wa mā taddakhirūna fī buyūtikum, inna fī dhālika la'āyatal lakum in kuntum mu'minīn",
+      "translation_bn": "আর বণী ইসরাঈলদের জন্যে রসূল হিসেবে তাকে মনোনীত করবেন। তিনি বললেন নিশ্চয়ই আমি তোমাদের নিকট তোমাদের পালনকর্তার পক্ষ থেকে এসেছি নিদর্শনসমূহ নিয়ে। আমি তোমাদের জন্য মাটির দ্বারা পাখীর আকৃতি তৈরী করে দেই। তারপর তাতে যখন ফুৎকার প্রদান করি, তখন তা উড়ন্ত পাখীতে পরিণত হয়ে যায় আল্লাহর হুকুমে। আর আমি সুস্থ করে তুলি জন্মান্ধকে এবং শ্বেত কুষ্ঠ রোগীকে। আর আমি জীবিত করে দেই মৃতকে আল্লাহর হুকুমে। আর আমি তোমাদেরকে বলে দেই যা তোমরা খেয়ে আস এবং যা তোমরা ঘরে রেখে আস। এতে প্রকৃষ্ট নিদর্শন রয়েছে, যদি তোমরা বিশ্বাসী হও।",
+      "translation_en": "\"'I have come to you, with a Sign from your Lord, in that I make for you out of clay, as it were, the figure of a bird, and breathe into it, and it becomes a bird by Allah's leave: And I heal those born blind, and the lepers, and I quicken the dead, by Allah's leave; and I declare to you what ye eat, and what ye store in your houses. Surely therein is a Sign for you if ye did believe;"
+    },
+    {
+      "id": 50,
+      "text": "وَمُصَدِّقًا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَلِأُحِلَّ لَكُم بَعْضَ ٱلَّذِى حُرِّمَ عَلَيْكُمْ وَجِئْتُكُم بِـَٔايَةٍ مِّن رَّبِّكُمْ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+      "transliteration": "Wa muṣaddiqal limā bayna yadayya minat-tawrāti wa li'uḥilla lakum ba'ḍalladhī ḥurrima 'alaykum, wa ji'tukum bi'āyatim mir rabbikum fattaqullāha wa aṭī'ūn",
+      "translation_bn": "আর এটি পূর্ববর্তী কিতাব সমুহকে সত্যায়ন করে, যেমন তওরাত। আর তা এজন্য যাতে তোমাদের জন্য হালাল করে দেই কোন কোন বস্তু যা তোমাদের জন্য হারাম ছিল। আর আমি তোমাদের নিকট এসেছি তোমাদের পালনকর্তার নিদর্শনসহ। কাজেই আল্লাহকে ভয় কর এবং আমার অনুসরণ কর।",
+      "translation_en": "\"(I have come to you), to attest the Law which was before me. And to make lawful to you part of what was (Before) forbidden to you; I have come to you with a Sign from your Lord. So fear Allah, and obey me."
+    }
+  ]
+}
+
+    
