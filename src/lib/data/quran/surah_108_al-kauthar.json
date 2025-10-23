@@ -1,0 +1,31 @@
+{
+  "id": 108,
+  "name": "الكوثر",
+  "transliteration": "Al-Kauthar",
+  "translation": "A River in Paradise",
+  "type": "Meccan",
+  "total_verses": 3,
+  "verses": [
+    {
+      "id": 1,
+      "text": "إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
+      "transliteration": "ইন্নাআ‘তাইনা-কাল কাওছার।",
+      "translation_bn": "নিশ্চয় আমি আপনাকে কাওসার দান করেছি।",
+      "translation_en": "To thee have We granted the Fount (of Abundance)."
+    },
+    {
+      "id": 2,
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "transliteration": "ফাসালিল লিরাব্বিকা ওয়ানহার।",
+      "translation_bn": "অতএব আপনার পালনকর্তার উদ্দেশ্যে নামায পড়ুন এবং কোরবানী করুন।",
+      "translation_en": "Therefore to thy Lord turn in Prayer and Sacrifice."
+    },
+    {
+      "id": 3,
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "transliteration": "ইন্না শা-নিআকা হুওয়াল আবতার।",
+      "translation_bn": "যে আপনার শত্রু, সেই তো লেজকাটা, নির্বংশ।",
+      "translation_en": "For he who hateth thee, he will be cut off (from Future Hope)."
+    }
+  ]
+}

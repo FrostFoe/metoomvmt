@@ -1,0 +1,45 @@
+{
+  "id": 111,
+  "name": "المسد",
+  "transliteration": "Lahab",
+  "translation": "Abu Lahab",
+  "type": "Meccan",
+  "total_verses": 5,
+  "verses": [
+    {
+      "id": 1,
+      "text": "تَبَّتْ يَدَآ أَبِى لَهَبٍ وَتَبَّ",
+      "transliteration": "তাব্বাত ইয়াদাআবী লাহাবিওঁ ওয়া তাবব।",
+      "translation_bn": "আবু লাহাবের হস্তদ্বয় ধ্বংস হোক এবং ধ্বংস হোক সে নিজে,",
+      "translation_en": "Perish the hands of the Father of Flame! Perish he!"
+    },
+    {
+      "id": 2,
+      "text": "مَآ أَغْنَىٰ عَنْهُ مَالُهُۥ وَمَا كَسَبَ",
+      "transliteration": "মাআগনা-‘আনহু মা-লুহূওয়ামা-কাছাব।",
+      "translation_bn": "কোন কাজে আসেনি তার ধন-সম্পদ ও যা সে উপার্জন করেছে।",
+      "translation_en": "No profit to him from all his wealth, and all his gains!"
+    },
+    {
+      "id": 3,
+      "text": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "transliteration": "ছাইয়াসলা-না-রান যা-তা লাহাব।",
+      "translation_bn": "সত্বরই সে প্রবেশ করবে লেলিহান অগ্নিতে",
+      "translation_en": "Burnt soon will he be in a Fire of Blazing Flame!"
+    },
+    {
+      "id": 4,
+      "text": "وَٱمْرَأَتُهُۥ حَمَّالَةَ ٱلْحَطَبِ",
+      "transliteration": "ওয়ামরাআতুহূ; হাম্মা-লাতাল হাতাব।",
+      "translation_bn": "এবং তার স্ত্রীও-যে ইন্ধন বহন করে,",
+      "translation_en": "His wife shall carry the (crackling) wood - As fuel!-"
+    },
+    {
+      "id": 5,
+      "text": "فِى جِيدِهَا حَبْلٌ مِّن مَّسَدٍۭ",
+      "transliteration": "ফী জীদিহা-হাবলুম মিম মাছাদ।",
+      "translation_bn": "তার গলদেশে খর্জুরের রশি নিয়ে।",
+      "translation_en": "A twisted rope of palm-leaf fibre round her (own) neck!"
+    }
+  ]
+}

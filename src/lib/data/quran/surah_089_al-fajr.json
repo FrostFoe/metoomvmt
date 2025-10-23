@@ -1,0 +1,220 @@
+{
+  "id": 89,
+  "name": "الفجر",
+  "transliteration": "Al-Fajr",
+  "translation": "The Break of Day or",
+  "type": "Meccan",
+  "total_verses": 30,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَٱلْفَجْرِ",
+      "transliteration": "ওয়াল ফাজর।",
+      "translation_bn": "শপথ ফজরের,",
+      "translation_en": "By the break of Day"
+    },
+    {
+      "id": 2,
+      "text": "وَلَيَالٍ عَشْرٍ",
+      "transliteration": "ওয়া লায়া-লিন ‘আশর",
+      "translation_bn": "শপথ দশ রাত্রির, শপথ তার,",
+      "translation_en": "By the Nights twice five;"
+    },
+    {
+      "id": 3,
+      "text": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+      "transliteration": "ওয়াশশাফা‘ই ওয়াল ওয়াতর।",
+      "translation_bn": "যা জোড় ও যা বিজোড়",
+      "translation_en": "By the even and odd (contrasted);"
+    },
+    {
+      "id": 4,
+      "text": "وَٱلَّيْلِ إِذَا يَسْرِ",
+      "transliteration": "ওয়াল্লাইলি ইযা-ইয়াছর।",
+      "translation_bn": "এবং শপথ রাত্রির যখন তা গত হতে থাকে",
+      "translation_en": "And by the Night when it passeth away;-"
+    },
+    {
+      "id": 5,
+      "text": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+      "transliteration": "হাল ফী যা-লিকা কাছামুল লিযী হিজর।",
+      "translation_bn": "এর মধ্যে আছে শপথ জ্ঞানী ব্যক্তির জন্যে।",
+      "translation_en": "Is there (not) in these an adjuration (or evidence) for those who understand?"
+    },
+    {
+      "id": 6,
+      "text": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+      "transliteration": "আলাম তারা কাইফা ফা‘আলা রাব্বুকা বি‘আ-দ।",
+      "translation_bn": "আপনি কি লক্ষ্য করেননি, আপনার পালনকর্তা আদ বংশের ইরাম গোত্রের সাথে কি আচরণ করেছিলেন,",
+      "translation_en": "Seest thou not how thy Lord dealt with the 'Ad (people),-"
+    },
+    {
+      "id": 7,
+      "text": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+      "transliteration": "ইরামা যা-তিল ‘ইমা-দ",
+      "translation_bn": "যাদের দৈহিক গঠন স্তম্ভ ও খুঁটির ন্যায় দীর্ঘ ছিল এবং",
+      "translation_en": "Of the (city of) Iram, with lofty pillars,"
+    },
+    {
+      "id": 8,
+      "text": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَٰدِ",
+      "transliteration": "আল্লাতী লাম ইউখলাকমিছলুহা-ফিল বিলা-দ।",
+      "translation_bn": "যাদের সমান শক্তি ও বলবীর্যে সারা বিশ্বের শহরসমূহে কোন লোক সৃজিত হয়নি",
+      "translation_en": "The like of which were not produced in (all) the land?"
+    },
+    {
+      "id": 9,
+      "text": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+      "transliteration": "ওয়া ছামূদাল্লাযীনা জা-বুসসাখরা বিল ওয়া-দ।",
+      "translation_bn": "এবং সামুদ গোত্রের সাথে, যারা উপত্যকায় পাথর কেটে গৃহ নির্মাণ করেছিল।",
+      "translation_en": "And with the Thamud (people), who cut out (huge) rocks in the valley?-"
+    },
+    {
+      "id": 10,
+      "text": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+      "transliteration": "ওয়া ফির‘আউনা যীল আওতা-দ।",
+      "translation_bn": "এবং বহু কীলকের অধিপতি ফেরাউনের সাথে",
+      "translation_en": "And with Pharaoh, lord of stakes?"
+    },
+    {
+      "id": 11,
+      "text": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَٰدِ",
+      "transliteration": "আল্লাযীনা তাগাও ফিল বিলা-দ।",
+      "translation_bn": "যারা দেশে সীমালঙ্ঘন করেছিল।",
+      "translation_en": "(All) these transgressed beyond bounds in the lands,"
+    },
+    {
+      "id": 12,
+      "text": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+      "transliteration": "ফাআকছারূ ফীহাল ফাছা-দ।",
+      "translation_bn": "অতঃপর সেখানে বিস্তর অশান্তি সৃষ্টি করেছিল।",
+      "translation_en": "And heaped therein mischief (on mischief)."
+    },
+    {
+      "id": 13,
+      "text": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+      "transliteration": "ফাসাব্বা ‘আলাইহিম রাব্বুকা ছাওতা ‘আযা-ব।",
+      "translation_bn": "অতঃপর আপনার পালনকর্তা তাদেরকে শাস্তির কশাঘাত করলেন।",
+      "translation_en": "Therefore did thy Lord pour on them a scourge of diverse chastisements:"
+    },
+    {
+      "id": 14,
+      "text": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+      "transliteration": "ইন্না রাব্বাকা লাবিলমিরসা-দ।",
+      "translation_bn": "নিশ্চয় আপনার পালকর্তা সতর্ক দৃষ্টি রাখেন।",
+      "translation_en": "For thy Lord is (as a Guardian) on a watch-tower."
+    },
+    {
+      "id": 15,
+      "text": "فَأَمَّا ٱلْإِنسَٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+      "transliteration": "ফাআম্মাল ইনছা-নুইযা-মাবতালা-হু রাব্বুহু ফাআকরামাহূওয়া না‘‘আমাহূ ফাইয়াকূলু রাববীআকরামান।",
+      "translation_bn": "মানুষ এরূপ যে, যখন তার পালনকর্তা তাকে পরীক্ষা করেন, অতঃপর সম্মান ও অনুগ্রহ দান করেন, তখন বলে, আমার পালনকর্তা আমাকে সম্মান দান করেছেন।",
+      "translation_en": "Now, as for man, when his Lord trieth him, giving him honour and gifts, then saith he, (puffed up), \"My Lord hath honoured me.\""
+    },
+    {
+      "id": 16,
+      "text": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَٰنَنِ",
+      "transliteration": "ওয়া আম্মাইযা-মাবতালা-হু ফাকাদারা ‘আলাইহি রিঝকাহূ ফাইয়াকূলুরাববী আহা-নান।",
+      "translation_bn": "এবং যখন তাকে পরীক্ষা করেন, অতঃপর রিযিক সংকুচিত করে দেন, তখন বলেঃ আমার পালনকর্তা আমাকে হেয় করেছেন।",
+      "translation_en": "But when He trieth him, restricting his subsistence for him, then saith he (in despair), \"My Lord hath humiliated me!\""
+    },
+    {
+      "id": 17,
+      "text": "كَلَّا بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+      "transliteration": "কাল্লা-বাল্লা-তুকরিমূনাল ইয়াতীম।",
+      "translation_bn": "এটা অমূলক, বরং তোমরা এতীমকে সম্মান কর না।",
+      "translation_en": "Nay, nay! but ye honour not the orphans!"
+    },
+    {
+      "id": 18,
+      "text": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "transliteration": "ওয়া লা-তাহাদ্দূ না ‘আলা-তা‘আ-মিল মিছকীন।",
+      "translation_bn": "এবং মিসকীনকে অন্নদানে পরস্পরকে উৎসাহিত কর না।",
+      "translation_en": "Nor do ye encourage one another to feed the poor!-"
+    },
+    {
+      "id": 19,
+      "text": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+      "transliteration": "ওয়া তা’কুলূনাত তুরা-ছা আকলাল্লাম্মা-।",
+      "translation_bn": "এবং তোমরা মৃতের ত্যাজ্য সম্পত্তি সম্পূর্ণরূপে কুক্ষিগত করে ফেল",
+      "translation_en": "And ye devour inheritance - all with greed,"
+    },
+    {
+      "id": 20,
+      "text": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+      "transliteration": "ওয়া তুহিব্বুনাল মা-লা হুব্বান জাম্মা-।",
+      "translation_bn": "এবং তোমরা ধন-সম্পদকে প্রাণভরে ভালবাস।",
+      "translation_en": "And ye love wealth with inordinate love!"
+    },
+    {
+      "id": 21,
+      "text": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
+      "transliteration": "কাল্লাইযা-দুক্কাতিল আরদুদাক্কান দাক্কা-।",
+      "translation_bn": "এটা অনুচিত। যখন পৃথিবী চুর্ণ-বিচুর্ণ হবে",
+      "translation_en": "Nay! When the earth is pounded to powder,"
+    },
+    {
+      "id": 22,
+      "text": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+      "transliteration": "ওয়া জাআ রাব্বুকা ওয়াল মালাকুসাফফান সাফফা-।",
+      "translation_bn": "এবং আপনার পালনকর্তা ও ফেরেশতাগণ সারিবদ্ধভাবে উপস্থিত হবেন,",
+      "translation_en": "And thy Lord cometh, and His angels, rank upon rank,"
+    },
+    {
+      "id": 23,
+      "text": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+      "transliteration": "ওয়া জীআ ইয়াওমাইযিম বিজাহান্নামা ইয়াওমাইযিইঁ ইয়াতাযাক্কারুল ইনছা-নুওয়া আন্না-লাহুযযিকরা-।",
+      "translation_bn": "এবং সেদিন জাহান্নামকে আনা হবে, সেদিন মানুষ স্মরণ করবে, কিন্তু এই স্মরণ তার কি কাজে আসবে?",
+      "translation_en": "And Hell, that Day, is brought (face to face),- on that Day will man remember, but how will that remembrance profit him?"
+    },
+    {
+      "id": 24,
+      "text": "يَقُولُ يَٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+      "transliteration": "ইয়াকূ লুইয়া-লাইতানী কাদ্দামতুলিহায়া-তী।",
+      "translation_bn": "সে বলবেঃ হায়, এ জীবনের জন্যে আমি যদি কিছু অগ্রে প্রেরণ করতাম!",
+      "translation_en": "He will say: \"Ah! Would that I had sent forth (good deeds) for (this) my (Future) Life!\""
+    },
+    {
+      "id": 25,
+      "text": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+      "transliteration": "ফাইয়াওমাইযিল লা-ইউ‘আযযি বু‘আযা-বাহূআহাদ।",
+      "translation_bn": "সেদিন তার শাস্তির মত শাস্তি কেউ দিবে না।",
+      "translation_en": "For, that Day, His Chastisement will be such as none (else) can inflict,"
+    },
+    {
+      "id": 26,
+      "text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+      "transliteration": "ওয়ালা-ইঊছিকুওয়াছা-কাহূআহাদ।",
+      "translation_bn": "এবং তার বন্ধনের মত বন্ধন কেউ দিবে না।",
+      "translation_en": "And His bonds will be such as none (other) can bind."
+    },
+    {
+      "id": 27,
+      "text": "يَٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+      "transliteration": "ইয়াআইয়াতুহান্নাফছুল মুতমাইন্নাহ",
+      "translation_bn": "হে প্রশান্ত মন,",
+      "translation_en": "(To the righteous soul will be said:) \"O (thou) soul, in (complete) rest and satisfaction!"
+    },
+    {
+      "id": 28,
+      "text": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+      "transliteration": "ইরজি‘ঈইলা-রাব্বিকি রা-দিয়াতাম মারদিইয়াহ।",
+      "translation_bn": "তুমি তোমার পালনকর্তার নিকট ফিরে যাও সন্তুষ্ট ও সন্তোষভাজন হয়ে।",
+      "translation_en": "\"Come back thou to thy Lord,- well pleased (thyself), and well-pleasing unto Him!"
+    },
+    {
+      "id": 29,
+      "text": "فَٱدْخُلِى فِى عِبَٰدِى",
+      "transliteration": "ফাদখুলী ফী ‘ইবা-দী।",
+      "translation_bn": "অতঃপর আমার বান্দাদের অন্তর্ভুক্ত হয়ে যাও।",
+      "translation_en": "\"Enter thou, then, among My devotees!"
+    },
+    {
+      "id": 30,
+      "text": "وَٱدْخُلِى جَنَّتِى",
+      "transliteration": "ওয়াদখুলী জান্নাতী।",
+      "translation_bn": "এবং আমার জান্নাতে প্রবেশ কর।",
+      "translation_en": "\"Yea, enter thou My Heaven!"
+    }
+  ]
+}

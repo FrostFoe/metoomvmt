@@ -1,0 +1,150 @@
+{
+  "id": 90,
+  "name": "البلد",
+  "transliteration": "Al-Balad",
+  "translation": "The City",
+  "type": "Meccan",
+  "total_verses": 20,
+  "verses": [
+    {
+      "id": 1,
+      "text": "لَآ أُقْسِمُ بِهَٰذَا ٱلْبَلَدِ",
+      "transliteration": "লাউকছিমুবিহা-যাল বালাদ।",
+      "translation_bn": "আমি এই নগরীর শপথ করি",
+      "translation_en": "I do call to witness this City;-"
+    },
+    {
+      "id": 2,
+      "text": "وَأَنتَ حِلٌّۢ بِهَٰذَا ٱلْبَلَدِ",
+      "transliteration": "ওয়া আনতা হিল্লুম বিহা-যাল বালাদ।",
+      "translation_bn": "এবং এই নগরীতে আপনার উপর কোন প্রতিবন্ধকতা নেই।",
+      "translation_en": "And thou art a freeman of this City;-"
+    },
+    {
+      "id": 3,
+      "text": "وَوَالِدٍ وَمَا وَلَدَ",
+      "transliteration": "ওয়া ওয়া-লিদিওঁ ওয়ামা-ওয়ালাদ।",
+      "translation_bn": "শপথ জনকের ও যা জন্ম দেয়।",
+      "translation_en": "And (the mystic ties of) parent and child;-"
+    },
+    {
+      "id": 4,
+      "text": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ فِى كَبَدٍ",
+      "transliteration": "লাকাদ খালাকনাল ইনছা-না ফী কাবাদ।",
+      "translation_bn": "নিশ্চয় আমি মানুষকে শ্রমনির্ভররূপে সৃষ্টি করেছি।",
+      "translation_en": "Verily We have created man into toil and struggle."
+    },
+    {
+      "id": 5,
+      "text": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "transliteration": "ওয়া ইয়াহছাবুআল্লাইঁ ইয়াকদিরা ‘আলাইহি আহাদ।",
+      "translation_bn": "সে কি মনে করে যে, তার উপর কেউ ক্ষমতাবান হবে না ?",
+      "translation_en": "Thinketh he, that none hath power over him?"
+    },
+    {
+      "id": 6,
+      "text": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "transliteration": "ইয়াকূ লুআহলাকতুমা-লাল লুবাদা-।",
+      "translation_bn": "সে বলেঃ আমি প্রচুর ধন-সম্পদ ব্যয় করেছি।",
+      "translation_en": "He may say (boastfully); Wealth have I squandered in abundance!"
+    },
+    {
+      "id": 7,
+      "text": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "transliteration": "আইয়াহছাবুআল্লাম ইয়ারাহূআহাদ।",
+      "translation_bn": "সে কি মনে করে যে, তাকে কেউ দেখেনি?",
+      "translation_en": "Thinketh he that none beholdeth him?"
+    },
+    {
+      "id": 8,
+      "text": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "transliteration": "আলাম নাজ‘আল্লাহূ‘আইনাইন।",
+      "translation_bn": "আমি কি তাকে দেইনি চক্ষুদ্বয়,",
+      "translation_en": "Have We not made for him a pair of eyes?-"
+    },
+    {
+      "id": 9,
+      "text": "وَلِسَانًا وَشَفَتَيْنِ",
+      "transliteration": "ওয়া লিছা-নাওঁ ওয়া শাফাতাইন।",
+      "translation_bn": "জিহবা ও ওষ্ঠদ্বয় ?",
+      "translation_en": "And a tongue, and a pair of lips?-"
+    },
+    {
+      "id": 10,
+      "text": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ",
+      "transliteration": "ওয়া হাদাইনা-হুন্নাজদাঈন।",
+      "translation_bn": "বস্তুতঃ আমি তাকে দু’টি পথ প্রদর্শন করেছি।",
+      "translation_en": "And shown him the two highways?"
+    },
+    {
+      "id": 11,
+      "text": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "transliteration": "ফালাকতাহামাল ‘আকাবাহ।",
+      "translation_bn": "অতঃপর সে ধর্মের ঘাঁটিতে প্রবেশ করেনি।",
+      "translation_en": "But he hath made no haste on the path that is steep."
+    },
+    {
+      "id": 12,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "transliteration": "ওয়ামাআদরা-কা মাল ‘আকাবাহ।",
+      "translation_bn": "আপনি জানেন, সে ঘাঁটি কি?",
+      "translation_en": "And what will explain to thee the path that is steep?-"
+    },
+    {
+      "id": 13,
+      "text": "فَكُّ رَقَبَةٍ",
+      "transliteration": "ফাক্কুরাকাবাহ।",
+      "translation_bn": "তা হচ্ছে দাসমুক্তি",
+      "translation_en": "(It is:) freeing the bondman;"
+    },
+    {
+      "id": 14,
+      "text": "أَوْ إِطْعَٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+      "transliteration": "আও ইত‘আ-মুন ফী ইয়াওমিন যী মাছগাবাহ।",
+      "translation_bn": "অথবা দুর্ভিক্ষের দিনে অন্নদান।",
+      "translation_en": "Or the giving of food in a day of privation"
+    },
+    {
+      "id": 15,
+      "text": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "transliteration": "ইয়াতীমান যা-মাকরাবাহ।",
+      "translation_bn": "এতীম আত্বীয়কে",
+      "translation_en": "To the orphan with claims of relationship,"
+    },
+    {
+      "id": 16,
+      "text": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "transliteration": "আও মিছকীনান যা-মাতরাবাহ।",
+      "translation_bn": "অথবা ধুলি-ধুসরিত মিসকীনকে",
+      "translation_en": "Or to the indigent (down) in the dust."
+    },
+    {
+      "id": 17,
+      "text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "transliteration": "ছু ম্মা কা-না মিনাল্লাযীনা আ-মানূওয়াতাওয়া-সাও বিসসাবরি ওয়াতাওয়া-সাও বিল মারহামাহ।",
+      "translation_bn": "অতঃপর তাদের অন্তর্ভুক্ত হওয়া, যারা ঈমান আনে এবং পরস্পরকে উপদেশ দেয় সবরের ও উপদেশ দেয় দয়ার।",
+      "translation_en": "Then will he be of those who believe, and enjoin patience, (constancy, and self-restraint), and enjoin deeds of kindness and compassion."
+    },
+    {
+      "id": 18,
+      "text": "أُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلْمَيْمَنَةِ",
+      "transliteration": "উলাইকা আসহা-বুল মাইমানাহ।",
+      "translation_bn": "তারাই সৌভাগ্যশালী।",
+      "translation_en": "Such are the Companions of the Right Hand."
+    },
+    {
+      "id": 19,
+      "text": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَٰتِنَا هُمْ أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+      "transliteration": "ওয়াল্লাযীনা কাফারূবিআ-য়া-তিনা-হুম আসহা-বুল মাশআমাহ।",
+      "translation_bn": "আর যারা আমার আয়াতসমূহ অস্বীকার করে তারাই হতভাগা।",
+      "translation_en": "But those who reject Our Signs, they are the (unhappy) Companions of the Left Hand."
+    },
+    {
+      "id": 20,
+      "text": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+      "transliteration": "‘আলাইহিম না-রুম মু’সাদাহ।",
+      "translation_bn": "তারা অগ্নিপরিবেষ্টিত অবস্থায় বন্দী থাকবে।",
+      "translation_en": "On them will be Fire vaulted over (all round)."
+    }
+  ]
+}

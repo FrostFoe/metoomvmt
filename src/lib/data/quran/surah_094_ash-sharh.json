@@ -1,0 +1,66 @@
+{
+  "id": 94,
+  "name": "الشرح",
+  "transliteration": "Ash-Sharh",
+  "translation": "The Opening Forth",
+  "type": "Meccan",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "transliteration": "আলাম নাশরাহলাকা সাদরাক।",
+      "translation_bn": "আমি কি আপনার বক্ষ উম্মুক্ত করে দেইনি?",
+      "translation_en": "Have We not expanded thee thy breast?"
+    },
+    {
+      "id": 2,
+      "text": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "transliteration": "ওয়া ওয়াদা‘না-‘আনকা বিঝরাক",
+      "translation_bn": "আমি লাঘব করেছি আপনার বোঝা,",
+      "translation_en": "And removed from thee thy burden"
+    },
+    {
+      "id": 3,
+      "text": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "transliteration": "আল্লাযীআনকাদা জাহরাক।",
+      "translation_bn": "যা ছিল আপনার জন্যে অতিশয় দুঃসহ।",
+      "translation_en": "The which did gall thy back?"
+    },
+    {
+      "id": 4,
+      "text": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "transliteration": "ওয়া রাফা‘না-লাকা যিকরাক।",
+      "translation_bn": "আমি আপনার আলোচনাকে সমুচ্চ করেছি।",
+      "translation_en": "And raised high the esteem (in which) thou (art held)?"
+    },
+    {
+      "id": 5,
+      "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "transliteration": "ফাইন্না মা‘আল ‘উছরি ইউছরা।",
+      "translation_bn": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
+      "translation_en": "So, verily, with every difficulty, there is relief:"
+    },
+    {
+      "id": 6,
+      "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "transliteration": "ইন্না মা‘আল ‘উছরি ইউছরা।",
+      "translation_bn": "নিশ্চয় কষ্টের সাথে স্বস্তি রয়েছে।",
+      "translation_en": "Verily, with every difficulty there is relief."
+    },
+    {
+      "id": 7,
+      "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "transliteration": "ফাইযা-ফারাগতা ফানসাব।",
+      "translation_bn": "অতএব, যখন অবসর পান পরিশ্রম করুন।",
+      "translation_en": "Therefore, when thou art free (from thine immediate task), still labour hard,"
+    },
+    {
+      "id": 8,
+      "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "transliteration": "ওয়া ইলা- রাব্বিকা ফারগাব।",
+      "translation_bn": "এবং আপনার পালনকর্তার প্রতি মনোনিবেশ করুন।",
+      "translation_en": "And to thy Lord turn (all) thy attention."
+    }
+  ]
+}

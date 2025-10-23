@@ -109,7 +109,7 @@ export async function GET(request: NextRequest) {
       {
         error: `Failed to process request: ${(error as Error).message}`,
       },
-      500
+      500,
     );
   }
 }

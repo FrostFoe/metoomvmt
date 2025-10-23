@@ -1,0 +1,73 @@
+{
+  "id": 104,
+  "name": "الهمزة",
+  "transliteration": "Al-Humaza",
+  "translation": "The Slanderer",
+  "type": "Meccan",
+  "total_verses": 9,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "transliteration": "ওয়াইলুলিলকুল্লি হুমাঝাতিল লুমাঝাহ।",
+      "translation_bn": "প্রত্যেক পশ্চাতে ও সম্মুখে পরনিন্দাকারীর দুর্ভোগ,",
+      "translation_en": "Woe to every (kind of) scandal-monger and-backbiter,"
+    },
+    {
+      "id": 2,
+      "text": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "transliteration": "আল্লাযী জামা‘আ মা-লাওঁ‘ওয়া ‘আদ্দাদাহ।",
+      "translation_bn": "যে অর্থ সঞ্চিত করে ও গণনা করে",
+      "translation_en": "Who pileth up wealth and layeth it by,"
+    },
+    {
+      "id": 3,
+      "text": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "transliteration": "ইয়াহছাবুআন্না মা-লাহূআখলাদাহ।",
+      "translation_bn": "সে মনে করে যে, তার অর্থ চিরকাল তার সাথে থাকবে!",
+      "translation_en": "Thinking that his wealth would make him last for ever!"
+    },
+    {
+      "id": 4,
+      "text": "كَلَّا لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "transliteration": "কাল্লা-লাইউমবাযান্না ফিল হুতামাহ।",
+      "translation_bn": "কখনও না, সে অবশ্যই নিক্ষিপ্ত হবে পিষ্টকারীর মধ্যে।",
+      "translation_en": "By no means! He will be sure to be thrown into That which Breaks to Pieces,"
+    },
+    {
+      "id": 5,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "transliteration": "ওয়ামাআদরা-কা মাল হুতামাহ।",
+      "translation_bn": "আপনি কি জানেন, পিষ্টকারী কি?",
+      "translation_en": "And what will explain to thee That which Breaks to Pieces?"
+    },
+    {
+      "id": 6,
+      "text": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "transliteration": "না-রুল্লা-হিল মূকাদাহ",
+      "translation_bn": "এটা আল্লাহর প্রজ্জ্বলিত অগ্নি,",
+      "translation_en": "(It is) the Fire of (the Wrath of) Allah kindled (to a blaze),"
+    },
+    {
+      "id": 7,
+      "text": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "transliteration": "আল্লাতী তাত্তালি‘উ আলাল আফইদাহ।",
+      "translation_bn": "যা হৃদয় পর্যন্ত পৌছবে।",
+      "translation_en": "The which doth mount (Right) to the Hearts:"
+    },
+    {
+      "id": 8,
+      "text": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "transliteration": "ইন্নাহা-‘আলাইহিম মু’সাদাহ",
+      "translation_bn": "এতে তাদেরকে বেঁধে দেয়া হবে,",
+      "translation_en": "It shall be made into a vault over them,"
+    },
+    {
+      "id": 9,
+      "text": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "transliteration": "ফী ‘আমাদিম মুমাদ্দাদাহ।",
+      "translation_bn": "লম্বা লম্বা খুঁটিতে।",
+      "translation_en": "In columns outstretched."
+    }
+  ]
+}

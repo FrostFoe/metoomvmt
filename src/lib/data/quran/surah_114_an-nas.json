@@ -1,0 +1,52 @@
+{
+  "id": 114,
+  "name": "الناس",
+  "transliteration": "An-Nas",
+  "translation": "Mankind",
+  "type": "Medinan",
+  "total_verses": 6,
+  "verses": [
+    {
+      "id": 1,
+      "text": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "transliteration": "কুল আ‘ঊযুবিরাব্বিন্না-ছ,",
+      "translation_bn": "বলুন, আমি আশ্রয় গ্রহণ করিতেছি মানুষের পালনকর্তার,",
+      "translation_en": "Say: I seek refuge with the Lord and Cherisher of Mankind,"
+    },
+    {
+      "id": 2,
+      "text": "مَلِكِ ٱلنَّاسِ",
+      "transliteration": "মালিকিন্না-ছ,",
+      "translation_bn": "মানুষের অধিপতির,",
+      "translation_en": "The King (or Ruler) of Mankind,"
+    },
+    {
+      "id": 3,
+      "text": "إِلَٰهِ ٱلنَّاسِ",
+      "transliteration": "ইলা-হিন্না-ছ।",
+      "translation_bn": "মানুষের মা’বুদের",
+      "translation_en": "The god (or judge) of Mankind,-"
+    },
+    {
+      "id": 4,
+      "text": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "transliteration": "মিন শাররিল ওয়াছ ওয়া-ছিল খান্না-ছ।",
+      "translation_bn": "তার অনিষ্ট থেকে, যে কুমন্ত্রণা দেয় ও আত্নগোপন করে,",
+      "translation_en": "From the mischief of the Whisperer (of Evil), who withdraws (after his whisper),-"
+    },
+    {
+      "id": 5,
+      "text": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "transliteration": "আল্লাযী ইউওয়াছবিছুফী সুদূরিন্নাছ।",
+      "translation_bn": "যে কুমন্ত্রণা দেয় মানুষের অন্তরে",
+      "translation_en": "(The same) who whispers into the hearts of Mankind,-"
+    },
+    {
+      "id": 6,
+      "text": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "transliteration": "মিনাল জিন্নাতি ওয়ান্না-ছ।",
+      "translation_bn": "জ্বিনের মধ্য থেকে অথবা মানুষের মধ্য থেকে।",
+      "translation_en": "Among Jinns and among men."
+    }
+  ]
+}

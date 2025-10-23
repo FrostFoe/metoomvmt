@@ -1,0 +1,59 @@
+{
+  "id": 1,
+  "name": "الفاتحة",
+  "transliteration": "Al-Fatihah",
+  "translation": "The Opening",
+  "type": "Meccan",
+  "total_verses": 7,
+  "verses": [
+    {
+      "id": 1,
+      "text": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "transliteration": "বিছমিল্লাহির রাহমানির রাহিম।",
+      "translation_bn": "শুরু করছি আল্লাহর নামে যিনি পরম করুণাময়, অতি দয়ালু।",
+      "translation_en": "In the name of Allah, Most Gracious, Most Merciful."
+    },
+    {
+      "id": 2,
+      "text": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "transliteration": "আল হামদুলিল্লা-হি রাব্বিল ‘আ-লামীন।",
+      "translation_bn": "যাবতীয় প্রশংসা আল্লাহ তাআলার যিনি সকল সৃষ্টি জগতের পালনকর্তা।",
+      "translation_en": "Praise be to Allah, the Cherisher and Sustainer of the worlds;"
+    },
+    {
+      "id": 3,
+      "text": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "transliteration": "আররাহমা-নির রাহীম।",
+      "translation_bn": "যিনি নিতান্ত মেহেরবান ও দয়ালু।",
+      "translation_en": "Most Gracious, Most Merciful;"
+    },
+    {
+      "id": 4,
+      "text": "مَالِكِ يَوْمِ الدِّينِ",
+      "transliteration": "মা-লিকি ইয়াওমিদ্দীন।",
+      "translation_bn": "যিনি বিচার দিনের মালিক।",
+      "translation_en": "Master of the Day of Judgment."
+    },
+    {
+      "id": 5,
+      "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "transliteration": "ইয়্যা-কা না‘বুদুওয়া ইয়্যা-কা নাছতা‘ঈন।",
+      "translation_bn": "আমরা একমাত্র তোমারই ইবাদত করি এবং শুধুমাত্র তোমারই সাহায্য প্রার্থনা করি।",
+      "translation_en": "Thee do we worship, and Thine aid we seek."
+    },
+    {
+      "id": 6,
+      "text": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "transliteration": "ইহদিনাসসিরা-তাল মুছতাকীম।",
+      "translation_bn": "আমাদেরকে সরল পথ দেখাও,",
+      "translation_en": "Show us the straight way,"
+    },
+    {
+      "id": 7,
+      "text": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "transliteration": "সিরা-তাল্লাযীনা আন‘আমতা ‘আলাইহিম । গাইরিল মাগদূ বি ‘আলাইহিম ওয়ালাদ্দাল্লীন।",
+      "translation_bn": "সে সমস্ত লোকের পথ, যাদেরকে তুমি নেয়ামত দান করেছ। তাদের পথ নয়, যাদের প্রতি তোমার গজব নাযিল হয়েছে এবং যারা পথভ্রষ্ট হয়েছে।",
+      "translation_en": "The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray."
+    }
+  ]
+}

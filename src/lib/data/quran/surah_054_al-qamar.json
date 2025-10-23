@@ -1,0 +1,395 @@
+{
+  "id": 54,
+  "name": "القمر",
+  "transliteration": "Al-Qamar",
+  "translation": "The Moon",
+  "type": "Meccan",
+  "total_verses": 55,
+  "verses": [
+    {
+      "id": 1,
+      "text": "ٱقْتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلْقَمَرُ",
+      "transliteration": "ইকতারাবাতিছছা-‘আতুওয়ানশাক্কাল কামার।",
+      "translation_bn": "কেয়ামত আসন্ন, চন্দ্র বিদীর্ণ হয়েছে।",
+      "translation_en": "The Hour (of Judgment) is nigh, and the moon is cleft asunder."
+    },
+    {
+      "id": 2,
+      "text": "وَإِن يَرَوْا۟ ءَايَةً يُعْرِضُوا۟ وَيَقُولُوا۟ سِحْرٌ مُّسْتَمِرٌّ",
+      "transliteration": "ওয়া ইয়ঁইয়ারাও আ-য়াতাইঁ ইউ‘রিদূ ওয়া ইয়াকূলূছিহরুম মুছতামির।",
+      "translation_bn": "তারা যদি কোন নিদর্শন দেখে তবে মুখ ফিরিয়ে নেয় এবং বলে, এটা তো চিরাগত জাদু।=",
+      "translation_en": "But if they see a Sign, they turn away, and say, \"This is (but) transient magic.\""
+    },
+    {
+      "id": 3,
+      "text": "وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ",
+      "transliteration": "ওয়াকাযযাবূওয়াত্তাবা‘ঊআহওয়াআহুম ওয়াকুল্লুআমরিম মুছতাকির।",
+      "translation_bn": "তারা মিথ্যারোপ করছে এবং নিজেদের খেয়াল-খুশীর অনুসরণ করছে। প্রত্যেক কাজ যথাসময়ে স্থিরীকৃত হয়।",
+      "translation_en": "They reject (the warning) and follow their (own) lusts but every matter has its appointed time."
+    },
+    {
+      "id": 4,
+      "text": "وَلَقَدْ جَآءَهُم مِّنَ ٱلْأَنۢبَآءِ مَا فِيهِ مُزْدَجَرٌ",
+      "transliteration": "ওয়া লাকাদ জাআহুম মিনাল আমবাই মা-ফীহি মুঝদাজার।",
+      "translation_bn": "তাদের কাছে এমন সংবাদ এসে গেছে, যাতে সাবধানবাণী রয়েছে।",
+      "translation_en": "There have already come to them Recitals wherein there is (enough) to check (them),"
+    },
+    {
+      "id": 5,
+      "text": "حِكْمَةٌۢ بَٰلِغَةٌ فَمَا تُغْنِ ٱلنُّذُرُ",
+      "transliteration": "হিকমাতুম বা-লিগাতুন ফামা-তুগনিন নুযুর।",
+      "translation_bn": "এটা পরিপূর্ণ জ্ঞান, তবে সতর্ককারীগণ তাদের কোন উপকারে আসে না।",
+      "translation_en": "Mature wisdom;- but (the preaching of) Warners profits them not."
+    },
+    {
+      "id": 6,
+      "text": "فَتَوَلَّ عَنْهُمْ يَوْمَ يَدْعُ ٱلدَّاعِ إِلَىٰ شَىْءٍ نُّكُرٍ",
+      "transliteration": "ফাতাওয়াল্লা ‘আনহুম । ইয়াওমা ইয়াদ‘উদ্দা-‘ই ইলা-শাইয়িন নুকুর।",
+      "translation_bn": "অতএব, আপনি তাদের থেকে মুখ ফিরিয়ে নিন। যেদিন আহবানকারী আহবান করবে এক অপ্রিয় পরিণামের দিকে,",
+      "translation_en": "Therefore, (O Prophet,) turn away from them. The Day that the Caller will call (them) to a terrible affair,"
+    },
+    {
+      "id": 7,
+      "text": "خُشَّعًا أَبْصَٰرُهُمْ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ كَأَنَّهُمْ جَرَادٌ مُّنتَشِرٌ",
+      "transliteration": "খুশশা‘আন আবসা-রুহুম ইয়াখরুজূনা মিনাল আজদা-ছিকাআন্নাহুম জারা-দুম মুনতাশির",
+      "translation_bn": "তারা তখন অবনমিত নেত্রে কবর থেকে বের হবে বিক্ষিপ্ত পংগপাল সদৃশ।",
+      "translation_en": "They will come forth,- their eyes humbled - from (their) graves, (torpid) like locusts scattered abroad,"
+    },
+    {
+      "id": 8,
+      "text": "مُّهْطِعِينَ إِلَى ٱلدَّاعِ يَقُولُ ٱلْكَٰفِرُونَ هَٰذَا يَوْمٌ عَسِرٌ",
+      "transliteration": "মুহতি‘ঈনা ইলাদ্দা-‘ই ইয়াকূলুল কা-ফিরূনা হা-যা-ইয়াওমুন ‘আছির।",
+      "translation_bn": "তারা আহবানকারীর দিকে দৌড়াতে থাকবে। কাফেরা বলবেঃ এটা কঠিন দিন।",
+      "translation_en": "Hastening, with eyes transfixed, towards the Caller!- \"Hard is this Day!\", the Unbelievers will say."
+    },
+    {
+      "id": 9,
+      "text": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ فَكَذَّبُوا۟ عَبْدَنَا وَقَالُوا۟ مَجْنُونٌ وَٱزْدُجِرَ",
+      "transliteration": "কাযযাবাত কাবলাহুম কাওমু নূহিন ফাকাযযাবূ ‘আবদানা-ওয়াকা-লূ মাজনূনুওঁ ওয়াঝদুজির।",
+      "translation_bn": "তাদের পূর্বে নূহের সম্প্রদায়ও মিথ্যারোপ করেছিল। তারা মিথ্যারোপ করেছিল আমার বান্দা নূহের প্রতি এবং বলেছিলঃ এ তো উম্মাদ। তাঁরা তাকে হুমকি প্রদর্শন করেছিল।",
+      "translation_en": "Before them the People of Noah rejected (their messenger): they rejected Our servant, and said, \"Here is one possessed!\", and he was driven out."
+    },
+    {
+      "id": 10,
+      "text": "فَدَعَا رَبَّهُۥٓ أَنِّى مَغْلُوبٌ فَٱنتَصِرْ",
+      "transliteration": "ফাদা‘আ-রাব্বাহূআন্নী মাগলূবুন ফানতাসির ।",
+      "translation_bn": "অতঃপর সে তার পালনকর্তাকে ডেকে বললঃ আমি অক্ষম, অতএব, তুমি প্রতিবিধান কর।",
+      "translation_en": "Then he called on his Lord: \"I am one overcome: do Thou then help (me)!\""
+    },
+    {
+      "id": 11,
+      "text": "فَفَتَحْنَآ أَبْوَٰبَ ٱلسَّمَآءِ بِمَآءٍ مُّنْهَمِرٍ",
+      "transliteration": "ফাফাতাহনাআবওয়া-বাছ ছামাই বিমাইম মুনহামির।",
+      "translation_bn": "তখন আমি খুলে দিলাম আকাশের দ্বার প্রবল বারিবর্ষণের মাধ্যমে।",
+      "translation_en": "So We opened the gates of heaven, with water pouring forth."
+    },
+    {
+      "id": 12,
+      "text": "وَفَجَّرْنَا ٱلْأَرْضَ عُيُونًا فَٱلْتَقَى ٱلْمَآءُ عَلَىٰٓ أَمْرٍ قَدْ قُدِرَ",
+      "transliteration": "ওয়া ফাজ্জারনাল আরদা ‘উইঊনান ফালতাকাল মাউ ‘আলাআমরিন কাদ কুদির।",
+      "translation_bn": "এবং ভুমি থেকে প্রবাহিত করলাম প্রস্রবণ। অতঃপর সব পানি মিলিত হল এক পরিকম্পিত কাজে।",
+      "translation_en": "And We caused the earth to gush forth with springs, so the waters met (and rose) to the extent decreed."
+    },
+    {
+      "id": 13,
+      "text": "وَحَمَلْنَٰهُ عَلَىٰ ذَاتِ أَلْوَٰحٍ وَدُسُرٍ",
+      "transliteration": "ওয়া হামালনা-হু ‘আলা-যা-তি আলওয়া-হিওঁ ওয়াদুছুর।",
+      "translation_bn": "আমি নূহকে আরোহণ করালাম এক কাষ্ঠ ও পেরেক নির্মিত জলযানে।",
+      "translation_en": "But We bore him on an (Ark) made of broad planks and caulked with palm-fibre:"
+    },
+    {
+      "id": 14,
+      "text": "تَجْرِى بِأَعْيُنِنَا جَزَآءً لِّمَن كَانَ كُفِرَ",
+      "transliteration": "তাজরী বিআ‘ইউনিনা- জাঝাআল লিমান কা-না কুফির।",
+      "translation_bn": "যা চলত আমার দৃষ্টি সামনে। এটা তার পক্ষ থেকে প্রতিশোধ ছিল, যাকে প্রত্যখ্যান করা হয়েছিল",
+      "translation_en": "She floats under our eyes (and care): a recompense to one who had been rejected (with scorn)!"
+    },
+    {
+      "id": 15,
+      "text": "وَلَقَد تَّرَكْنَٰهَآ ءَايَةً فَهَلْ مِن مُّدَّكِرٍ",
+      "transliteration": "ওয়া লাকাদ তারাকনা-হাআ-য়াতান ফাহাল মিম মুদ্দাকির।",
+      "translation_bn": "আমি একে এক নিদর্শনরূপে রেখে দিয়েছি। অতএব, কোন চিন্তাশীল আছে কি?",
+      "translation_en": "And We have left this as a Sign (for all time): then is there any that will receive admonition?"
+    },
+    {
+      "id": 16,
+      "text": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "transliteration": "ফাকাইফা কা-না ‘আযা-বী ওয়া নুযুর।",
+      "translation_bn": "কেমন কঠোর ছিল আমার শাস্তি ও সতর্কবাণী।",
+      "translation_en": "But how (terrible) was My Penalty and My Warning?"
+    },
+    {
+      "id": 17,
+      "text": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "transliteration": "ওয়ালাকাদ ইয়াছছারনাল কুরআ-না লিযযি করি ফাহাল মিম মুদ্দাকির।",
+      "translation_bn": "আমি কোরআনকে সহজ করে দিয়েছি বোঝার জন্যে। অতএব, কোন চিন্তাশীল আছে কি?",
+      "translation_en": "And We have indeed made the Qur'an easy to understand and remember: then is there any that will receive admonition?"
+    },
+    {
+      "id": 18,
+      "text": "كَذَّبَتْ عَادٌ فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "transliteration": "কাযযাবাত ‘আ-দুন ফাকাইফা কা-না ‘আযা-বী ওয়া নুযুর।",
+      "translation_bn": "আদ সম্প্রদায় মিথ্যারোপ করেছিল, অতঃপর কেমন কঠোর হয়েছিল আমার শাস্তি ও সতর্কবাণী।",
+      "translation_en": "The 'Ad (people) (too) rejected (Truth): then how terrible was My Penalty and My Warning?"
+    },
+    {
+      "id": 19,
+      "text": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِى يَوْمِ نَحْسٍ مُّسْتَمِرٍّ",
+      "transliteration": "ইন্নাআরছালনা-‘আলাইহিম রীহান সারসারান ফী ইয়াওমি নাহছিম মুছতামির।",
+      "translation_bn": "আমি তাদের উপর প্রেরণ করেছিলাম ঝঞ্জাবায়ু এক চিরাচরিত অশুভ দিনে।",
+      "translation_en": "For We sent against them a furious wind, on a Day of violent Disaster,"
+    },
+    {
+      "id": 20,
+      "text": "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمْ أَعْجَازُ نَخْلٍ مُّنقَعِرٍ",
+      "transliteration": "তানঝি‘উন্না-ছা কাআন্নাহুম আ‘জা-ঝুনাখলিম মুনকা‘ইর।",
+      "translation_bn": "তা মানুষকে উৎখাত করছিল, যেন তারা উৎপাটিত খর্জুর বৃক্ষের কান্ড।",
+      "translation_en": "Plucking out men as if they were roots of palm-trees torn up (from the ground)."
+    },
+    {
+      "id": 21,
+      "text": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "transliteration": "ফাকাইফা কা-না ‘আযা-বী ওয়া নুযুর।",
+      "translation_bn": "অতঃপর কেমন কঠোর ছিল আমার শাস্তি ও সতর্কবাণী।",
+      "translation_en": "Yea, how (terrible) was My Penalty and My Warning!"
+    },
+    {
+      "id": 22,
+      "text": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "transliteration": "ওয়া লাকাদ ইয়াছছারনাল কুরআ-না লিযযি করি ফাহাল মিম মুদ্দাকির।",
+      "translation_bn": "আমি কোরআনকে বোঝার জন্যে সহজ করে দিয়েছি। অতএব, কোন চিন্তাশীল আছে কি?",
+      "translation_en": "But We have indeed made the Qur'an easy to understand and remember: then is there any that will receive admonition?"
+    },
+    {
+      "id": 23,
+      "text": "كَذَّبَتْ ثَمُودُ بِٱلنُّذُرِ",
+      "transliteration": "কাযযাবাত ছামূদুবিন্নুযুর।",
+      "translation_bn": "সামুদ সম্প্রদায় সতর্ককারীদের প্রতি মিথ্যারোপ করেছিল।",
+      "translation_en": "The Thamud (also) rejected (their) Warners."
+    },
+    {
+      "id": 24,
+      "text": "فَقَالُوٓا۟ أَبَشَرًا مِّنَّا وَٰحِدًا نَّتَّبِعُهُۥٓ إِنَّآ إِذًا لَّفِى ضَلَٰلٍ وَسُعُرٍ",
+      "transliteration": "ফাকা-লূআবাশারাম মিন্না-ওয়া-হিদান নাত্তাবি‘উহূ ইন্নাইযাল্লাফী দালা-লিওঁ ওয়াছু‘উর।",
+      "translation_bn": "তারা বলেছিলঃ আমরা কি আমাদেরই একজনের অনুসরণ করব? তবে তো আমরা বিপথগামী ও বিকার গ্রস্থরূপে গণ্য হব।",
+      "translation_en": "For they said: \"What! a man! a Solitary one from among ourselves! shall we follow such a one? Truly should we then be straying in mind, and mad!"
+    },
+    {
+      "id": 25,
+      "text": "أَءُلْقِىَ ٱلذِّكْرُ عَلَيْهِ مِنۢ بَيْنِنَا بَلْ هُوَ كَذَّابٌ أَشِرٌ",
+      "transliteration": "আ উলকিয়াযযিকরু ‘আলাইহি মিম বাইনিনা-বাল হুওয়া কাযযা-বুন আশির।",
+      "translation_bn": "আমাদের মধ্যে কি তারই প্রতি উপদেশ নাযিল করা হয়েছে? বরং সে একজন মিথ্যাবাদী, দাম্ভিক।",
+      "translation_en": "\"Is it that the Message is sent to him, of all people amongst us? Nay, he is a liar, an insolent one!\""
+    },
+    {
+      "id": 26,
+      "text": "سَيَعْلَمُونَ غَدًا مَّنِ ٱلْكَذَّابُ ٱلْأَشِرُ",
+      "transliteration": "ছাইয়া‘লামূনা গাদাম মানিল কাযযা-বুল আশির।",
+      "translation_bn": "এখন আগামীকল্যই তারা জানতে পারবে কে মিথ্যাবাদী, দাম্ভিক।",
+      "translation_en": "Ah! they will know on the morrow, which is the liar, the insolent one!"
+    },
+    {
+      "id": 27,
+      "text": "إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ",
+      "transliteration": "ইন্না-মুরছিলুন্না-কাতি ফিতনাতাল্লাহুম ফারতাকিবহুম ওয়াসতাবির।",
+      "translation_bn": "আমি তাদের পরীক্ষার জন্য এক উষ্ট্রী প্রেরণ করব, অতএব, তাদের প্রতি লক্ষ্য রাখ এবং সবর কর।",
+      "translation_en": "For We will send the she-camel by way of trial for them. So watch them, (O Salih), and possess thyself in patience!"
+    },
+    {
+      "id": 28,
+      "text": "وَنَبِّئْهُمْ أَنَّ ٱلْمَآءَ قِسْمَةٌۢ بَيْنَهُمْ كُلُّ شِرْبٍ مُّحْتَضَرٌ",
+      "transliteration": "ওয়া নাব্বি’হুম আন্নাল মাআ কিছমাতুম বাইনাহুম কুল্লুশিরবিম মুহতাদার।",
+      "translation_bn": "এবং তাদেরকে জানিয়ে দাও যে, তাদের মধ্যে পানির পালা নির্ধারিত হয়েছে এবং পালাক্রমে উপস্থিত হতে হবে",
+      "translation_en": "And tell them that the water is to be divided between them: Each one's right to drink being brought forward (by suitable turns)."
+    },
+    {
+      "id": 29,
+      "text": "فَنَادَوْا۟ صَاحِبَهُمْ فَتَعَاطَىٰ فَعَقَرَ",
+      "transliteration": "ফানা-দাও সা-হিবাহুম ফাত‘আ-তা-ফা‘আকার।",
+      "translation_bn": "অতঃপর তারা তাদের সঙ্গীকে ডাকল। সে তাকে ধরল এবং বধ করল।",
+      "translation_en": "But they called to their companion, and he took a sword in hand, and hamstrung (her)."
+    },
+    {
+      "id": 30,
+      "text": "فَكَيْفَ كَانَ عَذَابِى وَنُذُرِ",
+      "transliteration": "ফাকাইফা কা-না ‘আযা-বী ওয়ানুযুর।",
+      "translation_bn": "অতঃপর কেমন কঠোর ছিল আমার শাস্তি ও সতর্কবাণী।",
+      "translation_en": "Ah! how (terrible) was My Penalty and My Warning!"
+    },
+    {
+      "id": 31,
+      "text": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ صَيْحَةً وَٰحِدَةً فَكَانُوا۟ كَهَشِيمِ ٱلْمُحْتَظِرِ",
+      "transliteration": "ইন্নাআরছালনা-‘আলাইহিম সাইহাতাওঁ ওয়া হিদাতান ফাকা-নূকাহাশীমিল মুহতাজির।",
+      "translation_bn": "আমি তাদের প্রতি একটিমাত্র নিনাদ প্রেরণ করেছিলাম। এতেই তারা হয়ে গেল শুষ্ক শাখাপল্লব নির্মিত দলিত খোয়াড়ের ন্যায়।",
+      "translation_en": "For We sent against them a single Mighty Blast, and they became like the dry stubble used by one who pens cattle."
+    },
+    {
+      "id": 32,
+      "text": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "transliteration": "ওয়া লাকাদ ইয়াছছারনাল কুরআ-না লিযযি করি ফাহাল মিম মুদ্দাকির।",
+      "translation_bn": "আমি কোরআনকে বোঝার জন্যে সহজ করে দিয়েছি। অতএব, কোন চিন্তাশীল আছে কি?",
+      "translation_en": "And We have indeed made the Qur'an easy to understand and remember: then is there any that will receive admonition?"
+    },
+    {
+      "id": 33,
+      "text": "كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ",
+      "transliteration": "কাযযাবাত কাওমুলূতিম বিননুযুর।",
+      "translation_bn": "লূত-সম্প্রদায় সতর্ককারীদের প্রতি মিথ্যারোপ করেছিল।",
+      "translation_en": "The people of Lut rejected (his) warning."
+    },
+    {
+      "id": 34,
+      "text": "إِنَّآ أَرْسَلْنَا عَلَيْهِمْ حَاصِبًا إِلَّآ ءَالَ لُوطٍ نَّجَّيْنَٰهُم بِسَحَرٍ",
+      "transliteration": "ইন্নাআরছালনা-‘আলাইহিম হা-সিবান ইল্লাআ-লা লূতিন নাজ্জাইনা-হুম বিছাহার।",
+      "translation_bn": "আমি তাদের প্রতি প্রেরণ করেছিলাম প্রস্তর বর্ষণকারী প্রচন্ড ঘূর্ণিবায়ু; কিন্তু লূত পরিবারের উপর নয়। আমি তাদেরকে রাতের শেষপ্রহরে উদ্ধার করেছিলাম।",
+      "translation_en": "We sent against them a violent Tornado with showers of stones, (which destroyed them), except Lut's household: them We delivered by early Dawn,-"
+    },
+    {
+      "id": 35,
+      "text": "نِّعْمَةً مِّنْ عِندِنَا كَذَٰلِكَ نَجْزِى مَن شَكَرَ",
+      "transliteration": "নি‘মাতাম মিন ‘ইনদিনা- কাযা-লিকা নাজঝী মান শাকার।",
+      "translation_bn": "আমার পক্ষ থেকে অনুগ্রহ স্বরূপ। যারা কৃতজ্ঞতা স্বীকার করে, আমি তাদেরকে এভাবে পুরস্কৃত করে থকি।",
+      "translation_en": "As a Grace from Us: thus do We reward those who give thanks."
+    },
+    {
+      "id": 36,
+      "text": "وَلَقَدْ أَنذَرَهُم بَطْشَتَنَا فَتَمَارَوْا۟ بِٱلنُّذُرِ",
+      "transliteration": "ওয়ালা-কাদ আনযারাহুম বাতশাতানা-ফাতামা-রাও বিননুযুর।",
+      "translation_bn": "লূত (আঃ) তাদেরকে আমার প্রচন্ড পাকড়াও সম্পর্কে সতর্ক করেছিল। অতঃপর তারা সতর্কবাণী সম্পর্কে বাকবিতন্ডা করেছিল।",
+      "translation_en": "And (Lut) did warn them of Our Punishment, but they disputed about the Warning."
+    },
+    {
+      "id": 37,
+      "text": "وَلَقَدْ رَٰوَدُوهُ عَن ضَيْفِهِۦ فَطَمَسْنَآ أَعْيُنَهُمْ فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+      "transliteration": "ওয়া লাকাদ রা-ওয়াদূহু‘আনদাইফিহী ফাতামাছনাআ‘ইউনাহুম ফাযূকূ‘আযা-বী ওয়া নুযুর।",
+      "translation_bn": "তারা লূতের (আঃ) কাছে তার মেহমানদেরকে দাবী করেছিল। তখন আমি তাদের চক্ষু লোপ করে দিলাম। অতএব, আস্বাদন কর আমার শাস্তি ও সতর্কবাণী।",
+      "translation_en": "And they even sought to snatch away his guests from him, but We blinded their eyes. (They heard:) \"Now taste ye My Wrath and My Warning.\""
+    },
+    {
+      "id": 38,
+      "text": "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ",
+      "transliteration": "ওয়া লাকাদ সাব্বাহাহুম বুকরাতান ‘আযা-বুমমুছতাকির।",
+      "translation_bn": "তাদেরকে প্রত্যুষে নির্ধারিত শাস্তি আঘাত হেনেছিল।",
+      "translation_en": "Early on the morrow an abiding Punishment seized them:"
+    },
+    {
+      "id": 39,
+      "text": "فَذُوقُوا۟ عَذَابِى وَنُذُرِ",
+      "transliteration": "ফাযূকূ‘আযা-বী ওয়ানুযুর।",
+      "translation_bn": "অতএব, আমার শাস্তি ও সতর্কবাণী আস্বাদন কর।",
+      "translation_en": "\"So taste ye My Wrath and My Warning.\""
+    },
+    {
+      "id": 40,
+      "text": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+      "transliteration": "ওয়ালাকাদ ইয়াছছারনাল কুরআ-না লিযযি করি ফাহাল মিমমুদ্দাকির।",
+      "translation_bn": "আমি কোরআনকে বোঝবার জন্যে সহজ করে দিয়েছি। অতএব, কোন চিন্তাশীল আছে কি?",
+      "translation_en": "And We have indeed made the Qur'an easy to understand and remember: then is there any that will receive admonition?"
+    },
+    {
+      "id": 41,
+      "text": "وَلَقَدْ جَآءَ ءَالَ فِرْعَوْنَ ٱلنُّذُرُ",
+      "transliteration": "ওয়া লাকাদ জাআ আ-লা ফির‘আওনাননুযুর।",
+      "translation_bn": "ফেরাউন সম্প্রদায়ের কাছেও সতর্ককারীগণ আগমন করেছিল।",
+      "translation_en": "To the People of Pharaoh, too, aforetime, came Warners (from Allah)."
+    },
+    {
+      "id": 42,
+      "text": "كَذَّبُوا۟ بِـَٔايَٰتِنَا كُلِّهَا فَأَخَذْنَٰهُمْ أَخْذَ عَزِيزٍ مُّقْتَدِرٍ",
+      "transliteration": "কাযযাবূবিআ-য়া-তিনা-কুল্লিহা-ফাআখযনা -হুম আখযা ‘আঝীঝিমমুকতাদির।",
+      "translation_bn": "তারা আমার সকল নিদর্শনের প্রতি মিথ্যারোপ করেছিল। অতঃপর আমি পরাভূতকারী, পরাক্রমশালীর ন্যায় তাদেরকে পাকড়াও করলাম।",
+      "translation_en": "The (people) rejected all Our Signs; but We seized them with such Penalty (as comes) from One Exalted in Power, able to carry out His Will."
+    },
+    {
+      "id": 43,
+      "text": "أَكُفَّارُكُمْ خَيْرٌ مِّنْ أُو۟لَٰٓئِكُمْ أَمْ لَكُم بَرَآءَةٌ فِى ٱلزُّبُرِ",
+      "transliteration": "আকুফফা-রুকুম খাইরুম মিন উলাইকুম আম লাকুম বারাআতুন ফিঝঝুবুর।",
+      "translation_bn": "তোমাদের মধ্যকার কাফেররা কি তাদের চাইতে শ্রেষ্ঠ ? না তোমাদের মুক্তির সনদপত্র রয়েছে কিতাবসমূহে?",
+      "translation_en": "Are your Unbelievers, (O Quraish), better than they? Or have ye an immunity in the Sacred Books?"
+    },
+    {
+      "id": 44,
+      "text": "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ",
+      "transliteration": "আম ইয়াকূলূনা নাহনুজামী‘উমমুনতাসির।",
+      "translation_bn": "না তারা বলে যে, আমারা এক অপরাজেয় দল?",
+      "translation_en": "Or do they say: \"We acting together can defend ourselves\"?"
+    },
+    {
+      "id": 45,
+      "text": "سَيُهْزَمُ ٱلْجَمْعُ وَيُوَلُّونَ ٱلدُّبُرَ",
+      "transliteration": "ছাইউহঝামুল জাম‘উ ওয়া ইউওয়াললূনাদ্দুবুর।",
+      "translation_bn": "এ দল তো সত্ত্বরই পরাজিত হবে এবং পৃষ্ঠপ্রদর্শন করবে।",
+      "translation_en": "Soon will their multitude be put to flight, and they will show their backs."
+    },
+    {
+      "id": 46,
+      "text": "بَلِ ٱلسَّاعَةُ مَوْعِدُهُمْ وَٱلسَّاعَةُ أَدْهَىٰ وَأَمَرُّ",
+      "transliteration": "বালিছ ছা-‘আতুমাও‘ইদুহুম ওয়াছছা-‘আতুআদহা-ওয়া আমার।",
+      "translation_bn": "বরং কেয়ামত তাদের প্রতিশ্রুত সময় এবং কেয়ামত ঘোরতর বিপদ ও তিক্ততর।",
+      "translation_en": "Nay, the Hour (of Judgment) is the time promised them (for their full recompense): And that Hour will be most grievous and most bitter."
+    },
+    {
+      "id": 47,
+      "text": "إِنَّ ٱلْمُجْرِمِينَ فِى ضَلَٰلٍ وَسُعُرٍ",
+      "transliteration": "ইন্নাল মুজরিমীনা ফী দালা-লিওঁ ওয়াছু‘উর।",
+      "translation_bn": "নিশ্চয় অপরাধীরা পথভ্রষ্ট ও বিকারগ্রস্ত।",
+      "translation_en": "Truly those in sin are the ones straying in mind, and mad."
+    },
+    {
+      "id": 48,
+      "text": "يَوْمَ يُسْحَبُونَ فِى ٱلنَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا۟ مَسَّ سَقَرَ",
+      "transliteration": "ইয়াওমা ইউছহাবূনা ফিন্না-রি ‘আলা-উজূহিহিম যূকূমাছছা ছাকার।",
+      "translation_bn": "যেদিন তাদেরকে মুখ হিঁচড়ে টেনে নেয়া হবে জাহান্নামে, বলা হবেঃ অগ্নির খাদ্য আস্বাদন কর।",
+      "translation_en": "The Day they will be dragged through the Fire on their faces, (they will hear:) \"Taste ye the touch of Hell!\""
+    },
+    {
+      "id": 49,
+      "text": "إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ",
+      "transliteration": "ইন্না-কুল্লা শাইয়িন খালাকনা-হু বিকাদার।",
+      "translation_bn": "আমি প্রত্যেক বস্তুকে পরিমিতরূপে সৃষ্টি করেছি।",
+      "translation_en": "Verily, all things have We created in proportion and measure."
+    },
+    {
+      "id": 50,
+      "text": "وَمَآ أَمْرُنَآ إِلَّا وَٰحِدَةٌ كَلَمْحٍۭ بِٱلْبَصَرِ",
+      "transliteration": "ওয়ামাআমরুনাইল্লা-ওয়া-হিদাতুন কালাম হিম বিলবাসার।",
+      "translation_bn": "আমার কাজ তো এক মুহূর্তে চোখের পলকের মত।",
+      "translation_en": "And Our Command is but a single (Act),- like the twinkling of an eye."
+    },
+    {
+      "id": 51,
+      "text": "وَلَقَدْ أَهْلَكْنَآ أَشْيَاعَكُمْ فَهَلْ مِن مُّدَّكِرٍ",
+      "transliteration": "ওয়া লাকাদ আহলাকনাআশইয়া-‘আকুম ফাহাল মিমমুদ্দাকির।",
+      "translation_bn": "আমি তোমাদের সমমনা লোকদেরকে ধ্বংস করেছি, অতএব, কোন চিন্তাশীল আছে কি?",
+      "translation_en": "And (oft) in the past, have We destroyed gangs like unto you: then is there any that will receive admonition?"
+    },
+    {
+      "id": 52,
+      "text": "وَكُلُّ شَىْءٍ فَعَلُوهُ فِى ٱلزُّبُرِ",
+      "transliteration": "ওয়া কুল্লুশাইয়িন ফা‘আলূহু ফিঝ ঝুবুর।",
+      "translation_bn": "তারা যা কিছু করেছে, সবই আমলনামায় লিপিবদ্ধ আছে।",
+      "translation_en": "All that they do is noted in (their) Books (of Deeds):"
+    },
+    {
+      "id": 53,
+      "text": "وَكُلُّ صَغِيرٍ وَكَبِيرٍ مُّسْتَطَرٌ",
+      "transliteration": "ওয়া কুল্লুসাগীরিওঁ ওয়া কাবীরিমমুছতাতার।",
+      "translation_bn": "ছোট ও বড় সবই লিপিবদ্ধ।",
+      "translation_en": "Every matter, small and great, is on record."
+    },
+    {
+      "id": 54,
+      "text": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّٰتٍ وَنَهَرٍ",
+      "transliteration": "ইন্নাল মুত্তাকীনা ফী জান্না-তিওঁ ওয়া নাহার।",
+      "translation_bn": "খোদাভীরুরা থাকবে জান্নাতে ও নির্ঝরিণীতে।",
+      "translation_en": "As to the Righteous, they will be in the midst of Gardens and Rivers,"
+    },
+    {
+      "id": 55,
+      "text": "فِى مَقْعَدِ صِدْقٍ عِندَ مَلِيكٍ مُّقْتَدِرٍۭ",
+      "transliteration": "ফী মাক‘আদি সিদকিন ‘ইনদা মালীকিমমুকতাদির।",
+      "translation_bn": "যোগ্য আসনে, সর্বাধিপতি সম্রাটের সান্নিধ্যে।",
+      "translation_en": "In an Assembly of Truth, in the Presence of a Sovereign Omnipotent."
+    }
+  ]
+}

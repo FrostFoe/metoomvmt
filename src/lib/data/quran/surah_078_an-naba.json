@@ -1,0 +1,290 @@
+{
+  "id": 78,
+  "name": "النبأ",
+  "transliteration": "An-Naba",
+  "translation": "The Great News",
+  "type": "Meccan",
+  "total_verses": 40,
+  "verses": [
+    {
+      "id": 1,
+      "text": "عَمَّ يَتَسَآءَلُونَ",
+      "transliteration": "‘আম্মা ইয়াতাছাআলুন।",
+      "translation_bn": "তারা পরস্পরে কি বিষয়ে জিজ্ঞাসাবাদ করছে?",
+      "translation_en": "Concerning what are they disputing?="
+    },
+    {
+      "id": 2,
+      "text": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
+      "transliteration": "‘আনিন্নাবাইল ‘আজীম।",
+      "translation_bn": "মহা সংবাদ সম্পর্কে,",
+      "translation_en": "Concerning the Great News,"
+    },
+    {
+      "id": 3,
+      "text": "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ",
+      "transliteration": "আল্লাযী হুম ফীহি মুখতালিফূন।",
+      "translation_bn": "যে সম্পর্কে তারা মতানৈক্য করে।",
+      "translation_en": "About which they cannot agree."
+    },
+    {
+      "id": 4,
+      "text": "كَلَّا سَيَعْلَمُونَ",
+      "transliteration": "কাল্লা-ছাইয়া‘লামূন।",
+      "translation_bn": "না, সত্ত্বরই তারা জানতে পারবে,",
+      "translation_en": "Verily, they shall soon (come to) know!"
+    },
+    {
+      "id": 5,
+      "text": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+      "transliteration": "ছু ম্মা কাল্লা-ছাইয়া‘লামূন।",
+      "translation_bn": "অতঃপর না, সত্বর তারা জানতে পারবে।",
+      "translation_en": "Verily, verily they shall soon (come to) know!"
+    },
+    {
+      "id": 6,
+      "text": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَٰدًا",
+      "transliteration": "আলাম নাজ‘আলিল আরদা মিহা-দা-।",
+      "translation_bn": "আমি কি করিনি ভূমিকে বিছানা",
+      "translation_en": "Have We not made the earth as a wide expanse,"
+    },
+    {
+      "id": 7,
+      "text": "وَٱلْجِبَالَ أَوْتَادًا",
+      "transliteration": "ওয়াল জিবা-লা আওতা-দা।",
+      "translation_bn": "এবং পর্বতমালাকে পেরেক?",
+      "translation_en": "And the mountains as pegs?"
+    },
+    {
+      "id": 8,
+      "text": "وَخَلَقْنَٰكُمْ أَزْوَٰجًا",
+      "transliteration": "ওয়া খালাকনা-কুম আঝওয়া-জা-",
+      "translation_bn": "আমি তোমাদেরকে জোড়া জোড়া সৃষ্টি করেছি,",
+      "translation_en": "And (have We not) created you in pairs,"
+    },
+    {
+      "id": 9,
+      "text": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+      "transliteration": "ওয়া জা‘আলনা-নাওমাকুম ছুবা-তা।",
+      "translation_bn": "তোমাদের নিদ্রাকে করেছি ক্লান্তি দূরকারী,",
+      "translation_en": "And made your sleep for rest,"
+    },
+    {
+      "id": 10,
+      "text": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا",
+      "transliteration": "ওয়া জা‘আলনাল্লাইলা লিবা-ছা।",
+      "translation_bn": "রাত্রিকে করেছি আবরণ।",
+      "translation_en": "And made the night as a covering,"
+    },
+    {
+      "id": 11,
+      "text": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا",
+      "transliteration": "ওয়া জা‘আলনান্নাহা-রা মা‘আ-শা-।",
+      "translation_bn": "দিনকে করেছি জীবিকা অর্জনের সময়,",
+      "translation_en": "And made the day as a means of subsistence?"
+    },
+    {
+      "id": 12,
+      "text": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+      "transliteration": "ওয়া বানাইনা-ফাওকাকুম ছাব‘আন শিদা-দা-।",
+      "translation_bn": "নির্মান করেছি তোমাদের মাথার উপর মজবুত সপ্ত-আকাশ।",
+      "translation_en": "And (have We not) built over you the seven firmaments,"
+    },
+    {
+      "id": 13,
+      "text": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+      "transliteration": "ওয়া জা‘আলনা-ছিরা-জাওঁ ওয়াহহা-জা-।",
+      "translation_bn": "এবং একটি উজ্জ্বল প্রদীপ সৃষ্টি করেছি।",
+      "translation_en": "And placed (therein) a Light of Splendour?"
+    },
+    {
+      "id": 14,
+      "text": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
+      "transliteration": "ওয়া আনঝালনা-মিনাল মু‘সিরা-তি মাআন ছাজ্জা-জা-।",
+      "translation_bn": "আমি জলধর মেঘমালা থেকে প্রচুর বৃষ্টিপাত করি,",
+      "translation_en": "And do We not send down from the clouds water in abundance,"
+    },
+    {
+      "id": 15,
+      "text": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+      "transliteration": "লিনুখরিজা বিহী হাব্বাওঁ ওয়া নাবা-তা-।",
+      "translation_bn": "যাতে তদ্দ্বারা উৎপন্ন করি শস্য, উদ্ভিদ।",
+      "translation_en": "That We may produce therewith corn and vegetables,"
+    },
+    {
+      "id": 16,
+      "text": "وَجَنَّٰتٍ أَلْفَافًا",
+      "transliteration": "ওয়া জান্না-তিন আলফা-ফা-।",
+      "translation_bn": "ও পাতাঘন উদ্যান।",
+      "translation_en": "And gardens of luxurious growth?"
+    },
+    {
+      "id": 17,
+      "text": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَٰتًا",
+      "transliteration": "ইন্না ইয়াওমাল ফাসলি কা-না মীকাতা-।",
+      "translation_bn": "নিশ্চয় বিচার দিবস নির্ধারিত রয়েছে।",
+      "translation_en": "Verily the Day of Sorting out is a thing appointed,"
+    },
+    {
+      "id": 18,
+      "text": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+      "transliteration": "ইয়াওমা ইউনফাখুফিসসুরি ফাতা’তূনা আফওয়া-জা।",
+      "translation_bn": "যেদিন শিংগায় ফুঁক দেয়া হবে, তখন তোমরা দলে দলে সমাগত হবে।",
+      "translation_en": "The Day that the Trumpet shall be sounded, and ye shall come forth in crowds;"
+    },
+    {
+      "id": 19,
+      "text": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+      "transliteration": "ওয়া ফুতিহাতিছ ছামাউ ফাকা-নাত আবওয়া-বা-।",
+      "translation_bn": "আকাশ বিদীর্ণ হয়ে; তাতে বহু দরজা সৃষ্টি হবে।",
+      "translation_en": "And the heavens shall be opened as if there were doors,"
+    },
+    {
+      "id": 20,
+      "text": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
+      "transliteration": "ওয়া ছুইয়িরাতিল জিবা-লুফাকা-নাত ছারা-বা-।",
+      "translation_bn": "এবং পর্বতমালা চালিত হয়ে মরীচিকা হয়ে যাবে।",
+      "translation_en": "And the mountains shall vanish, as if they were a mirage."
+    },
+    {
+      "id": 21,
+      "text": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+      "transliteration": "ইন্না জাহান্নামা কা-নাত মিরসা-দা-।",
+      "translation_bn": "নিশ্চয় জাহান্নাম প্রতীক্ষায় থাকবে,",
+      "translation_en": "Truly Hell is as a place of ambush,"
+    },
+    {
+      "id": 22,
+      "text": "لِّلطَّٰغِينَ مَـَٔابًا",
+      "transliteration": "লিত্তা-গীনা মাআ-বা-।",
+      "translation_bn": "সীমালংঘনকারীদের আশ্রয়স্থলরূপে।",
+      "translation_en": "For the transgressors a place of destination:"
+    },
+    {
+      "id": 23,
+      "text": "لَّٰبِثِينَ فِيهَآ أَحْقَابًا",
+      "transliteration": "লা-বিছীনা ফীহাআহকা-বা-।",
+      "translation_bn": "তারা তথায় শতাব্দীর পর শতাব্দী অবস্থান করবে।",
+      "translation_en": "They will dwell therein for ages."
+    },
+    {
+      "id": 24,
+      "text": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+      "transliteration": "লা-ইয়াযূকূনা ফীহা-বারদাওঁ ওয়ালা-শারা-বা-।",
+      "translation_bn": "তথায় তারা কোন শীতল এবং পানীয় আস্বাদন করবে না;",
+      "translation_en": "Nothing cool shall they taste therein, nor any drink,"
+    },
+    {
+      "id": 25,
+      "text": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+      "transliteration": "ইল্লা-হামীমাওঁ ওয়াগাছছা-কা-।",
+      "translation_bn": "কিন্তু ফুটন্ত পানি ও পূঁজ পাবে।",
+      "translation_en": "Save a boiling fluid and a fluid, dark, murky, intensely cold,"
+    },
+    {
+      "id": 26,
+      "text": "جَزَآءً وِفَاقًا",
+      "transliteration": "জাঝাআওঁবিফা-কা-।",
+      "translation_bn": "পরিপূর্ণ প্রতিফল হিসেবে।",
+      "translation_en": "A fitting recompense (for them)."
+    },
+    {
+      "id": 27,
+      "text": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًا",
+      "transliteration": "ইন্নাহুম কা-নূলা-ইয়ারজুনা হিছা-বা-।",
+      "translation_bn": "নিশ্চয় তারা হিসাব-নিকাশ আশা করত না।",
+      "translation_en": "For that they used not to fear any account (for their deeds),"
+    },
+    {
+      "id": 28,
+      "text": "وَكَذَّبُوا۟ بِـَٔايَٰتِنَا كِذَّابًا",
+      "transliteration": "ওয়া কাযযাবূবিআ-য়া-তিনা-কিযযা-বা।",
+      "translation_bn": "এবং আমার আয়াতসমূহে পুরোপুরি মিথ্যারোপ করত।",
+      "translation_en": "But they (impudently) treated Our Signs as false."
+    },
+    {
+      "id": 29,
+      "text": "وَكُلَّ شَىْءٍ أَحْصَيْنَٰهُ كِتَٰبًا",
+      "transliteration": "ওয়া কুল্লা শাইয়িন আহসাইনা-হু কিতা-বা-।",
+      "translation_bn": "আমি সবকিছুই লিপিবদ্ধ করে সংরক্ষিত করেছি।",
+      "translation_en": "And all things have We preserved on record."
+    },
+    {
+      "id": 30,
+      "text": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+      "transliteration": "ফাযূকূফালান নাঝীদাকুম ইল্লা-‘আযা-বা-।",
+      "translation_bn": "অতএব, তোমরা আস্বাদন কর, আমি কেবল তোমাদের শাস্তিই বৃদ্ধি করব।",
+      "translation_en": "\"So taste ye (the fruits of your deeds); for no increase shall We grant you, except in Punishment.\""
+    },
+    {
+      "id": 31,
+      "text": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+      "transliteration": "ইন্না লিলমুত্তাকীনা মাফা-ঝা-।",
+      "translation_bn": "পরহেযগারদের জন্যে রয়েছে সাফল্য।",
+      "translation_en": "Verily for the Righteous there will be a fulfilment of (the heart's) desires;"
+    },
+    {
+      "id": 32,
+      "text": "حَدَآئِقَ وَأَعْنَٰبًا",
+      "transliteration": "হাদাইকা ওয়া আ‘না-বা-।",
+      "translation_bn": "উদ্যান, আঙ্গুর,",
+      "translation_en": "Gardens enclosed, and grapevines;"
+    },
+    {
+      "id": 33,
+      "text": "وَكَوَاعِبَ أَتْرَابًا",
+      "transliteration": "ওয়া কাওয়া-‘ইবা আতরা-বা-।",
+      "translation_bn": "সমবয়স্কা, পূর্ণযৌবনা তরুণী।",
+      "translation_en": "And voluptuous women of equal age;"
+    },
+    {
+      "id": 34,
+      "text": "وَكَأْسًا دِهَاقًا",
+      "transliteration": "ওয়া কা’ছান দিহা-কা-।",
+      "translation_bn": "এবং পূর্ণ পানপাত্র।",
+      "translation_en": "And a cup full (to the brim)."
+    },
+    {
+      "id": 35,
+      "text": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّٰبًا",
+      "transliteration": "লা-ইয়াছমা‘উনা ফীহা-লাগওয়াওঁ ওয়ালা-কিযযা-বা-।",
+      "translation_bn": "তারা তথায় অসার ও মিথ্যা বাক্য শুনবে না।",
+      "translation_en": "No vanity shall they hear therein, nor Untruth:-"
+    },
+    {
+      "id": 36,
+      "text": "جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+      "transliteration": "জাঝাআম মির রাব্বিকা ‘আতাআন হিছা-বা-।",
+      "translation_bn": "এটা আপনার পালনকর্তার তরফ থেকে যথোচিত দান,",
+      "translation_en": "Recompense from thy Lord, a gift, (amply) sufficient,"
+    },
+    {
+      "id": 37,
+      "text": "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَٰنِ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+      "transliteration": "রাব্বিছ ছামা-ওয়া-তি ওয়াল আরদি ওয়ামা-বাইনাহুমাররাহমা-নি লা-ইয়ামলিকূনা মিনহু খিতা-বা-।",
+      "translation_bn": "যিনি নভোমন্ডল, ভূমন্ডল ও এতদুভয়ের মধ্যবর্তী সবকিছুর পালনকর্তা, দয়াময়, কেউ তাঁর সাথে কথার অধিকারী হবে না",
+      "translation_en": "(From) the Lord of the heavens and the earth, and all between, (Allah) Most Gracious: None shall have power to argue with Him."
+    },
+    {
+      "id": 38,
+      "text": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَٰٓئِكَةُ صَفًّا لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَٰنُ وَقَالَ صَوَابًا",
+      "transliteration": "ইয়াওমা ইয়াকূমুর রূহুওয়াল মালাইকাতুসাফফাল লা-ইয়াতাকাল্লামূনা ইল্লা-মান আযিনা লাহুর রাহমা-নুওয়া কা-লা সাওয়া-বা-",
+      "translation_bn": "যেদিন রূহ ও ফেরেশতাগণ সারিবদ্ধভাবে দাঁড়াবে। দয়াময় আল্লাহ যাকে অনুমতি দিবেন, সে ব্যতিত কেউ কথা বলতে পারবে না এবং সে সত্যকথা বলবে",
+      "translation_en": "The Day that the Spirit and the angels will stand forth in ranks, none shall speak except any who is permitted by (Allah) Most Gracious, and He will say what is right."
+    },
+    {
+      "id": 39,
+      "text": "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+      "transliteration": "যা-লিকাল ইয়াওমুল হাক্কু ফামান শাআত্তাখাযা ইলা-রাব্বিহী মাআ-বা-।",
+      "translation_bn": "এই দিবস সত্য। অতঃপর যার ইচ্ছা, সে তার পালনকর্তার কাছে ঠিকানা তৈরী করুক।",
+      "translation_en": "That Day will be the sure Reality: Therefore, whoso will, let him take a (straight) return to his Lord!"
+    },
+    {
+      "id": 40,
+      "text": "إِنَّآ أَنذَرْنَٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+      "transliteration": "ইন্নাআনযারনা-কুম ‘আযা-বান কারীবাইঁ ইয়াওমা ইয়ানযু রুল মারউ মা-কাদ্দামাত ইয়াদা-হু ওয়া ইয়াকূলুল কা-ফিরু ইয়া-লাইতানী কুনতুতুরা-বা।",
+      "translation_bn": "আমি তোমাদেরকে আসন্ন শাস্তি সম্পর্কে সতর্ক করলাম, যেদিন মানুষ প্রত্যেক্ষ করবে যা সে সামনে প্রেরণ করেছে এবং কাফের বলবেঃ হায়, আফসোস-আমি যদি মাটি হয়ে যেতাম।",
+      "translation_en": "Verily, We have warned you of a Penalty near, the Day when man will see (the deeds) which his hands have sent forth, and the Unbeliever will say, \"Woe unto me! Would that I were (metre) dust!\""
+    }
+  ]
+}

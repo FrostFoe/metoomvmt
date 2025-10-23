@@ -1,0 +1,59 @@
+{
+  "id": 107,
+  "name": "الماعون",
+  "transliteration": "Al-Ma'un",
+  "translation": "The Small Kindnesses",
+  "type": "Meccan",
+  "total_verses": 7,
+  "verses": [
+    {
+      "id": 1,
+      "text": "أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "transliteration": "আরাআইতাল্লাযী ইউকাযযি বুবিদ্দীন।",
+      "translation_bn": "আপনি কি দেখেছেন তাকে, যে বিচারদিবসকে মিথ্যা বলে?",
+      "translation_en": "Seest thou one who denies the Judgment (to come)?"
+    },
+    {
+      "id": 2,
+      "text": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+      "transliteration": "ফাযা-লিকাল্লাযী ইয়াদু‘‘উল ইয়াতীম।",
+      "translation_bn": "সে সেই ব্যক্তি, যে এতীমকে গলা ধাক্কা দেয়",
+      "translation_en": "Then such is the (man) who repulses the orphan (with harshness),"
+    },
+    {
+      "id": 3,
+      "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "transliteration": "ওয়ালা-ইয়াহুদ্দু‘আলা-তা‘আ-মিল মিছকীন।",
+      "translation_bn": "এবং মিসকীনকে অন্ন দিতে উৎসাহিত করে না।",
+      "translation_en": "And encourages not the feeding of the indigent."
+    },
+    {
+      "id": 4,
+      "text": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "transliteration": "ফাওয়াইঁলুলিলল মুসাল্লীন।",
+      "translation_bn": "অতএব দুর্ভোগ সেসব নামাযীর,",
+      "translation_en": "So woe to the worshippers"
+    },
+    {
+      "id": 5,
+      "text": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "transliteration": "আল্লাযীনাহুম ‘আন সালা-তিহিমি ছা-হূন।",
+      "translation_bn": "যারা তাদের নামায সম্বন্ধে বে-খবর;",
+      "translation_en": "Who are neglectful of their prayers,"
+    },
+    {
+      "id": 6,
+      "text": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+      "transliteration": "আল্লাযীনা হুম ইউরাঊনা।",
+      "translation_bn": "যারা তা লোক-দেখানোর জন্য করে",
+      "translation_en": "Those who (want but) to be seen (of men),"
+    },
+    {
+      "id": 7,
+      "text": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+      "transliteration": "ওয়া ইয়ামনা‘ঊনাল মা-‘ঊন।",
+      "translation_bn": "এবং নিত্য ব্যবহার্য্য বস্তু অন্যকে দেয় না।",
+      "translation_en": "But refuse (to supply) (even) neighbourly needs."
+    }
+  ]
+}

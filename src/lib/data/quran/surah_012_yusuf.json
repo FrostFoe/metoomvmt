@@ -1,0 +1,787 @@
+{
+  "id": 12,
+  "name": "يوسف",
+  "transliteration": "Yusuf",
+  "translation": "Joseph",
+  "type": "Meccan",
+  "total_verses": 111,
+  "verses": [
+    {
+      "id": 1,
+      "text": "الٓر تِلْكَ ءَايَٰتُ ٱلْكِتَٰبِ ٱلْمُبِينِ",
+      "transliteration": "আলিফ লাম রা- তিলকা আ-য়া-তুল কিতা-বিল মুবীন।",
+      "translation_bn": "আলিফ-লা-ম-রা; এগুলো সুস্পষ্ট গ্রন্থের আয়াত।",
+      "translation_en": "A. L. R. These are the symbols (or Verses) of the perspicuous Book."
+    },
+    {
+      "id": 2,
+      "text": "إِنَّآ أَنزَلْنَٰهُ قُرْءَٰنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+      "transliteration": "ইন্নাআনঝালনা-হু কুরআ-নান ‘আরাবিইইয়াল লা‘আল্লাকুম তা‘কিলূন।",
+      "translation_bn": "আমি একে আরবী ভাষায় কোরআন রূপে অবতীর্ণ করেছি, যাতে তোমরা বুঝতে পার।",
+      "translation_en": "We have sent it down as an Arabic Qur'an, in order that ye may learn wisdom."
+    },
+    {
+      "id": 3,
+      "text": "نَحْنُ نَقُصُّ عَلَيْكَ أَحْسَنَ ٱلْقَصَصِ بِمَآ أَوْحَيْنَآ إِلَيْكَ هَٰذَا ٱلْقُرْءَانَ وَإِن كُنتَ مِن قَبْلِهِۦ لَمِنَ ٱلْغَٰفِلِينَ",
+      "transliteration": "নাহনুনাকুসসু‘আলাইকা আহছানাল কাসাসি বিমাআওহাইনাইলাইকা হা-যাল কুরআনা  ওয়া ইন কুনতা মিন কাবলিহী লামিনাল গা-ফিলীন।",
+      "translation_bn": "আমি তোমার নিকট উত্তম কাহিনী বর্ণনা করেছি, যেমতে আমি এ কোরআন তোমার নিকট অবতীর্ণ করেছি। তুমি এর আগে অবশ্যই এ ব্যাপারে অনবহিতদের অন্তর্ভূক্ত ছিলে।",
+      "translation_en": "We do relate unto thee the most beautiful of stories, in that We reveal to thee this (portion of the) Qur'an: before this, thou too was among those who knew it not."
+    },
+    {
+      "id": 4,
+      "text": "إِذْ قَالَ يُوسُفُ لِأَبِيهِ يَٰٓأَبَتِ إِنِّى رَأَيْتُ أَحَدَ عَشَرَ كَوْكَبًا وَٱلشَّمْسَ وَٱلْقَمَرَ رَأَيْتُهُمْ لِى سَٰجِدِينَ",
+      "transliteration": "ইয কা-লা ইঊছুফুলিআবীহি ইয়াআবাতি ইন্নী রাআইতু আহাদা ‘আশারা কাওকাবাওঁ ওয়াশশামছা ওয়াল কামারা রাআইতুহুম লী ছা-জিদীন।",
+      "translation_bn": "যখন ইউসুফ পিতাকে বললঃ পিতা, আমি স্বপ্নে দেখেছি এগারটি নক্ষত্রকে। সুর্যকে এবং চন্দ্রকে। আমি তাদেরকে আমার উদ্দেশে সেজদা করতে দেখেছি।",
+      "translation_en": "Behold! Joseph said to his father: \"O my father! I did see eleven stars and the sun and the moon: I saw them prostrate themselves to me!\""
+    },
+    {
+      "id": 5,
+      "text": "قَالَ يَٰبُنَىَّ لَا تَقْصُصْ رُءْيَاكَ عَلَىٰٓ إِخْوَتِكَ فَيَكِيدُوا۟ لَكَ كَيْدًا إِنَّ ٱلشَّيْطَٰنَ لِلْإِنسَٰنِ عَدُوٌّ مُّبِينٌ",
+      "transliteration": "কা-লা ইয়া-বুনাইইয়া লা-তাকসুস রু’ইয়া-কা ‘আলা-ইখওয়াতিকা ফাইয়াকীদূলাকা কাইদান ইন্নাশশাইতা-না লিলইনছা-নি ‘আদুওউম মুবীন।",
+      "translation_bn": "তিনি বললেনঃ বৎস, তোমার ভাইদের সামনে এ স্বপ্ন বর্ণনা করো না। তাহলে তারা তোমার বিরুদ্ধে চক্রান্ত করবে। নিশ্চয় শয়তান মানুষের প্রকাশ্য।",
+      "translation_en": "Said (the father): \"My (dear) little son! relate not thy vision to thy brothers, lest they concoct a plot against thee: for Satan is to man an avowed enemy!"
+    },
+    {
+      "id": 6,
+      "text": "وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَيُتِمُّ نِعْمَتَهُۥ عَلَيْكَ وَعَلَىٰٓ ءَالِ يَعْقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيْكَ مِن قَبْلُ إِبْرَٰهِيمَ وَإِسْحَٰقَ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٌ",
+      "transliteration": "ওয়া কাযা-লিকা ইয়াজতাবীকা রাব্বুকা ওয়া ইউ‘আলিলমুকা মিন তা’বীলিল আহা-দীছিওয়া ইউতিম্মুনি‘মাতাহূ‘আলাইকা ওয়া ‘আলা-আ-লি ইয়া‘কূবা কামাআতাম্মাহা‘আলাআবাওয়াইকা মিন কাবলুইবরা-হীমা ওয়া ইছহা-কা ইন্না রাব্বাকা ‘আলীমুন হাকীম।",
+      "translation_bn": "এমনিভাবে তোমার পালনকর্তা তোমাকে মনোনীত করবেন এবং তোমাকে বাণীসমূহের নিগুঢ় তত্ত্ব শিক্ষা দেবেন এবং পূর্ণ করবেন স্বীয় অনুগ্রহ তোমার প্রতি ও ইয়াকুব পরিবার-পরিজনের প্রতি; যেমন ইতিপূর্বে তোমার পিতৃপুরুষ ইব্রাহীম ও ইসহাকের প্রতি পূর্ণ করেছেন। নিশ্চয় তোমার পালনকর্তা অত্যন্ত জ্ঞানী, প্রজ্ঞাময়।",
+      "translation_en": "\"Thus will thy Lord choose thee and teach thee the interpretation of stories (and events) and perfect His favour to thee and to the posterity of Jacob - even as He perfected it to thy fathers Abraham and Isaac aforetime! for Allah is full of knowledge and wisdom.\""
+    },
+    {
+      "id": 7,
+      "text": "لَّقَدْ كَانَ فِى يُوسُفَ وَإِخْوَتِهِۦٓ ءَايَٰتٌ لِّلسَّآئِلِينَ",
+      "transliteration": "লাকাদ কা-না ফী ইঊছুফা ওয়া ইখওয়াতিহীআ-য়া-তুল লিছছাইলীন।",
+      "translation_bn": "অবশ্য ইউসুফ ও তাঁর ভাইদের কাহিনীতে জিজ্ঞাসুদের জন্যে নিদর্শনাবলী রয়েছে।",
+      "translation_en": "Verily in Joseph and his brethren are signs (or symbols) for seekers (after Truth)."
+    },
+    {
+      "id": 8,
+      "text": "إِذْ قَالُوا۟ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحْنُ عُصْبَةٌ إِنَّ أَبَانَا لَفِى ضَلَٰلٍ مُّبِينٍ",
+      "transliteration": "ইযকা-লূলাইঊছুফুওয়া আখূহু আহাব্বুইলাআবীনা-মিন্না-ওয়া নাহনু‘উসবাতুন ইন্না আবা-না-লাফী দালা-লিম মুবীন।",
+      "translation_bn": "যখন তারা বললঃ অবশ্যই ইউসুফ ও তাঁর ভাই আমাদের পিতার কাছে আমাদের চাইতে অধিক প্রিয় অথচ আমরা একটা সংহত শক্তি বিশেষ। নিশ্চয় আমাদের পিতা স্পষ্ট ভ্রান্তিতে রয়েছেন।",
+      "translation_en": "They said: \"Truly Joseph and his brother are loved more by our father than we: But we are a goodly body! really our father is obviously wandering (in his mind)!"
+    },
+    {
+      "id": 9,
+      "text": "ٱقْتُلُوا۟ يُوسُفَ أَوِ ٱطْرَحُوهُ أَرْضًا يَخْلُ لَكُمْ وَجْهُ أَبِيكُمْ وَتَكُونُوا۟ مِنۢ بَعْدِهِۦ قَوْمًا صَٰلِحِينَ",
+      "transliteration": "উকতুলূইঊছুফা আবিতরাহূহুআরদাইঁ ইয়াখলুলাকুম ওয়াজহু আবীকুম ওয়াতাকূনূমিম বা‘দিহী কাওমান সা-লিহীন।",
+      "translation_bn": "হত্যা কর ইউসুফকে কিংবা ফেলে আস তাকে অন্য কোন স্থানে। এতে শুধু তোমাদের প্রতিই তোমাদের পিতার মনোযোগ নিবিষ্ট হবে এবং এরপর তোমরা যোগ্য বিবেচিত হয়ে থাকবে।",
+      "translation_en": "\"Slay ye Joseph or cast him out to some (unknown) land, that so the favour of your father may be given to you alone: (there will be time enough) for you to be righteous after that!\""
+    },
+    {
+      "id": 10,
+      "text": "قَالَ قَآئِلٌ مِّنْهُمْ لَا تَقْتُلُوا۟ يُوسُفَ وَأَلْقُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ يَلْتَقِطْهُ بَعْضُ ٱلسَّيَّارَةِ إِن كُنتُمْ فَٰعِلِينَ",
+      "transliteration": "কা-লা কাইলুমমিনহুমলা-তাকতুলূইঊছুফা ওয়া আলকুহুফীগায়া-বাতিল জুব্বি ইয়ালতাকিতহু বা‘দুছছাইইয়া-রাতি ইন কুনতুম ফা-‘ইলীন।",
+      "translation_bn": "তাদের মধ্য থেকে একজন বলল, তোমরা ইউসুফ কে হত্যা করো না, বরং ফেলে দাও তাকে অন্ধকূপে যাতে কোন পথিক তাকে উঠিয়ে নিয়ে যায়, যদি তোমাদের কিছু করতেই হয়।",
+      "translation_en": "Said one of them: \"Slay not Joseph, but if ye must do something, throw him down to the bottom of the well: he will be picked up by some caravan of travellers.\""
+    },
+    {
+      "id": 11,
+      "text": "قَالُوا۟ يَٰٓأَبَانَا مَا لَكَ لَا تَأْمَ۫نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ",
+      "transliteration": "কা-লূইয়াআবা-না-মা-লাকা লা-তা‘মান্না-‘আলা-ইঊছুফা ওয়া ইন্না-লাহূলানা-সিহূন।",
+      "translation_bn": "তারা বললঃ পিতাঃ ব্যাপার কি, আপনি ইউসুফের ব্যাপারে আমাদেরকে বিশ্বাস করেন না ? আমরা তো তার হিতাকাংখী।",
+      "translation_en": "They said: \"O our father! why dost thou not trust us with Joseph,- seeing we are indeed his sincere well-wishers?"
+    },
+    {
+      "id": 12,
+      "text": "أَرْسِلْهُ مَعَنَا غَدًا يَرْتَعْ وَيَلْعَبْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "transliteration": "আরছিলহু মা‘আনা-গাদাইঁ ইয়ারতা‘ ওয়া ইয়াল‘আব ওয়া ইন্না-লাহূলাহাফিজূন।",
+      "translation_bn": "আগামীকাল তাকে আমাদের সাথে প্রেরণ করুন-তৃপ্তিসহ খাবে এবং খেলাধুলা করবে এবং আমরা অবশ্যই তার রক্ষণাবেক্ষন করব।",
+      "translation_en": "\"Send him with us tomorrow to enjoy himself and play, and we shall take every care of him.\""
+    },
+    {
+      "id": 13,
+      "text": "قَالَ إِنِّى لَيَحْزُنُنِىٓ أَن تَذْهَبُوا۟ بِهِۦ وَأَخَافُ أَن يَأْكُلَهُ ٱلذِّئْبُ وَأَنتُمْ عَنْهُ غَٰفِلُونَ",
+      "transliteration": "কা-লা ইন্নী লাইয়াহঝুনুনীআন তাযহাবূবিহী ওয়া আখা-ফূআইঁ ইয়া’কুলাহুযযি‘বুওয়া আনতুম ‘আনহু গা-ফিলূন।",
+      "translation_bn": "তিনি বললেনঃ আমার দুশ্চিন্তা হয় যে, তোমরা তাকে নিয়ে যাবে এবং আমি আশঙ্কা করি যে, ব্যাঘ্র তাঁকে খেয়ে ফেলবে এবং তোমরা তার দিক থেকে গাফেল থাকবে।",
+      "translation_en": "(Jacob) said: \"Really it saddens me that ye should take him away: I fear lest the wolf should devour him while ye attend not to him.\""
+    },
+    {
+      "id": 14,
+      "text": "قَالُوا۟ لَئِنْ أَكَلَهُ ٱلذِّئْبُ وَنَحْنُ عُصْبَةٌ إِنَّآ إِذًا لَّخَٰسِرُونَ",
+      "transliteration": "কা-লূলাইন আকালাহুযযি’বুওয়া নাহনু‘উসবাতুন ইন্নাইযাল লাখা-ছিরূন।",
+      "translation_bn": "তারা বললঃ আমরা একটি ভারী দল থাকা সত্ত্বেও যদি ব্যাঘ্র তাকে খেয়ে ফেলে, তবে আমরা সবই হারালাম।",
+      "translation_en": "They said: \"If the wolf were to devour him while we are (so large) a party, then should we indeed (first) have perished ourselves!\""
+    },
+    {
+      "id": 15,
+      "text": "فَلَمَّا ذَهَبُوا۟ بِهِۦ وَأَجْمَعُوٓا۟ أَن يَجْعَلُوهُ فِى غَيَٰبَتِ ٱلْجُبِّ وَأَوْحَيْنَآ إِلَيْهِ لَتُنَبِّئَنَّهُم بِأَمْرِهِمْ هَٰذَا وَهُمْ لَا يَشْعُرُونَ",
+      "transliteration": "ফালাম্মা-যাহাবূবিহী ওয়া আজমা‘উআইঁ ইয়াজ‘আলূহু ফী গায়া-বাতিল জুব্বি ওয়া আওহাইনাইলাইহি লাতুনাব্বিআন্নাহুম বিআমরিহিম হা-যা-ওয়াহুম লা-ইয়াশ‘উরূন।",
+      "translation_bn": "অতঃপর তারা যখন তাকে নিয়ে চলল এবং অন্ধকূপে নিক্ষেপ করতে একমত হল এবং আমি তাকে ইঙ্গিত করলাম যে, তুমি তাদেরকে তাদের এ কাজের কথা বলবে এমতাবস্থায় যে, তারা তোমাকে চিনবে না।",
+      "translation_en": "So they did take him away, and they all agreed to throw him down to the bottom of the well: and We put into his heart (this Message): 'Of a surety thou shalt (one day) tell them the truth of this their affair while they know (thee) not'"
+    },
+    {
+      "id": 16,
+      "text": "وَجَآءُوٓ أَبَاهُمْ عِشَآءً يَبْكُونَ",
+      "transliteration": "ওয়া জাঊআবা-হুম ‘ইশাআইঁ ইয়াবকূন।",
+      "translation_bn": "তারা রাতের বেলায় কাঁদতে কাঁদতে পিতার কাছে এল।",
+      "translation_en": "Then they came to their father in the early part of the night, weeping."
+    },
+    {
+      "id": 17,
+      "text": "قَالُوا۟ يَٰٓأَبَانَآ إِنَّا ذَهَبْنَا نَسْتَبِقُ وَتَرَكْنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئْبُ وَمَآ أَنتَ بِمُؤْمِنٍ لَّنَا وَلَوْ كُنَّا صَٰدِقِينَ",
+      "transliteration": "কা-লূইয়াআবা-নাইন্না-যাহাবনা-নাছতাবিকুওয়া তারাকনা-ইঊছুফা ‘ইনদা মাতা-‘ইনাফাআকালাহুযযি’বু ওয়ামাআনতা বিমু’মিনিল লানা-ওয়ালাও কুন্না-সা-দিকীন।",
+      "translation_bn": "তারা বললঃ পিতাঃ আমরা দৌড় প্রতিযোগিতা করতে গিয়েছিলাম এবং ইউসুফকে আসবাব-পত্রের কাছে রেখে গিয়েছিলাম। অতঃপর তাকে বাঘে খেয়ে ফেলেছে। আপনি তো আমাদেরকে বিশ্বাস করবেন না, যদিও আমরা সত্যবাদী।",
+      "translation_en": "They said: \"O our father! We went racing with one another, and left Joseph with our things; and the wolf devoured him.... But thou wilt never believe us even though we tell the truth.\""
+    },
+    {
+      "id": 18,
+      "text": "وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٍ كَذِبٍ قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ وَٱللَّهُ ٱلْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+      "transliteration": "ওয়া জাঊ ‘আলা-কামীসিহী বিদামিন কাযিবিন কা-লা বাল ছাওওয়ালাত লাকুম আনফুছুকুম আমরান ফাসাবরুন জামীলুওঁ ওয়াল্লা-হুল মুছতা‘আ-নু‘আলা-মাতাসিফূন।",
+      "translation_bn": "এবং তারা তার জামায় কৃত্রিম রক্ত লাগিয়ে আনল। বললেনঃ এটা কখনই নয়; বরং তোমাদের মন তোমাদেরকে একটা কথা সাজিয়ে দিয়েছে। সুতরাং এখন ছবর করাই শ্রেয়। তোমরা যা বর্ণনা করছ, সে বিষয়ে একমাত্র আল্লাহই আমার সাহায্য স্থল।",
+      "translation_en": "They stained his shirt with false blood. He said: \"Nay, but your minds have made up a tale (that may pass) with you, (for me) patience is most fitting: Against that which ye assert, it is Allah (alone) Whose help can be sought\".."
+    },
+    {
+      "id": 19,
+      "text": "وَجَآءَتْ سَيَّارَةٌ فَأَرْسَلُوا۟ وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُۥ قَالَ يَٰبُشْرَىٰ هَٰذَا غُلَٰمٌ وَأَسَرُّوهُ بِضَٰعَةً وَٱللَّهُ عَلِيمٌۢ بِمَا يَعْمَلُونَ",
+      "transliteration": "ওয়া জাআত ছাইইয়া-রাতুন ফাআরছালূওয়া-রিদাহুম ফাআদলা-দালওয়াহূ কা-লা ইয়া-বুশরা-হা-যা-গুলা-মুওঁ ওয়া আছাররূহু বিদা-‘আতাওঁ ওয়াল্লা-হু ‘আলীমুম বিমা-ইয়া‘মালূন।",
+      "translation_bn": "এবং একটি কাফেলা এল। অতঃপর তাদের পানি সংগ্রাহককে প্রেরণ করল। সে বালতি ফেলল। বললঃ কি আনন্দের কথা। এ তো একটি কিশোর তারা তাকে পন্যদ্রব্য গণ্য করে গোপন করে ফেলল। আল্লাহ খুব জানেন যা কিছু তারা করেছিল।",
+      "translation_en": "Then there came a caravan of travellers: they sent their water-carrier (for water), and he let down his bucket (into the well)... He said: \"Ah there! Good news! Here is a (fine) young man!\" So they concealed him as a treasure! But Allah knoweth well all that they do!"
+    },
+    {
+      "id": 20,
+      "text": "وَشَرَوْهُ بِثَمَنٍۭ بَخْسٍ دَرَٰهِمَ مَعْدُودَةٍ وَكَانُوا۟ فِيهِ مِنَ ٱلزَّٰهِدِينَ",
+      "transliteration": "ওয়া শারাওহু বিছামানিম বাখছিন দারা-হিমা মা‘দূদাতিওঁ ওয়া কা-নূফীহি মিনাঝঝাহিদীন।",
+      "translation_bn": "ওরা তাকে কম মূল্যে বিক্রি করে দিল গনাগুণতি কয়েক দেরহাম এবং তাঁর ব্যাপারে নিরাসক্ত ছিল।",
+      "translation_en": "The (Brethren) sold him for a miserable price, for a few dirhams counted out: in such low estimation did they hold him!"
+    },
+    {
+      "id": 21,
+      "text": "وَقَالَ ٱلَّذِى ٱشْتَرَىٰهُ مِن مِّصْرَ لِٱمْرَأَتِهِۦٓ أَكْرِمِى مَثْوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوْ نَتَّخِذَهُۥ وَلَدًا وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ وَلِنُعَلِّمَهُۥ مِن تَأْوِيلِ ٱلْأَحَادِيثِ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمْرِهِۦ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "transliteration": "ওয়া কা-লাল্লাযিশ তারা-হু মিম মিসরা লিমরাআতিহীআকরিমী মাছওয়াহু ‘আছাআইঁ ইয়ানফা‘আনাআও নাত্তাখিযাহূওয়ালাদাওঁ  ওয়া কাযা-লিকা মাক্কান্না-লিইঊছুফা ফিল আরদি  ওয়া লিনু‘আলিল মাহূমিন তা’বীলিল আহা-দীছি ওয়াল্লা-হু গা-লিবুন ‘আলাআমরিহী ওয়ালা-কিন্না আকছারা-ন্না-ছি লা-ইয়া‘লামূন।",
+      "translation_bn": "মিসরে যে ব্যক্তি তাকে ক্রয় করল, সে তার স্ত্রীকে বললঃ একে সম্মানে রাখ। সম্ভবতঃ সে আমাদের কাছে আসবে অথবা আমরা তাকে পুত্ররূপে গ্রহণ করে নেব। এমনিভাবে আমি ইউসুফকে এদেশে প্রতিষ্ঠিত করলাম এবং এ জন্যে যে তাকে বাক্যাদির পূর্ণ মর্ম অনুধাবনের পদ্ধতি বিষয়ে শিক্ষা দেই। আল্লাহ নিজ কাজে প্রবল থাকেন, কিন্তু অধিকাংশ লোক তা জানে না।",
+      "translation_en": "The man in Egypt who bought him, said to his wife: \"Make his stay (among us) honourable: may be he will bring us much good, or we shall adopt him as a son.\" Thus did We establish Joseph in the land, that We might teach him the interpretation of stories (and events). And Allah hath full power and control over His affairs; but most among mankind know it not."
+    },
+    {
+      "id": 22,
+      "text": "وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيْنَٰهُ حُكْمًا وَعِلْمًا وَكَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "transliteration": "ওয়া লাম্মা-বালাগা আশুদ্দাহূআ-তাইনা-হু হুকমাওঁ ওয়া ‘ইলমাওঁ ওয়া কাযা-লিকা নাজঝিল মুহছিনীন।",
+      "translation_bn": "যখন সে পূর্ণ যৌবনে পৌছে গেল, তখন তাকে প্রজ্ঞা ও ব্যুৎপত্তি দান করলাম। এমননিভাবে আমি সৎকর্মপরায়ণদেরকে প্রতিদান দেই।",
+      "translation_en": "When Joseph attained His full manhood, We gave him power and knowledge: thus do We reward those who do right."
+    },
+    {
+      "id": 23,
+      "text": "وَرَٰوَدَتْهُ ٱلَّتِى هُوَ فِى بَيْتِهَا عَن نَّفْسِهِۦ وَغَلَّقَتِ ٱلْأَبْوَٰبَ وَقَالَتْ هَيْتَ لَكَ قَالَ مَعَاذَ ٱللَّهِ إِنَّهُۥ رَبِّىٓ أَحْسَنَ مَثْوَاىَ إِنَّهُۥ لَا يُفْلِحُ ٱلظَّٰلِمُونَ",
+      "transliteration": "ওয়ারা-ওয়াদাত হুল্লাতী হুওয়া ফী বাইতিহা-‘আন নাফছিহী ওয়া গাল্লাকাতিল আবওয়া-বা ওয়াকা-লাত হাইতা লাকা কা-লা মা‘আ-যাল্লা-হি ইন্নাহূরাববী-আহছানা মাছওয়াইয়া; ইন্নাহূলা-ইউফলিহুজ্জা-লিমূন।",
+      "translation_bn": "আর সে যে মহিলার ঘরে ছিল, ঐ মহিলা তাকে ফুসলাতে লাগল এবং দরজাসমূহ বন্ধ করে দিল। সে মহিলা বললঃ শুন! তোমাকে বলছি, এদিকে আস, সে বললঃ আল্লাহ রক্ষা করুন; তোমার স্বামী আমার মালিক। তিনি আমাকে সযত্নে থাকতে দিয়েছেন। নিশ্চয় সীমা লংঘনকারীগণ সফল হয় না।",
+      "translation_en": "But she in whose house he was, sought to seduce him from his (true) self: she fastened the doors, and said: \"Now come, thou (dear one)!\" He said: \"Allah forbid! truly (thy husband) is my lord! he made my sojourn agreeable! truly to no good come those who do wrong!\""
+    },
+    {
+      "id": 24,
+      "text": "ووَلَقَدْ هَمَّتْ بِهِۦ وَهَمَّ بِهَا لَوْلَآ أَن رَّءَا بُرْهَٰنَ رَبِّهِۦ كَذَٰلِكَ لِنَصْرِفَ عَنْهُ ٱلسُّوٓءَ وَٱلْفَحْشَآءَ إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُخْلَصِينَ",
+      "transliteration": "ওয়া লাকাদ হাম্মাত বিহী ওয়া হাম্মা বিহা-লাওলা-আর রাআ-বুরহা-না রাব্বিহী কাযা-লিকা লিনাসরিফা ‘আনহুছছূআ ওয়াল ফাহশাআ ইন্নাহূমিন ‘ইবা-দিনাল মুখলাসীন।",
+      "translation_bn": "নিশ্চয় মহিলা তার বিষয়ে চিন্তা করেছিল এবং সেও মহিলার বিষয়ে চিন্তা করত। যদি না সে স্বীয় পালনকর্তার মহিমা অবলোকন করত। এমনিবাবে হয়েছে, যাতে আমি তার কাছ থেকে মন্দ বিষয় ও নিলজ্জ বিষয় সরিয়ে দেই। নিশ্চয় সে আমার মনোনীত বান্দাদের একজন।",
+      "translation_en": "And (with passion) did she desire him, and he would have desired her, but that he saw the evidence of his Lord: thus (did We order) that We might turn away from him (all) evil and shameful deeds: for he was one of Our servants, sincere and purified."
+    },
+    {
+      "id": 25,
+      "text": "وَٱسْتَبَقَا ٱلْبَابَ وَقَدَّتْ قَمِيصَهُۥ مِن دُبُرٍ وَأَلْفَيَا سَيِّدَهَا لَدَا ٱلْبَابِ قَالَتْ مَا جَزَآءُ مَنْ أَرَادَ بِأَهْلِكَ سُوٓءًا إِلَّآ أَن يُسْجَنَ أَوْ عَذَابٌ أَلِيمٌ",
+      "transliteration": "ওওয়াছ তাবাকাল বা-বা ওয়া কাদ্দাত কামীসাহূমিন দুবুরিওঁ ওয়া আলফাইয়া-ছাইয়িদাহালাদাল বা-বি কা-লাত মা-জাঝাউ মান আরা-দা বিআহলিকা ছূআন ইল্লাআইঁ ইউছজানা আও ‘আযা-বুন আলীম।",
+      "translation_bn": "তারা উভয়ে ছুটে দরজার দিকে গেল এবং মহিলা ইউসুফের জামা পিছন দিক থেকে ছিঁড়ে ফেলল। উভয়ে মহিলার স্বামীকে দরজার কাছে পেল। মহিলা বললঃ যে ব্যক্তি তোমার পরিজনের সাথে কুকর্মের ইচ্ছা করে, তাকে কারাগারে পাঠানো অথবা অন্য কোন যন্ত্রণাদায়ক শাস্তি দেয়া ছাড়া তার আর কি শাস্তি হতে পারে?",
+      "translation_en": "So they both raced each other to the door, and she tore his shirt from the back: they both found her lord near the door. She said: \"What is the (fitting) punishment for one who formed an evil design against thy wife, but prison or a grievous chastisement?\""
+    },
+    {
+      "id": 26,
+      "text": "قَالَ هِىَ رَٰوَدَتْنِى عَن نَّفْسِى وَشَهِدَ شَاهِدٌ مِّنْ أَهْلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٍ فَصَدَقَتْ وَهُوَ مِنَ ٱلْكَٰذِبِينَ",
+      "transliteration": "কা-লা হিয়া রা-ওয়াদাতনী ‘আন নাফছী ওয়া শাহিদা শা-হিদুম মিন আহলিহা- ইন কা-না কামীসুহূকুদ্দা মিন কুবুলিন ফাসাদাকাত ওয়া হুওয়া মিনাল কা-যিবীন।",
+      "translation_bn": "ইউসুফ (আঃ) বললেন, সেই আমাকে আত্মসংবরণ না করতে ফুসলিয়েছে। মহিলার পরিবারে জনৈক সাক্ষী দিল যে, যদি তার জামা সামনের দিক থেকে ছিন্ন থাকে, তবে মহিলা সত্যবাদিনী এবং সে মিথ্যাবাদি।",
+      "translation_en": "He said: \"It was she that sought to seduce me - from my (true) self.\" And one of her household saw (this) and bore witness, (thus):- \"If it be that his shirt is rent from the front, then is her tale true, and he is a liar!"
+    },
+    {
+      "id": 27,
+      "text": "وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٍ فَكَذَبَتْ وَهُوَ مِنَ ٱلصَّٰدِقِينَ",
+      "transliteration": "ওয়া ইন কা-না কামীসুহূকুদ্দা মিন দুবুরিন ফাকাযাবাত ওয়া হুওয়া মিনাসসা-দিকীন।",
+      "translation_bn": "এবং যদি তার জামা পেছনের দিক থেকে ছিন্ন থাকে, তবে মহিলা মিথ্যাবাদিনী এবং সে সত্যবাদী।",
+      "translation_en": "\"But if it be that his shirt is torn from the back, then is she the liar, and he is telling the truth!\""
+    },
+    {
+      "id": 28,
+      "text": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٍ قَالَ إِنَّهُۥ مِن كَيْدِكُنَّ إِنَّ كَيْدَكُنَّ عَظِيمٌ",
+      "transliteration": "ফালাম্মা-রাআ-কামীসাহূকুদ্দা মিন দুবরিন কা-লা ইন্নাহূমিন কাইদিকুন্ন ইন্না কাইদাকুন্না ‘আজীম।",
+      "translation_bn": "অতঃপর গৃহস্বামী যখন দেখল যে, তার জামা পেছন দিক থেকে ছিন্ন, তখন সে বলল, নিশ্চয় এটা তোমাদের ছলনা। নিঃসন্দেহে তোমাদের ছলনা খুবই মারাত্নক।",
+      "translation_en": "So when he saw his shirt,- that it was torn at the back,- (her husband) said: \"Behold! It is a snare of you women! truly, mighty is your snare!"
+    },
+    {
+      "id": 29,
+      "text": "يُوسُفُ أَعْرِضْ عَنْ هَٰذَا وَٱسْتَغْفِرِى لِذَنۢبِكِ إِنَّكِ كُنتِ مِنَ ٱلْخَاطِـِٔينَ",
+      "transliteration": "ইঊছুফুআ‘রিদ‘আন হা-যা-ওয়াছতাগফিরী লিযামবিকি ইন্নাকি কুনতি মিনাল খা-তিঈন।",
+      "translation_bn": "ইউসুফ এ প্রসঙগ ছাড়! আর হে নারী, এ পাপের জন্য ক্ষমা প্রার্থনা কর নিঃসন্দেহে তুমি-ই পাপাচারিনী।",
+      "translation_en": "\"O Joseph, pass this over! (O wife), ask forgiveness for thy sin, for truly thou hast been at fault!\""
+    },
+    {
+      "id": 30,
+      "text": "وَقَالَ نِسْوَةٌ فِى ٱلْمَدِينَةِ ٱمْرَأَتُ ٱلْعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفْسِهِۦ قَدْ شَغَفَهَا حُبًّا إِنَّا لَنَرَىٰهَا فِى ضَلَٰلٍ مُّبِينٍ",
+      "transliteration": "ওয়া কা-লা নিছওয়াতুন ফিল মাদীনাতিম রাআতুল ‘আঝীঝি তুরা-বিদুফাতা-হা-‘আন নাফছিহী কাদ শাগাফাহা-হুব্বান ইন্না লানারা-হা-ফী দালা-লিম মুবীন।",
+      "translation_bn": "নগরে মহিলারা বলাবলি করতে লাগল যে, আযীযের স্ত্রী স্বীয় গোলামকে কুমতলব চরিতার্থ করার জন্য ফুসলায়। সে তার প্রেমে উম্মত্ত হয়ে গেছে। আমরা তো তাকে প্রকাশ্য ভ্রান্তিতে দেখতে পাচ্ছি।",
+      "translation_en": "Ladies said in the City: \"The wife of the (great) 'Aziz is seeking to seduce her slave from his (true) self: Truly hath he inspired her with violent love: we see she is evidently going astray.\""
+    },
+    {
+      "id": 31,
+      "text": "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَـًٔا وَءَاتَتْ كُلَّ وَٰحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ ٱخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُۥٓ أَكْبَرْنَهُۥ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَٰشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَآ إِلَّا مَلَكٌ كَرِيمٌ",
+      "transliteration": "ফালাম্মা-ছামি‘আত বিমাকরিহিন্না আরছালাত ইলাইহিন্না ওয়া আ‘তাদাত লাহুন্না মুত্তাকাআওঁ ওয়া আ-তাত কুল্লা ওয়াহিদাতিম মিনহুন্না ছিক্কীনাওঁ ওয়া কা-লাতিখরুজ ‘আলাইহিন্না ফালাম্মা-রাআইনাহূআকবারনাহূওয়া কাত্তা‘না আইদিয়াহুন্না ওয়াকুলনা হা-শা লিল্লা-হি মা- হা-যা-বাশারান ইন হা-যা ইল্লা-মালাকুন কারীম।",
+      "translation_bn": "যখন সে তাদের চক্রান্ত শুনল, তখন তাদেরকে ডেকে পাঠাল এবং তাদের জন্যে একটি ভোজ সভার আয়োজন করল। সে তাদের প্রত্যেককে একটি ছুরি দিয়ে বললঃ ইউসুফ এদের সামনে চলে এস। যখন তারা তাকে দেখল, হতভম্ব হয়ে গেল এবং আপন হাত কেটে ফেলল। তারা বললঃ কখনই নয় এ ব্যক্তি মানব নয়। এ তো কোন মহান ফেরেশতা।",
+      "translation_en": "When she heard of their malicious talk, she sent for them and prepared a banquet for them: she gave each of them a knife: and she said (to Joseph), \"Come out before them.\" When they saw him, they did extol him, and (in their amazement) cut their hands: they said, \"Allah preserve us! no mortal is this! this is none other than a noble angel!\""
+    },
+    {
+      "id": 32,
+      "text": "قَالَتْ فَذَٰلِكُنَّ ٱلَّذِى لُمْتُنَّنِى فِيهِ وَلَقَدْ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ فَٱسْتَعْصَمَ وَلَئِن لَّمْ يَفْعَلْ مَآ ءَامُرُهُۥ لَيُسْجَنَنَّ وَلَيَكُونًا مِّنَ ٱلصَّٰغِرِينَ",
+      "transliteration": "কা-লাত ফাযা-লিকুন্নাল্লাযী লুমতুন্নানী ফীহি ওয়া লাকাদ রা-ওয়াততুহূ‘আন নাফছিহী ফাছতা‘সামা ওয়া লাইল্লাম ইয়াফ‘আল মাআ-মুরুহূলাইউছজানান্না ওয়া লাইয়াকূনাম মিনাসসা-গিরীন।",
+      "translation_bn": "মহিলা বললঃ এ ঐ ব্যক্তি, যার জন্যে তোমরা আমাকে ভৎর্সনা করছিলে। আমি ওরই মন জয় করতে চেয়েছিলাম। কিন্তু সে নিজেকে নিবৃত্ত রেখেছে। আর আমি যা আদেশ দেই, সে যদি তা না করে, তবে অবশ্যই সে কারাগারে প্রেরিত হবে এবং লাঞ্চিত হবে।",
+      "translation_en": "She said: \"There before you is the man about whom ye did blame me! I did seek to seduce him from his (true) self but he did firmly save himself guiltless!.... and now, if he doth not my bidding, he shall certainly be cast into prison, and (what is more) be of the company of the vilest!\""
+    },
+    {
+      "id": 33,
+      "text": "قَالَ رَبِّ ٱلسِّجْنُ أَحَبُّ إِلَىَّ مِمَّا يَدْعُونَنِىٓ إِلَيْهِ وَإِلَّا تَصْرِفْ عَنِّى كَيْدَهُنَّ أَصْبُ إِلَيْهِنَّ وَأَكُن مِّنَ ٱلْجَٰهِلِينَ",
+      "transliteration": "কা-লা রাব্বিছছিজনুআহাব্বুইলাইইয়া মিম্মা-ইয়াদ‘ঊনানীইলাইহি ওয়া ইল্লা-তাসরিফ ‘আন্নী কাইদাহুন্না আসবুইলাইহিন্না ওয়াআকুম মিনাল জা-হিলীন।",
+      "translation_bn": "ইউসুফ বললঃ হে পালনকর্তা তারা আমাকে যে কাজের দিকে আহবান করে, তার চাইতে আমি কারাগারই পছন্দ করি। যদি আপনি তাদের চক্রান্ত আমার উপর থেকে প্রতিহত না করেন, তবে আমি তাদের প্রতি আকৃষ্ট হয়ে পড়ব এবং অজ্ঞদের অন্তর্ভূক্ত হয়ে যাব।",
+      "translation_en": "He said: \"O my Lord! the prison is more to my liking than that to which they invite me: Unless Thou turn away their snare from me, I should (in my youthful folly) feel inclined towards them and join the ranks of the ignorant.\""
+    },
+    {
+      "id": 34,
+      "text": "فَٱسْتَجَابَ لَهُۥ رَبُّهُۥ فَصَرَفَ عَنْهُ كَيْدَهُنَّ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "transliteration": "ফাছতাজা-বা লাহূরাব্বুহূফাসারাফা ‘আনহু কাইদাহুন্না ইন্নাহূহুওয়াছছামী‘উল ‘আলীম।",
+      "translation_bn": "অতঃপর তার পালনকর্তা তার দোয়া কবুল করে নিলেন। অতঃপর তাদের চক্রান্ত প্রতিহত করলেন। নিশ্চয় তিনি সর্বশ্রোতা ও সর্বজ্ঞ।",
+      "translation_en": "So his Lord hearkened to him (in his prayer), and turned away from him their snare: Verily He heareth and knoweth (all things)."
+    },
+    {
+      "id": 35,
+      "text": "ثُمَّ بَدَا لَهُم مِّنۢ بَعْدِ مَا رَأَوُا۟ ٱلْءَايَٰتِ لَيَسْجُنُنَّهُۥ حَتَّىٰ حِينٍ",
+      "transliteration": "ছু ম্মা বাদা-লাহুম মিম বা‘দি মা-রাআউল আ-য়া-তি লাইয়াছজুনুন্নাহূহাত্তা-হীন।",
+      "translation_bn": "অতঃপর এসব নিদর্শন দেখার পর তারা তাকে কিছুদিন কারাগারে রাখা সমীচীন মনে করল।",
+      "translation_en": "Then it occurred to the men, after they had seen the signs, (that it was best) to imprison him for a time."
+    },
+    {
+      "id": 36,
+      "text": "وَدَخَلَ مَعَهُ ٱلسِّجْنَ فَتَيَانِ قَالَ أَحَدُهُمَآ إِنِّىٓ أَرَىٰنِىٓ أَعْصِرُ خَمْرًا وَقَالَ ٱلْءَاخَرُ إِنِّىٓ أَرَىٰنِىٓ أَحْمِلُ فَوْقَ رَأْسِى خُبْزًا تَأْكُلُ ٱلطَّيْرُ مِنْهُ نَبِّئْنَا بِتَأْوِيلِهِۦٓ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+      "transliteration": "ওয়া দাখালা মা‘আহুছ ছিজনা ফাতাইয়া-ন কা-লা আহাদুহুমাইন্নীআরা-নী আ‘সিরু খামরা- ওয়া কা-লাল আ-খারু ইন্নীআরা-নী আহমিলুফাওকা রা’ছী খুবঝান তা’কুলুততাইরু মিনহু নাব্বি’না-বিতা’ওয়ীলিহী ইন্না-নারা-কা মিনাল মুহছিনীন।",
+      "translation_bn": "তাঁর সাথে কারাগারে দুজন যুবক প্রবেশ করল। তাদের একজন বললঃ আমি স্বপ্নে দেখলাম যে, আমি মদ নিঙড়াচ্ছি। অপরজন বললঃ আমি দেখলাম যে, নিজ মাথায় রুটি বহন করছি। তা থেকে পাখী ঠুকরিয়ে খাচ্ছে। আমাদের কে এর ব্যাখ্যা বলুন। আমরা আপনাকে সৎকর্মশীল দেখতে পাচ্ছি।",
+      "translation_en": "Now with him there came into the prison two young men. Said one of them: \"I see myself (in a dream) pressing wine.\" said the other: \"I see myself (in a dream) carrying bread on my head, and birds are eating, thereof.\" \"Tell us\" (they said) \"The truth and meaning thereof: for we see thou art one that doth good (to all).\""
+    },
+    {
+      "id": 37,
+      "text": "قَالَ لَا يَأْتِيكُمَا طَعَامٌ تُرْزَقَانِهِۦٓ إِلَّا نَبَّأْتُكُمَا بِتَأْوِيلِهِۦ قَبْلَ أَن يَأْتِيَكُمَا ذَٰلِكُمَا مِمَّا عَلَّمَنِى رَبِّىٓ إِنِّى تَرَكْتُ مِلَّةَ قَوْمٍ لَّا يُؤْمِنُونَ بِٱللَّهِ وَهُم بِٱلْءَاخِرَةِ هُمْ كَٰفِرُونَ",
+      "transliteration": "কা-লা লা-ইয়া’তীকুমা-তা‘আ-মুন তুরঝাকা-নিহীইল্লা-নাব্বা’তুকুমা-বিতা’বীলিহী কাবলা আইঁ ইয়া’তিয়াকুমা- যা-লিকুমা-মিম্মা-‘আল্লামানী রাববী ইন্নী তারাকতু মিল্লাতা কাওমিল লা-ইউ’মিনূনা বিল্লা-হি ওয়াহুম বিলআ-খিরাতি হুম কা-ফিরূন।",
+      "translation_bn": "তিনি বললেনঃ তোমাদেরকে প্রত্যহ যে খাদ্য দেয়া হয়, তা তোমাদের কাছে আসার আগেই আমি তার ব্যাখ্যা বলে দেব। এ জ্ঞান আমার পালনকর্তা আমাকে শিক্ষা দিয়েছেন। আমি ঐসব লোকের ধর্ম পরিত্যাগ করেছি যারা আল্লাহর প্রতি বিশ্বাস স্থাপন করে না এবং পরকালে অবিশ্বাসী।",
+      "translation_en": "He said: \"Before any food comes (in due course) to feed either of you, I will surely reveal to you the truth and meaning of this ere it befall you: that is part of the (duty) which my Lord hath taught me. I have (I assure you) abandoned the ways of a people that believe not in Allah and that (even) deny the Hereafter."
+    },
+    {
+      "id": 38,
+      "text": "وَٱتَّبَعْتُ مِلَّةَ ءَابَآءِىٓ إِبْرَٰهِيمَ وَإِسْحَٰقَ وَيَعْقُوبَ مَا كَانَ لَنَآ أَن نُّشْرِكَ بِٱللَّهِ مِن شَىْءٍ ذَٰلِكَ مِن فَضْلِ ٱللَّهِ عَلَيْنَا وَعَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَشْكُرُونَ",
+      "transliteration": "ওয়াত্তাবা‘তুমিল্লাতা আ-বাঈইবরা-হীমা ওয়া ইছহা-কা ওয়া ইয়া‘কূবা মা-কা-না লানাআন নুশরিকা বিল্লা-হি মিন শাইইন যা-লিকা মিন ফাদলিল্লা-হি আলাইনাওয়া‘আলান্না-ছি ওয়ালা-কিন্না আকছারান্না-ছি লা-ইয়াশকুরূন।",
+      "translation_bn": "আমি আপন পিতৃপুরুষ ইব্রাহীম, ইসহাক ও ইয়াকুবের ধর্ম অনুসরণ করছি। আমাদের জন্য শোভা পায় না যে, কোন বস্তুকে আল্লাহর অংশীদার করি। এটা আমাদের প্রতি এবং অন্য সব লোকের প্রতি আল্লাহর অনুগ্রহ। কিন্ত অধিকাংশ লোক অনুগ্রহ স্বীকার করে না",
+      "translation_en": "\"And I follow the ways of my fathers,- Abraham, Isaac, and Jacob; and never could we attribute any partners whatever to Allah: that (comes) of the grace of Allah to us and to mankind: yet most men are not grateful."
+    },
+    {
+      "id": 39,
+      "text": "يَٰصَىٰحِبَىِ ٱلسِّجْنِ ءَأَرْبَابٌ مُّتَفَرِّقُونَ خَيْرٌ أَمِ ٱللَّهُ ٱلْوَٰحِدُ ٱلْقَهَّارُ",
+      "transliteration": "ইয়া-সা-হিবাইছছিজনি আ আরবা-বুমমুতাফাররিকূনা খাইরুন আমিল্লা-হুল ওয়া-হিদুল কাহহা-র।",
+      "translation_bn": "হে কারাগারের সঙ্গীরা! পৃথক পৃথক অনেক উপাস্য ভাল, না পরাক্রমশালী এক আল্লাহ?",
+      "translation_en": "\"O my two companions of the prison! (I ask you): are many lords differing among themselves better, or the One Allah, Supreme and Irresistible?"
+    },
+    {
+      "id": 40,
+      "text": "مَا تَعْبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسْمَآءً سَمَّيْتُمُوهَآ أَنتُمْ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلْطَٰنٍ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ أَمَرَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "transliteration": "মা-তা‘বুদূ না মিন দূ নিহীইল্লাআছমাআন ছাম্মাইতুমূহা আনতুম ওয়া আ-বাউকুম মাআনঝালাল্লা-হু বিহা-মিন ছুলতা-নিন ইনিল হুকম ইল্লা-লিল্লা-হি আমারা আল্লাতা‘বুদূ ইল্লা-ইইয়া-হু যা-লিকাদ্দীনুল কাইয়িমুওয়ালা-কিন্না আকছারান্না-ছি লাইয়া‘লামূন।",
+      "translation_bn": "তোমরা আল্লাহকে ছেড়ে নিছক কতগুলো নামের এবাদত কর, সেগুলো তোমরা এবং তোমাদের বাপ-দাদারা সাব্যস্ত করে নিয়েছে। আল্লাহ এদের কোন প্রমাণ অবতীর্ণ করেননি। আল্লাহ ছাড়া কারও বিধান দেবার ক্ষমতা নেই। তিনি আদেশ দিয়েছেন যে, তিনি ব্যতীত অন্য কারও এবাদত করো না। এটাই সরল পথ। কিন্তু অধিকাংশ লোক তা জানে না।",
+      "translation_en": "\"If not Him, ye worship nothing but names which ye have named,- ye and your fathers,- for which Allah hath sent down no authority: the command is for none but Allah: He hath commanded that ye worship none but Him: that is the right religion, but most men understand not..."
+    },
+    {
+      "id": 41,
+      "text": "يَٰصَىٰحِبَىِ ٱلسِّجْنِ أَمَّآ أَحَدُكُمَا فَيَسْقِى رَبَّهُۥ خَمْرًا وَأَمَّا ٱلْءَاخَرُ فَيُصْلَبُ فَتَأْكُلُ ٱلطَّيْرُ مِن رَّأْسِهِۦ قُضِىَ ٱلْأَمْرُ ٱلَّذِى فِيهِ تَسْتَفْتِيَانِ",
+      "transliteration": "ইয়া-সা-হিবাইছ ছিজনি আম্মাআহাদুকুমা-ফাইয়াছকী রাব্বাহূখামরাও ওয়াআম্মাল আ-খারু ফাইউসলাবুফাতা’কুলুততাইরু মিররা’ছিহী কুদিয়াল আমরুল্লাযী ফীহি তাছতাফতিয়া-ন।",
+      "translation_bn": "হে কারাগারের সঙ্গীরা! তোমাদের একজন আপন প্রভুকে মদ্যপান করাবে এবং দ্বিতীয়জন, তাকে শুলে চড়ানো হবে। অতঃপর তার মস্তক থেকে পাখী আহার করবে। তোমরা যে, বিষয়ে জানার আগ্রহী তার সিদ্ধান্ত হয়ে গেছে।",
+      "translation_en": "\"O my two companions of the prison! As to one of you, he will pour out the wine for his lord to drink: as for the other, he will hang from the cross, and the birds will eat from off his head. (so) hath been decreed that matter whereof ye twain do enquire\"..."
+    },
+    {
+      "id": 42,
+      "text": "وَقَالَ لِلَّذِى ظَنَّ أَنَّهُۥ نَاجٍ مِّنْهُمَا ٱذْكُرْنِى عِندَ رَبِّكَ فَأَنسَىٰهُ ٱلشَّيْطَٰنُ ذِكْرَ رَبِّهِۦ فَلَبِثَ فِى ٱلسِّجْنِ بِضْعَ سِنِينَ",
+      "transliteration": "ওয়া কা-লা লিল্লাযী জান্না আন্নাহূনা-জিম মিনহুমাযকুরনী ‘ইনদা রাব্বিকা  ফাআনছাহুশশাইতা-নুযিকরা রাব্বিহী ফালাবিছা ফিছছিজনি বিদ‘আ ছিনীন।",
+      "translation_bn": "যে ব্যক্তি সম্পর্কে ধারণা ছিল যে, সে মুক্তি পাবে, তাকে ইউসুফ বলে দিলঃ আপন প্রভুর কাছে আমার আলোচনা করবে। অতঃপর শয়তান তাকে প্রভুর কাছে আলোচনার কথা ভুলিয়ে দিল। ফলে তাঁকে কয়েক বছর কারাগারে থাকতে হল।",
+      "translation_en": "And of the two, to that one whom he consider about to be saved, he said: \"Mention me to thy lord.\" But Satan made him forget to mention him to his lord: and (Joseph) lingered in prison a few (more) years."
+    },
+    {
+      "id": 43,
+      "text": "وَقَالَ ٱلْمَلِكُ إِنِّىٓ أَرَىٰ سَبْعَ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعَ سُنۢبُلَٰتٍ خُضْرٍ وَأُخَرَ يَابِسَٰتٍ يَٰٓأَيُّهَا ٱلْمَلَأُ أَفْتُونِى فِى رُءْيَٰىَ إِن كُنتُمْ لِلرُّءْيَا تَعْبُرُونَ",
+      "transliteration": "ওয়া কা-লাল মালিকুইন্নীআরা-ছাব‘আ বাকারা-তিন ছিমা-নিইঁ ইয়া’কুলুহুন্না ছাব‘উন ‘ইজাফুওঁ ওয়া ছাব‘আ ছুমবুলা-তিন খুদরিওঁ ওয়া উখারা ইয়া-বিছা-তিন ইয়াআইয়ুহাল মালাউ আফতূনী ফী রু’ইয়া-ইয়া ইন কুনতুম লিররু’ইয়া-তা‘বুরূন।",
+      "translation_bn": "বাদশাহ বললঃ আমি স্বপ্নে দেখলাম, সাতটি মোটাতাজা গাভী-এদেরকে সাতটি শীর্ণ গাভী খেয়ে যাচ্ছে এবং সাতটি সবুজ শীষ ও অন্যগুলো শুষ্ক। হে পরিষদবর্গ! তোমরা আমাকে আমার স্বপ্নের ব্যাখ্যা বল, যদি তোমরা স্বপ্নের ব্যাখ্যায় পারদর্শী হয়ে থাক।",
+      "translation_en": "The king (of Egypt) said: \"I do see (in a vision) seven fat kine, whom seven lean ones devour, and seven green ears of corn, and seven (others) withered. O ye chiefs! Expound to me my vision if it be that ye can interpret visions.\""
+    },
+    {
+      "id": 44,
+      "text": "قَالُوٓا۟ أَضْغَٰثُ أَحْلَٰمٍ وَمَا نَحْنُ بِتَأْوِيلِ ٱلْأَحْلَٰمِ بِعَٰلِمِينَ",
+      "transliteration": "কা-লূআদগা-ছু আহলা-মিন ওয়ামা নাহনুবিতা’বীলিল আহলা-মি বি‘আ-লিমীন।",
+      "translation_bn": "তারা বললঃ এটা কল্পনাপ্রসূত স্বপ্ন। এরূপ স্বপ্নের ব্যাখ্যা আমাদের জানা নেই।",
+      "translation_en": "They said: \"A confused medley of dreams: and we are not skilled in the interpretation of dreams.\""
+    },
+    {
+      "id": 45,
+      "text": "وَقَالَ ٱلَّذِى نَجَا مِنْهُمَا وَٱدَّكَرَ بَعْدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأْوِيلِهِۦ فَأَرْسِلُونِ",
+      "transliteration": "ওয়া কা-লাল্লাযীনাজা-মিনহুমা-ওয়াদ্দাকারা বা‘দা উম্মাতিন আনা-উনাব্বিউকুম বিতাবীলিহী ফাআরছিলূন।",
+      "translation_bn": "দু’জন কারারুদ্ধের মধ্য থেকে যে ব্যক্তি মুক্তি পেয়েছিল এবং দীর্ঘকাল পর স্মরণ হলে, সে বলল, আমি তোমাদেরকে এর ব্যাখ্যা বলছি। তোমরা আমাকে প্রেরণ কর।",
+      "translation_en": "But the man who had been released, one of the two (who had been in prison) and who now bethought him after (so long) a space of time, said: \"I will tell you the truth of its interpretation: send ye me (therefore).\""
+    },
+    {
+      "id": 46,
+      "text": "يُوسُفُ أَيُّهَا ٱلصِّدِّيقُ أَفْتِنَا فِى سَبْعِ بَقَرَٰتٍ سِمَانٍ يَأْكُلُهُنَّ سَبْعٌ عِجَافٌ وَسَبْعِ سُنۢبُلَٰتٍ خُضْرٍ وَأُخَرَ يَابِسَٰتٍ لَّعَلِّىٓ أَرْجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمْ يَعْلَمُونَ",
+      "transliteration": "ইঊছুফুআইয়ুহাস সিদ্দীকুআফতিনা-ফী ছাব‘ই বাকারা-তিন ছিমা-নিইঁ ইয়া’কুলুহুন্না ছাব‘উন ‘ইজা-ফুওঁ ওয়া ছাব‘ই ছুমবুলা-তিন খুদরিওঁ ওয়া উখারা ইয়া-বিছা-তিল লা‘আললী আরজি‘উ ইলান্না-ছি লা‘আল্লাহুম ইয়া‘লামূন।",
+      "translation_bn": "সে তথায় পৌঁছে বললঃ হে ইউসুফ! হে সত্যবাদী! সাতটি মোটাতাজা গাভী-তাদেরকে খাচ্ছে সাতটি শীর্ণ গাভী এবং সাতটি সবুজ শীর্ষ ও অন্যগুলো শুষ্ক; আপনি আমাদেরকে এ স্বপ্ন সম্পর্কে পথনির্দেশ প্রদান করুনঃ যাতে আমি তাদের কাছে ফিরে গিয়ে তাদের অবগত করাতে পারি।",
+      "translation_en": "\"O Joseph!\" (he said) \"O man of truth! Expound to us (the dream) of seven fat kine whom seven lean ones devour, and of seven green ears of corn and (seven) others withered: that I may return to the people, and that they may understand.\""
+    },
+    {
+      "id": 47,
+      "text": "قَالَ تَزْرَعُونَ سَبْعَ سِنِينَ دَأَبًا فَمَا حَصَدتُّمْ فَذَرُوهُ فِى سُنۢبُلِهِۦٓ إِلَّا قَلِيلًا مِّمَّا تَأْكُلُونَ",
+      "transliteration": "কা-লা তাঝরা‘ঊনা ছাব‘আ ছিনীনা দাআ-বা- ফামা-হাসাততুম ফাযারূহু ফী ছুমবুলিহীইল্লা-কালীলাম মিম্মা-তা’কুলূন।",
+      "translation_bn": "বললঃ তোমরা সাত বছর উত্তম রূপে চাষাবাদ করবে। অতঃপর যা কাটবে, তার মধ্যে যে সামান্য পরিমাণ তোমরা খাবে তা ছাড়া অবশিষ্ট শস্য শীষ সমেত রেখে দেবে।",
+      "translation_en": "(Joseph) said: \"For seven years shall ye diligently sow as is your wont: and the harvests that ye reap, ye shall leave them in the ear,- except a little, of which ye shall eat."
+    },
+    {
+      "id": 48,
+      "text": "ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ سَبْعٌ شِدَادٌ يَأْكُلْنَ مَا قَدَّمْتُمْ لَهُنَّ إِلَّا قَلِيلًا مِّمَّا تُحْصِنُونَ",
+      "transliteration": "ছু ম্মা ইয়া’তী মিম বা‘দি যা-লিকা ছাব‘উন শিদা-দুইঁ ইয়া’কুলনা মা-কাদ্দামতুম লাহুন্না ইল্লাকালীলাম মিম্মা-তুহসিনূন।",
+      "translation_bn": "এবং এরপরে আসবে দূর্ভিক্ষের সাত বছর; তোমরা এ দিনের জন্যে যা রেখেছিলে, তা খেয়ে যাবে, কিন্তু অল্প পরিমাণ ব্যতীত, যা তোমরা তুলে রাখবে।",
+      "translation_en": "\"Then will come after that (period) seven dreadful (years), which will devour what ye shall have laid by in advance for them,- (all) except a little which ye shall have (specially) guarded."
+    },
+    {
+      "id": 49,
+      "text": "ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ",
+      "transliteration": "ছু ম্মা ইয়া’তী মিম বা‘দি যা-লিকা ‘আ-মুন ফীহি ইউগা-ছু ন্না-ছুওয়া ফীহি ইয়া‘সিরূন।",
+      "translation_bn": "র পরেই আসবে একবছর-এতে মানুষের উপর বৃষ্টি বর্ষিত হবে এবং এতে তারা রস নিঙড়াবে।",
+      "translation_en": "\"Then will come after that (period) a year in which the people will have abundant water, and in which they will press (wine and oil).\""
+    },
+    {
+      "id": 50,
+      "text": "وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦ فَلَمَّا جَآءَهُ ٱلرَّسُولُ قَالَ ٱرْجِعْ إِلَىٰ رَبِّكَ فَسْـَٔلْهُ مَا بَالُ ٱلنِّسْوَةِ ٱلَّٰتِى قَطَّعْنَ أَيْدِيَهُنَّ إِنَّ رَبِّى بِكَيْدِهِنَّ عَلِيمٌ",
+      "transliteration": "ওয়া কা-লাল মালিকু’তূনী বিহী ফালাম্মা-জাআহুর রাছূলুকা-লারজি‘ ইলা-রাব্বিকা ফাছআলহু মা-বা-লুন নিছওয়াতিল্লা-তী কাত্তা‘না আইদিয়াহুন্না ইন্না রাববী বিকাইদিহিন্না ‘আলীম।",
+      "translation_bn": "বাদশাহ বললঃ ফিরে যাও তোমাদের প্রভুর কাছে এবং জিজ্ঞেস কর তাকে ঐ মহিলার স্বরূপ কি, যারা স্বীয় হস্ত কর্তন করেছিল! আমার পালনকর্তা তো তাদের ছলনা সবই জানেন।",
+      "translation_en": "So the king said: \"Bring ye him unto me.\" But when the messenger came to him, (Joseph) said: \"Go thou back to thy lord, and ask him, 'What is the state of mind of the ladies who cut their hands'? For my Lord is certainly well aware of their snare.\""
+    },
+    {
+      "id": 51,
+      "text": "قَالَ مَا خَطْبُكُنَّ إِذْ رَٰوَدتُّنَّ يُوسُفَ عَن نَّفْسِهِۦ قُلْنَ حَٰشَ لِلَّهِ مَا عَلِمْنَا عَلَيْهِ مِن سُوٓءٍ قَالَتِ ٱمْرَأَتُ ٱلْعَزِيزِ ٱلْـَٰٔنَ حَصْحَصَ ٱلْحَقُّ أَنَا۠ رَٰوَدتُّهُۥ عَن نَّفْسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّٰدِقِينَ",
+      "transliteration": "কা-লা মা-খাতবুকুন্না ইয রা -ওয়াততুন্না ইঊছুফা ‘আন নাফছিহী কুলনা হা-শা লিল্লাহি মা-‘আলিমনা-‘আলাইহি মিন ছূইন কা-লাতিম রাআতুল ‘আঝীঝিলআ-না হাসহাসাল হাক্কু  আনা-রা-ওয়াততুহূ‘আন নাফছিহী ওয়া ইন্নাহূলামিনাসসা-দিকীন।",
+      "translation_bn": "বাদশাহ মহিলাদেরকে বললেনঃ তোমাদের হাল-হাকিকত কি, যখন তোমরা ইউসুফকে আত্মসংবরণ থেকে ফুসলিয়েছিলে? তারা বললঃ আল্লাহ মহান, আমরা তার সম্পর্কে মন্দ কিছু জানি না। আযীয-পত্মি বললঃ এখন সত্য কথা প্রকাশ হয়ে গেছে। আমিই তাকে আত্মসংবরণ থেকে ফুসলিয়েছিলাম এবং সে সত্যবাদী।",
+      "translation_en": "(The king) said (to the ladies): \"What was your affair when ye did seek to seduce Joseph from his (true) self?\" The ladies said: \"Allah preserve us! no evil know we against him!\" Said the 'Aziz's wife: \"Now is the truth manifest (to all): it was I who sought to seduce him from his (true) self: He is indeed of those who are (ever) true (and virtuous)."
+    },
+    {
+      "id": 52,
+      "text": "ذَٰلِكَ لِيَعْلَمَ أَنِّى لَمْ أَخُنْهُ بِٱلْغَيْبِ وَأَنَّ ٱللَّهَ لَا يَهْدِى كَيْدَ ٱلْخَآئِنِينَ",
+      "transliteration": "যা-লিকা লিইয়া‘লামা আন্নী লাম আখুনহু বিলগাইবি ওয়া আন্নাল্লা-হা লা-ইয়াহদী কাইদাল খাইনীন।",
+      "translation_bn": "ইউসুফ বললেনঃ এটা এজন্য, যাতে আযীয জেনে নেয় যে, আমি গোপনে তার সাথে বিশ্বাসঘাতকতা করিনি। আরও এই যে, আল্লাহ বিশ্বাসঘাতকদের প্রতারণাকে এগুতে দেন না।",
+      "translation_en": "\"This (say I), in order that He may know that I have never been false to him in his absence, and that Allah will never guide the snare of the false ones."
+    },
+    {
+      "id": 53,
+      "text": "وَمَآ أُبَرِّئُ نَفْسِىٓ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ إِنَّ رَبِّى غَفُورٌ رَّحِيمٌ",
+      "transliteration": "ওয়ামাউবাররিউ নাফছী ইন্নান্নাফছা লাআম্মা-রাতুম বিছছূই ইল্লা-মা-রাহিমা রাববী ইন্না রাববী গাফূরুর রাহীম।",
+      "translation_bn": "আমি নিজেকে নির্দোষ বলি না। নিশ্চয় মানুষের মন মন্দ কর্মপ্রবণ কিন্তু সে নয়-আমার পালনকর্তা যার প্রতি অনুগ্রহ করেন। নিশ্চয় আমার পালনকর্তা ক্ষমাশীল, দয়ালু।",
+      "translation_en": "\"Nor do I absolve my own self (of blame): the (human) soul is certainly prone to evil, unless my Lord do bestow His Mercy: but surely my Lord is Oft-forgiving, Most Merciful.\""
+    },
+    {
+      "id": 54,
+      "text": "وَقَالَ ٱلْمَلِكُ ٱئْتُونِى بِهِۦٓ أَسْتَخْلِصْهُ لِنَفْسِى فَلَمَّا كَلَّمَهُۥ قَالَ إِنَّكَ ٱلْيَوْمَ لَدَيْنَا مَكِينٌ أَمِينٌ",
+      "transliteration": "ওয়া কা-লাল মালিকু’তূনী বিহীআছতাখলিসহু লিনাফছী ফালাম্মা-কাল্লামাহূকা-লা ইন্নাকাল ইয়াওমা লাদাইনা-মাকীনুন আমীন।",
+      "translation_bn": "বাদশাহ বললঃ তাকে আমার কাছে নিয়ে এসো। আমি তাকে নিজের বিশ্বস্ত সহচর করে রাখব। অতঃপর যখন তার সাথে মতবিনিময় করল, তখন বললঃ নিশ্চয়ই আপনি আমার কাছে আজ থেকে বিশ্বস্ত হিসাবে মর্যাদার স্থান লাভ করেছেন।",
+      "translation_en": "So the king said: \"Bring him unto me; I will take him specially to serve about my own person.\" Therefore when he had spoken to him, he said: \"Be assured this day, thou art, before our own presence, with rank firmly established, and fidelity fully proved!"
+    },
+    {
+      "id": 55,
+      "text": "قَالَ ٱجْعَلْنِى عَلَىٰ خَزَآئِنِ ٱلْأَرْضِ إِنِّى حَفِيظٌ عَلِيمٌ",
+      "transliteration": "কা-লাজ‘আলনী ‘আলা-খাঝাইনিল আরদি ইন্নী হাফীজুন ‘আলীম।",
+      "translation_bn": "ইউসুফ বললঃ আমাকে দেশের ধন-ভান্ডারে নিযুক্ত করুন। আমি বিশ্বস্ত রক্ষক ও অধিক জ্ঞানবান।",
+      "translation_en": "(Joseph) said: \"Set me over the store-houses of the land: I will indeed guard them, as one that knows (their importance).\""
+    },
+    {
+      "id": 56,
+      "text": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِى ٱلْأَرْضِ يَتَبَوَّأُ مِنْهَا حَيْثُ يَشَآءُ نُصِيبُ بِرَحْمَتِنَا مَن نَّشَآءُ وَلَا نُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "transliteration": "ওয়া কাযা-লিকা মাক্কান্না-লিইঊছুূফা ফিল আরদি ইয়াতাবাওওয়াউ মিনহা-হাইছু ইয়াশাউ নুসীবুবিরাহমাতিনা-মান নাশাউ ওয়ালা-নুদী‘উ আজরাল মুহছিনীন।",
+      "translation_bn": "এমনিভাবে আমি ইউসুফকে সে দেশের বুকে প্রতিষ্ঠা দান করেছি। সে তথায় যেখানে ইচ্ছা স্থান করে নিতে পারত। আমি স্বীয় রহমত যাকে ইচ্ছা পৌছে দেই এবং আমি পূণ্যবানদের প্রতিদান বিনষ্ট করি না",
+      "translation_en": "Thus did We give established power to Joseph in the land, to take possession therein as, when, or where he pleased. We bestow of our Mercy on whom We please, and We suffer not, to be lost, the reward of those who do good."
+    },
+    {
+      "id": 57,
+      "text": "وَلَأَجْرُ ٱلْءَاخِرَةِ خَيْرٌ لِّلَّذِينَ ءَامَنُوا۟ وَكَانُوا۟ يَتَّقُونَ",
+      "transliteration": "ওয়ালাআজরুল আ-খিরাতি খাইরুল লিল্লাযীনা আ-মানূওয়া কা-নূইয়াত্তাকূন।",
+      "translation_bn": "এবং ঐ লোকদের জন্য পরকালে প্রতিদান উত্তম যারা ঈমান এনেছে ও সতর্কতা অবলম্বন করে।",
+      "translation_en": "But verily the reward of the Hereafter is the best, for those who believe, and are constant in righteousness."
+    },
+    {
+      "id": 58,
+      "text": "وَجَآءَ إِخْوَةُ يُوسُفَ فَدَخَلُوا۟ عَلَيْهِ فَعَرَفَهُمْ وَهُمْ لَهُۥ مُنكِرُونَ",
+      "transliteration": "ওয়াজাআ ইখওয়াতুইঊছুফা ফাদাখালূ‘আলাইহি ফা‘আরাফাহুম ওয়াহুম লাহূমুনকিরূন।",
+      "translation_bn": "ইউসুফের ভ্রাতারা আগমন করল, অতঃপর তার কাছে উপস্থিত হল। সে তাদেরকে চিনল এবং তারা তাকে চিনল না।",
+      "translation_en": "Then came Joseph's brethren: they entered his presence, and he knew them, but they knew him not."
+    },
+    {
+      "id": 59,
+      "text": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ قَالَ ٱئْتُونِى بِأَخٍ لَّكُم مِّنْ أَبِيكُمْ أَلَا تَرَوْنَ أَنِّىٓ أُوفِى ٱلْكَيْلَ وَأَنَا۠ خَيْرُ ٱلْمُنزِلِينَ",
+      "transliteration": "ওয়া লাম্মা-জাহহাঝাহুম বিজাহা-ঝিহিম কা-লা’তূনী বিআখিল্লাকুম মিন আবীকুম আলাতারাওনা আন্নী ঊফিল কাইলা ওয়া আনা-খাইরুল মুনঝিলীন।",
+      "translation_bn": "এবং সে যখন তাদেরকে তাদের রসদ প্রস্তুত করে দিল, তখন সে বললঃ তোমাদের বৈমাত্রেয় ভাইকে আমার কাছে নিয়ে এসো। তোমরা কি দেখ না যে, আমি পুরা মাপ দেই এবং মেহমানদেরকে উত্তম সমাদার করি?",
+      "translation_en": "And when he had furnished them forth with provisions (suitable) for them, he said: \"Bring unto me a brother ye have, of the same father as yourselves, (but a different mother): see ye not that I pay out full measure, and that I do provide the best hospitality?"
+    },
+    {
+      "id": 60,
+      "text": "فَإِن لَّمْ تَأْتُونِى بِهِۦ فَلَا كَيْلَ لَكُمْ عِندِى وَلَا تَقْرَبُونِ",
+      "transliteration": "ফাইল্লাম তা’তূনী বিহী ফালা-কাইলা লাকুম ‘ইনদী ওয়ালা তাকরাবূন।",
+      "translation_bn": "অতঃপর যদি তাকে আমার কাছে না আন, তবে আমার কাছে তোমাদের কোন বরাদ্ধ নেই এবং তোমরা আমার কাছে আসতে পারবে না।",
+      "translation_en": "\"Now if ye bring him not to me, ye shall have no measure (of corn) from me, nor shall ye (even) come near me.\""
+    },
+    {
+      "id": 61,
+      "text": "قَالُوا۟ سَنُرَٰوِدُ عَنْهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ",
+      "transliteration": "কা-লূছানুরা-ওয়িদু‘আনহু আবা-হু ওয়া ইন্না-লাফা-‘ইলূন।",
+      "translation_bn": "তারা বললঃ আমরা তার সম্পর্কে তার পিতাকে সম্মত করার চেষ্টা করব এবং আমাদেরকে একাজ করতেই হবে।",
+      "translation_en": "They said: \"We shall certainly seek to get our wish about him from his father: Indeed we shall do it.\""
+    },
+    {
+      "id": 62,
+      "text": "وَقَالَ لِفِتْيَٰنِهِ ٱجْعَلُوا۟ بِضَٰعَتَهُمْ فِى رِحَالِهِمْ لَعَلَّهُمْ يَعْرِفُونَهَآ إِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمْ لَعَلَّهُمْ يَرْجِعُونَ",
+      "transliteration": "ওয়া কা-লা লিফিতইয়া-নিহিজ‘আলূ বিদা-‘আতাহুম ফী রিহা-লিহিম লা‘আল্লাহুম ইয়া‘রিফূনাহা ইযানকালাবূ ইলাআহলিহিম লা‘আল্লাহুম ইয়ারজি‘উন।",
+      "translation_bn": "এবং সে ভৃত্যদেরকে বললঃ তাদের পণ্যমূল্য তাদের রসদ-পত্রের মধ্যে রেখে দাও-সম্ভবতঃ তারা গৃহে পৌঁছে তা বুঝতে পারবে, সম্ভবতঃ তারা পুনর্বার আসবে।",
+      "translation_en": "And (Joseph) told his servants to put their stock-in-trade (with which they had bartered) into their saddle-bags, so they should know it only when they returned to their people, in order that they might come back."
+    },
+    {
+      "id": 63,
+      "text": "فَلَمَّا رَجَعُوٓا۟ إِلَىٰٓ أَبِيهِمْ قَالُوا۟ يَٰٓأَبَانَا مُنِعَ مِنَّا ٱلْكَيْلُ فَأَرْسِلْ مَعَنَآ أَخَانَا نَكْتَلْ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "transliteration": "ফালাম্মা-রাজা‘ঊইলাআবীহিম কা-লূইয়াআবা-না-মুনি‘আ মিন্নাল কাইলুফাআরছিল মা‘আনাআখা-না-নাকতাল ওয়া ইন্না-লাহূলাহা-ফিজূ ন।",
+      "translation_bn": "তারা যখন তাদের পিতার কাছে ফিরে এল তখন বললঃ হে আমাদের পিতা, আমাদের জন্যে খাদ্য শস্যের বরাদ্দ নিষিদ্ধ করা হয়েছে। অতএব আপনি আমাদের ভাইকে আমাদের সাথে প্রেরণ করুন; যাতে আমরা খাদ্য শস্যের বরাদ্দ আনতে পারি এবং আমরা অবশ্যই তার পুরোপুরি হেফাযত করব।",
+      "translation_en": "Now when they returned to their father, they said: \"O our father! No more measure of grain shall we get (unless we take our brother): So send our brother with us, that we may get our measure; and we will indeed take every care of him.\""
+    },
+    {
+      "id": 64,
+      "text": "قَالَ هَلْ ءَامَنُكُمْ عَلَيْهِ إِلَّا كَمَآ أَمِنتُكُمْ عَلَىٰٓ أَخِيهِ مِن قَبْلُ فَٱللَّهُ خَيْرٌ حَٰفِظًا وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+      "transliteration": "কা-লা হাল আ-মানুকুম ‘আলাইহি ইল্লা-কামাআমিনতুকুম ‘আলাআখীহি মিন কাবলু ফাল্লা-হু খাইরুন হা-ফিজাওঁ ওয়াহুওয়া আরহামুর রা-হিমীন।",
+      "translation_bn": "বললেন, আমি তার সম্পর্কে তোমাদেরকে কি সেরূপ বিশ্বাস করব, যেমন ইতিপূর্বে তার ভাই সম্পর্কে বিশ্বাস করেছিলাম? অতএব আল্লাহ উত্তম হেফাযতকারী এবং তিনিই সর্বাধিক দয়ালু।",
+      "translation_en": "He said: \"Shall I trust you with him with any result other than when I trusted you with his brother aforetime? But Allah is the best to take care (of him), and He is the Most Merciful of those who show mercy!\""
+    },
+    {
+      "id": 65,
+      "text": "وَلَمَّا فَتَحُوا۟ مَتَٰعَهُمْ وَجَدُوا۟ بِضَٰعَتَهُمْ رُدَّتْ إِلَيْهِمْ قَالُوا۟ يَٰٓأَبَانَا مَا نَبْغِى هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتْ إِلَيْنَا وَنَمِيرُ أَهْلَنَا وَنَحْفَظُ أَخَانَا وَنَزْدَادُ كَيْلَ بَعِيرٍ ذَٰلِكَ كَيْلٌ يَسِيرٌ",
+      "transliteration": "ওয়া লাম্মা-ফাতাহূমাতা-‘আহুম ওয়াজাদূবিদা-‘আতাহুম রুদ্দাত ইলাইহিম কা-লূ ইয়াআবা-না-মা-নাবগী হা-যিহী বিদা-‘আতুনা-রুদ্দাত ইলাইনা- ওয়া নামীরু আহলানা-ওয়া নাহফাজুআখা-না-ওয়া নাঝদা-দুকাইলা বা‘ঈরিন যা-লিকা কাইলুইঁ ইয়াছীর।",
+      "translation_bn": "এবং যখন তারা আসবাবপত্র খুলল, তখন দেখতে পেল যে, তাদেরকে তাদের পন্যমুল্য ফেরত দেয়া হয়েছে। তারা বললঃ হে আমাদের পিতা, আমরা আর কি চাইতে পারি। এই আমাদের প্রদত্ত পন্যমূল্য, আমাদেরকে ফেরত দেয়া হয়েছে। এখন আমরা আবার আমাদের পরিবারবর্গের জন্যে রসদ আনব এবং আমাদের ভাইয়ের দেখাশোনা করব এবং এক এক উটের বরাদ্দ খাদ্যশস্য আমরা অতিরিক্ত আনব। ঐ বরাদ্দ সহজ।",
+      "translation_en": "Then when they opened their baggage, they found their stock-in-trade had been returned to them. They said: \"O our father! What (more) can we desire? this our stock-in-trade has been returned to us: so we shall get (more) food for our family; We shall take care of our brother; and add (at the same time) a full camel's load (of grain to our provisions). This is but a small quantity."
+    },
+    {
+      "id": 66,
+      "text": "قَالَ لَنْ أُرْسِلَهُۥ مَعَكُمْ حَتَّىٰ تُؤْتُونِ مَوْثِقًا مِّنَ ٱللَّهِ لَتَأْتُنَّنِى بِهِۦٓ إِلَّآ أَن يُحَاطَ بِكُمْ فَلَمَّآ ءَاتَوْهُ مَوْثِقَهُمْ قَالَ ٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِيلٌ",
+      "transliteration": "কা-লা লান উরছিলাহূমা‘আকুম হাত্তা-তু’তূনি মাওছিকাম মিনাল্লা-হি লাতা’তুন্নানী বিহী ইল্লা আইঁ ইউহা-তা বিকুম ফালাম্মা আ-তাওহু মাওছিকাহুম কা-লাল্লা-হু ‘আলামা-নাকূলুওয়াকীল।",
+      "translation_bn": "বললেন, তাকে ততক্ষণ তোমাদের সাথে পাঠাব না, যতক্ষণ তোমরা আমাকে আল্লাহর নামে অঙ্গীকার না দাও যে, তাকে অবশ্যই আমার কাছে পৌঁছে দেবে; কিন্তু যদি তোমরা সবাই একান্তই অসহায় না হয়ে যাও। অতঃপর যখন সবাই তাঁকে অঙ্গীকার দিল, তখন তিনি বললেনঃ আমাদের মধ্যে যা কথাবার্তা হলো সে ব্যাপারে আল্লাহই মধ্যস্থ রইলেন।",
+      "translation_en": "(Jacob) said: \"Never will I send him with you until ye swear a solemn oath to me, in Allah's name, that ye will be sure to bring him back to me unless ye are yourselves hemmed in (and made powerless). And when they had sworn their solemn oath, he said: \"Over all that we say, be Allah the witness and guardian!\""
+    },
+    {
+      "id": 67,
+      "text": "وَقَالَ يَٰبَنِىَّ لَا تَدْخُلُوا۟ مِنۢ بَابٍ وَٰحِدٍ وَٱدْخُلُوا۟ مِنْ أَبْوَٰبٍ مُّتَفَرِّقَةٍ وَمَآ أُغْنِى عَنكُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِنِ ٱلْحُكْمُ إِلَّا لِلَّهِ عَلَيْهِ تَوَكَّلْتُ وَعَلَيْهِ فَلْيَتَوَكَّلِ ٱلْمُتَوَكِّلُونَ",
+      "transliteration": "ওয়া কা-লা ইয়া-বানিইইয়া লা-তাদখুলূমিম বা-বিওঁ ওয়া-হিদিওঁ ওয়াদখুলূমিন আবওয়াবিম মুতাফাররিকাতিওঁ ওয়ামাউগনী ‘আনকুম মিনাল্লা-হি মিন শাইইন ইনিল হুকমু ইল্লা-লিল্লা-হি ‘আলাইহি তাওয়াক্কালতু ওয়া ‘আলাইহি ফালইয়াতাওয়াক্কালিল মুতাওয়াক্কিলূন।",
+      "translation_bn": "ইয়াকুব বললেনঃ হে আমার বৎসগণ! সবাই একই প্রবেশদ্বার দিয়ে যেয়ো না, বরং পৃথক পৃথক দরজা দিয়ে প্রবেশ করো। আল্লাহর কোন বিধান থেকে আমি তোমাদেরকে রক্ষা করতে পারি না। নির্দেশ আল্লাহরই চলে। তাঁরই উপর আমি ভরসা করি এবং তাঁরই উপর ভরসা করা উচিত ভরসাকারীদের।",
+      "translation_en": "Further he said: \"O my sons! enter not all by one gate: enter ye by different gates. Not that I can profit you aught against Allah (with my advice): None can command except Allah: On Him do I put my trust: and let all that trust put their trust on Him.\""
+    },
+    {
+      "id": 68,
+      "text": "وَلَمَّا دَخَلُوا۟ مِنْ حَيْثُ أَمَرَهُمْ أَبُوهُم مَّا كَانَ يُغْنِى عَنْهُم مِّنَ ٱللَّهِ مِن شَىْءٍ إِلَّا حَاجَةً فِى نَفْسِ يَعْقُوبَ قَضَىٰهَا وَإِنَّهُۥ لَذُو عِلْمٍ لِّمَا عَلَّمْنَٰهُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+      "transliteration": "ওয়া লাম্মা-দাখালূমিন হাইছুআমারাহুম আবূহুম মা-কা-না ইউগনী ‘আনহুম মিনাল্লাহি মিন শাইঁইন ইল্লা-হা-জাতান ফী নাফছি ইয়া‘কুবা কাদা-হা- ওয়া ইন্নাহূ লাযূ‘ইলমিল লিমা-‘আল্লামনা-হু ওয়ালা-কিন্না আকছারান্না-ছি লা-ইয়া‘লামূন।",
+      "translation_bn": "তারা যখন পিতার কথামত প্রবেশ করল, তখন আল্লাহর বিধানের বিরুদ্ধে তা তাদের বাঁচাতে পারল না। কিন্তু ইয়াকুবের সিদ্ধান্তে তাঁর মনের একটি বাসনা ছিল, যা তিনি পূর্ণ করেছেন। এবং তিনি তো আমার শেখানো বিষয় অবগত ছিলেন। কিন্তু অনেক মানুষ অবগত নয়।",
+      "translation_en": "And when they entered in the manner their father had enjoined, it did not profit them in the least against (the plan of) Allah: It was but a necessity of Jacob's soul, which he discharged. For he was, by our instruction, full of knowledge (and experience): but most men know not."
+    },
+    {
+      "id": 69,
+      "text": "وَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَخَاهُ قَالَ إِنِّىٓ أَنَا۠ أَخُوكَ فَلَا تَبْتَئِسْ بِمَا كَانُوا۟ يَعْمَلُونَ",
+      "transliteration": "ওয়া লাম্মা-দাখালূ‘আলা-ইঊছুফা আ-ওয়াইলাইহি আখা-হূকা-লা ইন্নীআনা আখূকা ফালা-তাবতাইছ বিমা-কা-নূইয়া‘মালূন।",
+      "translation_bn": "যখন তারা ইউসুফের কাছে উপস্থিত হল, তখন সে আপন ভ্রাতাকে নিজের কাছে রাখল। বললঃ নিশ্চই আমি তোমার সহোদর। অতএব তাদের কৃতকর্মের জন্যে দুঃখ করো না।",
+      "translation_en": "Now when they came into Joseph's presence, he received his (full) brother to stay with him. He said (to him): \"Behold! I am thy (own) brother; so grieve not at aught of their doings.\""
+    },
+    {
+      "id": 70,
+      "text": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمْ جَعَلَ ٱلسِّقَايَةَ فِى رَحْلِ أَخِيهِ ثُمَّ أَذَّنَ مُؤَذِّنٌ أَيَّتُهَا ٱلْعِيرُ إِنَّكُمْ لَسَٰرِقُونَ",
+      "transliteration": "ফালাম্মা- জাহহাঝাহুম বিজাহা-ঝিহিম জা‘আলাছছিকা-য়াতা ফী রাহলি আখীহি ছু ম্মা আযযানা মুআযযিনুন আইয়াতুহাল ‘ঈরু ইন্নাকুম লাছা-রিকূ ন।",
+      "translation_bn": "অতঃপর যখন ইউসুফ তাদের রসদপত্র প্রস্তুত করে দিল, তখন পানপাত্র আপন ভাইয়ের রসদের মধ্যে রেখে দিল। অতঃপর একজন ঘোষক ডেকে বললঃ হে কাফেলার লোকজন, তোমরা অবশ্যই চোর।",
+      "translation_en": "At length when he had furnished them forth with provisions (suitable) for them, he put the drinking cup into his brother's saddle-bag. Then shouted out a crier: \"O ye (in) the caravan! behold! ye are thieves, without doubt!\""
+    },
+    {
+      "id": 71,
+      "text": "قَالُوا۟ وَأَقْبَلُوا۟ عَلَيْهِم مَّاذَا تَفْقِدُونَ",
+      "transliteration": "কা-লূওয়া আকবালূ‘আলাইহিম মা-যা-তাফকিদূন।",
+      "translation_bn": "তারা ওদের দিকে মুখ করে বললঃ তোমাদের কি হারিয়েছে?",
+      "translation_en": "They said, turning towards them: \"What is it that ye miss?\""
+    },
+    {
+      "id": 72,
+      "text": "قَالُوا۟ نَفْقِدُ صُوَاعَ ٱلْمَلِكِ وَلِمَن جَآءَ بِهِۦ حِمْلُ بَعِيرٍ وَأَنَا۠ بِهِۦ زَعِيمٌ",
+      "transliteration": "কা-লূনাফকিদুসুওয়া-‘আল মালিকি ওয়া লিমান জাআ বিহী হিমলুবা‘ঈরিওঁ ওয়া আনা বিহী ঝা‘ঈম।",
+      "translation_bn": "তারা বললঃ আমরা বাদশাহর পানপাত্র হারিয়েছি এবং যে কেউ এটা এনে দেবে সে এক উটের বোঝা পরিমাণ মাল পাবে এবং আমি এর যামিন।",
+      "translation_en": "They said: \"We miss the great beaker of the king; for him who produces it, is (the reward of) a camel load; I will be bound by it.\""
+    },
+    {
+      "id": 73,
+      "text": "قَالُوا۟ تَٱللَّهِ لَقَدْ عَلِمْتُم مَّا جِئْنَا لِنُفْسِدَ فِى ٱلْأَرْضِ وَمَا كُنَّا سَٰرِقِينَ",
+      "transliteration": "কা-লূতাল্লা-হি লাকাদ ‘আলিমতুমমা-জি’না-লিনুফছিদা ফিল আরদিওয়ামা-কুন্না-ছা রিকীন।",
+      "translation_bn": "তারা বললঃ আল্লাহর কসম, তোমরা তো জান, আমরা অনর্থ ঘটাতে এদেশে আসিনি এবং আমরা কখনও চোর ছিলাম না।",
+      "translation_en": "(The brothers) said: \"By Allah! well ye know that we came not to make mischief in the land, and we are no thieves!\""
+    },
+    {
+      "id": 74,
+      "text": "قَالُوا۟ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمْ كَٰذِبِينَ",
+      "transliteration": "কা-লূফামা-জাঝাউহূ ইন কুনতুম কা-যিবীন।",
+      "translation_bn": "তারা বললঃ যদি তোমরা মিথ্যাবাদী হও, তবে যে, চুরি করেছে তার কি শাস্তি?",
+      "translation_en": "(The Egyptians) said: \"What then shall be the penalty of this, if ye are (proved) to have lied?\""
+    },
+    {
+      "id": 75,
+      "text": "قَالُوا۟ جَزَٰٓؤُهُۥ مَن وُجِدَ فِى رَحْلِهِۦ فَهُوَ جَزَٰٓؤُهُۥ كَذَٰلِكَ نَجْزِى ٱلظَّٰلِمِينَ",
+      "transliteration": "কা-লূজাঝাউহূমাওঁউজিদা ফী রাহলিহী ফাহুওয়া জাঝাউহূ কাযা-লিকা নাজঝিজ্জা-লিমীন।",
+      "translation_bn": "তারা বললঃ এর শাস্তি এই যে, যার রসদপত্র থেকে তা পাওয়া যাবে, এর প্রতিদানে সে দাসত্বে যাবে। আমরা যালেমদেরকে এভাবেই শাস্তি দেই।",
+      "translation_en": "They said: \"The penalty should be that he in whose saddle-bag it is found, should be held (as bondman) to atone for the (crime). Thus it is we punish the wrong-doers!\""
+    },
+    {
+      "id": 76,
+      "text": "فَبَدَأَ بِأَوْعِيَتِهِمْ قَبْلَ وِعَآءِ أَخِيهِ ثُمَّ ٱسْتَخْرَجَهَا مِن وِعَآءِ أَخِيهِ كَذَٰلِكَ كِدْنَا لِيُوسُفَ مَا كَانَ لِيَأْخُذَ أَخَاهُ فِى دِينِ ٱلْمَلِكِ إِلَّآ أَن يَشَآءَ ٱللَّهُ نَرْفَعُ دَرَجَٰتٍ مَّن نَّشَآءُ وَفَوْقَ كُلِّ ذِى عِلْمٍ عَلِيمٌ",
+      "transliteration": "ফাবাদাআ বিআও‘ইইয়াতিহিম কাবলা বি‘আই আখীহি ছুম্মাছতাখরাজাহা-মিওঁ বি‘আই আখীহি কাযা-লিকা কিদনা-লিইঊছুফা মা-কা-না লিইয়া‘খুযা আখাহু ফী দীনিল মালিকি ইল্লা আইঁ ইয়াশাআল্লা-হু নারফা‘উ দারাজা-তিম মান্নাশাউ ওয়া ফাওকা কুল্লি যী ‘ইলমিন ‘আলীম।",
+      "translation_bn": "অতঃপর ইউসুফ আপন ভাইদের থলের পূর্বে তাদের থলে তল্লাশী শুরু করলেন। অবশেষে সেই পাত্র আপন ভাইয়ের থলের মধ্য থেকে বের করলেন। এমনিভাবে আমি ইউসুফকে কৌশল শিক্ষা দিয়েছিলাম। সে বাদশাহর আইনে আপন ভাইকে কখনও দাসত্বে দিতে পারত না, কিু栦#2438;ল্লাহ যদি ইচ্ছা করেন। আমি যাকে ইচ্ছা, মর্যাদায় উন্নীত করি এবং প্রত্যেক জ্ঞানীর উপরে আছে অধিকতর এক জ্ঞানীজন।",
+      "translation_en": "So he began (the search) with their baggage, before (he came to) the baggage of his brother: at length he brought it out of his brother's baggage. Thus did We plan for Joseph. He could not take his brother by the law of the king except that Allah willed it (so). We raise to degrees (of wisdom) whom We please: but over all endued with knowledge is one, the All-Knowing."
+    },
+    {
+      "id": 77,
+      "text": "قَالُوٓا۟ إِن يَسْرِقْ فَقَدْ سَرَقَ أَخٌ لَّهُۥ مِن قَبْلُ فَأَسَرَّهَا يُوسُفُ فِى نَفْسِهِۦ وَلَمْ يُبْدِهَا لَهُمْ قَالَ أَنتُمْ شَرٌّ مَّكَانًا وَٱللَّهُ أَعْلَمُ بِمَا تَصِفُونَ",
+      "transliteration": "কা-লূ ইয়ঁইয়াছরিকফাকাদ ছারাকা আখূল্লাহূমিন কাবলু ফাআছাররাহা-ইঊছুফুফী নাফছিহী ওয়ালাম ইউবদিহা-লাহুম কা-লা আনতুম শাররুম মা-কা-নাওঁ- ওয়াল্লা-হু আ‘লামুবিমা-তাসিফূন।",
+      "translation_bn": "তারা বলতে লাগলঃ যদি সে চুরি করে থাকে, তবে তার এক ভাইও ইতিপূর্বে চুরি করেছিল। তখন ইউসুফ প্রকৃত ব্যাপার নিজের মনে রাখলেন এবং তাদেরকে জানালেন না। মনে মনে বললেনঃ তোমরা লোক হিসাবে নিতান্ত মন্দ এবং আল্লাহ খুব জ্ঞাত রয়েছেন, যা তোমরা বর্ণনা করছ;",
+      "translation_en": "They said: \"If he steals, there was a brother of his who did steal before (him).\" But these things did Joseph keep locked in his heart, revealing not the secrets to them. He (simply) said (to himself): \"Ye are the worse situated; and Allah knoweth best the truth of what ye assert!\""
+    },
+    {
+      "id": 78,
+      "text": "قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ إِنَّ لَهُۥٓ أَبًا شَيْخًا كَبِيرًا فَخُذْ أَحَدَنَا مَكَانَهُۥٓ إِنَّا نَرَىٰكَ مِنَ ٱلْمُحْسِنِينَ",
+      "transliteration": "কা-লূইয়া আইয়ুহাল ‘আঝীঝুইন্না লাহূ আবান শাইখান কাবীরান ফাখুযআহাদানা-মাকানাহূ ইন্না-নারা-কা মিনাল মুহছিনীন।",
+      "translation_bn": "তারা বলতে লাগলঃ হে আযীয, তার পিতা আছেন, যিনি খুবই বৃদ্ধ বয়স্ক। সুতরাং আপনি আমাদের একজনকে তার বদলে রেখে দিন। আমরা আপনাকে অনুগ্রহশীল ব্যক্তিদের একজন দেখতে পাচ্ছি।",
+      "translation_en": "They said: \"O exalted one! Behold! he has a father, aged and venerable, (who will grieve for him); so take one of us in his place; for we see that thou art (gracious) in doing good.\""
+    },
+    {
+      "id": 79,
+      "text": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأْخُذَ إِلَّا مَن وَجَدْنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذًا لَّظَٰلِمُونَ",
+      "transliteration": "কা-লা মা‘আযাল্লা-হি আন না’খুযা ইল্লা-মাওঁ ওয়াজাদনা-মাতা-‘আনা-‘ইনদাহূ ইন্না ইযাল লাজা-লিমূন।",
+      "translation_bn": "তিনি বললেনঃ যার কাছে আমরা আমাদের মাল পেয়েছি, তাকে ছাড়া আর কাউকে গ্রেফতার করা থেকে আল্লাহ আমাদের রক্ষা করুন। তা হলে তো আমরা নিশ্চিতই অন্যায়কারী হয়ে যাব।",
+      "translation_en": "He said: \"Allah forbid that we take other than him with whom we found our property: indeed (if we did so), we should be acting wrongfully."
+    },
+    {
+      "id": 80,
+      "text": "فَلَمَّا ٱسْتَيْـَٔسُوا۟ مِنْهُ خَلَصُوا۟ نَجِيًّا قَالَ كَبِيرُهُمْ أَلَمْ تَعْلَمُوٓا۟ أَنَّ أَبَاكُمْ قَدْ أَخَذَ عَلَيْكُم مَّوْثِقًا مِّنَ ٱللَّهِ وَمِن قَبْلُ مَا فَرَّطتُمْ فِى يُوسُفَ فَلَنْ أَبْرَحَ ٱلْأَرْضَ حَتَّىٰ يَأْذَنَ لِىٓ أَبِىٓ أَوْ يَحْكُمَ ٱللَّهُ لِى وَهُوَ خَيْرُ ٱلْحَٰكِمِينَ",
+      "transliteration": "ফালাম্মাছ তাইআছূমিনহু খালাসূনাজিইইয়ান কা-লা কাবীরুহুম আলাম তা‘লামূ আন্না আবা-কুম কাদ আখাযা ‘আলাইকুম মাওছিকাম মিনাল্লা-হি ওয়া মিন কাবলুমাফাররাততুম ফী ইঊছুফা ফালান আবরাহাল আরদা হাত্তা-ইয়া’যানা লীআবী আও ইয়াহকুমাল্লা-হু লী ওয়া হুওয়া খাইরুল হা-কিমীন।",
+      "translation_bn": "অতঃপর যখন তারা তাঁর কাছ থেকে নিরাশ হয়ে গেল, তখন পরামর্শের জন্যে এখানে বসল। তাদের জ্যেষ্ঠ ভাই বললঃ তোমরা কি জান না যে, পিতা তোমাদের কাছ থেকে আল্লাহর নামে অঙ্গীকার নিয়েছেন এবং পূর্বে ইউসুফের ব্যাপারেও তোমরা অন্যায় করেছো? অতএব আমি তো কিছুতেই এদেশ ত্যাগ করব না, যে পর্যন্ত না পিতা আমাকে আদেশ দেন অথবা আল্লাহ আমার পক্ষে কোন ব্যবস্থা করে দেন। তিনিই সর্বোত্তম ব্যবস্থাপক।",
+      "translation_en": "Now when they saw no hope of his (yielding), they held a conference in private. The leader among them said: \"Know ye not that your father did take an oath from you in Allah's name, and how, before this, ye did fail in your duty with Joseph? Therefore will I not leave this land until my father permits me, or Allah commands me; and He is the best to command."
+    },
+    {
+      "id": 81,
+      "text": "ٱرْجِعُوٓا۟ إِلَىٰٓ أَبِيكُمْ فَقُولُوا۟ يَٰٓأَبَانَآ إِنَّ ٱبْنَكَ سَرَقَ وَمَا شَهِدْنَآ إِلَّا بِمَا عَلِمْنَا وَمَا كُنَّا لِلْغَيْبِ حَٰفِظِينَ",
+      "transliteration": "ইরজি‘ঊ ইলা আবীকুম ফাকূলূইয়া আবা-নাইন্নাবনাকা ছারাকা ওয়ামাশাহিদনা ইল্লা-বিমা-‘আলিমনা-ওয়ামা-কুন্না-লিলগাইবি হা-ফিজীন।",
+      "translation_bn": "তোমরা তোমাদের পিতার কাছে ফিরে যাও এবং বলঃ পিতা আপনার ছেলে চুরি করেছে। আমরা তাই বলে দিলাম, যা আমাদের জানা ছিল এবং অদৃশ্য বিষয়ের প্রতি আমাদের লক্ষ্য ছিল না।",
+      "translation_en": "\"Turn ye back to your father, and say, 'O our father! behold! thy son committed theft! we bear witness only to what we know, and we could not well guard against the unseen!"
+    },
+    {
+      "id": 82,
+      "text": "وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا فِيهَا وَٱلْعِيرَ ٱلَّتِىٓ أَقْبَلْنَا فِيهَا وَإِنَّا لَصَٰدِقُونَ",
+      "transliteration": "ওয়াছ আলিল কারয়াতাল্লাতী কুন্না-ফীহা-ওয়াল ‘ঈরাল্লাতী আকবালনা-ফীহা- ওয়া ইন্না-লাসা-দিকূন।",
+      "translation_bn": "জিজ্ঞেস করুন ঐ জনপদের লোকদেরকে যেখানে আমরা ছিলাম এবং ঐ কাফেলাকে, যাদের সাথে আমরা এসেছি। নিশ্চিতই আমরা সত্য বলছি।",
+      "translation_en": "\"'Ask at the town where we have been and the caravan in which we returned, and (you will find) we are indeed telling the truth.'\""
+    },
+    {
+      "id": 83,
+      "text": "قَالَ بَلْ سَوَّلَتْ لَكُمْ أَنفُسُكُمْ أَمْرًا فَصَبْرٌ جَمِيلٌ عَسَى ٱللَّهُ أَن يَأْتِيَنِى بِهِمْ جَمِيعًا إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "transliteration": "কা-লা বাল ছাওওয়ালাত লাকুম আনফুছুকুম আমরান ফাসাবরুন জামীলুন ‘আছাল্লা-হু আইঁ ইয়া’তিয়ানী বিহিম জামী‘আন ইন্নাহূহুওয়াল ‘আলীমুল হাকীম।",
+      "translation_bn": "তিনি বললেনঃ কিছুই না, তোমরা মনগড়া একটি কথা নিয়েই এসেছ। এখন ধৈর্য্যধারণই উত্তম। সম্ভবতঃ আল্লাহ তাদের সবাইকে একসঙ্গে আমার কাছে নিয়ে আসবেন তিনি সুবিজ্ঞ, প্রজ্ঞাময়।",
+      "translation_en": "Jacob said: \"Nay, but ye have yourselves contrived a story (good enough) for you. So patience is most fitting (for me). Maybe Allah will bring them (back) all to me (in the end). For He is indeed full of knowledge and wisdom.\""
+    },
+    {
+      "id": 84,
+      "text": "وَتَوَلَّىٰ عَنْهُمْ وَقَالَ يَٰٓأَسَفَىٰ عَلَىٰ يُوسُفَ وَٱبْيَضَّتْ عَيْنَاهُ مِنَ ٱلْحُزْنِ فَهُوَ كَظِيمٌ",
+      "transliteration": "ওয়া তাওয়াল্লা-‘আনহুম ওয়া কা-লা ইয়াআছাফা-‘আলা-ইঊছুফা ওয়াবইয়াদ্দাত ‘আইনা-হু মিনাল হুঝনি ফাহুওয়া কাজীম।",
+      "translation_bn": "এবং তাদের দিক থেকে তিনি মুখ ফিরিয়ে নিলেন এবং বললেনঃ হায় আফসোস ইউসুফের জন্যে। এবং দুঃখে তাঁর চক্ষুদ্বয় সাদা হয়ে গেল। এবং অসহনীয় মনস্তাপে তিনি ছিলেন ক্লিষ্ট।",
+      "translation_en": "And he turned away from them, and said: \"How great is my grief for Joseph!\" And his eyes became white with sorrow, and he fell into silent melancholy."
+    },
+    {
+      "id": 85,
+      "text": "قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَٰلِكِينَ",
+      "transliteration": "কা-লূতাল্লা-হি তাফতাউ তাযকুরু ইঊছুফা হাত্তা-তাকূনা হারাদান আও তাকূনা মিনাল হা-লিকীন।",
+      "translation_bn": "তারা বলতে লাগলঃ আল্লাহর কসম আপনি তো ইউসুফের স্মরণ থেকে নিবৃত হবেন না, যে পর্যন্ত মরণপন্ন না হয়ে যান কিংবা মৃতবরণ না করেন",
+      "translation_en": "They said: \"By Allah! (never) wilt thou cease to remember Joseph until thou reach the last extremity of illness, or until thou die!\""
+    },
+    {
+      "id": 86,
+      "text": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "transliteration": "কা-লা ইন্নামাআশকূবাছছীওয়াহুঝনীইলাল্লা-হি ওয়া আ‘লামুমিনাল্লা-হি মা-লাতা‘লামূন।",
+      "translation_bn": "তিনি বললেনঃ আমি তো আমার দুঃখ ও অস্থিরতা আল্লাহর সমীপেই নিবেদন করছি এবং আল্লাহর পক্ষ থেকে আমি যা জানি, তা তোমরা জান না।",
+      "translation_en": "He said: \"I only complain of my distraction and anguish to Allah, and I know from Allah that which ye know not..."
+    },
+    {
+      "id": 87,
+      "text": "يَٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَٰفِرُونَ",
+      "transliteration": "ইয়া-বানিইইয়াযহাবূফাতাহাছছাছূমিইঁ ইঊছুফা ওয়া আখীহি ওয়ালা-তাইআছূমির রাওহিল্লা-হি; ইন্নাহূলা-ইয়াইআছুমিররাওহিল্লা-হি ইল্লাল কাওমুল কা-ফিরূন।",
+      "translation_bn": "বৎসগণ! যাও, ইউসুফ ও তার ভাইকে তালাশ কর এবং আল্লাহর রহমত থেকে নিরাশ হয়ো না। নিশ্চয় আল্লাহর রহমত থেকে কাফের সম্প্রদায়, ব্যতীত অন্য কেউ নিরাশ হয় না।",
+      "translation_en": "\"O my sons! go ye and enquire about Joseph and his brother, and never give up hope of Allah's Soothing Mercy: truly no one despairs of Allah's Soothing Mercy, except those who have no faith.\""
+    },
+    {
+      "id": 88,
+      "text": "فَلَمَّا دَخَلُوا۟ عَلَيْهِ قَالُوا۟ يَٰٓأَيُّهَا ٱلْعَزِيزُ مَسَّنَا وَأَهْلَنَا ٱلضُّرُّ وَجِئْنَا بِبِضَٰعَةٍ مُّزْجَىٰةٍ فَأَوْفِ لَنَا ٱلْكَيْلَ وَتَصَدَّقْ عَلَيْنَآ إِنَّ ٱللَّهَ يَجْزِى ٱلْمُتَصَدِّقِينَ",
+      "transliteration": "ফালাম্মা-দাখালূ‘আলাইহি কা-লূইয়াআইয়ুহাল ‘আঝীঝুমাছছানা-ওয়াআহলানাদদুররু ওয়া জি’না-ব্বিদা-‘আতিম মুঝজা-তিন ফাআওফি লানাল কাইলা ওয়া তাসাদ্দাক ‘আলাইনা- ইন্নাল্লা-হা ইয়াজঝিল মুতাসাদ্দিকীন।",
+      "translation_bn": "অতঃপর যখন তারা ইউসুফের কাছে পৌঁছল তখন বললঃ হে আযীয, আমরা ও আমাদের পরিবারবর্গ কষ্টের সম্মুখীন হয়ে পড়েছি এবং আমরা অপর্যাপ্ত পুঁজি নিয়ে এসেছি। অতএব আপনি আমাদের পুরোপুরি বরাদ্দ দিন এবং আমাদের কে দান করুন। আল্লাহ দাতাদেরকে প্রতিদান দিয়ে থাকেন",
+      "translation_en": "Then, when they came (back) into (Joseph's) presence they said: \"O exalted one! distress has seized us and our family: we have (now) brought but scanty capital: so pay us full measure, (we pray thee), and treat it as charity to us: for Allah doth reward the charitable.\""
+    },
+    {
+      "id": 89,
+      "text": "قَالَ هَلْ عَلِمْتُمْ مَا فَعَلْتُمْ بِيُوسُفَ وَأَخِيهِ إِذْ أَنْتُمْ جَاهِلُونَ",
+      "transliteration": "কা-লা হাল ‘আলিমতুম মা-ফা‘আলতুম বিইঊছুফা ওয়া আখীহি ইযআনতুম জা-হিলূন।",
+      "translation_bn": "ইউসুফ বললেনঃ তোমাদের জানা আছে কি, যা তোমরা ইউসুফ ও তার ভাইয়ের সাথে করেছ, যখন তোমরা অপরিণামদর্শী ছিলে?",
+      "translation_en": "He said: \"Know ye how ye dealt with Joseph and his brother, not knowing (what ye were doing)?\""
+    },
+    {
+      "id": 90,
+      "text": "قَالُوٓا۟ أَءِنَّكَ لَأَنتَ يُوسُفُ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِى قَدْ مَنَّ ٱللَّهُ عَلَيْنَآ إِنَّهُۥ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ",
+      "transliteration": "কা-লূআ ইন্নাকা লাআনতা ইঊছুফু  কা-লা আনা ইঊছুফুওয়া হা-যাআখী  কাদ মান্নাল্লা-হু ‘আলাইনা- ইন্নাহূমাইঁ ইয়াত্তাকিওয়া ইয়াসবির ফাইন্নাল্লা-হা লা-ইউদী‘উ আজরাল মুহছিনীন।",
+      "translation_bn": "তারা বলল, তবে কি তুমিই ইউসুফ! বললেনঃ আমিই ইউসুফ এবং এ হল আমার সহোদর ভাই। আল্লাহ আমাদের প্রতি অনুগ্রহ করেছেন। নিশ্চয় যে তাকওয়া অবলম্বন করে এবং সবর করে, আল্লাহ এহেন সৎকর্মশীলদের প্রতিদান বিনষ্ট করেন না",
+      "translation_en": "They said: \"Art thou indeed Joseph?\" He said, \"I am Joseph, and this is my brother: Allah has indeed been gracious to us (all): behold, he that is righteous and patient,- never will Allah suffer the reward to be lost, of those who do right.\""
+    },
+    {
+      "id": 91,
+      "text": "قَالُوا۟ تَٱللَّهِ لَقَدْ ءَاثَرَكَ ٱللَّهُ عَلَيْنَا وَإِن كُنَّا لَخَٰطِـِٔينَ",
+      "transliteration": "কা-লূতাল্লা-হি লাকাদ আ-ছারাকাল্লা-হু ‘আলাইনা-ওয়া ইন কুন্না-লাখা-তিঈন।",
+      "translation_bn": "তারা বললঃ আল্লাহর কসম, আমাদের চাইতে আল্লাহ তোমাকে পছন্দ করেছেন এবং আমরা অবশ্যই অপরাধী ছিলাম।",
+      "translation_en": "They said: \"By Allah! indeed has Allah preferred thee above us, and we certainly have been guilty of sin!\""
+    },
+    {
+      "id": 92,
+      "text": "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ ٱلْيَوْمَ يَغْفِرُ ٱللَّهُ لَكُمْ وَهُوَ أَرْحَمُ ٱلرَّٰحِمِينَ",
+      "transliteration": "কা-লা লা-তাছরীবা ‘আলাইকুমুল ইয়াওমা ইয়াগফিরুল্লা-হু লাকুম  ওয়া হুওয়া আরহামুর রা-হিমীন।",
+      "translation_bn": "বললেন, আজ তোমাদের বিরুদ্ধে কোন অভিযোগ নেই। আল্লাহ তোমাদের কে ক্ষমা করুন। তিনি সব মেহেরবানদের চাইতে অধিক মেহেরবান।",
+      "translation_en": "He said: \"This day let no reproach be (cast) on you: Allah will forgive you, and He is the Most Merciful of those who show mercy!"
+    },
+    {
+      "id": 93,
+      "text": "ٱذْهَبُوا۟ بِقَمِيصِى هَٰذَا فَأَلْقُوهُ عَلَىٰ وَجْهِ أَبِى يَأْتِ بَصِيرًا وَأْتُونِى بِأَهْلِكُمْ أَجْمَعِينَ",
+      "transliteration": "ইযহাবূবিকামীসী হা-যা-ফাআলকূহূ‘আলা-ওয়াজহি আবী ইয়া’তি বাসীরা- ওয়া’তূনী বিআহলিকুম আজমা‘ঈন।",
+      "translation_bn": "তোমরা আমার এ জামাটি নিয়ে যাও। এটি আমার পিতার মুখমন্ডলের উপর রেখে দিও, এতে তাঁর দৃষ্টি শক্তি ফিরে আসবে। আর তোমাদের পরিবারবর্গের সবাইকে আমার কাছে নিয়ে এস।",
+      "translation_en": "\"Go with this my shirt, and cast it over the face of my father: he will come to see (clearly). Then come ye (here) to me together with all your family.\""
+    },
+    {
+      "id": 94,
+      "text": "وَلَمَّا فَصَلَتِ ٱلْعِيرُ قَالَ أَبُوهُمْ إِنِّى لَأَجِدُ رِيحَ يُوسُفَ لَوْلَآ أَن تُفَنِّدُونِ",
+      "transliteration": "ওয়া লাম্মা-ফাসালাতিল ‘ঈরু কা-লা আবূহুম ইন্নী লাআজিদুরীহাইঊছুফা লাওলাআন তুফান্নিদূন।",
+      "translation_bn": "যখন কাফেলা রওয়ানা হল, তখন তাদের পিতা বললেনঃ যদি তোমরা আমাকে অপ্রকৃতিস্থ না বল, তবে বলিঃ আমি নিশ্চিতরূপেই ইউসুফের গন্ধ পাচ্ছি।",
+      "translation_en": "When the caravan left (Egypt), their father said: \"I do indeed scent the presence of Joseph: Nay, think me not a dotard.\""
+    },
+    {
+      "id": 95,
+      "text": "قَالُوا۟ تَٱللَّهِ إِنَّكَ لَفِى ضَلَٰلِكَ ٱلْقَدِيمِ",
+      "transliteration": "কা-লূতাল্লা-হি ইন্নাকা লাফী দালা-লিকাল কাদীম।",
+      "translation_bn": "লোকেরা বললঃ আল্লাহর কসম, আপনি তো সেই পুরানো ভ্রান্তিতেই পড়ে আছেন।",
+      "translation_en": "They said: \"By Allah! truly thou art in thine old wandering mind.\""
+    },
+    {
+      "id": 96,
+      "text": "فَلَمَّآ أَن جَآءَ ٱلْبَشِيرُ أَلْقَىٰهُ عَلَىٰ وَجْهِهِۦ فَٱرْتَدَّ بَصِيرًا قَالَ أَلَمْ أَقُل لَّكُمْ إِنِّىٓ أَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+      "transliteration": "ফালাম্মা আন জাআল বাশীরু আলকা-হু ‘আলা-ওয়াজহিহী ফারতাদ্দা বাসীরান কালা আলাম আকুল্লাকুম ইন্নীআ‘লামুমিনাল্লা-হি মা-লা-তা‘লামূন।",
+      "translation_bn": "অতঃপর যখন সুসংবাদদাতা পৌঁছল, সে জামাটি তাঁর মুখে রাখল। অমনি তিনি দৃষ্টি শক্তি ফিরে পেলেন। বললেনঃ আমি কি তোমাদেরকে বলিনি যে, আমি আল্লাহর পক্ষ থেকে যা জানি তোমরা তা জান না?",
+      "translation_en": "Then when the bearer of the good news came, He cast (the shirt) over his face, and he forthwith regained clear sight. He said: \"Did I not say to you, 'I know from Allah that which ye know not?'\""
+    },
+    {
+      "id": 97,
+      "text": "قَالُوا۟ يَٰٓأَبَانَا ٱسْتَغْفِرْ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ",
+      "transliteration": "কা-লূইয়াআবা-নাছতাগফিরলানা-যুনূবানাইন্না-কুন্না-খা-তিঈন।",
+      "translation_bn": "তারা বললঃ পিতা আমাদের অপরাধ ক্ষমা করান। নিশ্চয় আমরা অপরাধী ছিলাম।",
+      "translation_en": "They said: \"O our father! ask for us forgiveness for our sins, for we were truly at fault.\""
+    },
+    {
+      "id": 98,
+      "text": "قَالَ سَوْفَ أَسْتَغْفِرُ لَكُمْ رَبِّىٓ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ",
+      "transliteration": "কা-লা ছাওফা আছতাগফিরু লাকুম রাববী ইন্নাহূহুওয়াল গাফূরুুর রাহীম।",
+      "translation_bn": "বললেন, সত্বরই আমি পালনকর্তার কাছে তোমাদের জন্য ক্ষমা চাইব। নিশ্চয় তিনি ক্ষমাশীল, দয়ালূ।",
+      "translation_en": "He said: \"Soon will I ask my Lord for forgiveness for you: for he is indeed Oft-Forgiving, Most Merciful.\""
+    },
+    {
+      "id": 99,
+      "text": "فَلَمَّا دَخَلُوا۟ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ وَقَالَ ٱدْخُلُوا۟ مِصْرَ إِن شَآءَ ٱللَّهُ ءَامِنِينَ",
+      "transliteration": "ফালাম্মা-দাখালূ‘আলা-ইঊছুফা আ-ওয়াইলাইহি আবাওয়াইহি ওয়া কা-লাদ খুলূমিসরা ইন শাআল্লা-হু আ-মিনীন।",
+      "translation_bn": "অতঃপর যখন তারা ইউসুফের কাছে পৌঁছল, তখন ইউসুফ পিতা-মাতাকে নিজের কাছে জায়গা দিলেন এবং বললেনঃ আল্লাহ চাহেন তো শান্তি চিত্তে মিসরে প্রবেশ করুন।",
+      "translation_en": "Then when they entered the presence of Joseph, he provided a home for his parents with himself, and said: \"Enter ye Egypt (all) in safety if it please Allah.\""
+    },
+    {
+      "id": 100,
+      "text": "وَرَفَعَ أَبَوَيْهِ عَلَى ٱلْعَرْشِ وَخَرُّوا۟ لَهُۥ سُجَّدًا وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأْوِيلُ رُءْيَٰىَ مِن قَبْلُ قَدْ جَعَلَهَا رَبِّى حَقًّا وَقَدْ أَحْسَنَ بِىٓ إِذْ أَخْرَجَنِى مِنَ ٱلسِّجْنِ وَجَآءَ بِكُم مِّنَ ٱلْبَدْوِ مِنۢ بَعْدِ أَن نَّزَغَ ٱلشَّيْطَٰنُ بَيْنِى وَبَيْنَ إِخْوَتِىٓ إِنَّ رَبِّى لَطِيفٌ لِّمَا يَشَآءُ إِنَّهُۥ هُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "transliteration": "ওয়া রাফা‘আ আবাওয়াইহি ‘আলাল ‘আরশি ওয়া খাররূলাহূছুজ্জদাওঁ ওয়া কা-লা ইয়াআবাতি হা-যা-তা’বীলুরু‘ইয়া-ইয়া মিন কাবলু  কাদ জা‘আলাহা-রাববী হাক্কাওঁ ওয়া কাদ আহছানা বী ইযআখরাজানী মিনাছছিজনি ওয়া জাআ বিকুম মিনাল বাদবিমিম বা‘দি আন নাঝাগাশশাইতা-নুবাইনী ওয়া বাইনা ইখওয়াতী ইন্না রাববী লাতীফুল লিমা-ইয়াশাউ ইন্নাহূহুওয়াল ‘আলীমুল হাকীম।",
+      "translation_bn": "এবং তিনি পিতা-মাতাকে সিংহাসনের উপর বসালেন এবং তারা সবাই তাঁর সামনে সেজদাবনত হল। তিনি বললেনঃ পিতা এ হচ্ছে আমার ইতিপূর্বেকার স্বপ্নের বর্ণনা আমার পালনকর্তা একে সত্যে পরিণত করেছেন এবং তিনি আমার প্রতি অনুগ্রহ করেছেন। আমাকে জেল থেকে বের করেছেন এবং আপনাদেরকে গ্রাম থেকে নিয়ে এসেছেন, শয়তান আমার ও আমার ভাইদের মধ্যে কলহ সৃষ্টি করে দেয়ার পর। আমার পালনকর্তা যা চান, কৌশলে সম্পন্ন করেন। নিশ্চয় তিনি বিজ্ঞ, প্রজ্ঞাময়।",
+      "translation_en": "And he raised his parents high on the throne (of dignity), and they fell down in prostration, (all) before him. He said: \"O my father! this is the fulfilment of my vision of old! Allah hath made it come true! He was indeed good to me when He took me out of prison and brought you (all here) out of the desert, (even) after Satan had sown enmity between me and my brothers. Verily my Lord understandeth best the mysteries of all that He planneth to do, for verily He is full of knowledge and wisdom."
+    },
+    {
+      "id": 101,
+      "text": "رَبِّ قَدْ ءَاتَيْتَنِى مِنَ ٱلْمُلْكِ وَعَلَّمْتَنِى مِن تَأْوِيلِ ٱلْأَحَادِيثِ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ أَنتَ وَلِىِّۦ فِى ٱلدُّنْيَا وَٱلْءَاخِرَةِ تَوَفَّنِى مُسْلِمًا وَأَلْحِقْنِى بِٱلصَّٰلِحِينَ",
+      "transliteration": "রাব্বি কাদ আ-তাইতানী মিনাল মুলকি ওয়া ‘আল্লামতানী মিন তা’বীলিল আহা-দীছি ফা-তিরাছছামা-ওয়া-তি ওয়াল আরদি আনতা ওয়ালিইইয়ী ফিদদুনইয়া-ওয়াল আখিরাতি তাওয়াফফানী মুছলিমাওঁ ওয়া আলহিকনী বিসসা-লিহীন।",
+      "translation_bn": "হে পালনকর্তা আপনি আমাকে রাষ্ট্রক্ষমতাও দান করেছেন এবং আমাকে বিভিন্ন তাৎপর্য সহ ব্যাখ্যা করার বিদ্যা শিখিয়ে দিয়েছেন। হে নভোমন্ডল ও ভূ-মন্ডলের স্রষ্টা, আপনিই আমার কার্যনির্বাহী ইহকাল ও পরকালে। আমাকে ইসলামের উপর মৃত্যুদান করুন এবং আমাকে স্বজনদের সাথে মিলিত করুন।",
+      "translation_en": "\"O my Lord! Thou hast indeed bestowed on me some power, and taught me something of the interpretation of dreams and events,- O Thou Creator of the heavens and the earth! Thou art my Protector in this world and in the Hereafter. Take Thou my soul (at death) as one submitting to Thy will (as a Muslim), and unite me with the righteous.\""
+    },
+    {
+      "id": 102,
+      "text": "ذَٰلِكَ مِنْ أَنۢبَآءِ ٱلْغَيْبِ نُوحِيهِ إِلَيْكَ وَمَا كُنتَ لَدَيْهِمْ إِذْ أَجْمَعُوٓا۟ أَمْرَهُمْ وَهُمْ يَمْكُرُونَ",
+      "transliteration": "যা-লিকা মিন আমবাইল গাইবি নূহীহি ইলাইকা ওয়ামা-কুনতা লাদাইহিম ইয আজমা‘উআমরাহুম ওয়া হুম ইয়ামকুরূন।",
+      "translation_bn": "এগুলো অদৃশ্যের খবর, আমি আপনার কাছে প্রেরণ করি। আপনি তাদের কাছে ছিলেন না, যখন তারা স্বীয় কাজ সাব্যস্ত করছিল এবং চক্রান্ত করছিল।",
+      "translation_en": "Such is one of the stories of what happened unseen, which We reveal by inspiration unto thee; nor wast thou (present) with them then when they concerted their plans together in the process of weaving their plots."
+    },
+    {
+      "id": 103,
+      "text": "وَمَآ أَكْثَرُ ٱلنَّاسِ وَلَوْ حَرَصْتَ بِمُؤْمِنِينَ",
+      "transliteration": "ওয়ামা আকছারুন্না-ছি ওয়ালাও হারাসতা বিমু’মিনীন।",
+      "translation_bn": "আপনি যতই চান, অধিকাংশ লোক বিশ্বাসকারী নয়।",
+      "translation_en": "Yet no faith will the greater part of mankind have, however ardently thou dost desire it."
+    },
+    {
+      "id": 104,
+      "text": "وَمَا تَسْـَٔلُهُمْ عَلَيْهِ مِنْ أَجْرٍ إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَٰلَمِينَ",
+      "transliteration": "ওয়ামা তাছআলুহুম ‘আলাইহি মিন আজরিন ইন হুওয়া ইল্লা-যিকরুল লিল‘আ-লামীন।",
+      "translation_bn": "আপনি এর জন্যে তাদের কাছে কোন বিনিময় চান না। এটা তো সারা বিশ্বের জন্যে উপদেশ বৈ নয়।",
+      "translation_en": "And no reward dost thou ask of them for this: it is no less than a message for all creatures."
+    },
+    {
+      "id": 105,
+      "text": "وَكَأَيِّن مِّنْ ءَايَةٍ فِى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ يَمُرُّونَ عَلَيْهَا وَهُمْ عَنْهَا مُعْرِضُونَ",
+      "transliteration": "ওয়া কাআইয়িম মিন আ-য়াতিন ফিছছামা-ওয়া-তি ওয়াল আরদি ইয়ামুররূনা ‘আলাইহাওয়াহুম ‘আনহা-মু‘রিদূ ন।",
+      "translation_bn": "অনেক নিদর্শন রয়েছে নভোমন্ডলে ও ভু-মন্ডলে যেগুলোর উপর দিয়ে তারা পথ অতিক্রম করে এবং তারা এসবের দিকে মনোনিবেশ করে না।",
+      "translation_en": "And how many Signs in the heavens and the earth do they pass by? Yet they turn (their faces) away from them!"
+    },
+    {
+      "id": 106,
+      "text": "وَمَا يُؤْمِنُ أَكْثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشْرِكُونَ",
+      "transliteration": "ওয়ামা-ইউ’মিনুআকছারুহুম বিল্লা-হি ইল্লা-ওয়াহুম মুশরিকূন।",
+      "translation_bn": "অনেক মানুষ আল্লাহর প্রতি বিশ্বাস স্থাপন করে, কিন্তু সাথে সাথে শিরকও করে।",
+      "translation_en": "And most of them believe not in Allah without associating (other as partners) with Him!"
+    },
+    {
+      "id": 107,
+      "text": "أَفَأَمِنُوٓا۟ أَن تَأْتِيَهُمْ غَٰشِيَةٌ مِّنْ عَذَابِ ٱللَّهِ أَوْ تَأْتِيَهُمُ ٱلسَّاعَةُ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "transliteration": "আফাআমিনূআন তা’তিয়াহুম গা-শিয়াতুমমিন‘আযা-বিল্লা-হি আও তা‘তিয়াহুমুছছা-‘আতু বাগতাতাওঁ ওয়াহুম লা-ইয়াশ‘উরূন।",
+      "translation_bn": "তারা কি নির্ভীক হয়ে গেছে এ বিষয়ে যে, আল্লাহর আযাবের কোন বিপদ তাদেরকে আবৃত করে ফেলবে অথবা তাদের কাছে হঠাৎ কেয়ামত এসে যাবে, অথচ তারা টেরও পাবে না?",
+      "translation_en": "Do they then feel secure from the coming against them of the covering veil of the wrath of Allah,- or of the coming against them of the (final) Hour all of a sudden while they perceive not?"
+    },
+    {
+      "id": 108,
+      "text": "قُلْ هَٰذِهِۦ سَبِيلِىٓ أَدْعُوٓا۟ إِلَى ٱللَّهِ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِى وَسُبْحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلْمُشْرِكِينَ",
+      "transliteration": "কুল হা-যিহী ছাবীলীআদ‘ঊইলাল্লা-হি ‘আলা-বাসীরাতিন আনা ওয়া মানিত্তাবা‘আনী ওয়া ছুবহা-নাল্লা-হি ওয়ামাআনা মিনাল মুশরিকীন।",
+      "translation_bn": "বলে দিনঃ এই আমার পথ। আমি আল্লাহর দিকে বুঝে সুঝে দাওয়াত দেই আমি এবং আমার অনুসারীরা। আল্লাহ পবিত্র। আমি অংশীবাদীদের অন্তর্ভুক্ত নই।",
+      "translation_en": "Say thou: \"This is my way: I do invite unto Allah,- on evidence clear as the seeing with one's eyes,- I and whoever follows me. Glory to Allah! and never will I join gods with Allah!\""
+    },
+    {
+      "id": 109,
+      "text": "وَمَآ أَرْسَلْنَا مِن قَبْلِكَ إِلَّا رِجَالًا نُّوحِىٓ إِلَيْهِم مِّنْ أَهْلِ ٱلْقُرَىٰٓ أَفَلَمْ يَسِيرُوا۟ فِى ٱلْأَرْضِ فَيَنظُرُوا۟ كَيْفَ كَانَ عَٰقِبَةُ ٱلَّذِينَ مِن قَبْلِهِمْ وَلَدَارُ ٱلْءَاخِرَةِ خَيْرٌ لِّلَّذِينَ ٱتَّقَوْا۟ أَفَلَا تَعْقِلُونَ",
+      "transliteration": "ওয়ামাআরছালনা-মিন কাবলিকা ইল্লা-রিজা-লাননূহীইলাইহিম মিন আহলিল কুরা- আফালাম ইয়াছীরূফিল আরদিফাইয়ানজুরূ কাইফা কা-না ‘আ-কিবাতুল্লাযীনা মিন কাবলিহিম ওয়ালাদা-রুল আ-খিরাতি খাইরুল লিল্লাযী নাত্তাকাও আফালাতা‘কিলূন।",
+      "translation_bn": "আপনার পূর্বে আমি যতজনকে রসূল করে পাঠিয়েছি, তারা সবাই পুরুষই ছিল জনপদবাসীদের মধ্য থেকে। আমি তাঁদের কাছে ওহী প্রেরণ করতাম। তারা কি দেশ-বিদেশ ভ্রমণ করে না, যাতে দেখে নিত কিরূপ পরিণতি হয়েছে তাদের যারা পূর্বে ছিল ? সংযমকারীদের জন্যে পরকালের আবাসই উত্তম। তারা কি এখনও বোঝে না?",
+      "translation_en": "Nor did We send before thee (as messengers) any but men, whom we did inspire,- (men) living in human habitations. Do they not travel through the earth, and see what was the end of those before them? But the home of the hereafter is best, for those who do right. Will ye not then understand?"
+    },
+    {
+      "id": 110,
+      "text": "حَتَّىٰٓ إِذَا ٱسْتَيْـَٔسَ ٱلرُّسُلُ وَظَنُّوٓا۟ أَنَّهُمْ قَدْ كُذِبُوا۟ جَآءَهُمْ نَصْرُنَا فَنُجِّىَ مَن نَّشَآءُ وَلَا يُرَدُّ بَأْسُنَا عَنِ ٱلْقَوْمِ ٱلْمُجْرِمِينَ",
+      "transliteration": "হাত্তা ইযাছতাইআছাররুছুলুওয়া জান্নূআন্নাহুম কাদ কুযিবূজাআহুম নাসরুনা- ফানুজ্জিয়া মান্নাশাউ ওয়ালা-ইউরাদ্দুবা’ছুনা-‘আনিল কাওমিল মুজরিমীন।",
+      "translation_bn": "এমনকি যখন পয়গম্বরগণ নৈরাশ্যে পতিত হয়ে যেতেন, এমনকি এরূপ ধারণা করতে শুরু করতেন যে, তাদের অনুমান বুঝি মিথ্যায় পরিণত হওয়ার উপক্রম হয়েছিল, তখন তাদের কাছে আমার সাহায্য পৌছে। অতঃপর আমি যাদের চেয়েছি তারা উদ্ধার পেয়েছে। আমার শাস্তি অপরাধী সম্প্রদায় থেকে প্রতিহত হয় না।",
+      "translation_en": "(Respite will be granted) until, when the messengers give up hope (of their people) and (come to) think that they were treated as liars, there reaches them Our help, and those whom We will are delivered into safety. But never will be warded off our punishment from those who are in sin."
+    },
+    {
+      "id": 111,
+      "text": "لَقَدْ كَانَ فِى قَصَصِهِمْ عِبْرَةٌ لِّأُو۟لِى ٱلْأَلْبَٰبِ مَا كَانَ حَدِيثًا يُفْتَرَىٰ وَلَٰكِن تَصْدِيقَ ٱلَّذِى بَيْنَ يَدَيْهِ وَتَفْصِيلَ كُلِّ شَىْءٍ وَهُدًى وَرَحْمَةً لِّقَوْمٍ يُؤْمِنُونَ",
+      "transliteration": "লাকাদ কা-না ফী কাসাসিহিম ‘ইবরাতুল লিঊলিল আলবা-বি মা-কা-না হাদীছাইঁ ইউফতারা-ওয়া লা-কিন তাসদাকাল্লাযী বাইনা ইয়াদইহি ওয়া তাফসীলা কুল্লি শাইইওঁ ওয়া হুদাও ওয়া রাহমাতাল লিকাওমিইঁ ইউ’মিনূন।",
+      "translation_bn": "তাদের কাহিনীতে বুদ্ধিমানদের জন্য রয়েছে প্রচুর শিক্ষণীয় বিষয়, এটা কোন মনগড়া কথা নয়, কিন্তু যারা বিশ্বাস স্থাপন করে তাদের জন্যে পূর্বেকার কালামের সমর্থন এবং প্রত্যেক বস্তুর বিবরণ রহমত ও হেদায়েত।",
+      "translation_en": "There is, in their stories, instruction for men endued with understanding. It is not a tale invented, but a confirmation of what went before it,- a detailed exposition of all things, and a guide and a mercy to any such as believe."
+    }
+  ]
+}

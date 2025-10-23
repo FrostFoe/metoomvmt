@@ -76,7 +76,7 @@ export async function GET(request: NextRequest) {
 
     if (author) {
       filteredHadiths = filteredHadiths.filter((q) =>
-        q.author.toLowerCase().includes(author.toLowerCase())
+        q.author.toLowerCase().includes(author.toLowerCase()),
       );
     }
 
@@ -84,7 +84,7 @@ export async function GET(request: NextRequest) {
       filteredHadiths = filteredHadiths.filter(
         (q) =>
           q.text.toLowerCase().includes(search.toLowerCase()) ||
-          q.author.toLowerCase().includes(search.toLowerCase())
+          q.author.toLowerCase().includes(search.toLowerCase()),
       );
     }
 
@@ -104,7 +104,7 @@ export async function GET(request: NextRequest) {
       {
         error: `Failed to process request: ${(error as Error).message}`,
       },
-      500
+      500,
     );
   }
 }

@@ -1,0 +1,143 @@
+{
+  "id": 96,
+  "name": "العلق",
+  "transliteration": "Al-Alaq",
+  "translation": "The Clot",
+  "type": "Meccan",
+  "total_verses": 19,
+  "verses": [
+    {
+      "id": 1,
+      "text": "ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "transliteration": "ইকরা বিছমি রাব্বিকাল্লাযী খালাক।",
+      "translation_bn": "পাঠ করুন আপনার পালনকর্তার নামে যিনি সৃষ্টি করেছেন",
+      "translation_en": "Proclaim! (or read!) in the name of thy Lord and Cherisher, Who created-"
+    },
+    {
+      "id": 2,
+      "text": "خَلَقَ ٱلْإِنسَٰنَ مِنْ عَلَقٍ",
+      "transliteration": "খালাকাল ইনছা-না মিন ‘আলাক।",
+      "translation_bn": "সৃষ্টি করেছেন মানুষকে জমাট রক্ত থেকে।",
+      "translation_en": "Created man, out of a (mere) clot of congealed blood:"
+    },
+    {
+      "id": 3,
+      "text": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "transliteration": "ইকরা’ ওয়া রাব্বুকাল আকরাম",
+      "translation_bn": "পাঠ করুন, আপনার পালনকর্তা মহা দয়ালু,",
+      "translation_en": "Proclaim! And thy Lord is Most Bountiful,-"
+    },
+    {
+      "id": 4,
+      "text": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "transliteration": "অল্লাযী ‘আল্লামা বিলকালাম।",
+      "translation_bn": "যিনি কলমের সাহায্যে শিক্ষা দিয়েছেন,",
+      "translation_en": "He Who taught (the use of) the pen,-"
+    },
+    {
+      "id": 5,
+      "text": "عَلَّمَ ٱلْإِنسَٰنَ مَا لَمْ يَعْلَمْ",
+      "transliteration": "‘আল্লামাল ইনছা-না-মা-লাম ইয়া‘লাম।",
+      "translation_bn": "শিক্ষা দিয়েছেন মানুষকে যা সে জানত না।",
+      "translation_en": "Taught man that which he knew not."
+    },
+    {
+      "id": 6,
+      "text": "كَلَّآ إِنَّ ٱلْإِنسَٰنَ لَيَطْغَىٰٓ",
+      "transliteration": "কাল্লাইন্নাল ইনছা-না লাইয়াতগা।",
+      "translation_bn": "সত্যি সত্যি মানুষ সীমালংঘন করে,",
+      "translation_en": "Nay, but man doth transgress all bounds,"
+    },
+    {
+      "id": 7,
+      "text": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "transliteration": "আররাআ-হুছ তাগনা।",
+      "translation_bn": "এ কারণে যে, সে নিজেকে অভাবমুক্ত মনে করে।",
+      "translation_en": "In that he looketh upon himself as self-sufficient."
+    },
+    {
+      "id": 8,
+      "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "transliteration": "ইন্না ইলা-রাব্বিকার রুজ‘আ।",
+      "translation_bn": "নিশ্চয় আপনার পালনকর্তার দিকেই প্রত্যাবর্তন হবে।",
+      "translation_en": "Verily, to thy Lord is the return (of all)."
+    },
+    {
+      "id": 9,
+      "text": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "transliteration": "আরাআইতাল্লাযী ইয়ানহা",
+      "translation_bn": "আপনি কি তাকে দেখেছেন, যে নিষেধ করে",
+      "translation_en": "Seest thou one who forbids-"
+    },
+    {
+      "id": 10,
+      "text": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "transliteration": "‘আবদান ইযা-সাল্লা।",
+      "translation_bn": "এক বান্দাকে যখন সে নামায পড়ে?",
+      "translation_en": "A votary when he (turns) to pray?"
+    },
+    {
+      "id": 11,
+      "text": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "transliteration": "আরাআইতা ইন কা-না ‘আলাল হুদা।",
+      "translation_bn": "আপনি কি দেখেছেন যদি সে সৎপথে থাকে।",
+      "translation_en": "Seest thou if he is on (the road of) Guidance?-"
+    },
+    {
+      "id": 12,
+      "text": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "transliteration": "আও আমারা বিত্তাকাওয়া।",
+      "translation_bn": "অথবা খোদাভীতি শিক্ষা দেয়।",
+      "translation_en": "Or enjoins Righteousness?"
+    },
+    {
+      "id": 13,
+      "text": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "transliteration": "আরাআইতা ইন কাযযাবা ওয়া তাওয়াল্লা।",
+      "translation_bn": "আপনি কি দেখেছেন, যদি সে মিথ্যারোপ করে ও মুখ ফিরিয়ে নেয়।",
+      "translation_en": "Seest thou if he denies (Truth) and turns away?"
+    },
+    {
+      "id": 14,
+      "text": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "transliteration": "আলাম ইয়া‘লাম বিআন্নাল্লা-হা ইয়ারা।",
+      "translation_bn": "সে কি জানে না যে, আল্লাহ দেখেন?",
+      "translation_en": "Knoweth he not that Allah doth see?"
+    },
+    {
+      "id": 15,
+      "text": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "transliteration": "কাল্লা-লাইল্লাম ইয়ানতাহি লানাছফা‘আম বিন্না-সিয়াহ।",
+      "translation_bn": "কখনই নয়, যদি সে বিরত না হয়, তবে আমি মস্তকের সামনের কেশগুচ্ছ ধরে হেঁচড়াবই-",
+      "translation_en": "Let him beware! If he desist not, We will drag him by the forelock,-"
+    },
+    {
+      "id": 16,
+      "text": "نَاصِيَةٍ كَٰذِبَةٍ خَاطِئَةٍ",
+      "transliteration": "না-সিয়াতিন কা-যিবাতিন খা-তিআহ।",
+      "translation_bn": "মিথ্যাচারী, পাপীর কেশগুচ্ছ।",
+      "translation_en": "A lying, sinful forelock!"
+    },
+    {
+      "id": 17,
+      "text": "فَلْيَدْعُ نَادِيَهُۥ",
+      "transliteration": "ফালইয়াদ‘উ নাদিয়াহ,",
+      "translation_bn": "অতএব, সে তার সভাসদদেরকে আহবান করুক।",
+      "translation_en": "Then, let him call (for help) to his council (of comrades):"
+    },
+    {
+      "id": 18,
+      "text": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "transliteration": "ছানাদ‘উঝঝাবা-নিয়াহ।",
+      "translation_bn": "আমিও আহবান করব জাহান্নামের প্রহরীদেরকে",
+      "translation_en": "We will call on the angels of punishment (to deal with him)!"
+    },
+    {
+      "id": 19,
+      "text": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "transliteration": "কাল্লা- লা-তুতি‘হু ওয়াছজু দ ওয়াকতারিব। (সিজদা-১৫)",
+      "translation_bn": "কখনই নয়, আপনি তার আনুগত্য করবেন না। আপনি সেজদা করুন ও আমার নৈকট্য অর্জন করুন। (সিজদা-১৫)",
+      "translation_en": "Nay, heed him not: But bow down in adoration, and bring thyself the closer (to Allah)!"
+    }
+  ]
+}

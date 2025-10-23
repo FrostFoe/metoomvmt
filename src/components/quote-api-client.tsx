@@ -200,12 +200,8 @@ export function QuoteApiClient() {
               className="w-full animate-fade-in-up animation-delay-400"
             >
               <TabsList className="grid w-full grid-cols-2">
-                <TabsTrigger value="hadith">
-                  এলোমেলো হাদিস
-                </TabsTrigger>
-                <TabsTrigger value="verse">
-                  এলোমেলো আয়াত
-                </TabsTrigger>
+                <TabsTrigger value="hadith">এলোমেলো হাদিস</TabsTrigger>
+                <TabsTrigger value="verse">এলোমেলো আয়াত</TabsTrigger>
               </TabsList>
               <TabsContent value="hadith">
                 <Card className="group relative">
@@ -218,16 +214,16 @@ export function QuoteApiClient() {
                       {hadithLoading
                         ? "..."
                         : randomHadith
-                        ? randomHadith.text
-                        : "উক্তি লোড হচ্ছে..."}
+                          ? randomHadith.text
+                          : "উক্তি লোড হচ্ছে..."}
                     </p>
                     <p className="text-base text-muted-foreground font-english">
                       —{" "}
                       {hadithLoading
                         ? "..."
                         : randomHadith
-                        ? randomHadith.author
-                        : "লেখক"}
+                          ? randomHadith.author
+                          : "লেখক"}
                     </p>
                   </CardContent>
                   <Button
@@ -276,12 +272,12 @@ export function QuoteApiClient() {
                       {verseLoading
                         ? "..."
                         : randomVerse
-                        ? randomVerse.text
-                        : "আয়াত লোড হচ্ছে..."}
+                          ? randomVerse.text
+                          : "আয়াত লোড হচ্ছে..."}
                     </p>
                     <p className="text-base text-muted-foreground">
-                      — সূরা {randomVerse?.surah_name} (
-                      {randomVerse?.surah_id}:{randomVerse?.id})
+                      — সূরা {randomVerse?.surah_name} ({randomVerse?.surah_id}:
+                      {randomVerse?.id})
                     </p>
                   </CardContent>
                   <Button
@@ -325,10 +321,7 @@ export function QuoteApiClient() {
         </div>
       </section>
 
-      <section
-        id="try-it"
-        className="py-16 md:py-20 bg-muted/40"
-      >
+      <section id="try-it" className="py-16 md:py-20 bg-muted/40">
         <div className="container mx-auto px-6">
           <div className="text-center mb-12">
             <FlaskConical className="w-10 h-10 mr-3 inline-block gradient-text" />
@@ -400,9 +393,7 @@ export function QuoteApiClient() {
           </Card>
 
           <div className="max-w-4xl mx-auto mt-8">
-            <h3 className="text-xl font-bold mb-4">
-              দ্রুত উদাহরণ
-            </h3>
+            <h3 className="text-xl font-bold mb-4">দ্রুত উদাহরণ</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <Card
                 onClick={() => quickTest("api/quran")}

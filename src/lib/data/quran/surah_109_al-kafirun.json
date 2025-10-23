@@ -1,0 +1,52 @@
+{
+  "id": 109,
+  "name": "الكافرون",
+  "transliteration": "Al-Kafirun",
+  "translation": "The Disbelievers",
+  "type": "Meccan",
+  "total_verses": 6,
+  "verses": [
+    {
+      "id": 1,
+      "text": "قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ",
+      "transliteration": "কুল ইয়াআইয়ুহাল কা-ফিরূন।",
+      "translation_bn": "বলুন, হে কাফেরকূল,",
+      "translation_en": "Say: O ye that reject Faith!"
+    },
+    {
+      "id": 2,
+      "text": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "transliteration": "লাআ‘বুদুমা-তা‘বুদূন।",
+      "translation_bn": "আমি এবাদত করিনা, তোমরা যার এবাদত কর।",
+      "translation_en": "I worship not that which ye worship,"
+    },
+    {
+      "id": 3,
+      "text": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+      "transliteration": "ওয়ালাআনতুম ‘আ-বিদূনা মাআ‘বুদ।",
+      "translation_bn": "এবং তোমরাও এবাদতকারী নও, যার এবাদত আমি করি",
+      "translation_en": "Nor will ye worship that which I worship."
+    },
+    {
+      "id": 4,
+      "text": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "transliteration": "ওয়ালাআনা ‘আ-বিদুম মা-‘আবাত্তুম,",
+      "translation_bn": "এবং আমি এবাদতকারী নই, যার এবাদত তোমরা কর।",
+      "translation_en": "And I will not worship that which ye have been wont to worship,"
+    },
+    {
+      "id": 5,
+      "text": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
+      "transliteration": "ওয়ালাআনতুম ‘আ-বিদূনা মাআ‘বুদ।",
+      "translation_bn": "তোমরা এবাদতকারী নও, যার এবাদত আমি করি।",
+      "translation_en": "Nor will ye worship that which I worship."
+    },
+    {
+      "id": 6,
+      "text": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "transliteration": "লাকুম দীনুকুম ওয়ালিয়া দীন।",
+      "translation_bn": "তোমাদের কর্ম ও কর্মফল তোমাদের জন্যে এবং আমার কর্ম ও কর্মফল আমার জন্যে।",
+      "translation_en": "To you be your Way, and to me mine."
+    }
+  ]
+}

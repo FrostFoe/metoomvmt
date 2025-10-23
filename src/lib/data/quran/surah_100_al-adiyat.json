@@ -1,0 +1,87 @@
+{
+  "id": 100,
+  "name": "العاديات",
+  "transliteration": "Al-Adiyat",
+  "translation": "Those that run",
+  "type": "Meccan",
+  "total_verses": 11,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَٱلْعَٰدِيَٰتِ ضَبْحًا",
+      "transliteration": "ওয়াল ‘আ-দিয়া-তি দাবহা।",
+      "translation_bn": "শপথ উর্ধ্বশ্বাসে চলমান অশ্বসমূহের,",
+      "translation_en": "By the (Steeds) that run, with panting (breath),"
+    },
+    {
+      "id": 2,
+      "text": "فَٱلْمُورِيَٰتِ قَدْحًا",
+      "transliteration": "ফাল মূরিয়া-তি কাদহা।",
+      "translation_bn": "অতঃপর ক্ষুরাঘাতে অগ্নিবিচ্ছুরক অশ্বসমূহের",
+      "translation_en": "And strike sparks of fire,"
+    },
+    {
+      "id": 3,
+      "text": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "transliteration": "ফাল মুগীরা-তি সুবহা।",
+      "translation_bn": "অতঃপর প্রভাতকালে আক্রমণকারী অশ্বসমূহের",
+      "translation_en": "And push home the charge in the morning,"
+    },
+    {
+      "id": 4,
+      "text": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "transliteration": "ফাআছারনা বিহী নাক‘আ।",
+      "translation_bn": "ও যারা সে সময়ে ধুলি উৎক্ষিপ্ত করে",
+      "translation_en": "And raise the dust in clouds the while,"
+    },
+    {
+      "id": 5,
+      "text": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "transliteration": "ফাওয়াছাতানা বিহী জাম‘আ।",
+      "translation_bn": "অতঃপর যারা শক্রদলের অভ্যন্তরে ঢুকে পড়ে",
+      "translation_en": "And penetrate forthwith into the midst (of the foe) en masse;"
+    },
+    {
+      "id": 6,
+      "text": "إِنَّ ٱلْإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "transliteration": "ইন্নাল ইনছা-না লিরাব্বিহী লাকানূদ।",
+      "translation_bn": "নিশ্চয় মানুষ তার পালনকর্তার প্রতি অকৃতজ্ঞ।",
+      "translation_en": "Truly man is, to his Lord, ungrateful;"
+    },
+    {
+      "id": 7,
+      "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "transliteration": "ওয়া ইন্নাহূ‘আলা-যা-লিকা লাশাহীদ।",
+      "translation_bn": "এবং সে অবশ্য এ বিষয়ে অবহিত",
+      "translation_en": "And to that (fact) he bears witness (by his deeds);"
+    },
+    {
+      "id": 8,
+      "text": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "transliteration": "ওয়া ইন্নাহূলিহুব্বিল খাইরি লাশাদীদ।",
+      "translation_bn": "এবং সে নিশ্চিতই ধন-সম্পদের ভালবাসায় মত্ত।",
+      "translation_en": "And violent is he in his love of wealth."
+    },
+    {
+      "id": 9,
+      "text": "أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "transliteration": "আফালা-ইয়া‘লামুইযা-বু‘ছিরা মা-ফিল কুবূর।",
+      "translation_bn": "সে কি জানে না, যখন কবরে যা আছে, তা উত্থিত হবে",
+      "translation_en": "Does he not know,- when that which is in the graves is scattered abroad"
+    },
+    {
+      "id": 10,
+      "text": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "transliteration": "ওয়া হুসসিলা মা-ফিসসুদূর,",
+      "translation_bn": "এবং অন্তরে যা আছে, তা অর্জন করা হবে?",
+      "translation_en": "And that which is (locked up) in (human) breasts is made manifest-"
+    },
+    {
+      "id": 11,
+      "text": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "transliteration": "ইন্না রাব্বাহুম বিহিম ইয়াওমাইযিল্লাখাবীর।",
+      "translation_bn": "সেদিন তাদের কি হবে, সে সম্পর্কে তাদের পালনকর্তা সবিশেষ জ্ঞাত।",
+      "translation_en": "That their Lord had been Well-acquainted with them, (even to) that Day?"
+    }
+  ]
+}

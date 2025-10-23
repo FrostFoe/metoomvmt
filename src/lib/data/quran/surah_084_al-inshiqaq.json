@@ -1,0 +1,185 @@
+{
+  "id": 84,
+  "name": "الانشقاق",
+  "transliteration": "Al-Inshiqaq",
+  "translation": "The Splitting Asunde",
+  "type": "Medinan",
+  "total_verses": 25,
+  "verses": [
+    {
+      "id": 1,
+      "text": "إِذَا ٱلسَّمَآءُ ٱنشَقَّتْ",
+      "transliteration": "ইযাছ ছামাউন শাক্কাত।",
+      "translation_bn": "যখন আকাশ বিদীর্ণ হবে,",
+      "translation_en": "When the sky is rent asunder,"
+    },
+    {
+      "id": 2,
+      "text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "transliteration": "ওয়া আযিনাত লিরাব্বিহা-ওয়া হুক্কাত।",
+      "translation_bn": "ও তার পালনকর্তার আদেশ পালন করবে এবং আকাশ এরই উপযুক্ত",
+      "translation_en": "And hearkens to (the Command of) its Lord, and it must needs (do so);-"
+    },
+    {
+      "id": 3,
+      "text": "وَإِذَا ٱلْأَرْضُ مُدَّتْ",
+      "transliteration": "ওয়া ইযাল আরদুমুদ্দাত।",
+      "translation_bn": "এবং যখন পৃথিবীকে সম্প্রসারিত করা হবে।",
+      "translation_en": "And when the earth is flattened out,"
+    },
+    {
+      "id": 4,
+      "text": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+      "transliteration": "ওয়া আল কাত মা-ফীহা-ওয়া তাখাল্লাত",
+      "translation_bn": "এবং পৃথিবী তার গর্ভস্থিত সবকিছু বাইরে নিক্ষেপ করবে ও শুন্যগর্ভ হয়ে যাবে।",
+      "translation_en": "And casts forth what is within it and becomes (clean) empty,"
+    },
+    {
+      "id": 5,
+      "text": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+      "transliteration": "ওয়া আযিনাত লিরাব্বিহা-ওয়া হুক্কাত।",
+      "translation_bn": "এবং তার পালনকর্তার আদেশ পালন করবে এবং পৃথিবী এরই উপযুক্ত।",
+      "translation_en": "And hearkens to (the Command of) its Lord,- and it must needs (do so);- (then will come Home the full reality)."
+    },
+    {
+      "id": 6,
+      "text": "يَٰٓأَيُّهَا ٱلْإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَٰقِيهِ",
+      "transliteration": "ইয়াআইয়ুহাল ইনছা-নুইন্নাকা কা-দিহুন ইলা-রাব্বিকা কাদহান ফামুলা-কীহ।",
+      "translation_bn": "হে মানুষ, তোমাকে তোমরা পালনকর্তা পর্যন্ত পৌছতে কষ্ট স্বীকার করতে হবে, অতঃপর তার সাক্ষাৎ ঘটবে",
+      "translation_en": "O thou man! Verily thou art ever toiling on towards thy Lord- painfully toiling,- but thou shalt meet Him."
+    },
+    {
+      "id": 7,
+      "text": "فَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ بِيَمِينِهِۦ",
+      "transliteration": "ফাআম্মা-মান ঊতিয়া কিতা-বাহূবিয়ামীনিহ।",
+      "translation_bn": "যাকে তার আমলনামা ডান হাতে দেয়া হবে",
+      "translation_en": "Then he who is given his Record in his right hand,"
+    },
+    {
+      "id": 8,
+      "text": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+      "transliteration": "ফাছাওফা ইউহা-ছাবুহিছা-বাইঁ ইয়াছীরা-।",
+      "translation_bn": "তার হিসাব-নিকাশ সহজে হয়ে যাবে",
+      "translation_en": "Soon will his account be taken by an easy reckoning,"
+    },
+    {
+      "id": 9,
+      "text": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًا",
+      "transliteration": "ওয়া ইয়ানকালিবুইলা-আহলিহী মাছরূরা-।",
+      "translation_bn": "এবং সে তার পরিবার-পরিজনের কাছে হৃষ্টচিত্তে ফিরে যাবে",
+      "translation_en": "And he will turn to his people, rejoicing!"
+    },
+    {
+      "id": 10,
+      "text": "وَأَمَّا مَنْ أُوتِىَ كِتَٰبَهُۥ وَرَآءَ ظَهْرِهِۦ",
+      "transliteration": "ওয়া আম্মা-মান ঊতিয়া কিতা-বাহূওয়ারাআ জাহরিহ।",
+      "translation_bn": "এবং যাকে তার আমলনামা পিঠের পশ্চাদ্দিক থেকে দেয়া, হবে,",
+      "translation_en": "But he who is given his Record behind his back,-"
+    },
+    {
+      "id": 11,
+      "text": "فَسَوْفَ يَدْعُوا۟ ثُبُورًا",
+      "transliteration": "ফাছাওফা ইয়াদ‘ঊ ছুবূরা-।",
+      "translation_bn": "সে মৃত্যুকে আহবান করবে,",
+      "translation_en": "Soon will he cry for perdition,"
+    },
+    {
+      "id": 12,
+      "text": "وَيَصْلَىٰ سَعِيرًا",
+      "transliteration": "ওয়া ইয়াসলা-ছা‘ঈরা-।",
+      "translation_bn": "এবং জাহান্নামে প্রবেশ করবে।",
+      "translation_en": "And he will enter a Blazing Fire."
+    },
+    {
+      "id": 13,
+      "text": "إِنَّهُۥ كَانَ فِىٓ أَهْلِهِۦ مَسْرُورًا",
+      "transliteration": "ইন্নাহূকা-না ফীআহলিহী মাছরূরা-।",
+      "translation_bn": "সে তার পরিবার-পরিজনের মধ্যে আনন্দিত ছিল।",
+      "translation_en": "Truly, did he go about among his people, rejoicing!"
+    },
+    {
+      "id": 14,
+      "text": "إِنَّهُۥ ظَنَّ أَن لَّن يَحُورَ",
+      "transliteration": "ইন্নাহূজান্না আল্লাইঁ ইয়াহূরা।",
+      "translation_bn": "সে মনে করত যে, সে কখনও ফিরে যাবে না।",
+      "translation_en": "Truly, did he think that he would not have to return (to Us)!"
+    },
+    {
+      "id": 15,
+      "text": "بَلَىٰٓ إِنَّ رَبَّهُۥ كَانَ بِهِۦ بَصِيرًا",
+      "transliteration": "বালা-ইন্না রাব্বাহূকা-না বিহী বাসীরা-।",
+      "translation_bn": "কেন যাবে না, তার পালনকর্তা তো তাকে দেখতেন।",
+      "translation_en": "Nay, nay! for his Lord was (ever) watchful of him!"
+    },
+    {
+      "id": 16,
+      "text": "فَلَآ أُقْسِمُ بِٱلشَّفَقِ",
+      "transliteration": "ফালাউকছিমুবিশশাফাক।",
+      "translation_bn": "আমি শপথ করি সন্ধ্যাকালীন লাল আভার",
+      "translation_en": "So I do call to witness the ruddy glow of Sunset;"
+    },
+    {
+      "id": 17,
+      "text": "وَٱلَّيْلِ وَمَا وَسَقَ",
+      "transliteration": "ওয়াল্লাইলি ওয়ামা-ওয়াছাক।",
+      "translation_bn": "এবং রাত্রির, এবং তাতে যার সমাবেশ ঘটে",
+      "translation_en": "The Night and its Homing;"
+    },
+    {
+      "id": 18,
+      "text": "وَٱلْقَمَرِ إِذَا ٱتَّسَقَ",
+      "transliteration": "ওয়ালকামারি ইযাত্তাছাক।",
+      "translation_bn": "এবং চন্দ্রের, যখন তা পূর্ণরূপ লাভ করে,",
+      "translation_en": "And the Moon in her fullness:"
+    },
+    {
+      "id": 19,
+      "text": "لَتَرْكَبُنَّ طَبَقًا عَن طَبَقٍ",
+      "transliteration": "লাতারকাবুন্না তাবাকান ‘আন তাবাক।",
+      "translation_bn": "নিশ্চয় তোমরা এক সিঁড়ি থেকে আরেক সিঁড়িতে আরোহণ করবে।",
+      "translation_en": "Ye shall surely travel from stage to stage."
+    },
+    {
+      "id": 20,
+      "text": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+      "transliteration": "ফামা-লাহুম লা-ইউ’মিনূন।",
+      "translation_bn": "অতএব, তাদের কি হল যে, তারা ঈমান আনে না?",
+      "translation_en": "What then is the matter with them, that they believe not?-"
+    },
+    {
+      "id": 21,
+      "text": "وَإِذَا قُرِئَ عَلَيْهِمُ ٱلْقُرْءَانُ لَا يَسْجُدُونَ ۩",
+      "transliteration": "ওয়া ইযা-কুরিআ ‘আলাইহিমুল কুরআ-নুলা-ইয়াছজুদূন। (সিজদা-১৪)",
+      "translation_bn": "যখন তাদের কাছে কোরআন পাঠ করা হয়, তখন সেজদা করে না। (সিজদা-১৪)",
+      "translation_en": "And when the Qur'an is read to them, they fall not prostrate,"
+    },
+    {
+      "id": 22,
+      "text": "بَلِ ٱلَّذِينَ كَفَرُوا۟ يُكَذِّبُونَ",
+      "transliteration": "বালিল্লাযীনা কাফারূইউকাযযিবূন।",
+      "translation_bn": "বরং কাফেররা এর প্রতি মিথ্যারোপ করে।",
+      "translation_en": "But on the contrary the Unbelievers reject (it)."
+    },
+    {
+      "id": 23,
+      "text": "وَٱللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+      "transliteration": "ওয়াল্লা-হু আ‘লামুবিমা-ইয়ূ‘ঊন।",
+      "translation_bn": "তারা যা সংরক্ষণ করে, আল্লাহ তা জানেন।",
+      "translation_en": "But Allah has full knowledge of what they secrete (in their breasts)"
+    },
+    {
+      "id": 24,
+      "text": "فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ",
+      "transliteration": "ফাবাশশিরহুম বি‘আযা-বিন আলীম।",
+      "translation_bn": "অতএব, তাদেরকে যন্ত্রণাদায়ক শাস্তির সুসংবাদ দিন।",
+      "translation_en": "So announce to them a Penalty Grievous,"
+    },
+    {
+      "id": 25,
+      "text": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+      "transliteration": "ইল্লাল্লাযীনা আ-মানূওয়া ‘আমিলুস সা-লিহা-তি লাহুম আজরুন গাইরু মামনূন।",
+      "translation_bn": "কিন্তু যারা বিশ্বাস স্থাপন করে ও সৎকর্ম করে, তাদের জন্য রয়েছে অফুরন্ত পুরস্কার।",
+      "translation_en": "Except to those who believe and work righteous deeds: For them is a Reward that will never fail."
+    }
+  ]
+}

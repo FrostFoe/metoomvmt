@@ -1,0 +1,87 @@
+{
+  "id": 93,
+  "name": "الضحى",
+  "transliteration": "Ad-Duhaa",
+  "translation": "The Forenoon",
+  "type": "Meccan",
+  "total_verses": 11,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَٱلضُّحَىٰ",
+      "transliteration": "ওয়াদদু হা।",
+      "translation_bn": "শপথ পূর্বাহ্নের,",
+      "translation_en": "By the Glorious Morning Light,"
+    },
+    {
+      "id": 2,
+      "text": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+      "transliteration": "ওয়াল্লাইলি ইযা-ছাজা।",
+      "translation_bn": "শপথ রাত্রির যখন তা গভীর হয়,",
+      "translation_en": "And by the Night when it is still,"
+    },
+    {
+      "id": 3,
+      "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "transliteration": "মা-ওয়াদ্দা‘আকা রাব্বুকা ওয়ামা-কালা।",
+      "translation_bn": "আপনার পালনকর্তা আপনাকে ত্যাগ করেনি এবং আপনার প্রতি বিরূপও হননি।",
+      "translation_en": "Thy Guardian-Lord hath not forsaken thee, nor is He displeased."
+    },
+    {
+      "id": 4,
+      "text": "وَلَلْءَاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+      "transliteration": "ওয়ালাল আ-খিরাতুখাইরুল্লাকা মিনাল ঊলা।",
+      "translation_bn": "আপনার জন্যে পরকাল ইহকাল অপেক্ষা শ্রেয়।",
+      "translation_en": "And verily the Hereafter will be better for thee than the present."
+    },
+    {
+      "id": 5,
+      "text": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+      "transliteration": "ওয়া লাছাওফা ইউ‘তীকা রাব্বুকা ফাতারদা।",
+      "translation_bn": "আপনার পালনকর্তা সত্বরই আপনাকে দান করবেন, অতঃপর আপনি সন্তুষ্ট হবেন।",
+      "translation_en": "And soon will thy Guardian-Lord give thee (that wherewith) thou shalt be well-pleased."
+    },
+    {
+      "id": 6,
+      "text": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+      "transliteration": "আলাম ইয়াজিদকা ইয়াতীমান ফাআ-ওয়া।",
+      "translation_bn": "তিনি কি আপনাকে এতীমরূপে পাননি? অতঃপর তিনি আশ্রয় দিয়েছেন।",
+      "translation_en": "Did He not find thee an orphan and give thee shelter (and care)?"
+    },
+    {
+      "id": 7,
+      "text": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+      "transliteration": "ওয়া ওয়াজাদাকা দাল্লান ফাহাদা।",
+      "translation_bn": "তিনি আপনাকে পেয়েছেন পথহারা, অতঃপর পথপ্রদর্শন করেছেন।",
+      "translation_en": "And He found thee wandering, and He gave thee guidance."
+    },
+    {
+      "id": 8,
+      "text": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+      "transliteration": "ওয়া ওয়াজাদাকা ‘আইলান ফাআগনা।",
+      "translation_bn": "তিনি আপনাকে পেয়েছেন নিঃস্ব, অতঃপর অভাবমুক্ত করেছেন।",
+      "translation_en": "And He found thee in need, and made thee independent."
+    },
+    {
+      "id": 9,
+      "text": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+      "transliteration": "ফাআম্মাল ইয়াতীমা ফালা-তাকহার।",
+      "translation_bn": "সুতরাং আপনি এতীমের প্রতি কঠোর হবেন না;",
+      "translation_en": "Therefore, treat not the orphan with harshness,"
+    },
+    {
+      "id": 10,
+      "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+      "transliteration": "ওয়া আম্মাছ ছাইলা ফালা-তানহার।",
+      "translation_bn": "সওয়ালকারীকে ধমক দেবেন না।",
+      "translation_en": "Nor repulse the petitioner (unheard);"
+    },
+    {
+      "id": 11,
+      "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "transliteration": "ওয়া আম্মা-বিনি‘মাতি রাব্বিকা ফাহাদ্দিছ।",
+      "translation_bn": "এবং আপনার পালনকর্তার নেয়ামতের কথা প্রকাশ করুন।",
+      "translation_en": "But the bounty of the Lord - rehearse and proclaim!"
+    }
+  ]
+}

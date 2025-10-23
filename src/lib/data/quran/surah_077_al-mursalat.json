@@ -1,0 +1,360 @@
+{
+  "id": 77,
+  "name": "المرسلات",
+  "transliteration": "Al-Mursalat",
+  "translation": "Those sent Forth",
+  "type": "Meccan",
+  "total_verses": 50,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَٱلْمُرْسَلَٰتِ عُرْفًا",
+      "transliteration": "ওয়াল মুরছালা- তি ‘উরফা- ।",
+      "translation_bn": "কল্যাণের জন্যে প্রেরিত বায়ুর শপথ,",
+      "translation_en": "By the (Winds) sent forth one after another (to man's profit);"
+    },
+    {
+      "id": 2,
+      "text": "فَٱلْعَٰصِفَٰتِ عَصْفًا",
+      "transliteration": "ফাল ‘আ- সিফা- তি ‘আসফা- ।",
+      "translation_bn": "সজোরে প্রবাহিত ঝটিকার শপথ,",
+      "translation_en": "Which then blow violently in tempestuous Gusts,"
+    },
+    {
+      "id": 3,
+      "text": "وَٱلنَّٰشِرَٰتِ نَشْرًا",
+      "transliteration": "ওয়ান্না- শিরা- তি নাশরা- ।",
+      "translation_bn": "মেঘবিস্তৃতকারী বায়ুর শপথ",
+      "translation_en": "And scatter (things) far and wide;"
+    },
+    {
+      "id": 4,
+      "text": "فَٱلْفَٰرِقَٰتِ فَرْقًا",
+      "transliteration": "ফালফা- রিকা- তি ফারকা- ।",
+      "translation_bn": "মেঘপুঞ্জ বিতরণকারী বায়ুর শপথ এবং",
+      "translation_en": "Then separate them, one from another,"
+    },
+    {
+      "id": 5,
+      "text": "فَٱلْمُلْقِيَٰتِ ذِكْرًا",
+      "transliteration": "ফাল মুলকিয়া-তি যিকরা- ।",
+      "translation_bn": "ওহী নিয়ে অবতরণকারী ফেরেশতাগণের শপথ-",
+      "translation_en": "Then spread abroad a Message,"
+    },
+    {
+      "id": 6,
+      "text": "عُذْرًا أَوْ نُذْرًا",
+      "transliteration": "‘উযরান আও নুযরা- ।",
+      "translation_bn": "ওযর-আপত্তির অবকাশ না রাখার জন্যে অথবা সতর্ক করার জন্যে।",
+      "translation_en": "Whether of Justification or of Warning;-"
+    },
+    {
+      "id": 7,
+      "text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+      "transliteration": "ইন্নামা- তূ‘আদূনা লাওয়া-কি‘।",
+      "translation_bn": "নিশ্চয়ই তোমাদেরকে প্রদত্ত ওয়াদা বাস্তবায়িত হবে।",
+      "translation_en": "Assuredly, what ye are promised must come to pass."
+    },
+    {
+      "id": 8,
+      "text": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+      "transliteration": "ফাইযান নুজূমুতুমিছাত।",
+      "translation_bn": "অতঃপর যখন নক্ষত্রসমুহ নির্বাপিত হবে,",
+      "translation_en": "Then when the stars become dim;"
+    },
+    {
+      "id": 9,
+      "text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+      "transliteration": "ওয়া ইযাছছামাউ ফুরিজাত।",
+      "translation_bn": "যখন আকাশ ছিদ্রযুক্ত হবে,",
+      "translation_en": "When the heaven is cleft asunder;"
+    },
+    {
+      "id": 10,
+      "text": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+      "transliteration": "ওয়া ইযাল জিবা-লুনুছিফাত।",
+      "translation_bn": "যখন পর্বতমালাকে উড়িয়ে দেয়া হবে এবং",
+      "translation_en": "When the mountains are scattered (to the winds) as dust;"
+    },
+    {
+      "id": 11,
+      "text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+      "transliteration": "ওয়া ইযাররুছুলুউককিতাত।",
+      "translation_bn": "যখন রসূলগণের একত্রিত হওয়ার সময় নিরূপিত হবে,",
+      "translation_en": "And when the messengers are (all) appointed a time (to collect);-"
+    },
+    {
+      "id": 12,
+      "text": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+      "transliteration": "লিআইয়ি ইয়াওমিন উজ্জিলাত।",
+      "translation_bn": "এসব বিষয় কোন দিবসের জন্যে স্থগিত রাখা হয়েছে?",
+      "translation_en": "For what Day are these (portents) deferred?"
+    },
+    {
+      "id": 13,
+      "text": "لِيَوْمِ ٱلْفَصْلِ",
+      "transliteration": "লিইয়াওমিল ফাসল;",
+      "translation_bn": "বিচার দিবসের জন্য।",
+      "translation_en": "For the Day of Sorting out."
+    },
+    {
+      "id": 14,
+      "text": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+      "transliteration": "ওয়ামাআদরা-কা মা- ইয়াওমুল ফাসল।",
+      "translation_bn": "আপনি জানেন বিচার দিবস কি?",
+      "translation_en": "And what will explain to thee what is the Day of Sorting out?"
+    },
+    {
+      "id": 15,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "ওয়াইলুইঁ ইয়াওমাইযিল লিলমুকাযযিবীন।",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+      "translation_en": "Ah woe, that Day, to the Rejecters of Truth!"
+    },
+    {
+      "id": 16,
+      "text": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+      "transliteration": "আলাম নুহলিকিল আওওয়ালীন।",
+      "translation_bn": "আমি কি পূর্ববর্তীদেরকে ধ্বংস করিনি?",
+      "translation_en": "Did We not destroy the men of old (for their evil)?"
+    },
+    {
+      "id": 17,
+      "text": "ثُمَّ نُتْبِعُهُمُ ٱلْءَاخِرِينَ",
+      "transliteration": "ছু ম্মা নুতবি‘উহুমুল আ-খিরীন।",
+      "translation_bn": "অতঃপর তাদের পশ্চাতে প্রেরণ করব পরবর্তীদেরকে।",
+      "translation_en": "So shall We make later (generations) follow them."
+    },
+    {
+      "id": 18,
+      "text": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+      "transliteration": "কাযা-লিকা নাফ‘আলুবিলমুজরিমীন।",
+      "translation_bn": "অপরাধীদের সাথে আমি এরূপই করে থাকি।",
+      "translation_en": "Thus do We deal with men of sin."
+    },
+    {
+      "id": 19,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "ওয়াইলুইঁ ইয়াওমাইযিল লিলমুকাযযিবীন।",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+      "translation_en": "Ah woe, that Day, to the Rejecters of Truth!"
+    },
+    {
+      "id": 20,
+      "text": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+      "transliteration": "আলাম নাখলুককুম মিম মাইম্মাহীন।",
+      "translation_bn": "আমি কি তোমাদেরকে তুচ্ছ পানি থেকে সৃষ্টি করিনি?",
+      "translation_en": "Have We not created you from a fluid (held) despicable?-"
+    },
+    {
+      "id": 21,
+      "text": "فَجَعَلْنَٰهُ فِى قَرَارٍ مَّكِينٍ",
+      "transliteration": "ফাজা‘আলনা-হু ফী কারা-রিম মাকীন।",
+      "translation_bn": "অতঃপর আমি তা রেখেছি এক সংরক্ষিত আধারে,",
+      "translation_en": "The which We placed in a place of rest, firmly fixed,"
+    },
+    {
+      "id": 22,
+      "text": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+      "transliteration": "ইলা- কাদারিমমা‘লূম।",
+      "translation_bn": "এক নির্দিষ্টকাল পর্যন্ত,",
+      "translation_en": "For a period (of gestation), determined (according to need)?"
+    },
+    {
+      "id": 23,
+      "text": "فَقَدَرْنَا فَنِعْمَ ٱلْقَٰدِرُونَ",
+      "transliteration": "ফাকাদারনা-  ফানি‘মাল কা-দিরূন।",
+      "translation_bn": "অতঃপর আমি পরিমিত আকারে সৃষ্টি করেছি, আমি কত সক্ষম স্রষ্টা?",
+      "translation_en": "For We do determine (according to need); for We are the best to determine (things)."
+    },
+    {
+      "id": 24,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "ওয়াইলুইঁ ইয়াওমাইযিল লিলমুকাযযিবীন।",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+      "translation_en": "Ah woe, that Day! to the Rejecters of Truth!"
+    },
+    {
+      "id": 25,
+      "text": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+      "transliteration": "আলাম নাজ ‘আলিল আরদা কিফা-তা- ।",
+      "translation_bn": "আমি কি পৃথিবীকে সৃষ্টি করিনি ধারণকারিণীরূপে,",
+      "translation_en": "Have We not made the earth (as a place) to draw together."
+    },
+    {
+      "id": 26,
+      "text": "أَحْيَآءً وَأَمْوَٰتًا",
+      "transliteration": "আহইয়াআওঁ ওয়া আমওয়া-তা- ।",
+      "translation_bn": "জীবিত ও মৃতদেরকে?",
+      "translation_en": "The living and the dead,"
+    },
+    {
+      "id": 27,
+      "text": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَٰمِخَٰتٍ وَأَسْقَيْنَٰكُم مَّآءً فُرَاتًا",
+      "transliteration": "ওয়া জা‘আলনা-ফীহা-রাওয়া-ছিয়া শা-মিখা-তিওঁ ওয়া আছকাইনা-কুমমাআন ফুরাতা- ।",
+      "translation_bn": "আমি তাতে স্থাপন করেছি মজবুত সুউচ্চ পর্বতমালা এবং পান করিয়েছি তোমাদেরকে তৃষ্ণা নিবারণকারী সুপেয় পানি।",
+      "translation_en": "And made therein mountains standing firm, lofty (in stature); and provided for you water sweet (and wholesome)?"
+    },
+    {
+      "id": 28,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "ওয়াইলুইঁ ইয়াওমাইযিল লিলমুকাযযিবীন ।",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+      "translation_en": "Ah woe, that Day, to the Rejecters of Truth!"
+    },
+    {
+      "id": 29,
+      "text": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "transliteration": "ইনতালিকূইলা- মা- কুনতুম বিহী তুকাযযিবূন।",
+      "translation_bn": "চল তোমরা তারই দিকে, যাকে তোমরা মিথ্যা বলতে।",
+      "translation_en": "(It will be said:) \"Depart ye to that which ye used to reject as false!"
+    },
+    {
+      "id": 30,
+      "text": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَٰثِ شُعَبٍ",
+      "transliteration": "ইনতালিকূইলা-জিলিলন যী ছালা-ছিশু‘আব।",
+      "translation_bn": "চল তোমরা তিন কুন্ডলীবিশিষ্ট ছায়ার দিকে,",
+      "translation_en": "\"Depart ye to a Shadow (of smoke ascending) in three columns,"
+    },
+    {
+      "id": 31,
+      "text": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+      "transliteration": "লা- জালীলিওঁ ওয়ালা- ইউগনী মিনাল্লাহাব।",
+      "translation_bn": "যে ছায়া সুনিবিড় নয় এবং অগ্নির উত্তাপ থেকে রক্ষা করে না।",
+      "translation_en": "\"(Which yields) no shade of coolness, and is of no use against the fierce Blaze."
+    },
+    {
+      "id": 32,
+      "text": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+      "transliteration": "ইন্নাহা- তারমী বিশারারিন কাল কাসরি।",
+      "translation_bn": "এটা অট্টালিকা সদৃশ বৃহৎ স্ফুলিংগ নিক্ষেপ করবে।",
+      "translation_en": "\"Indeed it throws about sparks (huge) as Forts,"
+    },
+    {
+      "id": 33,
+      "text": "كَأَنَّهُۥ جِمَٰلَتٌ صُفْرٌ",
+      "transliteration": "কাআন্নাহূজিমা-লাতুন সুফর।",
+      "translation_bn": "যেন সে পীতবর্ণ উষ্ট্রশ্রেণী।",
+      "translation_en": "\"As if there were (a string of) yellow camels (marching swiftly).\""
+    },
+    {
+      "id": 34,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "ওয়াইলুইঁ ইয়াওমাইযিল লিলমুকাযযিবীন ।",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+      "translation_en": "Ah woe, that Day, to the Rejecters of Truth!"
+    },
+    {
+      "id": 35,
+      "text": "هَٰذَا يَوْمُ لَا يَنطِقُونَ",
+      "transliteration": "হা-যা- ইয়াওমুলা- ইয়ানতিকূন।",
+      "translation_bn": "এটা এমন দিন, যেদিন কেউ কথা বলবে না।",
+      "translation_en": "That will be a Day when they shall not be able to speak."
+    },
+    {
+      "id": 36,
+      "text": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "transliteration": "ওয়ালা- ইউ’যানুলাহুম ফাইয়া‘তাযিরূন।",
+      "translation_bn": "এবং কাউকে তওবা করার অনুমতি দেয়া হবে না।",
+      "translation_en": "Nor will it be open to them to put forth pleas."
+    },
+    {
+      "id": 37,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "ওয়াইলুইঁ ইয়াওমাইযিল লিলমুকাযযিবীন ।",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+      "translation_en": "Ah woe, that Day, to the Rejecters of Truth!"
+    },
+    {
+      "id": 38,
+      "text": "هَٰذَا يَوْمُ ٱلْفَصْلِ جَمَعْنَٰكُمْ وَٱلْأَوَّلِينَ",
+      "transliteration": "হা-যা- ইয়াওমুল ফাসলি জামা‘না-কুম ওয়াল আওওয়ালীন।",
+      "translation_bn": "এটা বিচার দিবস, আমি তোমাদেরকে এবং তোমাদের পূর্ববর্তীদেরকে একত্রিত করেছি।",
+      "translation_en": "That will be a Day of Sorting out! We shall gather you together and those before (you)!"
+    },
+    {
+      "id": 39,
+      "text": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+      "transliteration": "ফাইন কা-না লাকুম কাইদুন ফাকীদূন।",
+      "translation_bn": "অতএব, তোমাদের কোন অপকৌশল থাকলে তা প্রয়োগ কর আমার কাছে।",
+      "translation_en": "Now, if ye have a trick (or plot), use it against Me!"
+    },
+    {
+      "id": 40,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "ওয়াইলুইঁ ইয়াওমাইযিল লিলমুকাযযিবীন ।",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+      "translation_en": "Ah woe, that Day, to the Rejecters of Truth!"
+    },
+    {
+      "id": 41,
+      "text": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَٰلٍ وَعُيُونٍ",
+      "transliteration": "ইন্নাল মুত্তাকীনা ফী জিলালিওঁ ওয়া‘উয়ূন।",
+      "translation_bn": "নিশ্চয় খোদাভীরুরা থাকবে ছায়ায় এবং প্রস্রবণসমূহে-",
+      "translation_en": "As to the Righteous, they shall be amidst (cool) shades and springs (of water)."
+    },
+    {
+      "id": 42,
+      "text": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+      "transliteration": "ওয়া ফাওয়া-কিহা মিম্মা- ইয়াশতাহূন।",
+      "translation_bn": "এবং তাদের বাঞ্ছিত ফল-মূলের মধ্যে।",
+      "translation_en": "And (they shall have) fruits,- all they desire."
+    },
+    {
+      "id": 43,
+      "text": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+      "transliteration": "কুলূওয়াশরাবূহানীআম বিমা- কুনতুম তা‘মালূন।",
+      "translation_bn": "বলা হবেঃ তোমরা যা করতে তার বিনিময়ে তৃপ্তির সাথে পানাহার কর।",
+      "translation_en": "\"Eat ye and drink ye to your heart's content: for that ye worked (Righteousness)."
+    },
+    {
+      "id": 44,
+      "text": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+      "transliteration": "ইন্না- কাযা-লিকা নাজঝিল মুহছিনীন।",
+      "translation_bn": "এভাবেই আমি সৎকর্মশীলদেরকে পুরস্কৃত করে থাকি।",
+      "translation_en": "Thus do We certainly reward the Doers of Good."
+    },
+    {
+      "id": 45,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "ওয়াইলুইঁ ইয়াওমাইযিল লিলমুকাযযিবীন ।",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+      "translation_en": "Ah woe, that Day, to the Rejecters of Truth!"
+    },
+    {
+      "id": 46,
+      "text": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+      "transliteration": "কুলূওয়া তামাত্তা‘ঊ কালীলান ইন্নাকুম মুজরিমূন।",
+      "translation_bn": "কাফেরগণ, তোমরা কিছুদিন খেয়ে নাও এবং ভোগ করে নাও। তোমরা তো অপরাধী।",
+      "translation_en": "(O ye unjust!) Eat ye and enjoy yourselves (but) a little while, for that ye are Sinners."
+    },
+    {
+      "id": 47,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "ওয়াইলুইঁ ইয়াওমাইযিল লিলমুকাযযিবীন ।",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+      "translation_en": "Ah woe, that Day, to the Rejecters of Truth!"
+    },
+    {
+      "id": 48,
+      "text": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+      "transliteration": "ওয়া ইযা- কীলা লাহুমুরকা‘ঊ লা-ইয়ারকা‘ঊন।",
+      "translation_bn": "যখন তাদেরকে বলা হয়, নত হও, তখন তারা নত হয় না।",
+      "translation_en": "And when it is said to them, \"Prostrate yourselves!\" they do not so."
+    },
+    {
+      "id": 49,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "ওয়াইলুইঁ ইয়াওমাইযিল লিলমুকাযযিবীন ।",
+      "translation_bn": "সেদিন মিথ্যারোপকারীদের দুর্ভোগ হবে।",
+      "translation_en": "Ah woe, that Day, to the Rejecters of Truth!"
+    },
+    {
+      "id": 50,
+      "text": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+      "transliteration": "ফাবিআইয়ি হাদীছিম বা‘দাহূইউ’মিনূন।",
+      "translation_bn": "এখন কোন কথায় তারা এরপর বিশ্বাস স্থাপন করবে?",
+      "translation_en": "Then what Message, after that, will they believe in?"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": 82,
+  "name": "الانفطار",
+  "transliteration": "Al-Infitar",
+  "translation": "The Cleaving",
+  "type": "Meccan",
+  "total_verses": 19,
+  "verses": [
+    {
+      "id": 1,
+      "text": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+      "transliteration": "ইযাছ ছামাউন ফাতারাত।",
+      "translation_bn": "যখন আকাশ বিদীর্ণ হবে,",
+      "translation_en": "When the Sky is cleft asunder;"
+    },
+    {
+      "id": 2,
+      "text": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+      "transliteration": "ওয়া ইযাল কাওয়া-কিবুন তাছারাত।",
+      "translation_bn": "যখন নক্ষত্রসমূহ ঝরে পড়বে,",
+      "translation_en": "When the Stars are scattered;"
+    },
+    {
+      "id": 3,
+      "text": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+      "transliteration": "ওয়া ইযাল বিহা-রু ফুজ্জিরাত।",
+      "translation_bn": "যখন সমুদ্রকে উত্তাল করে তোলা হবে,",
+      "translation_en": "When the Oceans are suffered to burst forth;"
+    },
+    {
+      "id": 4,
+      "text": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+      "transliteration": "ওয়া ইযাল কুবূরু বু‘ছিরাত।",
+      "translation_bn": "এবং যখন কবরসমূহ উম্মোচিত হবে,",
+      "translation_en": "And when the Graves are turned upside down;-"
+    },
+    {
+      "id": 5,
+      "text": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+      "transliteration": "আলিমাত নাফছুম মা-কাদ্দামাত ওয়া আখখারাত।",
+      "translation_bn": "খন প্রত্যেকে জেনে নিবে সে কি অগ্রে প্রেরণ করেছে এবং কি পশ্চাতে ছেড়ে এসেছে।",
+      "translation_en": "(Then) shall each soul know what it hath sent forward and (what it hath) kept back."
+    },
+    {
+      "id": 6,
+      "text": "يَٰٓأَيُّهَا ٱلْإِنسَٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+      "transliteration": "ইয়াআইয়ূহাল ইনছা-নুমা-গাররাকা বিরাব্বিকাল কারীম।",
+      "translation_bn": "হে মানুষ, কিসে তোমাকে তোমার মহামহিম পালনকর্তা সম্পর্কে বিভ্রান্ত করল?",
+      "translation_en": "O man! What has seduced thee from thy Lord Most Beneficent?-"
+    },
+    {
+      "id": 7,
+      "text": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "transliteration": "আল্লাযী খালাকাকা ফাছাওওয়া-কা ফা‘আদালাক।",
+      "translation_bn": "যিনি তোমাকে সৃষ্টি করেছেন, অতঃপর তোমাকে সুবিন্যস্ত করেছেন এবং সুষম করেছেন।",
+      "translation_en": "Him Who created thee. Fashioned thee in due proportion, and gave thee a just bias;"
+    },
+    {
+      "id": 8,
+      "text": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+      "transliteration": "ফীআইয়ি সূরাতিম মা- শাআ রাক্কাবাক",
+      "translation_bn": "যিনি তোমাকে তাঁর ইচ্ছামত আকৃতিতে গঠন করেছেন।",
+      "translation_en": "In whatever Form He wills, does He put thee together."
+    },
+    {
+      "id": 9,
+      "text": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+      "transliteration": "কাল্লা-বাল তুকাযযিবূনা বিদ্দীন।",
+      "translation_bn": "কখনও বিভ্রান্ত হয়ো না; বরং তোমরা দান-প্রতিদানকে মিথ্যা মনে কর",
+      "translation_en": "Nay! But ye do reject Right and Judgment!"
+    },
+    {
+      "id": 10,
+      "text": "وَإِنَّ عَلَيْكُمْ لَحَٰفِظِينَ",
+      "transliteration": "ওয়া ইন্না ‘আলাইকুম লাহা-ফিজীন।",
+      "translation_bn": "অবশ্যই তোমাদের উপর তত্ত্বাবধায়ক নিযুক্ত আছে।",
+      "translation_en": "But verily over you (are appointed angels) to protect you,-"
+    },
+    {
+      "id": 11,
+      "text": "كِرَامًا كَٰتِبِينَ",
+      "transliteration": "কিরা-মান কা-তিবীন।",
+      "translation_bn": "সম্মানিত আমল লেখকবৃন্দ।",
+      "translation_en": "Kind and honourable,- Writing down (your deeds):"
+    },
+    {
+      "id": 12,
+      "text": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "transliteration": "ইয়া‘লামূনা মা-তাফ‘আলূন।",
+      "translation_bn": "তারা জানে যা তোমরা কর।",
+      "translation_en": "They know (and understand) all that ye do."
+    },
+    {
+      "id": 13,
+      "text": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "transliteration": "ইন্নাল আবরা-রা লাফী না‘ঈম।",
+      "translation_bn": "সৎকর্মশীলগণ থাকবে জান্নাতে।",
+      "translation_en": "As for the Righteous, they will be in bliss;"
+    },
+    {
+      "id": 14,
+      "text": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
+      "transliteration": "ওয়া ইন্নাল ফুজ্জা-রা লাফী জাহীম।",
+      "translation_bn": "এবং দুষ্কর্মীরা থাকবে জাহান্নামে;",
+      "translation_en": "And the Wicked - they will be in the Fire,"
+    },
+    {
+      "id": 15,
+      "text": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+      "transliteration": "ইয়াসলাওনাহা-ইয়াওমাদ্দীন।",
+      "translation_bn": "তারা বিচার দিবসে তথায় প্রবেশ করবে।",
+      "translation_en": "Which they will enter on the Day of Judgment,"
+    },
+    {
+      "id": 16,
+      "text": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+      "transliteration": "ওয়ামা-হুম ‘আনহা-বিগাইবীন।",
+      "translation_bn": "তারা সেখান থেকে পৃথক হবে না।",
+      "translation_en": "And they will not be able to keep away therefrom."
+    },
+    {
+      "id": 17,
+      "text": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "transliteration": "ওয়ামাআদরা-কা মা-ইয়াওমুদ্দীন।",
+      "translation_bn": "আপনি জানেন, বিচার দিবস কি?",
+      "translation_en": "And what will explain to thee what the Day of Judgment is?"
+    },
+    {
+      "id": 18,
+      "text": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "transliteration": "ছু ম্মা মাআদরা-কা মা-ইয়াওমুদ্দীন।",
+      "translation_bn": "অতঃপর আপনি জানেন, বিচার দিবস কি?",
+      "translation_en": "Again, what will explain to thee what the Day of Judgment is?"
+    },
+    {
+      "id": 19,
+      "text": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+      "transliteration": "ইয়াওমা লা-তামলিকুনাফছুল লিনাফছিন শাইআওঁ ওয়াল আমরু ইয়াওমাইযিল লিল্লা-হি।",
+      "translation_bn": "যেদিন কেউ কারও কোন উপকার করতে পারবে না এবং সেদিন সব কতৃꦣ2468;্ব হবে আল্লাহর।",
+      "translation_en": "(It will be) the Day when no soul shall have power (to do) aught for another: For the command, that Day, will be (wholly) with Allah."
+    }
+  ]
+}

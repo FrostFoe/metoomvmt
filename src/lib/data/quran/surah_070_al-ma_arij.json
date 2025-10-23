@@ -1,0 +1,318 @@
+{
+  "id": 70,
+  "name": "المعارج",
+  "transliteration": "Al-Ma'arij",
+  "translation": "The Ways of Ascent",
+  "type": "Meccan",
+  "total_verses": 44,
+  "verses": [
+    {
+      "id": 1,
+      "text": "سَأَلَ سَآئِلٌۢ بِعَذَابٍ وَاقِعٍ",
+      "transliteration": "ছাআলা ছাইলুম বি‘আযা-বিওঁ ওয়াকি‘।",
+      "translation_bn": "একব্যক্তি চাইল, সেই আযাব সংঘটিত হোক যা অবধারিত-",
+      "translation_en": "A questioner asked about a Penalty to befall-"
+    },
+    {
+      "id": 2,
+      "text": "لِّلْكَٰفِرِينَ لَيْسَ لَهُۥ دَافِعٌ",
+      "transliteration": "লিলকা-ফিরীনা লাইছা লাহূদা-ফি‘।",
+      "translation_bn": "কাফেরদের জন্যে, যার প্রতিরোধকারী কেউ নেই।",
+      "translation_en": "The Unbelievers, the which there is none to ward off,-"
+    },
+    {
+      "id": 3,
+      "text": "مِّنَ ٱللَّهِ ذِى ٱلْمَعَارِجِ",
+      "transliteration": "মিনাল্লা-হি যিল মা‘আ-রিজ।",
+      "translation_bn": "তা আসবে আল্লাহ তা’আলার পক্ষ থেকে, যিনি সমুন্নত মর্তবার অধিকারী।",
+      "translation_en": "(A Penalty) from Allah, Lord of the Ways of Ascent."
+    },
+    {
+      "id": 4,
+      "text": "تَعْرُجُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥ خَمْسِينَ أَلْفَ سَنَةٍ",
+      "transliteration": "তা‘রুজুলমালাইকাতুওয়াররূহুইলাইহি ফী ইয়াওমিন কা-না মিকদা-রুহূখামছীনা আলফা ছানাহ।",
+      "translation_bn": "ফেরেশতাগণ এবং রূহ আল্লাহ তা’আলার দিকে উর্ধ্বগামী হয় এমন একদিনে, যার পরিমাণ পঞ্চাশ হাজার বছর।",
+      "translation_en": "The angels and the spirit ascend unto him in a Day the measure whereof is (as) fifty thousand years:"
+    },
+    {
+      "id": 5,
+      "text": "فَٱصْبِرْ صَبْرًا جَمِيلًا",
+      "transliteration": "ফাসবির সাবরান জামীলা-।",
+      "translation_bn": "অতএব, আপনি উত্তম সবর করুন।",
+      "translation_en": "Therefore do thou hold Patience,- a Patience of beautiful (contentment)."
+    },
+    {
+      "id": 6,
+      "text": "إِنَّهُمْ يَرَوْنَهُۥ بَعِيدًا",
+      "transliteration": "ইন্নাহুম ইয়ারাওনাহূবা‘ঈদা।",
+      "translation_bn": "তারা এই আযাবকে সুদূরপরাহত মনে করে,",
+      "translation_en": "They see the (Day) indeed as a far-off (event):"
+    },
+    {
+      "id": 7,
+      "text": "وَنَرَىٰهُ قَرِيبًا",
+      "transliteration": "ওয়া নারা-হু কারীবা- ।",
+      "translation_bn": "আর আমি একে আসন্ন দেখছি।",
+      "translation_en": "But We see it (quite) near."
+    },
+    {
+      "id": 8,
+      "text": "يَوْمَ تَكُونُ ٱلسَّمَآءُ كَٱلْمُهْلِ",
+      "transliteration": "ইয়াওমা তাকূনুছ ছামা-উ কালমুহল, ।",
+      "translation_bn": "সেদিন আকাশ হবে গলিত তামার মত।",
+      "translation_en": "The Day that the sky will be like molten brass,"
+    },
+    {
+      "id": 9,
+      "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ",
+      "transliteration": "ওয়া তাকূনুল জিবা-লুকাল‘ইহন।",
+      "translation_bn": "এবং পর্বতসমূহ হবে রঙ্গীন পশমের মত,",
+      "translation_en": "And the mountains will be like wool,"
+    },
+    {
+      "id": 10,
+      "text": "وَلَا يَسْـَٔلُ حَمِيمٌ حَمِيمًا",
+      "transliteration": "ওয়ালা-ইয়াছআলুহামীমুন হামীমা- ।",
+      "translation_bn": "বন্ধু বন্ধুর খবর নিবে না।",
+      "translation_en": "And no friend will ask after a friend,"
+    },
+    {
+      "id": 11,
+      "text": "يُبَصَّرُونَهُمْ يَوَدُّ ٱلْمُجْرِمُ لَوْ يَفْتَدِى مِنْ عَذَابِ يَوْمِئِذٍۭ بِبَنِيهِ",
+      "transliteration": "ইউবাসসারূনাহুম ইয়াওয়াদ্দুল মুজরিমুলাও ইয়াফতাদী মিন ‘আযা- বি ইয়াওমিইযিম ব্বিানীহ।",
+      "translation_bn": "যদিও একে অপরকে দেখতে পাবে। সেদিন গোনাহগার ব্যক্তি পনস্বরূপ দিতে চাইবে তার সন্তান-সন্ততিকে,",
+      "translation_en": "Though they will be put in sight of each other,- the sinner's desire will be: Would that he could redeem himself from the Penalty of that Day by (sacrificing) his children,"
+    },
+    {
+      "id": 12,
+      "text": "وَصَٰحِبَتِهِۦ وَأَخِيهِ",
+      "transliteration": "ওয়া সা-হিবাতিহী ওয়া আখীহ।",
+      "translation_bn": "তার স্ত্রীকে, তার ভ্রাতাকে,",
+      "translation_en": "His wife and his brother,"
+    },
+    {
+      "id": 13,
+      "text": "وَفَصِيلَتِهِ ٱلَّتِى تُـْٔوِيهِ",
+      "transliteration": "ওয়া ফাসীলাতিহিল্লাতী তু’বীহ।",
+      "translation_bn": "তার গোষ্ঠীকে, যারা তাকে আশ্রয় দিত।",
+      "translation_en": "His kindred who sheltered him,"
+    },
+    {
+      "id": 14,
+      "text": "وَمَن فِى ٱلْأَرْضِ جَمِيعًا ثُمَّ يُنجِيهِ",
+      "transliteration": "ওয়া মান ফিল আরদিজামী‘আন ছু ম্মা ইউনজীহ।",
+      "translation_bn": "এবং পৃথিবীর সবকিছুকে, অতঃপর নিজেকে রক্ষা করতে চাইবে।",
+      "translation_en": "And all, all that is on earth,- so it could deliver him:"
+    },
+    {
+      "id": 15,
+      "text": "كَلَّآ إِنَّهَا لَظَىٰ",
+      "transliteration": "কাল্লা- ইন্নাহা-লাজা- ।",
+      "translation_bn": "কখনই নয়। নিশ্চয় এটা লেলিহান অগ্নি।",
+      "translation_en": "By no means! for it would be the Fire of Hell!-"
+    },
+    {
+      "id": 16,
+      "text": "نَزَّاعَةً لِّلشَّوَىٰ",
+      "transliteration": "নাঝঝা‘আতাল লিশশাওয়া-।",
+      "translation_bn": "যা চামড়া তুলে দিবে।",
+      "translation_en": "Plucking out (his being) right to the skull!-"
+    },
+    {
+      "id": 17,
+      "text": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+      "transliteration": "তাদ‘উ মান আদবারা ওয়া তাওয়াল্লা- ।",
+      "translation_bn": "সে সেই ব্যক্তিকে ডাকবে যে সত্যের প্রতি পৃষ্ঠপ্রদর্শন করেছিল ও বিমুখ হয়েছিল।",
+      "translation_en": "Inviting (all) such as turn their backs and turn away their faces (from the Right)."
+    },
+    {
+      "id": 18,
+      "text": "وَجَمَعَ فَأَوْعَىٰٓ",
+      "transliteration": "ওয়া জামা‘আ ফাআও‘আ- ।",
+      "translation_bn": "সম্পদ পুঞ্জীভূত করেছিল, অতঃপর আগলিয়ে রেখেছিল।",
+      "translation_en": "And collect (wealth) and hide it (from use)!"
+    },
+    {
+      "id": 19,
+      "text": "إِنَّ ٱلْإِنسَٰنَ خُلِقَ هَلُوعًا",
+      "transliteration": "ইন্নাল ইনছা-না খুলিকা হালূ‘আ- ।",
+      "translation_bn": "মানুষ তো সৃজিত হয়েছে ভীরুরূপে।",
+      "translation_en": "Truly man was created very impatient;-"
+    },
+    {
+      "id": 20,
+      "text": "إِذَا مَسَّهُ ٱلشَّرُّ جَزُوعًا",
+      "transliteration": "ইযা- মাছছাহুশশাররু জাঝূ‘আ- ।",
+      "translation_bn": "যখন তাকে অনিষ্ট স্পর্শ করে, তখন সে হা-হুতাশ করে।",
+      "translation_en": "Fretful when evil touches him;"
+    },
+    {
+      "id": 21,
+      "text": "وَإِذَا مَسَّهُ ٱلْخَيْرُ مَنُوعًا",
+      "transliteration": "ওয়া ইযা-মাছছাহুল খাইরু মানূ‘আ- ।",
+      "translation_bn": "আর যখন কল্যাণপ্রাপ্ত হয়, তখন কৃপণ হয়ে যায়।",
+      "translation_en": "And niggardly when good reaches him;-"
+    },
+    {
+      "id": 22,
+      "text": "إِلَّا ٱلْمُصَلِّينَ",
+      "transliteration": "ইল্লাল মুসাল্লীন।",
+      "translation_bn": "তবে তারা স্বতন্ত্র, যারা নামায আদায় কারী।",
+      "translation_en": "Not so those devoted to Prayer;-"
+    },
+    {
+      "id": 23,
+      "text": "ٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَآئِمُونَ",
+      "transliteration": "আল্লাযীনা হুম ‘আলা-সালা-তিহিম দাইমূন।",
+      "translation_bn": "যারা তাদের নামাযে সার্বক্ষণিক কায়েম থাকে।",
+      "translation_en": "Those who remain steadfast to their prayer;"
+    },
+    {
+      "id": 24,
+      "text": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ",
+      "transliteration": "ওয়াল্লাযীনা ফীআমওয়া-লিহিম হাক্কুম মা‘লূম।",
+      "translation_bn": "এবং যাদের ধন-সম্পদে নির্ধারিত হক আছে",
+      "translation_en": "And those in whose wealth is a recognised right."
+    },
+    {
+      "id": 25,
+      "text": "لِّلسَّآئِلِ وَٱلْمَحْرُومِ",
+      "transliteration": "লিছছাইলি ওয়াল মাহরূম।",
+      "translation_bn": "যাঞ্ছাকারী ও বঞ্চিতের",
+      "translation_en": "For the (needy) who asks and him who is prevented (for some reason from asking);"
+    },
+    {
+      "id": 26,
+      "text": "وَٱلَّذِينَ يُصَدِّقُونَ بِيَوْمِ ٱلدِّينِ",
+      "transliteration": "ওয়াল্লায়ীনা ইউসাদ্দিকূনা বিইয়াওমিদ্দীন।",
+      "translation_bn": "এবং যারা প্রতিফল দিবসকে সত্য বলে বিশ্বাস করে।",
+      "translation_en": "And those who fear the displeasure of their Lord,-"
+    },
+    {
+      "id": 27,
+      "text": "وَٱلَّذِينَ هُم مِّنْ عَذَابِ رَبِّهِم مُّشْفِقُونَ",
+      "transliteration": "ওয়াল্লাযীনা হুম মিন ‘আযা-বি রাব্বিহিম মুশফিকূন।",
+      "translation_bn": "এবং যারা তাদের পালনকর্তার শাস্তির সম্পর্কে ভীত-কম্পিত।",
+      "translation_en": "And those who fear the displeasure of their Lord,-"
+    },
+    {
+      "id": 28,
+      "text": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ",
+      "transliteration": "ইন্না ‘আযা-বা রাব্বিহিম গাইরু মা’মূন।",
+      "translation_bn": "নিশ্চয় তাদের পালনকর্তার শাস্তি থেকে নিঃশঙ্কা থাকা যায় না।",
+      "translation_en": "For their Lord's displeasure is the opposite of Peace and Tranquillity;-"
+    },
+    {
+      "id": 29,
+      "text": "وَٱلَّذِينَ هُمْ لِفُرُوجِهِمْ حَٰفِظُونَ",
+      "transliteration": "ওয়াল্লাযীনাহুম লিফুরূজিহিম হা-ফিজূ ন।",
+      "translation_bn": "এবং যারা তাদের যৌন-অঙ্গকে সংযত রাখে",
+      "translation_en": "And those who guard their chastity,"
+    },
+    {
+      "id": 30,
+      "text": "إِلَّا عَلَىٰٓ أَزْوَٰجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+      "transliteration": "ইল্লা-‘আলাআযওয়া-জিহিম আও মা-মালাকাত আইমা-নুহুম ফাইন্নাহুম গাইরু মালূমীন।",
+      "translation_bn": "কিন্তু তাদের স্ত্রী অথবা মালিকানাভূক্ত দাসীদের বেলায় তিরস্কৃত হবে না।",
+      "translation_en": "Except with their wives and the (captives) whom their right hands possess,- for (then) they are not to be blamed,"
+    },
+    {
+      "id": 31,
+      "text": "فَمَنِ ٱبْتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُو۟لَٰٓئِكَ هُمُ ٱلْعَادُونَ",
+      "transliteration": "ফামানিবতাগা-ওয়ারা-আ যা-লিকা ফাউলাইকা হুমুল ‘আ-দূন।=",
+      "translation_bn": "অতএব, যারা এদের ছাড়া অন্যকে কামনা করে, তারাই সীমালংঘনকারী।",
+      "translation_en": "But those who trespass beyond this are transgressors;-"
+    },
+    {
+      "id": 32,
+      "text": "وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
+      "transliteration": "ওয়াল্লাযীনা হুম লিআমা-না-তিহিম ওয়া ‘আহদিহিম রা-‘ঊন।",
+      "translation_bn": "এবং যারা তাদের আমানত ও অঙ্গীকার রক্ষা করে",
+      "translation_en": "And those who respect their trusts and covenants;"
+    },
+    {
+      "id": 33,
+      "text": "وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمْ قَآئِمُونَ",
+      "transliteration": "ওয়াল্লাযীনা হুম বিশাহা-দা-তিহিম কাইমূন।",
+      "translation_bn": "এবং যারা তাদের সাক্ষ্যদানে সরল-নিষ্ঠাবান",
+      "translation_en": "And those who stand firm in their testimonies;="
+    },
+    {
+      "id": 34,
+      "text": "وَٱلَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "transliteration": "ওয়াল্লাযীনা হুম ‘আলা-সালা-তিহিম ইউহা-ফিজূ ন।",
+      "translation_bn": "এবং যারা তাদের নামাযে যত্নবান,",
+      "translation_en": "And those who guard (the sacredness) of their worship;-"
+    },
+    {
+      "id": 35,
+      "text": "أُو۟لَٰٓئِكَ فِى جَنَّٰتٍ مُّكْرَمُونَ",
+      "transliteration": "উলাইকা ফী জান্না-তিম মুকরামূন।",
+      "translation_bn": "তারাই জান্নাতে সম্মানিত হবে।",
+      "translation_en": "Such will be the honoured ones in the Gardens (of Bliss)."
+    },
+    {
+      "id": 36,
+      "text": "فَمَالِ ٱلَّذِينَ كَفَرُوا۟ قِبَلَكَ مُهْطِعِينَ",
+      "transliteration": "ফামা-লিল্লাযীনা কাফারূ কিবালাকা মুহতি‘ঈন।",
+      "translation_bn": "অতএব, কাফেরদের কি হল যে, তারা আপনার দিকে উর্ধ্বশ্বাসে ছুটে আসছে।",
+      "translation_en": "Now what is the matter with the Unbelievers that they rush madly before thee-"
+    },
+    {
+      "id": 37,
+      "text": "عَنِ ٱلْيَمِينِ وَعَنِ ٱلشِّمَالِ عِزِينَ",
+      "transliteration": "‘আনিল ইয়ামীনি ওয়া‘আনিশশিমা-লি ‘ইঝীন।",
+      "translation_bn": "ডান ও বামদিক থেকে দলে দলে।",
+      "translation_en": "From the right and from the left, in crowds?"
+    },
+    {
+      "id": 38,
+      "text": "أَيَطْمَعُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُدْخَلَ جَنَّةَ نَعِيمٍ",
+      "transliteration": "আইয়াতমা‘উ কুল্লুম রিইম মিনহুম আইঁ ইউদখালা জান্নাতা না‘ঈম।",
+      "translation_bn": "তাদের প্রত্যেকেই কি আশা করে যে, তাকে নেয়ামতের জান্নাতে দাখিল করা হবে?",
+      "translation_en": "Does every man of them long to enter the Garden of Bliss?"
+    },
+    {
+      "id": 39,
+      "text": "كَلَّآ إِنَّا خَلَقْنَٰهُم مِّمَّا يَعْلَمُونَ",
+      "transliteration": "কাল্লা ইন্না- খালাকনা-হুম মিম্মা-ইয়া‘লামূন।",
+      "translation_bn": "কখনই নয়, আমি তাদেরকে এমন বস্তু দ্বারা সৃষ্টি করেছি, যা তারা জানে।",
+      "translation_en": "By no means! For We have created them out of the (base matter) they know!"
+    },
+    {
+      "id": 40,
+      "text": "فَلَآ أُقْسِمُ بِرَبِّ ٱلْمَشَٰرِقِ وَٱلْمَغَٰرِبِ إِنَّا لَقَٰدِرُونَ",
+      "transliteration": "ফালাউকছিমুবিরাব্বিল মাশা-রিকিওয়াল মাগা-রিবি ইন্না- লাকা-দিরূন।",
+      "translation_bn": "আমি শপথ করছি উদয়াচল ও অস্তাচলসমূহের পালনকর্তার, নিশ্চয়ই আমি সক্ষম!",
+      "translation_en": "Now I do call to witness the Lord of all points in the East and the West that We can certainly-"
+    },
+    {
+      "id": 41,
+      "text": "عَلَىٰٓ أَن نُّبَدِّلَ خَيْرًا مِّنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "transliteration": "‘আলাআন নুবাদ্দিলা খাইরাম মিনহুম ওয়ামা-নাহনুবিমাছবূকীন।",
+      "translation_bn": "তাদের পরিবর্তে উৎকৃষ্টতর মানুষ সৃষ্টি করতে এবং এটা আমার সাধ্যের অতীত নয়।",
+      "translation_en": "Substitute for them better (men) than they; And We are not to be defeated (in Our Plan)."
+    },
+    {
+      "id": 42,
+      "text": "فَذَرْهُمْ يَخُوضُوا۟ وَيَلْعَبُوا۟ حَتَّىٰ يُلَٰقُوا۟ يَوْمَهُمُ ٱلَّذِى يُوعَدُونَ",
+      "transliteration": "ফাযারহুম ইয়াখূদূওয়া ইয়াল‘আবূহাত্তা-ইউলা-কূইয়াওমাহুমুল্লাযী ইঊ‘আদূন।",
+      "translation_bn": "অতএব, আপনি তাদেরকে ছেড়ে দিন, তারা বাকবিতন্ডা ও ক্রীড়া-কৌতুক করুক সেই দিবসের সম্মুখীন হওয়া পর্যন্ত, যে দিবসের ওয়াদা তাদের সাথে করা হচ্ছে।",
+      "translation_en": "So leave them to plunge in vain talk and play about, until they encounter that Day of theirs which they have been promised!-"
+    },
+    {
+      "id": 43,
+      "text": "يَوْمَ يَخْرُجُونَ مِنَ ٱلْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ",
+      "transliteration": "ইয়াওমা ইয়াখরুজূনা মিনাল আজদা-ছিছিরা-‘আন কাআন্নাহুম ইলা-নুসুবিইঁ ইঊফিদূন।",
+      "translation_bn": "সে দিন তারা কবর থেকে দ্রুতবেগে বের হবে, যেন তারা কোন এক লক্ষ্যস্থলের দিকে ছুটে যাচ্ছে।",
+      "translation_en": "The Day whereon they will issue from their sepulchres in sudden haste as if they were rushing to a goal-post (fixed for them),-"
+    },
+    {
+      "id": 44,
+      "text": "خَٰشِعَةً أَبْصَٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ذَٰلِكَ ٱلْيَوْمُ ٱلَّذِى كَانُوا۟ يُوعَدُونَ",
+      "transliteration": "খা-শি‘আতান আবসা-রুহুম তারহাকুহুম যিল্লাতুন যা-লিকাল ইয়াওমুল্লাযী কা-নূ ইঊ‘আদূ ন।",
+      "translation_bn": "তাদের দৃষ্টি থাকবে অবনমিত; তারা হবে হীনতাগ্রস্ত। এটাই সেইদিন, যার ওয়াদা তাদেরকে দেয়া হত।",
+      "translation_en": "Their eyes lowered in dejection,- ignominy covering them (all over)! such is the Day the which they are promised!"
+    }
+  ]
+}

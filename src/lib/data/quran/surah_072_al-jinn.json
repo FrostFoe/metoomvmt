@@ -1,0 +1,206 @@
+{
+  "id": 72,
+  "name": "الجن",
+  "transliteration": "Al-Jinn",
+  "translation": "The Jinn",
+  "type": "Meccan",
+  "total_verses": 28,
+  "verses": [
+    {
+      "id": 1,
+      "text": "قُلْ أُوحِىَ إِلَىَّ أَنَّهُ ٱسْتَمَعَ نَفَرٌ مِّنَ ٱلْجِنِّ فَقَالُوٓا۟ إِنَّا سَمِعْنَا قُرْءَانًا عَجَبًا",
+      "transliteration": "কুলঊহিয়া ইলাইইয়া আন্নাহুছতামা‘আ নাফারুম মিনাল জিন্নি ফাকা-লূইন্না-ছামি‘নাকুরআ-নান ‘আজাবা- ।",
+      "translation_bn": "বলুনঃ আমার প্রতি ওহী নাযিল করা হয়েছে যে, জিনদের একটি দল কোরআন শ্রবণ করেছে, অতঃপর তারা বলেছেঃ আমরা বিস্ময়কর কোরআন শ্রবণ করেছি;",
+      "translation_en": "Say: It has been revealed to me that a company of Jinns listened (to the Qur'an). They said, 'We have really heard a wonderful Recital!"
+    },
+    {
+      "id": 2,
+      "text": "يَهْدِىٓ إِلَى ٱلرُّشْدِ فَـَٔامَنَّا بِهِۦ وَلَن نُّشْرِكَ بِرَبِّنَآ أَحَدًا",
+      "transliteration": "ইয়াহদীইলাররুশদি ফাআ-মান্না- বিহী ওয়া লান নুশরিকা বিরাব্বিনাআহাদা- ।",
+      "translation_bn": "যা সৎপথ প্রদর্শন করে। ফলে আমরা তাতে বিশ্বাস স্থাপন করেছি। আমরা কখনও আমাদের পালনকর্তার সাথে কাউকে শরীক করব না",
+      "translation_en": "'It gives guidance to the Right, and we have believed therein: we shall not join (in worship) any (gods) with our Lord."
+    },
+    {
+      "id": 3,
+      "text": "وَأَنَّهُۥ تَعَٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَٰحِبَةً وَلَا وَلَدًا",
+      "transliteration": "ওয়া আন্নাহূতা‘আ- জাদ্দুরাব্বিনা- মাত্তাখাযা সা-হিবাতাওঁ ওয়ালা- ওয়ালাদা- ।",
+      "translation_bn": "এবং আরও বিশ্বাস করি যে, আমাদের পালনকর্তার মহান মর্যাদা সবার উর্ধ্বে। তিনি কোন পত্নী গ্রহণ করেননি এবং তাঁর কোন সন্তান নেই।",
+      "translation_en": "'And Exalted is the Majesty of our Lord: He has taken neither a wife nor a son."
+    },
+    {
+      "id": 4,
+      "text": "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطًا",
+      "transliteration": "ওয়া আন্নাহূকা-না ইয়াকূলুছাফীহুনা- ‘আলাল্লা-হি শাতাতা- ।",
+      "translation_bn": "আমাদের মধ্যে নির্বোধেরা আল্লাহ তা’আলা সম্পর্কে বাড়াবাড়ির কথাবার্তা বলত।",
+      "translation_en": "'There were some foolish ones among us, who used to utter extravagant lies against Allah;"
+    },
+    {
+      "id": 5,
+      "text": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلْإِنسُ وَٱلْجِنُّ عَلَى ٱللَّهِ كَذِبًا",
+      "transliteration": "ওয়া আন্না- জানান্নাআল্লান তাকূলাল ইনছুওয়াল জিন্নু‘আলাল্লা-হি কাযিবা- ।",
+      "translation_bn": "অথচ আমরা মনে করতাম, মানুষ ও জিন কখনও আল্লাহ তা’আলা সম্পর্কে মিথ্যা বলতে পারে না।",
+      "translation_en": "'But we do think that no man or spirit should say aught that untrue against Allah."
+    },
+    {
+      "id": 6,
+      "text": "وَأَنَّهُۥ كَانَ رِجَالٌ مِّنَ ٱلْإِنسِ يَعُوذُونَ بِرِجَالٍ مِّنَ ٱلْجِنِّ فَزَادُوهُمْ رَهَقًا",
+      "transliteration": "ওয়া আন্নাহূকা-না রিজা-লুম মিনাল ইনছি ইয়া‘ঊযূনা বিরিজা-লিম মিনাল জিন্নি ফাঝা-দূহুম রাহাকা- ।",
+      "translation_bn": "অনেক মানুষ অনেক জিনের আশ্রয় নিত, ফলে তারা জিনদের আত্নম্ভরিতা বাড়িয়ে দিত।",
+      "translation_en": "'True, there were persons among mankind who took shelter with persons among the Jinns, but they increased them in folly."
+    },
+    {
+      "id": 7,
+      "text": "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا",
+      "transliteration": "ওয়া আন্নাহুম জান্নুকামা-জানানতুম আল্লাইঁ ইয়াব‘আছাল্লা- হু আহাদা- ।",
+      "translation_bn": "তারা ধারণা করত, যেমন তোমরা মানবেরা ধারণা কর যে, মৃত্যুর পর আল্লাহ তা’আলা কখনও কাউকে পুনরুত্থিত করবেন না।",
+      "translation_en": "'And they (came to) think as ye thought, that Allah would not raise up any one (to Judgment)."
+    },
+    {
+      "id": 8,
+      "text": "وَأَنَّا لَمَسْنَا ٱلسَّمَآءَ فَوَجَدْنَٰهَا مُلِئَتْ حَرَسًا شَدِيدًا وَشُهُبًا",
+      "transliteration": "ওয়া আন্না-লামাছনাছছামাআ ফাওয়াজাদনা-হা- মুলিইয়াত হারাছান শাদীদাওঁ ওয়া শুহুবা-।",
+      "translation_bn": "আমরা আকাশ পর্যবেক্ষণ করছি, অতঃপর দেখতে পেয়েছি যে, কঠোর প্রহরী ও উল্কাপিন্ড দ্বারা আকাশ পরিপূর্ণ।",
+      "translation_en": "'And we pried into the secrets of heaven; but we found it filled with stern guards and flaming fires."
+    },
+    {
+      "id": 9,
+      "text": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَٰعِدَ لِلسَّمْعِ فَمَن يَسْتَمِعِ ٱلْءَانَ يَجِدْ لَهُۥ شِهَابًا رَّصَدًا",
+      "transliteration": "ওয়া আন্না- কুন্না- নাক‘উদুমিনহা- মাকা-‘ইদা লিছছামা‘ই ফামাইঁ ইয়াছতামি‘ইল আনা ইয়াজিদ লাহূশিহা-বাররাসাদা-।",
+      "translation_bn": "আমরা আকাশের বিভিন্ন ঘাঁটিতে সংবাদ শ্রবণার্থে বসতাম। এখন কেউ সংবাদ শুনতে চাইলে সে জলন্ত উল্কাপিন্ড ওঁৎ পেতে থাকতে দেখে।",
+      "translation_en": "'We used, indeed, to sit there in (hidden) stations, to (steal) a hearing; but any who listen now will find a flaming fire watching him in ambush."
+    },
+    {
+      "id": 10,
+      "text": "وَأَنَّا لَا نَدْرِىٓ أَشَرٌّ أُرِيدَ بِمَن فِى ٱلْأَرْضِ أَمْ أَرَادَ بِهِمْ رَبُّهُمْ رَشَدًا",
+      "transliteration": "ওয়া আন্না-লা-নাদরীআশাররুন উরীদা বিমান ফিল আরদিআম আরা-দা বিহিম রাব্বুহুম রাশাদা- ।",
+      "translation_bn": "আমরা জানি না পৃথিবীবাসীদের অমঙ্গল সাধন করা অভীষ্ট, না তাদের পালনকর্তা তাদের মঙ্গল সাধন করার ইচ্ছা রাখেন।",
+      "translation_en": "'And we understand not whether ill is intended to those on earth, or whether their Lord (really) intends to guide them to right conduct."
+    },
+    {
+      "id": 11,
+      "text": "وَأَنَّا مِنَّا ٱلصَّٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَ كُنَّا طَرَآئِقَ قِدَدًا",
+      "transliteration": "ওয়া আন্না-মিন্নাসসা-লিহূনা ওয়া মিন্না-দূ না যা-লিকা কুন্না-তারাইকা কিদাদা- ।",
+      "translation_bn": "আমাদের কেউ কেউ সৎকর্মপরায়ণ এবং কেউ কেউ এরূপ নয়। আমরা ছিলাম বিভিন্ন পথে বিভক্ত।",
+      "translation_en": "'There are among us some that are righteous, and some the contrary: we follow divergent paths."
+    },
+    {
+      "id": 12,
+      "text": "وَأَنَّا ظَنَنَّآ أَن لَّن نُّعْجِزَ ٱللَّهَ فِى ٱلْأَرْضِ وَلَن نُّعْجِزَهُۥ هَرَبًا",
+      "transliteration": "ওয়া আন্না-জানান্না আল্লান নু‘জিঝাল্লা-হা ফিল আরদিওয়া লান নু‘জিঝাহূহারাবা- ।",
+      "translation_bn": "আমরা বুঝতে পেরেছি যে, আমরা পৃথিবীতে আল্লাহ তা’আলাকে পরাস্ত করতে পারব না এবং পলায়ন করেও তাকে অপারক করত পরব না।",
+      "translation_en": "'But we think that we can by no means frustrate Allah throughout the earth, nor can we frustrate Him by flight."
+    },
+    {
+      "id": 13,
+      "text": "وَأَنَّا لَمَّا سَمِعْنَا ٱلْهُدَىٰٓ ءَامَنَّا بِهِۦ فَمَن يُؤْمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخْسًا وَلَا رَهَقًا",
+      "transliteration": "ওয়া আন্না- লাম্মা- ছামি‘নাল হুদাআ-মান্না- বিহী ফামাইঁ ইউ’মিম বিরাব্বিহী ফালাইয়াখা-ফুবাখছাওঁ ওয়ালা- রাহাকা- ।",
+      "translation_bn": "আমরা যখন সুপথের নির্দেশ শুনলাম, তখন তাতে বিশ্বাস স্থাপন করলাম। অতএব, যে তার পালনকর্তার প্রতি বিশ্বাস করে, সে লোকসান ও জোর-জবরের আশংকা করে না।",
+      "translation_en": "'And as for us, since we have listened to the Guidance, we have accepted it: and any who believes in his Lord has no fear, either of a short (account) or of any injustice."
+    },
+    {
+      "id": 14,
+      "text": "وَأَنَّا مِنَّا ٱلْمُسْلِمُونَ وَمِنَّا ٱلْقَٰسِطُونَ فَمَنْ أَسْلَمَ فَأُو۟لَٰٓئِكَ تَحَرَّوْا۟ رَشَدًا",
+      "transliteration": "ওয়া আন্না- মিন্নাল মুছলিমূনা ওয়া মিন্নাল কা-ছিতূনা ফামান আছলামা ফাউলাইকা তাহররাওঁ ওাশাদা-।",
+      "translation_bn": "আমাদের কিছুসংখ্যক আজ্ঞাবহ এবং কিছুসংখ্যক অন্যায়কারী। যারা আজ্ঞাবহ হয়, তারা সৎপথ বেছে নিয়েছে।",
+      "translation_en": "'Amongst us are some that submit their wills (to Allah), and some that swerve from justice. Now those who submit their wills - they have sought out (the path) of right conduct:"
+    },
+    {
+      "id": 15,
+      "text": "وَأَمَّا ٱلْقَٰسِطُونَ فَكَانُوا۟ لِجَهَنَّمَ حَطَبًا",
+      "transliteration": "ওয়া আম্মাল কা-ছিতু না ফাকা-নূলিজাহান্নামা হাতাবা- ।",
+      "translation_bn": "আর যারা অন্যায়কারী, তারা তো জাহান্নামের ইন্ধন।",
+      "translation_en": "'But those who swerve,- they are (but) fuel for Hell-fire'-"
+    },
+    {
+      "id": 16,
+      "text": "وَأَلَّوِ ٱسْتَقَٰمُوا۟ عَلَى ٱلطَّرِيقَةِ لَأَسْقَيْنَٰهُم مَّآءً غَدَقًا",
+      "transliteration": "ওয়া আল্লাবিছতাকা-মূ‘আলাত্তারীকাতি লাআছকাইনা-হুম মাআন গাদাকা-।",
+      "translation_bn": "আর এই প্রত্যাদেশ করা হয়েছে যে, তারা যদি সত্যপথে কায়েম থাকত, তবে আমি তাদেরকে প্রচুর পানি বর্ষণে সিক্ত করতাম।",
+      "translation_en": "(And Allah's Message is): \"If they (the Pagans) had (only) remained on the (right) Way, We should certainly have bestowed on them Rain in abundance."
+    },
+    {
+      "id": 17,
+      "text": "لِّنَفْتِنَهُمْ فِيهِ وَمَن يُعْرِضْ عَن ذِكْرِ رَبِّهِۦ يَسْلُكْهُ عَذَابًا صَعَدًا",
+      "transliteration": "লিনাফতিনাহুম ফীহি ওয়া মাইঁ ইউ‘রিদ‘আন যিকরি রাব্বিহী ইয়াছলুকহু ‘আযা-বান সা‘আদা- ।",
+      "translation_bn": "যাতে এ ব্যাপারে তাদেরকে পরীক্ষা করি। পক্ষান্তরে যে ব্যক্তি তার পালনকর্তার স্মরণ থেকে মুখ ফিরিয়ে নেয়, তিনি তাকে উদীয়মান আযাবে পরিচালিত করবেন।",
+      "translation_en": "\"That We might try them by that (means). But if any turns away from the remembrance of his Lord, He will cause him to undergo a severe Penalty."
+    },
+    {
+      "id": 18,
+      "text": "وَأَنَّ ٱلْمَسَٰجِدَ لِلَّهِ فَلَا تَدْعُوا۟ مَعَ ٱللَّهِ أَحَدًا",
+      "transliteration": "ওয়া আন্নাল মাছা-জিদা লিল্লা-হি ফালা- তাদ‘ঊ মা‘আল্লা-হি আহাদা-।",
+      "translation_bn": "এবং এই ওহীও করা হয়েছে যে, মসজিদসমূহ আল্লাহ তা’আলাকে স্মরণ করার জন্য। অতএব, তোমরা আল্লাহ তা’আলার সাথে কাউকে ডেকো না।",
+      "translation_en": "\"And the places of worship are for Allah (alone): So invoke not any one along with Allah;"
+    },
+    {
+      "id": 19,
+      "text": "وَأَنَّهُۥ لَمَّا قَامَ عَبْدُ ٱللَّهِ يَدْعُوهُ كَادُوا۟ يَكُونُونَ عَلَيْهِ لِبَدًا",
+      "transliteration": "ওয়া আন্নাহূলাম্মা-কা- মা ‘আবদুল্লা-হি ইয়াদ‘ঊহু কা-দূইয়াকূনূনা ‘আলাইহি লিবাদা-।",
+      "translation_bn": "আর যখন আল্লাহ তা’আলার বান্দা তাঁকে ডাকার জন্যে দন্ডায়মান হল, তখন অনেক জিন তার কাছে ভিড় জমাল।",
+      "translation_en": "\"Yet when the Devotee of Allah stands forth to invoke Him, they just make round him a dense crowd.\""
+    },
+    {
+      "id": 20,
+      "text": "قُلْ إِنَّمَآ أَدْعُوا۟ رَبِّى وَلَآ أُشْرِكُ بِهِۦٓ أَحَدًا",
+      "transliteration": "কুল ইন্নামাআদ‘ঊ রাববী ওয়ালাউশরিকুবিহীআহাদা-।",
+      "translation_bn": "বলুনঃ আমি তো আমার পালনকর্তাকেই ডাকি এবং তাঁর সাথে কাউকে শরীক করি না।",
+      "translation_en": "Say: \"I do no more than invoke my Lord, and I join not with Him any (false god).\""
+    },
+    {
+      "id": 21,
+      "text": "قُلْ إِنِّى لَآ أَمْلِكُ لَكُمْ ضَرًّا وَلَا رَشَدًا",
+      "transliteration": "কুল ইন্নী লাআমলিকুলাকুম দাররাওঁ ওয়ালা-রাশাদা- ।",
+      "translation_bn": "বলুনঃ আমি তোমাদের ক্ষতি সাধন করার ও সুপথে আনয়ন করার মালিক নই।",
+      "translation_en": "Say: \"It is not in my power to cause you harm, or to bring you to right conduct.\""
+    },
+    {
+      "id": 22,
+      "text": "قُلْ إِنِّى لَن يُجِيرَنِى مِنَ ٱللَّهِ أَحَدٌ وَلَنْ أَجِدَ مِن دُونِهِۦ مُلْتَحَدًا",
+      "transliteration": "কুল ইন্নী লাইঁ ইউজীরানী মিনাল্লা-হি আহাদুওঁ ওয়া লান আজিদা মিন দূ নিহী মুলতাহাদা-।",
+      "translation_bn": "বলুনঃ আল্লাহ তা’আলার কবল থেকে আমাকে কেউ রক্ষা করতে পারবে না এবং তিনি ব্যতীত আমি কোন আশ্রয়স্থল পাব না।",
+      "translation_en": "Say: \"No one can deliver me from Allah (If I were to disobey Him), nor should I find refuge except in Him,"
+    },
+    {
+      "id": 23,
+      "text": "إِلَّا بَلَٰغًا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦ وَمَن يَعْصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا",
+      "transliteration": "ইল্লা-বালা-গাম মিনাল্লা-হি ওয়া রিছা-লা-তিহী ওয়া মাইঁ ইয়া‘সিল্লা-হা ওয়া রাছূলাহূ ফাইন্না লাহূনা-রা জাহান্নামা খা-লিদীনা ফীহাআবাদা- ।",
+      "translation_bn": "কিন্তু আল্লাহ তা’আলার বাণী পৌছানো ও তাঁর পয়গাম প্রচার করাই আমার কাজ। যে আল্লাহ ও তাঁর রসূলকে অমান্য করে, তার জন্যে রয়েছে জাহান্নামের অগ্নি। তথায় তারা চিরকাল থাকবে।",
+      "translation_en": "\"Unless I proclaim what I receive from Allah and His Messages: for any that disobey Allah and His Messenger,- for them is Hell: they shall dwell therein for ever.\""
+    },
+    {
+      "id": 24,
+      "text": "حَتَّىٰٓ إِذَا رَأَوْا۟ مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+      "transliteration": "হাত্তা ইয়া- রাআও মা- ইঊ‘আদূনা ফাছাইয়া‘লামূনা মান আদ‘আফুনা-সিরাওঁ ওয়া আকাল্লু‘আদাদা- ।",
+      "translation_bn": "এমনকি যখন তারা প্রতিশ্রুত শাস্তি দেখতে পাবে, তখন তারা জানতে পারবে, কার সাহায্যকারী দূর্বল এবং কার সংখ্যা কম।",
+      "translation_en": "At length, when they see (with their own eyes) that which they are promised,- then will they know who it is that is weakest in (his) helper and least important in point of numbers."
+    },
+    {
+      "id": 25,
+      "text": "قُلْ إِنْ أَدْرِىٓ أَقَرِيبٌ مَّا تُوعَدُونَ أَمْ يَجْعَلُ لَهُۥ رَبِّىٓ أَمَدًا",
+      "transliteration": "কুল ইন আদরীআকারীবুম মা-তূ‘আদূনা আম ইয়াজ‘আলুলাহূরাববীআমাদা-।",
+      "translation_bn": "বলুনঃ আমি জানি না তোমাদের প্রতিশ্রুত বিষয় আসন্ন না আমার পালনকর্তা এর জন্যে কোন মেয়াদ স্থির করে রেখেছেন।",
+      "translation_en": "Say: \"I know not whether the (Punishment) which ye are promised is near, or whether my Lord will appoint for it a distant term."
+    },
+    {
+      "id": 26,
+      "text": "عَٰلِمُ ٱلْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِۦٓ أَحَدًا",
+      "transliteration": "‘আ-লিমুলগাইবি ফালা-ইউজহিরু ‘আলা- গাইবিহীআহাদা-।",
+      "translation_bn": "তিনি অদৃশ্যের জ্ঞানী। পরন্ত তিনি অদৃশ্য বিষয় কারও কাছে প্রকাশ করেন না।",
+      "translation_en": "\"He (alone) knows the Unseen, nor does He make any one acquainted with His Mysteries,-"
+    },
+    {
+      "id": 27,
+      "text": "إِلَّا مَنِ ٱرْتَضَىٰ مِن رَّسُولٍ فَإِنَّهُۥ يَسْلُكُ مِنۢ بَيْنِ يَدَيْهِ وَمِنْ خَلْفِهِۦ رَصَدًا",
+      "transliteration": "ইল্লা-মানিরতাদা-মিররাছূলিন ফাইন্নাহূইয়াছলুকুমিম বাইনি ইয়াদাইহি ওয়া মিন খালফিহী রাসাদা- ।",
+      "translation_bn": "তাঁর মনোনীত রসূল ব্যতীত। তখন তিনি তার অগ্রে ও পশ্চাতে প্রহরী নিযুক্ত করেন",
+      "translation_en": "\"Except a messenger whom He has chosen: and then He makes a band of watchers march before him and behind him,"
+    },
+    {
+      "id": 28,
+      "text": "لِّيَعْلَمَ أَن قَدْ أَبْلَغُوا۟ رِسَٰلَٰتِ رَبِّهِمْ وَأَحَاطَ بِمَا لَدَيْهِمْ وَأَحْصَىٰ كُلَّ شَىْءٍ عَدَدًۢا",
+      "transliteration": "লিইয়া‘লামা আন কাদ আবলাগূরিছা-লা-তি রাব্বিহিম ওয়া আহা-তাবিমা-লাদাইহিম ওয়াআহসা- কুল্লা শাইয়িন ‘আদাদা- ।",
+      "translation_bn": "যাতে আল্লাহ তা’আলা জেনে নেন যে, রসূলগণ তাঁদের পালনকর্তার পয়গাম পৌছিয়েছেন কি না। রসূলগণের কাছে যা আছে, তা তাঁর জ্ঞান-গোচর। তিনি সবকিছুর সংখ্যার হিসাব রাখেন।",
+      "translation_en": "\"That He may know that they have (truly) brought and delivered the Messages of their Lord: and He surrounds (all the mysteries) that are with them, and takes account of every single thing.\""
+    }
+  ]
+}

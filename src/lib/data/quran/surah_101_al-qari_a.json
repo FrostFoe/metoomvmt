@@ -1,0 +1,87 @@
+{
+  "id": 101,
+  "name": "القارعة",
+  "transliteration": "Al-Qari'a",
+  "translation": "The Striking Hour",
+  "type": "Meccan",
+  "total_verses": 11,
+  "verses": [
+    {
+      "id": 1,
+      "text": "ٱلْقَارِعَةُ",
+      "transliteration": "আল কা-রি‘আহ।",
+      "translation_bn": "করাঘাতকারী,",
+      "translation_en": "The (Day) of Noise and Clamour:"
+    },
+    {
+      "id": 2,
+      "text": "مَا ٱلْقَارِعَةُ",
+      "transliteration": "মাল কা-রি‘আহ।",
+      "translation_bn": "করাঘাতকারী কি?",
+      "translation_en": "What is the (Day) of Noise and Clamour?"
+    },
+    {
+      "id": 3,
+      "text": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "transliteration": "ওয়ামাআদরা-কা মাল কা-রি‘আহ।",
+      "translation_bn": "করাঘাতকারী সম্পর্কে আপনি কি জানেন ?",
+      "translation_en": "And what will explain to thee what the (Day) of Noise and Clamour is?"
+    },
+    {
+      "id": 4,
+      "text": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "transliteration": "ইয়াওমা ইয়াকূনুন্না-ছুকাল ফারা-শিল মাবছূছ।",
+      "translation_bn": "যেদিন মানুষ হবে বিক্ষিপ্ত পতংগের মত",
+      "translation_en": "(It is) a Day whereon men will be like moths scattered about,"
+    },
+    {
+      "id": 5,
+      "text": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "transliteration": "ওয়া তাকূনুল জিবা-লুকাল‘ইহনিল মানফূশ।",
+      "translation_bn": "এবং পর্বতমালা হবে ধুনিত রঙ্গীন পশমের মত।",
+      "translation_en": "And the mountains will be like carded wool."
+    },
+    {
+      "id": 6,
+      "text": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "transliteration": "ফাআম্মা-মান ছাকুলাত মাওয়া-ঝীনুহূ।",
+      "translation_bn": "অতএব যার পাল্লা ভারী হবে,",
+      "translation_en": "Then, he whose balance (of good deeds) will be (found) heavy,"
+    },
+    {
+      "id": 7,
+      "text": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "transliteration": "ফাহুওয়া ফী ‘ঈশাতির রা-দিয়াহ।",
+      "translation_bn": "সে সুখীজীবন যাপন করবে।",
+      "translation_en": "Will be in a life of good pleasure and satisfaction."
+    },
+    {
+      "id": 8,
+      "text": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "transliteration": "ওয়া আম্মা-মান খাফফাত মাওয়াঝীনুহূ",
+      "translation_bn": "আর যার পাল্লা হালকা হবে,",
+      "translation_en": "But he whose balance (of good deeds) will be (found) light,-"
+    },
+    {
+      "id": 9,
+      "text": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "transliteration": "ফাউম্মুহূহা-বিইয়াহ।",
+      "translation_bn": "তার ঠিকানা হবে হাবিয়া।",
+      "translation_en": "Will have his home in a (bottomless) Pit."
+    },
+    {
+      "id": 10,
+      "text": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "transliteration": "ওয়ামাআদরা-কা মা-হিয়াহ।",
+      "translation_bn": "আপনি জানেন তা কি?",
+      "translation_en": "And what will explain to thee what this is?"
+    },
+    {
+      "id": 11,
+      "text": "نَارٌ حَامِيَةٌۢ",
+      "transliteration": "না-রুন হা-মিয়াহ।",
+      "translation_bn": "প্রজ্জ্বলিত অগ্নি!",
+      "translation_en": "(It is) a Fire Blazing fiercely!"
+    }
+  ]
+}

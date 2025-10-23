@@ -1,0 +1,304 @@
+{
+  "id": 80,
+  "name": "عبس",
+  "transliteration": "Abasa",
+  "translation": "He frowned",
+  "type": "Meccan",
+  "total_verses": 42,
+  "verses": [
+    {
+      "id": 1,
+      "text": "عَبَسَ وَتَوَلَّىٰٓ",
+      "transliteration": "‘আবাছা ওয়া তাওয়াল্লা-।",
+      "translation_bn": "তিনি ভ্রূকুঞ্চিত করলেন এবং মুখ ফিরিয়ে নিলেন।",
+      "translation_en": "(The Prophet) frowned and turned away,"
+    },
+    {
+      "id": 2,
+      "text": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+      "transliteration": "আন জাআহুল আ‘মা-।",
+      "translation_bn": "কারণ, তাঁর কাছে এক অন্ধ আগমন করল।",
+      "translation_en": "Because there came to him the blind man (interrupting)."
+    },
+    {
+      "id": 3,
+      "text": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+      "transliteration": "ওয়ামা-ইউদরীকা লা‘আল্লাহু ইয়াঝঝাক্কা-।",
+      "translation_bn": "আপনি কি জানেন, সে হয়তো পরিশুদ্ধ হত,",
+      "translation_en": "But what could tell thee but that perchance he might grow (in spiritual understanding)?-"
+    },
+    {
+      "id": 4,
+      "text": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+      "transliteration": "আও ইয়াযযাক্কারু ফাতানফাআহুযযিকরা-।",
+      "translation_bn": "অথবা উপদেশ গ্রহণ করতো এবং উপদেশ তার উপকার হত।",
+      "translation_en": "Or that he might receive admonition, and the teaching might profit him?"
+    },
+    {
+      "id": 5,
+      "text": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+      "transliteration": "আম্মা-মানিছ তাগনা-।",
+      "translation_bn": "পরন্তু যে বেপরোয়া,",
+      "translation_en": "As to one who regards Himself as self-sufficient,"
+    },
+    {
+      "id": 6,
+      "text": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+      "transliteration": "ফাআনতা লাহূতাসাদ্দা-।",
+      "translation_bn": "আপনি তার চিন্তায় মশগুল।",
+      "translation_en": "To him dost thou attend;"
+    },
+    {
+      "id": 7,
+      "text": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+      "transliteration": "ওয়ামা-‘আলাইকা আল্লা-ইয়াঝঝাক্কা-।",
+      "translation_bn": "সে শুদ্ধ না হলে আপনার কোন দোষ নেই।",
+      "translation_en": "Though it is no blame to thee if he grow not (in spiritual understanding)."
+    },
+    {
+      "id": 8,
+      "text": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+      "transliteration": "ওয়া আম্মা-মান জাআকা ইয়াছ‘আ-।",
+      "translation_bn": "যে আপনার কাছে দৌড়ে আসলো",
+      "translation_en": "But as to him who came to thee striving earnestly,"
+    },
+    {
+      "id": 9,
+      "text": "وَهُوَ يَخْشَىٰ",
+      "transliteration": "ওয়া হুওয়া ইয়াখশা-।",
+      "translation_bn": "এমতাবস্থায় যে, সে ভয় করে,",
+      "translation_en": "And with fear (in his heart),"
+    },
+    {
+      "id": 10,
+      "text": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+      "transliteration": "ফাআনতা ‘আনহু তালাহহা-।",
+      "translation_bn": "আপনি তাকে অবজ্ঞা করলেন।",
+      "translation_en": "Of him wast thou unmindful."
+    },
+    {
+      "id": 11,
+      "text": "كَلَّآ إِنَّهَا تَذْكِرَةٌ",
+      "transliteration": "কাল্লাইন্নাহা-তাযকিরাহ।",
+      "translation_bn": "কখনও এরূপ করবেন না, এটা উপদেশবানী।",
+      "translation_en": "By no means (should it be so)! For it is indeed a Message of instruction:"
+    },
+    {
+      "id": 12,
+      "text": "فَمَن شَآءَ ذَكَرَهُۥ",
+      "transliteration": "ফামান শাআ যাকরাহ ।",
+      "translation_bn": "অতএব, যে ইচ্ছা করবে, সে একে গ্রহণ করবে।",
+      "translation_en": "Therefore let whoso will, keep it in remembrance."
+    },
+    {
+      "id": 13,
+      "text": "فِى صُحُفٍ مُّكَرَّمَةٍ",
+      "transliteration": "ফী সুহুফিম মুকাররামাহ",
+      "translation_bn": "এটা লিখিত আছে সম্মানিত,",
+      "translation_en": "(It is) in Books held (greatly) in honour,"
+    },
+    {
+      "id": 14,
+      "text": "مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ",
+      "transliteration": "মারফূ‘আতিম মুতাহহারাহ।",
+      "translation_bn": "উচ্চ পবিত্র পত্রসমূহে,",
+      "translation_en": "Exalted (in dignity), kept pure and holy,"
+    },
+    {
+      "id": 15,
+      "text": "بِأَيْدِى سَفَرَةٍ",
+      "transliteration": "বিআইদী ছাফারাহ।",
+      "translation_bn": "লিপিকারের হস্তে,",
+      "translation_en": "(Written) by the hands of scribes-"
+    },
+    {
+      "id": 16,
+      "text": "كِرَامٍۭ بَرَرَةٍ",
+      "transliteration": "কিরা-মিম বারারাহ।",
+      "translation_bn": "যারা মহৎ, পূত চরিত্র।",
+      "translation_en": "Honourable and Pious and Just."
+    },
+    {
+      "id": 17,
+      "text": "قُتِلَ ٱلْإِنسَٰنُ مَآ أَكْفَرَهُۥ",
+      "transliteration": "কুতিলাল ইনছা-নুমা-আকফারাহ।",
+      "translation_bn": "মানুষ ধ্বংস হোক, সে কত অকৃতজ্ঞ!",
+      "translation_en": "Woe to man! What hath made him reject Allah;"
+    },
+    {
+      "id": 18,
+      "text": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ",
+      "transliteration": "মিন আইয়ি শাইয়িন খালাকাহ।",
+      "translation_bn": "তিনি তাকে কি বস্তু থেকে সৃষ্টি করেছেন?",
+      "translation_en": "From what stuff hath He created him?"
+    },
+    {
+      "id": 19,
+      "text": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+      "transliteration": "মিন নুতফাতিন খালাকাহূফাকাদ্দারাহ।",
+      "translation_bn": "শুক্র থেকে তাকে সৃষ্টি করেছেন, অতঃপর তাকে সুপরিমিত করেছেন।",
+      "translation_en": "From a sperm-drop: He hath created him, and then mouldeth him in due proportions;"
+    },
+    {
+      "id": 20,
+      "text": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+      "transliteration": "ছু ম্মাছ ছাবীলা ইয়াছছরাহ।",
+      "translation_bn": "অতঃপর তার পথ সহজ করেছেন,",
+      "translation_en": "Then doth He make His path smooth for him;"
+    },
+    {
+      "id": 21,
+      "text": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+      "transliteration": "ছু ম্মা আমা-তাহূফাআকবারাহ।",
+      "translation_bn": "অতঃপর তার মৃত্যু ঘটান ও কবরস্থ করেন তাকে।",
+      "translation_en": "Then He causeth him to die, and putteth him in his grave;"
+    },
+    {
+      "id": 22,
+      "text": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+      "transliteration": "ছু ম্মা ইযা-শাআ আনশারাহ।",
+      "translation_bn": "এরপর যখন ইচ্ছা করবেন তখন তাকে পুনরুজ্জীবিত করবেন।",
+      "translation_en": "Then, when it is His Will, He will raise him up (again)."
+    },
+    {
+      "id": 23,
+      "text": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+      "transliteration": "কাল্লা-লাম্মা-ইয়াকদিমাআমারাহ।",
+      "translation_bn": "সে কখনও কৃতজ্ঞ হয়নি, তিনি তাকে যা আদেশ করেছেন, সে তা পূর্ণ করেনি।",
+      "translation_en": "By no means hath he fulfilled what Allah hath commanded him."
+    },
+    {
+      "id": 24,
+      "text": "فَلْيَنظُرِ ٱلْإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+      "transliteration": "ফালাইয়ানজুরিল ইনছা-নুইলা-তা‘আ-মিহ।",
+      "translation_bn": "মানুষ তার খাদ্যের প্রতি লক্ষ্য করুক,",
+      "translation_en": "Then let man look at his food, (and how We provide it):"
+    },
+    {
+      "id": 25,
+      "text": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا",
+      "transliteration": "আন্না-সাবাবনাল মাআ সাব্বা-।",
+      "translation_bn": "আমি আশ্চর্য উপায়ে পানি বর্ষণ করেছি,",
+      "translation_en": "For that We pour forth water in abundance,"
+    },
+    {
+      "id": 26,
+      "text": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا",
+      "transliteration": "ছু ম্মা শাকাকনাল আরদা শাক্কা-।",
+      "translation_bn": "এরপর আমি ভূমিকে বিদীর্ণ করেছি,",
+      "translation_en": "And We split the earth in fragments,"
+    },
+    {
+      "id": 27,
+      "text": "فَأَنۢبَتْنَا فِيهَا حَبًّا",
+      "transliteration": "ফাআমবাতনা-ফীহা-হাব্বা-।",
+      "translation_bn": "অতঃপর তাতে উৎপন্ন করেছি শস্য,",
+      "translation_en": "And produce therein corn,"
+    },
+    {
+      "id": 28,
+      "text": "وَعِنَبًا وَقَضْبًا",
+      "transliteration": "ওয়া ‘ইনাবাওঁ ওয়া কাদবা-।",
+      "translation_bn": "আঙ্গুর, শাক-সব্জি,",
+      "translation_en": "And Grapes and nutritious plants,"
+    },
+    {
+      "id": 29,
+      "text": "وَزَيْتُونًا وَنَخْلًا",
+      "transliteration": "ওয়া ঝাইতূনাওঁ ওয়া নাখলা-।",
+      "translation_bn": "যয়তুন, খর্জূর,",
+      "translation_en": "And Olives and Dates,"
+    },
+    {
+      "id": 30,
+      "text": "وَحَدَآئِقَ غُلْبًا",
+      "transliteration": "ওয়া হাদাইকা গুলবা-।",
+      "translation_bn": "ঘন উদ্যান,",
+      "translation_en": "And enclosed Gardens, dense with lofty trees,"
+    },
+    {
+      "id": 31,
+      "text": "وَفَٰكِهَةً وَأَبًّا",
+      "transliteration": "ওয়া ফা-কিহাতাওঁ ওয়া আব্বা-।",
+      "translation_bn": "ফল এবং ঘাস",
+      "translation_en": "And fruits and fodder,-"
+    },
+    {
+      "id": 32,
+      "text": "مَّتَٰعًا لَّكُمْ وَلِأَنْعَٰمِكُمْ",
+      "transliteration": "মাতা-‘আল্লাকুম ওয়ালি আন‘আ-মিকুম।",
+      "translation_bn": "তোমাদেরও তোমাদের চতুস্পদ জন্তুদের উপাকারার্থে।",
+      "translation_en": "For use and convenience to you and your cattle."
+    },
+    {
+      "id": 33,
+      "text": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+      "transliteration": "ফাইযা-জাআতিসসা-খখাহ।",
+      "translation_bn": "অতঃপর যেদিন কর্ণবিদারক নাদ আসবে,",
+      "translation_en": "At length, when there comes the Deafening Noise,-"
+    },
+    {
+      "id": 34,
+      "text": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+      "transliteration": "ইয়াওমা ইয়াফিররুল মারউ মিন আখীহ।",
+      "translation_bn": "সেদিন পলায়ন করবে মানুষ তার ভ্রাতার কাছ থেকে,",
+      "translation_en": "That Day shall a man flee from his own brother,"
+    },
+    {
+      "id": 35,
+      "text": "وَأُمِّهِۦ وَأَبِيهِ",
+      "transliteration": "ওয়া উম্মিহী ওয়া আবীহ।",
+      "translation_bn": "তার মাতা, তার পিতা,",
+      "translation_en": "And from his mother and his father,"
+    },
+    {
+      "id": 36,
+      "text": "وَصَٰحِبَتِهِۦ وَبَنِيهِ",
+      "transliteration": "ওয়া সা-হিবাতিহী ওয়া বানীহ।",
+      "translation_bn": "তার পত্নী ও তার সন্তানদের কাছ থেকে।",
+      "translation_en": "And from his wife and his children."
+    },
+    {
+      "id": 37,
+      "text": "لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+      "transliteration": "লিকুল্লিম রিইম মিনহুম ইয়াওমাইযিন শা’নুইঁ ইউগনীহ।",
+      "translation_bn": "সেদিন প্রত্যেকেরই নিজের এক চিন্তা থাকবে, যা তাকে ব্যতিব্যস্ত করে রাখবে।",
+      "translation_en": "Each one of them, that Day, will have enough concern (of his own) to make him indifferent to the others."
+    },
+    {
+      "id": 38,
+      "text": "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ",
+      "transliteration": "উজূহুইঁ ইয়াওমাইযিমমুছফিরাহ।",
+      "translation_bn": "অনেক মুখমন্ডল সেদিন হবে উজ্জ্বল,",
+      "translation_en": "Some faces that Day will be beaming,"
+    },
+    {
+      "id": 39,
+      "text": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ",
+      "transliteration": "দা-হিকাতুমমুছতাবশিরাহ।",
+      "translation_bn": "সহাস্য ও প্রফুল্ল।",
+      "translation_en": "Laughing, rejoicing."
+    },
+    {
+      "id": 40,
+      "text": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+      "transliteration": "ওয়া উজূহুইঁ ইয়াওমাইযিন ‘আলাইহা-গাবারাহ।",
+      "translation_bn": "এবং অনেক মুখমন্ডল সেদিন হবে ধুলি ধূসরিত।",
+      "translation_en": "And other faces that Day will be dust-stained,"
+    },
+    {
+      "id": 41,
+      "text": "تَرْهَقُهَا قَتَرَةٌ",
+      "transliteration": "তারহাকুহা-কাতারাহ।",
+      "translation_bn": "তাদেরকে কালিমা আচ্ছন্ন করে রাখবে।",
+      "translation_en": "Blackness will cover them:"
+    },
+    {
+      "id": 42,
+      "text": "أُو۟لَٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+      "transliteration": "উলাইকা হুমুল কাফারাতুল ফাজারাহ।",
+      "translation_bn": "তারাই কাফের পাপিষ্ঠের দল।",
+      "translation_en": "Such will be the Rejecters of Allah, the doers of iniquity."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 99,
+  "name": "الزلزلة",
+  "transliteration": "Az-Zalzalah",
+  "translation": "The Earthquake",
+  "type": "Medinan",
+  "total_verses": 8,
+  "verses": [
+    {
+      "id": 1,
+      "text": "إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "transliteration": "ইযা-ঝুলঝিলাতিল আরদুঝিলঝা-লাহা।",
+      "translation_bn": "যখন পৃথিবী তার কম্পনে প্রকম্পিত হবে,",
+      "translation_en": "When the earth is shaken to her (utmost) convulsion,"
+    },
+    {
+      "id": 2,
+      "text": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "transliteration": "ওয়া আখরাজাতিল আরদুআছকা-লাহা।",
+      "translation_bn": "যখন সে তার বোঝা বের করে দেবে।",
+      "translation_en": "And the earth throws up her burdens (from within),"
+    },
+    {
+      "id": 3,
+      "text": "وَقَالَ ٱلْإِنسَٰنُ مَا لَهَا",
+      "transliteration": "ওয়া কা-লাল ইনছা-নুমা-লাহা।",
+      "translation_bn": "এবং মানুষ বলবে, এর কি হল ?",
+      "translation_en": "And man cries (distressed): 'What is the matter with her?'-"
+    },
+    {
+      "id": 4,
+      "text": "ييَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "transliteration": "ইয়াওমাইযিন তুহাদ্দিছু আখবা-রাহা।",
+      "translation_bn": "সেদিন সে তার বৃত্তান্ত বর্ণনা করবে,",
+      "translation_en": "On that Day will she declare her tidings:"
+    },
+    {
+      "id": 5,
+      "text": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "transliteration": "বিআন্না রাব্বাকা আওহা-লাহা।",
+      "translation_bn": "কারণ, আপনার পালনকর্তা তাকে আদেশ করবেন।",
+      "translation_en": "For that thy Lord will have given her inspiration."
+    },
+    {
+      "id": 6,
+      "text": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَٰلَهُمْ",
+      "transliteration": "ইয়াওমাইযিইঁ ইয়াসদুরুন্না-ছুআশতা-তাল লিউউরাও আ‘মা-লাহুম।",
+      "translation_bn": "সেদিন মানুষ বিভিন্ন দলে প্রকাশ পাবে, যাতে তাদেরকে তাদের কৃতকর্ম দেখানো হয়।",
+      "translation_en": "On that Day will men proceed in companies sorted out, to be shown the deeds that they (had done)."
+    },
+    {
+      "id": 7,
+      "text": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "transliteration": "ফামাইঁ ইয়া‘মাল মিছকা-লা যাররাতিন খাইরাইঁ ইয়ারাহ।",
+      "translation_bn": "অতঃপর কেউ অণু পরিমাণ সৎকর্ম করলে তা দেখতে পাবে",
+      "translation_en": "Then shall anyone who has done an atom's weight of good, see it!"
+    },
+    {
+      "id": 8,
+      "text": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "transliteration": "ওয়া মাইঁ ইয়া‘মাল মিছকা-লা যাররাতিন শাররাইঁ ইয়ারাহ।",
+      "translation_bn": "এবং কেউ অণু পরিমাণ অসৎকর্ম করলে তাও দেখতে পাবে।",
+      "translation_en": "And anyone who has done an atom's weight of evil, shall see it."
+    }
+  ]
+}

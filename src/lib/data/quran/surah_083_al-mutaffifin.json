@@ -1,0 +1,262 @@
+{
+  "id": 83,
+  "name": "المطففين",
+  "transliteration": "Al-Mutaffifin",
+  "translation": "Those Who Deal in Fr",
+  "type": "Meccan",
+  "total_verses": 36,
+  "verses": [
+    {
+      "id": 1,
+      "text": "وَيْلٌ لِّلْمُطَفِّفِينَ",
+      "transliteration": "ওয়াইলুলিললমুতাফফিফীন।",
+      "translation_bn": "যারা মাপে কম করে, তাদের জন্যে দুর্ভোগ,",
+      "translation_en": "Woe to those that deal in fraud,-"
+    },
+    {
+      "id": 2,
+      "text": "ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ",
+      "transliteration": "আল্লাযীনা ইয়াকতা-লূ‘আলান্না-ছি ইয়াছতাওফূন।",
+      "translation_bn": "যারা লোকের কাছ থেকে যখন মেপে নেয়, তখন পূর্ণ মাত্রায় নেয়",
+      "translation_en": "Those who, when they have to receive by measure from men, exact full measure,"
+    },
+    {
+      "id": 3,
+      "text": "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ",
+      "transliteration": "ওয়া ইযা-কা-লূহুম আও ওয়াঝানূহুম ইউখছিরূন।",
+      "translation_bn": "এবং যখন লোকদেরকে মেপে দেয় কিংবা ওজন করে দেয়, তখন কম করে দেয়।",
+      "translation_en": "But when they have to give by measure or weight to men, give less than due."
+    },
+    {
+      "id": 4,
+      "text": "أَلَا يَظُنُّ أُو۟لَٰٓئِكَ أَنَّهُم مَّبْعُوثُونَ",
+      "transliteration": "আলা-ইয়াজু ননুউলাইকা আন্নাহুম মাব‘ঊছূন।",
+      "translation_bn": "তারা কি চিন্তা করে না যে, তারা পুনরুত্থিত হবে।",
+      "translation_en": "Do they not think that they will be called to account?-"
+    },
+    {
+      "id": 5,
+      "text": "لِيَوْمٍ عَظِيمٍ",
+      "transliteration": "লিয়াওমিন ‘আজীমি।",
+      "translation_bn": "সেই মহাদিবসে,",
+      "translation_en": "On a Mighty Day,"
+    },
+    {
+      "id": 6,
+      "text": "يَوْمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلْعَٰلَمِينَ",
+      "transliteration": "ইয়াওমা ইয়াকূমুন্না-ছূলিরাব্বিল ‘আ-লামীন।",
+      "translation_bn": "যেদিন মানুষ দাঁড়াবে বিশ্ব পালনকর্তার সামনে।",
+      "translation_en": "A Day when (all) mankind will stand before the Lord of the Worlds?"
+    },
+    {
+      "id": 7,
+      "text": "كَلَّآ إِنَّ كِتَٰبَ ٱلْفُجَّارِ لَفِى سِجِّينٍ",
+      "transliteration": "কাল্লাইন্না কিতা-বাল ফুজ্জা-রি লাফী ছিজ্জীন।",
+      "translation_bn": "এটা কিছুতেই উচিত নয়, নিশ্চয় পাপাচারীদের আমলনামা সিজ্জীনে আছে।",
+      "translation_en": "Nay! Surely the record of the wicked is (preserved) in Sijjin."
+    },
+    {
+      "id": 8,
+      "text": "وَمَآ أَدْرَىٰكَ مَا سِجِّينٌ",
+      "transliteration": "ওয়ামাআদরা-কা মা-ছিজ্জীন।",
+      "translation_bn": "আপনি জানেন, সিজ্জীন কি?",
+      "translation_en": "And what will explain to thee what Sijjin is?"
+    },
+    {
+      "id": 9,
+      "text": "كِتَٰبٌ مَّرْقُومٌ",
+      "transliteration": "কিতা-বুমমারকুম।",
+      "translation_bn": "এটা লিপিবদ্ধ খাতা।",
+      "translation_en": "(There is) a Register (fully) inscribed."
+    },
+    {
+      "id": 10,
+      "text": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+      "transliteration": "ওয়াইলুইঁ ইয়াওমাইযিল লিলমুকাযযিবীন।",
+      "translation_bn": "সেদিন দুর্ভোগ মিথ্যারোপকারীদের,",
+      "translation_en": "Woe, that Day, to those that deny-"
+    },
+    {
+      "id": 11,
+      "text": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ",
+      "transliteration": "আল্লাযীনা ইউকাযযিবূনা বিইয়াওমিদ্দীন।",
+      "translation_bn": "যারা প্রতিফল দিবসকে মিথ্যারোপ করে।",
+      "translation_en": "Those that deny the Day of Judgment."
+    },
+    {
+      "id": 12,
+      "text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+      "transliteration": "ওয়ামা-ইউকাযযিবুবিহীইল্লা-কুল্লুমু‘তাদিন আছীম।",
+      "translation_bn": "প্রত্যেক সীমালংঘনকারী পাপিষ্ঠই কেবল একে মিথ্যারোপ করে।",
+      "translation_en": "And none can deny it but the Transgressor beyond bounds the Sinner!"
+    },
+    {
+      "id": 13,
+      "text": "إِذَا تُتْلَىٰ عَلَيْهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+      "transliteration": "ইযা-তুতলা-‘আলাইহি আ-য়া-তুনা-কা-লা আছা-তীরুল আওওয়ালীন।",
+      "translation_bn": "তার কাছে আমার আয়াতসমূহ পাঠ করা হলে সে বলে, পুরাকালের উপকথা।",
+      "translation_en": "When Our Signs are rehearsed to him, he says, \"Tales of the ancients!\""
+    },
+    {
+      "id": 14,
+      "text": "كَلَّا بَلْ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ يَكْسِبُونَ",
+      "transliteration": "কাল্লা-বাল রা-না ‘আলা-কুলূবিহিম মা-কা-নূইয়াকছিবূন।",
+      "translation_bn": "কখনও না, বরং তারা যা করে, তাই তাদের হৃদয় মরিচা ধরিয়ে দিয়েছে।",
+      "translation_en": "By no means! but on their hearts is the stain of the (ill) which they do!"
+    },
+    {
+      "id": 15,
+      "text": "كَلَّآ إِنَّهُمْ عَن رَّبِّهِمْ يَوْمَئِذٍ لَّمَحْجُوبُونَ",
+      "transliteration": "কাল্লাইন্নাহুম ‘আর রাব্বিহিম ইয়াওমাইযিল লামাহজূবূন।",
+      "translation_bn": "কখনও না, তারা সেদিন তাদের পালনকর্তার থেকে পর্দার অন্তরালে থাকবে।",
+      "translation_en": "Verily, from (the Light of) their Lord, that Day, will they be veiled."
+    },
+    {
+      "id": 16,
+      "text": "ثُمَّ إِنَّهُمْ لَصَالُوا۟ ٱلْجَحِيمِ",
+      "transliteration": "ছু ম্মা ইন্নাহুম লাসা-লুল জাহীম।",
+      "translation_bn": "অতঃপর তারা জাহান্নামে প্রবেশ করবে।",
+      "translation_en": "Further, they will enter the Fire of Hell."
+    },
+    {
+      "id": 17,
+      "text": "ثُمَّ يُقَالُ هَٰذَا ٱلَّذِى كُنتُم بِهِۦ تُكَذِّبُونَ",
+      "transliteration": "ছু ম্মা ইউকা-লূহা-যাল্লাযী কুনতুম বিহী তুকাযযিবূন।",
+      "translation_bn": "এরপর বলা হবে, একেই তো তোমরা মিথ্যারোপ করতে।",
+      "translation_en": "Further, it will be said to them: \"This is the (reality) which ye rejected as false!"
+    },
+    {
+      "id": 18,
+      "text": "كَلَّآ إِنَّ كِتَٰبَ ٱلْأَبْرَارِ لَفِى عِلِّيِّينَ",
+      "transliteration": "কাল্লাইন্না কিতা-বাল আবরা-রি লাফী ‘ইলিলইঈন।",
+      "translation_bn": "কখনও না, নিশ্চয় সৎলোকদের আমলনামা আছে ইল্লিয়্যীনে।",
+      "translation_en": "Nay, verily the record of the Righteous is (preserved) in 'Illiyin."
+    },
+    {
+      "id": 19,
+      "text": "وَمَآ أَدْرَىٰكَ مَا عِلِّيُّونَ=",
+      "transliteration": "ওয়ামাআদরা-কা মা-‘ইলিলইয়ূন।",
+      "translation_bn": "আপনি জানেন ইল্লিয়্যীন কি?",
+      "translation_en": "And what will explain to thee what 'Illiyun is?"
+    },
+    {
+      "id": 20,
+      "text": "كِتَٰبٌ مَّرْقُومٌ",
+      "transliteration": "কিতা-বুমমারকূম",
+      "translation_bn": "এটা লিপিবদ্ধ খাতা।",
+      "translation_en": "(There is) a Register (fully) inscribed,"
+    },
+    {
+      "id": 21,
+      "text": "يَشْهَدُهُ ٱلْمُقَرَّبُونَ",
+      "transliteration": "ইয়াশহাদুহুল মুকাররাবূন।",
+      "translation_bn": "আল্লাহর নৈকট্যপ্রাপ্ত ফেরেশতাগণ একে প্রত্যক্ষ করে।",
+      "translation_en": "To which bear witness those Nearest (to Allah)."
+    },
+    {
+      "id": 22,
+      "text": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "transliteration": "ইন্নাল আবরা-রা লাফী না‘ঈম।",
+      "translation_bn": "নিশ্চয় সৎলোকগণ থাকবে পরম আরামে,",
+      "translation_en": "Truly the Righteous will be in Bliss:"
+    },
+    {
+      "id": 23,
+      "text": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "transliteration": "‘আলাল আরাইকি ইয়ানজু রুন।",
+      "translation_bn": "সিংহাসনে বসে অবলোকন করবে।",
+      "translation_en": "On Thrones (of Dignity) will they command a sight (of all things):"
+    },
+    {
+      "id": 24,
+      "text": "تَعْرِفُ فِى وُجُوهِهِمْ نَضْرَةَ ٱلنَّعِيمِ",
+      "transliteration": "তা‘রিফুফী উজূহিহিম নাদরাতান্না‘ঈম।",
+      "translation_bn": "আপনি তাদের মুখমন্ডলে স্বাচ্ছন্দ্যের সজীবতা দেখতে পাবেন।",
+      "translation_en": "Thou wilt recognise in their faces the beaming brightness of Bliss."
+    },
+    {
+      "id": 25,
+      "text": "يُسْقَوْنَ مِن رَّحِيقٍ مَّخْتُومٍ",
+      "transliteration": "ইউছকাওনা মির রাহীকিমমাখতূম।",
+      "translation_bn": "তাদেরকে মোহর করা বিশুদ্ধ পানীয় পান করানো হবে।",
+      "translation_en": "Their thirst will be slaked with Pure Wine sealed:"
+    },
+    {
+      "id": 26,
+      "text": "خِتَٰمُهُۥ مِسْكٌ وَفِى ذَٰلِكَ فَلْيَتَنَافَسِ ٱلْمُتَنَٰفِسُونَ",
+      "transliteration": "খিতা-মুহূমিছকুওঁ ওয়া ফী যা-লিকা ফালইয়াতানা-ফাছিল মুতানা-ফিছূন।",
+      "translation_bn": "তার মোহর হবে কস্তুরী। এ বিষয়ে প্রতিযোগীদের প্রতিযোগিতা করা উচিত।",
+      "translation_en": "The seal thereof will be Musk: And for this let those aspire, who have aspirations:"
+    },
+    {
+      "id": 27,
+      "text": "وَمِزَاجُهُۥ مِن تَسْنِيمٍ",
+      "transliteration": "ওয়া মিঝা-জুহূমিন তাছনীম।",
+      "translation_bn": "তার মিশ্রণ হবে তসনীমের পানি।",
+      "translation_en": "With it will be (given) a mixture of Tasnim:"
+    },
+    {
+      "id": 28,
+      "text": "عَيْنًا يَشْرَبُ بِهَا ٱلْمُقَرَّبُونَ",
+      "transliteration": "‘আইনাইঁ ইয়াশরাবুবিহাল মুকাররাবূন।",
+      "translation_bn": "এটা একটা ঝরণা, যার পানি পান করবে নৈকট্যশীলগণ।",
+      "translation_en": "A spring, from (the waters) whereof drink those Nearest to Allah."
+    },
+    {
+      "id": 29,
+      "text": "إِنَّ ٱلَّذِينَ أَجْرَمُوا۟ كَانُوا۟ مِنَ ٱلَّذِينَ ءَامَنُوا۟ يَضْحَكُونَ",
+      "transliteration": "ইন্নাল্লাযীনা আজরামূকা-নূমিনাল্লাযীনা আ-মানূইয়াদহাকূন।",
+      "translation_bn": "যারা অপরাধী, তারা বিশ্বাসীদেরকে উপহাস করত।",
+      "translation_en": "Those in sin used to laugh at those who believed,"
+    },
+    {
+      "id": 30,
+      "text": "وَإِذَا مَرُّوا۟ بِهِمْ يَتَغَامَزُونَ",
+      "transliteration": "ওয়া ইযা-মাররূ বিহিম ইতাগা-মাঝূন।",
+      "translation_bn": "এবং তারা যখন তাদের কাছ দিয়ে গমন করত তখন পরস্পরে চোখ টিপে ইশারা করত।",
+      "translation_en": "And whenever they passed by them, used to wink at each other (in mockery);"
+    },
+    {
+      "id": 31,
+      "text": "وَإِذَا ٱنقَلَبُوٓا۟ إِلَىٰٓ أَهْلِهِمُ ٱنقَلَبُوا۟ فَكِهِينَ",
+      "transliteration": "ওয়া ইযানকালাবূ-ইলাআহলিহিমুনকালাবূফাকিহীন।",
+      "translation_bn": "তারা যখন তাদের পরিবার-পরিজনের কাছে ফিরত, তখনও হাসাহাসি করে ফিরত।",
+      "translation_en": "And when they returned to their own people, they would return jesting;"
+    },
+    {
+      "id": 32,
+      "text": "وَإِذَا رَأَوْهُمْ قَالُوٓا۟ إِنَّ هَٰٓؤُلَآءِ لَضَآلُّونَ",
+      "transliteration": "ওয়া ইযা-রাআওহুম কা-লূইন্না হাউলাই লাদাললূন।",
+      "translation_bn": "আর যখন তারা বিশ্বাসীদেরকে দেখত, তখন বলত, নিশ্চয় এরা বিভ্রান্ত।",
+      "translation_en": "And whenever they saw them, they would say, \"Behold! These are the people truly astray!\""
+    },
+    {
+      "id": 33,
+      "text": "وَمَآ أُرْسِلُوا۟ عَلَيْهِمْ حَٰفِظِينَ",
+      "transliteration": "ওয়ামাউরছিলূ‘আলাইহিম হা-ফিজীন।",
+      "translation_bn": "অথচ তারা বিশ্বাসীদের তত্ত্বাবধায়করূপে প্রেরিত হয়নি।",
+      "translation_en": "But they had not been sent as keepers over them!"
+    },
+    {
+      "id": 34,
+      "text": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+      "transliteration": "ফালইয়াওমাল্লাযীনা আ-মানূমিনাল কুফফা-রি ইয়াদহাকূন।",
+      "translation_bn": "আজ যারা বিশ্বাসী, তারা কাফেরদেরকে উপহাস করছে।",
+      "translation_en": "But on this Day the Believers will laugh at the Unbelievers:"
+    },
+    {
+      "id": 35,
+      "text": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+      "transliteration": "‘আলাল আরাইকি ইয়ানজু রূন।",
+      "translation_bn": "সিংহাসনে বসে, তাদেরকে অবলোকন করছে,",
+      "translation_en": "On Thrones (of Dignity) they will command (a sight) (of all things)."
+    },
+    {
+      "id": 36,
+      "text": "هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ",
+      "transliteration": "হাল ছুওব্বিাল কুফফা-রু মা-কা-নূইয়াফ‘আলূন।",
+      "translation_bn": "কাফেররা যা করত, তার প্রতিফল পেয়েছে তো?",
+      "translation_en": "Will not the Unbelievers have been paid back for what they did?"
+    }
+  ]
+}

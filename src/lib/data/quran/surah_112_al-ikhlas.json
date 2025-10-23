@@ -1,0 +1,38 @@
+{
+  "id": 112,
+  "name": "الإخلاص",
+  "transliteration": "Al-Ikhlas",
+  "translation": "The Purity",
+  "type": "Meccan",
+  "total_verses": 4,
+  "verses": [
+    {
+      "id": 1,
+      "text": "قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "transliteration": "কুল হুওয়াল্লা-হু আহাদ।",
+      "translation_bn": "বলুন, তিনি আল্লাহ, এক,",
+      "translation_en": "Say: He is Allah, the One and Only;"
+    },
+    {
+      "id": 2,
+      "text": "ٱللَّهُ ٱلصَّمَدُ",
+      "transliteration": "আল্লা-হুসসামাদ।",
+      "translation_bn": "আল্লাহ অমুখাপেক্ষী,",
+      "translation_en": "Allah, the Eternal, Absolute;"
+    },
+    {
+      "id": 3,
+      "text": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "transliteration": "লাম ইয়ালিদ ওয়ালাম ইঊলাদ।",
+      "translation_bn": "তিনি কাউকে জন্ম দেননি এবং কেউ তাকে জন্ম দেয়নি",
+      "translation_en": "He begetteth not, nor is He begotten;"
+    },
+    {
+      "id": 4,
+      "text": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "transliteration": "ওয়া লাম ইয়াকুল্লাহূকুফুওয়ান আহাদ।",
+      "translation_bn": "এবং তার সমতুল্য কেউ নেই।",
+      "translation_en": "And there is none like unto Him."
+    }
+  ]
+}
